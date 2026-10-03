@@ -1,0 +1,5038 @@
+{
+ "batch": "b1",
+ "scope": "Creation of Adam (4026 B.C.E.) through Jacob's return to Canaan (c. 1761 B.C.E.)",
+ "generated": "2026-10-03",
+ "sources_consulted": [
+  {
+   "docid": "1101990130",
+   "title_en": "Study Number 3—Measuring Events in the Stream of Time (si)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130"
+  },
+  {
+   "docid": "1200010959",
+   "title_en": "Chronology (Aid to Bible Understanding, 1971 — NOT Insight; superseded by it-1 1200000970, not cited)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200010959",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000018",
+   "title_en": "Abel (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000018",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000060",
+   "title_en": "Abraham (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000089",
+   "title_en": "Adam (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000089",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000367",
+   "title_en": "Ark (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000367",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000384",
+   "title_en": "Arpachshad (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000384",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000529",
+   "title_en": "Babel (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000529",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000857",
+   "title_en": "Cain (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000857",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000970",
+   "title_en": "Chronology (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001054",
+   "title_en": "Covenant (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001249",
+   "title_en": "Eber (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001249",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001371",
+   "title_en": "Enoch (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001371",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001372",
+   "title_en": "Enosh (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001372",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001417",
+   "title_en": "Esau (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001417",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001450",
+   "title_en": "Eve (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001450",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001536",
+   "title_en": "Flood (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001536",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001811",
+   "title_en": "Hagar (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001811",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001832",
+   "title_en": "Ham (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001832",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001872",
+   "title_en": "Haran (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001872",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002203",
+   "title_en": "Isaac (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002215",
+   "title_en": "Ishmael (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002215",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002279",
+   "title_en": "Jacob (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002279",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002323",
+   "title_en": "Japheth (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002323",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002329",
+   "title_en": "Jared (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002329",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002475",
+   "title_en": "Job (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002475",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002476",
+   "title_en": "Job, Book of (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002476",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002515",
+   "title_en": "Joseph (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002515",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002588",
+   "title_en": "Kenan (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002588",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002655",
+   "title_en": "Laban (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002655",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002673",
+   "title_en": "Lamech (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002673",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002702",
+   "title_en": "Leah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002702",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002775",
+   "title_en": "Lot (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002775",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002839",
+   "title_en": "Mahalalel (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002839",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002970",
+   "title_en": "Melchizedek (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002970",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003022",
+   "title_en": "Methuselah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003022",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003170",
+   "title_en": "Nahor (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003170",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003259",
+   "title_en": "Nimrod (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003259",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003266",
+   "title_en": "Noah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003421",
+   "title_en": "Peleg (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003421",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003621",
+   "title_en": "Rachel (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003621",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003658",
+   "title_en": "Rebekah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003658",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003712",
+   "title_en": "Reu (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003712",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003837",
+   "title_en": "Sarah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003837",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003909",
+   "title_en": "Serug (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003909",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003911",
+   "title_en": "Seth (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003911",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003988",
+   "title_en": "Shelah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003988",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003997",
+   "title_en": "Shem (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003997",
+   "url_ta": null
+  },
+  {
+   "docid": "1200004176",
+   "title_en": "Sodom (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004176",
+   "url_ta": null
+  },
+  {
+   "docid": "1200004368",
+   "title_en": "Terah (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004368",
+   "url_ta": null
+  },
+  {
+   "docid": "1200004518",
+   "title_en": "Ur (Insight on the Scriptures)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004518",
+   "url_ta": null
+  }
+ ],
+ "events": [
+  {
+   "id": "b1-0001",
+   "slug": "adam-created",
+   "date": {
+    "display_en": "4026 B.C.E.",
+    "display_ta": "பொ.ச.மு. 4026",
+    "year": 4026,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": "autumn",
+    "precision": "exact",
+    "sort_key": -4025.25
+   },
+   "title_en": "Creation of Adam",
+   "title_ta": "ஆதாம் படைக்கப்பட்டது",
+   "description_en": "Jehovah forms the first man, Adam, from the dust of the ground. Counting back 1,656 years from the Flood gives 4026 B.C.E., perhaps in the autumn, when the year began on the most ancient calendars.",
+   "description_ta": "1,656 ஆண்டுகளை முந்தின தேதியாகிய பொ.ச.மு. 2370 உடன் கூட்டினால், ஆதாம் படைக்கப்பட்ட ஆண்டாகிய பொ.ச.மு. 4026-க்கு வருகிறோம். பூர்வ காலண்டர்களில் பெரும்பான்மையானவை இலையுதிர் காலத்தில் தொடங்கினதால், ஆதாம் இலையுதிர் காலத்தில் படைக்கப்பட்டிருக்கலாம்.",
+   "category": "bible.creation",
+   "event_kind": "creation",
+   "tags": [
+    "creation",
+    "anchor-date",
+    "1656-years"
+   ],
+   "people": [
+    "Adam"
+   ],
+   "places": [
+    "Eden"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 2:7",
+     "ref_ta": "ஆதி. 2:7",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 2,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "4026 B.C.E. Adam’s creation Gen. 2:7"
+    },
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": 12,
+     "quote_en": "Adding 1,656 years to our previous date of 2370 B.C.E., we arrive at 4026 B.C.E. for the creation of Adam, perhaps in the fall"
+    },
+    {
+     "docid": "1200000089",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Adam",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000089",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000089&wtlocale=E",
+     "par": null,
+     "quote_en": "(Ge 2:7; 1Co 15:45, 47) That was in the year 4026 B.C.E."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "From the creation of Adam | 4026 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0002",
+   "slug": "edenic-covenant-first-prophecy",
+   "date": {
+    "display_en": "a. 4026 B.C.E.",
+    "display_ta": "பொ.ச.மு. 4026-க்கு பி.",
+    "year": 4026,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "sort_key": -4025.24
+   },
+   "title_en": "Edenic covenant made; first prophecy",
+   "title_ta": "ஏதேனிய உடன்படிக்கை செய்யப்பட்டது, முதல் தீர்க்கதரிசனம்",
+   "description_en": "After the rebellion in Eden, Jehovah states his purpose at Genesis 3:15, foretelling enmity between the serpent and the woman and between their seeds. This is the Bible's first prophecy.",
+   "description_ta": null,
+   "category": "bible.covenant",
+   "event_kind": "covenant",
+   "tags": [
+    "Genesis 3:15",
+    "seed",
+    "covenant"
+   ],
+   "people": [
+    "Adam",
+    "Eve"
+   ],
+   "places": [
+    "Eden"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 3:15",
+     "ref_ta": "ஆதி. 3:15",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 3,
+     "verses": "15"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "a. 4026 B.C.E. Edenic covenant made, first prophecy Gen. 3:15"
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "Jehovah God, at Genesis 3:15, stated his purpose prophetically in the garden of Eden in the presence of Adam, Eve, and the “serpent.”"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0003",
+   "slug": "cain-slays-abel",
+   "date": {
+    "display_en": "b. 3896 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3896 மு.",
+    "year": 3896,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "sort_key": -3896.01
+   },
+   "title_en": "Cain slays Abel",
+   "title_ta": "காயீன் ஆபேலைக் கொல்கிறான்",
+   "description_en": "Cain, the firstborn son of Adam and Eve, kills his brother Abel. This took place before the birth of Seth in 3896 B.C.E.",
+   "description_ta": null,
+   "category": "bible.judgment",
+   "event_kind": "murder",
+   "tags": [
+    "first murder"
+   ],
+   "people": [
+    "Cain",
+    "Abel"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 4:8",
+     "ref_ta": "ஆதி. 4:8",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 4,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "b. 3896 B.C.E. Cain slays Abel Gen. 4:8"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0004",
+   "slug": "seth-born",
+   "date": {
+    "display_en": "3896 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3896",
+    "year": 3896,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3896
+   },
+   "title_en": "Birth of Seth",
+   "title_ta": "சேத்தின் பிறப்பு",
+   "description_en": "Seth is born to Adam and Eve when Adam is 130 years old; Eve names him as a replacement for Abel.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "pre-Flood"
+   ],
+   "people": [
+    "Seth",
+    "Adam",
+    "Eve"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:3",
+     "ref_ta": "ஆதி. 5:3",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "3"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3896 B.C.E. Birth of Seth Gen. 5:3"
+    },
+    {
+     "docid": "1200003911",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Seth",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003911",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003911&wtlocale=E",
+     "par": null,
+     "quote_en": "Seth died at the age of 912 years (3896-2984 B.C.E.)."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0005",
+   "slug": "jared-born",
+   "date": {
+    "display_en": "3566 B.C.E.",
+    "display_ta": null,
+    "year": 3566,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3566
+   },
+   "title_en": "Birth of Jared",
+   "title_ta": null,
+   "description_en": "Jared, son of Mahalalel and father of Enoch, is born. His life span of 962 years is second only to his grandson Methuselah's.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "pre-Flood"
+   ],
+   "people": [
+    "Jared",
+    "Mahalalel"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:15-20",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "15-20"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200002329",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Jared",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002329",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002329&wtlocale=E",
+     "par": null,
+     "quote_en": "Jared, the son of Mahalalel, lived 962 years (3566-2604 B.C.E.), second only to his grandson Methuselah in longevity."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0006",
+   "slug": "enoch-born",
+   "date": {
+    "display_en": "3404 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3404",
+    "year": 3404,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3404
+   },
+   "title_en": "Birth of righteous Enoch",
+   "title_ta": "நீதிமான் ஏனோக்கின் பிறப்பு",
+   "description_en": "Enoch is born to Jared when Jared is 162 years old. Enoch became known for walking with the true God.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "pre-Flood"
+   ],
+   "people": [
+    "Enoch",
+    "Jared"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:18",
+     "ref_ta": "ஆதி. 5:18",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "18"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3404 B.C.E. Birth of righteous Enoch Gen. 5:18"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0007",
+   "slug": "methuselah-born",
+   "date": {
+    "display_en": "3339 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3339",
+    "year": 3339,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3339
+   },
+   "title_en": "Birth of Methuselah",
+   "title_ta": "மெத்தூசலாவின் பிறப்பு",
+   "description_en": "Methuselah is born to Enoch when Enoch is 65 years old.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "pre-Flood"
+   ],
+   "people": [
+    "Methuselah",
+    "Enoch"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:21",
+     "ref_ta": "ஆதி. 5:21",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "21"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3339 B.C.E. Birth of Methuselah Gen. 5:21"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0008",
+   "slug": "lamech-born",
+   "date": {
+    "display_en": "3152 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3152",
+    "year": 3152,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3152
+   },
+   "title_en": "Birth of Lamech",
+   "title_ta": "லாமேக்கின் பிறப்பு",
+   "description_en": "Lamech, the father of Noah, is born to Methuselah.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "pre-Flood"
+   ],
+   "people": [
+    "Lamech",
+    "Methuselah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:25",
+     "ref_ta": "ஆதி. 5:25",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "25"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3152 B.C.E. Birth of Lamech Gen. 5:25"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0009",
+   "slug": "adam-dies",
+   "date": {
+    "display_en": "3096 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3096",
+    "year": 3096,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3096
+   },
+   "title_en": "Death of Adam",
+   "title_ta": "ஆதாமின் மரணம்",
+   "description_en": "After living 930 years, Adam dies and returns to the ground, as Jehovah had said would happen because of his sin.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "pre-Flood"
+   ],
+   "people": [
+    "Adam"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:5",
+     "ref_ta": "ஆதி. 5:5",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "5"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3096 B.C.E. Death of Adam Gen. 5:5"
+    },
+    {
+     "docid": "1200000089",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Adam",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000089",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000089&wtlocale=E",
+     "par": null,
+     "quote_en": "Finally, after 930 years ... Adam returned to the ground from which he was taken, in the year 3096 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0010",
+   "slug": "enoch-transferred",
+   "date": {
+    "display_en": "3039 B.C.E.",
+    "display_ta": "பொ.ச.மு. 3039",
+    "year": 3039,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -3039
+   },
+   "title_en": "Transference of Enoch; end of his prophesying",
+   "title_ta": "ஏனோக்கு எடுத்துக்கொள்ளப்படுகிறார்; அவர் தீர்க்கதரிசனம் உரைத்த காலம் முடிகிறது",
+   "description_en": "God takes Enoch, ending his period of prophesying against the ungodly. Enoch had walked with the true God.",
+   "description_ta": null,
+   "category": "bible.prophet",
+   "event_kind": "death",
+   "tags": [
+    "pre-Flood",
+    "prophet"
+   ],
+   "people": [
+    "Enoch"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:23, 24",
+     "ref_ta": "ஆதி. 5:23, 24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "23, 24"
+    },
+    {
+     "ref_en": "Jude 14",
+     "ref_ta": "யூ. 14",
+     "book": "Jude",
+     "book_num": 65,
+     "chapter": 1,
+     "verses": "14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "3039 B.C.E. Transference of Enoch; ends his period of prophesying Gen. 5:23, 24; Jude 14"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0011",
+   "slug": "seth-dies",
+   "date": {
+    "display_en": "2984 B.C.E.",
+    "display_ta": null,
+    "year": 2984,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2984
+   },
+   "title_en": "Death of Seth",
+   "title_ta": null,
+   "description_en": "Seth dies at the age of 912.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "pre-Flood"
+   ],
+   "people": [
+    "Seth"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:8",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003911",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Seth",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003911",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003911&wtlocale=E",
+     "par": null,
+     "quote_en": "Seth died at the age of 912 years (3896-2984 B.C.E.)."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0012",
+   "slug": "noah-born",
+   "date": {
+    "display_en": "2970 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2970",
+    "year": 2970,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2970
+   },
+   "title_en": "Birth of Noah",
+   "title_ta": "நோவாவின் பிறப்பு",
+   "description_en": "Noah is born to Lamech, the tenth in line from Adam through Seth, 126 years after Adam's death. Lamech names him in hope of comfort from the cursed ground.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "pre-Flood"
+   ],
+   "people": [
+    "Noah",
+    "Lamech"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:28, 29",
+     "ref_ta": "ஆதி. 5:28, 29",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "28, 29"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2970 B.C.E. Birth of Noah Gen. 5:28, 29"
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "Son of Lamech and tenth in line from Adam through Seth; born in 2970 B.C.E., 126 years after Adam’s death."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0013",
+   "slug": "jared-dies",
+   "date": {
+    "display_en": "2604 B.C.E.",
+    "display_ta": null,
+    "year": 2604,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2604
+   },
+   "title_en": "Death of Jared",
+   "title_ta": null,
+   "description_en": "Jared dies after living 962 years.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "pre-Flood"
+   ],
+   "people": [
+    "Jared"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:20",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "20"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200002329",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Jared",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002329",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002329&wtlocale=E",
+     "par": null,
+     "quote_en": "Jared, the son of Mahalalel, lived 962 years (3566-2604 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0014",
+   "slug": "gods-120-year-decree",
+   "date": {
+    "display_en": "2490 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2490",
+    "year": 2490,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2490
+   },
+   "title_en": "God's pronouncement about mankind (120 years)",
+   "title_ta": "மனிதகுலத்தைக் குறித்து கடவுளுடைய அறிவிப்பு",
+   "description_en": "Jehovah declares that his spirit will not act toward man indefinitely and that man's days will amount to 120 years, setting a time limit for that ungodly world.",
+   "description_ta": null,
+   "category": "bible.judgment",
+   "event_kind": "decree",
+   "tags": [
+    "120 years",
+    "pre-Flood"
+   ],
+   "people": [
+    "Noah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 6:3",
+     "ref_ta": "ஆதி. 6:3",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 6,
+     "verses": "3"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2490 B.C.E. God’s pronouncement as to mankind Gen. 6:3"
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "This was a divine judicial decree. About 20 years after that, Noah’s first son (probably Japheth) was born (2470 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0015",
+   "slug": "japheth-born",
+   "date": {
+    "display_en": "2470 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2470",
+    "year": 2470,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2470
+   },
+   "title_en": "Birth of Japheth",
+   "title_ta": "யாப்பேத்தின் பிறப்பு",
+   "description_en": "Noah's first son, probably Japheth, is born when Noah is 500 years old.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "sons of Noah"
+   ],
+   "people": [
+    "Japheth",
+    "Noah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:32",
+     "ref_ta": "ஆதி. 5:32",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "32"
+    },
+    {
+     "ref_en": "Gen. 9:24",
+     "ref_ta": "ஆதி 9:24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 9,
+     "verses": "24"
+    },
+    {
+     "ref_en": "Gen. 10:21",
+     "ref_ta": "ஆதி. 10:21",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 10,
+     "verses": "21"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2470 B.C.E. Birth of Japheth Gen. 5:32; 9:24; 10:21"
+    },
+    {
+     "docid": "1200002323",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Japheth",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002323",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002323&wtlocale=E",
+     "par": null,
+     "quote_en": "Considering Japheth to be Noah’s eldest son would place the time of his birth at 2470 B.C.E."
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "Noah’s first son (probably Japheth) was born (2470 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1200002323",
+     "value": "2470 B.C.E. (conditional)",
+     "note": "Insight 'Japheth' and 'Noah' present 2470 B.C.E. as depending on Japheth being the eldest son ('probably Japheth'); the si chart states it without qualification."
+    }
+   ],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0016",
+   "slug": "ham-born",
+   "date": {
+    "display_en": "after 2470 B.C.E.",
+    "display_ta": null,
+    "year": 2470,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "sort_key": -2469.99
+   },
+   "title_en": "Birth of Ham",
+   "title_ta": null,
+   "description_en": "Ham, one of Noah's three sons, is born sometime after 2470 B.C.E. The Bible does not state the year, and he appears to be the youngest son.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "sons of Noah"
+   ],
+   "people": [
+    "Ham",
+    "Noah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:32",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "32"
+    },
+    {
+     "ref_en": "Gen. 9:24",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 9,
+     "verses": "24"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001832",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001832",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001832&wtlocale=E",
+     "par": null,
+     "quote_en": "One of Noah’s three sons, born after 2470 B.C.E."
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "The time of Ham’s birth is not stated"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "Insight 'Shem' says Ham appears to be the 'youngest son', so his birth likely followed Shem's (2468); sort_key only reflects 'after 2470'."
+  },
+  {
+   "id": "b1-0017",
+   "slug": "shem-born",
+   "date": {
+    "display_en": "2468 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2468",
+    "year": 2468,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2468
+   },
+   "title_en": "Birth of Shem",
+   "title_ta": "சேமின் பிறப்பு",
+   "description_en": "Shem is born when Noah is 502 years old, two years after Noah's first son.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "sons of Noah"
+   ],
+   "people": [
+    "Shem",
+    "Noah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 7:11",
+     "ref_ta": "ஆதி. 7:11",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 7,
+     "verses": "11"
+    },
+    {
+     "ref_en": "Gen. 11:10",
+     "ref_ta": "ஆதி. 11:10",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "10"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2468 B.C.E. Birth of Shem Gen. 7:11; 11:10"
+    },
+    {
+     "docid": "1200003997",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Shem",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003997",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003997&wtlocale=E",
+     "par": null,
+     "quote_en": "This would mean that Shem was born when Noah was 502 years of age (2468 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0018",
+   "slug": "methuselah-dies",
+   "date": {
+    "display_en": "2370 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2370",
+    "year": 2370,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2369.3
+   },
+   "title_en": "Death of Methuselah",
+   "title_ta": "மெத்தூசலாவின் மரணம்",
+   "description_en": "Methuselah, the longest-lived man in the Bible record, dies in the year the Flood began.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "pre-Flood"
+   ],
+   "people": [
+    "Methuselah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 5:27",
+     "ref_ta": "ஆதி. 5:27",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 5,
+     "verses": "27"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2370 B.C.E. Death of Methuselah Gen. 5:27"
+    },
+    {
+     "docid": "1200003022",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Methuselah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003022",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003022&wtlocale=E",
+     "par": null,
+     "quote_en": "He died in 2370 B.C.E., the year in which the Flood began."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0019"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0019",
+   "slug": "flood-begins",
+   "date": {
+    "display_en": "2370 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2370",
+    "year": 2370,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": "autumn",
+    "precision": "exact",
+    "sort_key": -2369.15
+   },
+   "title_en": "Floodwaters fall: the global Deluge begins",
+   "title_ta": "பிரளயம் ஏற்படுதல் (இலையுதிர்காலத்தில்)",
+   "description_en": "In Noah's 600th year the floodwaters begin to fall, destroying the ungodly world; Noah and his family are preserved in the ark. Counting from an autumn year start, the date corresponds roughly to early November.",
+   "description_ta": "427 ஆண்டுகளை பொ.ச.மு. 1943-உடன் கூட்டினால் பொ.ச.மு. 2370 வருகிறது. இவ்வாறு, நோவாவின் நாளின் ஜலப்பிரளயம் பொ.ச.மு. 2370-ல் தொடங்கினதென்று பைபிளின் கால அட்டவணை காட்டுகிறது.",
+   "category": "bible.judgment",
+   "event_kind": "judgment",
+   "tags": [
+    "Flood",
+    "Deluge",
+    "ark",
+    "anchor-date"
+   ],
+   "people": [
+    "Noah",
+    "Shem",
+    "Ham",
+    "Japheth"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 7:6, 11",
+     "ref_ta": "ஆதி. 7:6, 11",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 7,
+     "verses": "6, 11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2370 B.C.E. ... Floodwaters fall (in autumn) Gen. 7:6, 11"
+    },
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": 11,
+     "quote_en": "Thus the timetable of the Bible shows that the Deluge of Noah’s day began in 2370 B.C.E."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "the ‘second month and the seventeenth day of the month,’ on which the Flood began, would correspond more or less to the first part of November."
+    },
+    {
+     "docid": "1200000367",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ark",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000367",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000367&wtlocale=E",
+     "par": null,
+     "quote_en": "Noah’s ark was the provision by which forefathers of all mankind survived the global Deluge of 2370-2369 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0018",
+    "b1-0020"
+   ],
+   "notes": "Bible: 2nd month, 17th day of Noah's 600th year (Gen. 7:11)."
+  },
+  {
+   "id": "b1-0020",
+   "slug": "noah-leaves-ark",
+   "date": {
+    "display_en": "2369 B.C.E.",
+    "display_ta": null,
+    "year": 2369,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2368.15
+   },
+   "title_en": "Noah and family leave the ark; post-Flood era begins",
+   "title_ta": null,
+   "description_en": "After 1 year and 10 days, the floodwaters have dried up and Noah's family leaves the ark, which had come to rest in the mountains of Ararat. Noah offers sacrifices to Jehovah.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "deliverance",
+   "tags": [
+    "Flood",
+    "ark"
+   ],
+   "people": [
+    "Noah"
+   ],
+   "places": [
+    "Ararat"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 8:13, 14",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 8,
+     "verses": "13, 14"
+    },
+    {
+     "ref_en": "Gen. 8:18-22",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 8,
+     "verses": "18-22"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "The period of the post-Flood era begins with the year 2369 B.C.E."
+    },
+    {
+     "docid": "1200000367",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ark",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000367",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000367&wtlocale=E",
+     "par": null,
+     "quote_en": "the global Deluge of 2370-2369 B.C.E."
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "The covenant was completely fulfilled in 2369 B.C.E., after the Flood, when men and animals were again able to live on the ground"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0021",
+    "b1-0019"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0021",
+   "slug": "rainbow-covenant",
+   "date": {
+    "display_en": "2369 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2369",
+    "year": 2369,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2368.14
+   },
+   "title_en": "Covenant made after the Flood (rainbow covenant)",
+   "title_ta": "ஜலப்பிரளயத்துக்குப் பின் உடன்படிக்கை செய்தல்",
+   "description_en": "Jehovah makes a covenant with Noah and all flesh, promising never again to destroy all flesh by a flood, with the rainbow as its sign. He also gives decrees on eating meat, not eating blood, and capital punishment.",
+   "description_ta": null,
+   "category": "bible.covenant",
+   "event_kind": "covenant",
+   "tags": [
+    "rainbow",
+    "covenant",
+    "blood"
+   ],
+   "people": [
+    "Noah"
+   ],
+   "places": [
+    "Ararat"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 8:13",
+     "ref_ta": "ஆதி. 8:13",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 8,
+     "verses": "13"
+    },
+    {
+     "ref_en": "Gen. 9:16",
+     "ref_ta": "ஆதி. 9:16",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 9,
+     "verses": "16"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2369 B.C.E. Making of the covenant after the Flood Gen. 8:13; 9:16"
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "The rainbow covenant was made between Jehovah God and all flesh ... in 2369 B.C.E., in the mountains of Ararat."
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "Post-Flood Blessing and Rainbow Covenant."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0020"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0022",
+   "slug": "arpachshad-born",
+   "date": {
+    "display_en": "2368 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2368",
+    "year": 2368,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2368
+   },
+   "title_en": "Birth of Arpachshad",
+   "title_ta": "அர்பக்சாத்தின் பிறப்பு",
+   "description_en": "Shem, at 100 years of age, fathers Arpachshad two years after the Flood began.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Arpachshad",
+    "Shem"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:10",
+     "ref_ta": "ஆதி. 11:10",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "10"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2368 B.C.E. Birth of Arpachshad Gen. 11:10"
+    },
+    {
+     "docid": "1200000384",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Arpachshad",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000384",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000384&wtlocale=E",
+     "par": null,
+     "quote_en": "He was born two years after the Flood, that is, about 2368 B.C.E., and died 438 years later."
+    },
+    {
+     "docid": "1200003997",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Shem",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003997",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003997&wtlocale=E",
+     "par": null,
+     "quote_en": "fathered his first son, Arpachshad, two years after the Deluge (2368 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1200000384",
+     "value": "about 2368 B.C.E.",
+     "note": "Insight 'Arpachshad' says 'about 2368'; si chart and Insight 'Shem' give 2368 without qualifier."
+    }
+   ],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0023",
+   "slug": "shelah-born",
+   "date": {
+    "display_en": "2333 B.C.E.",
+    "display_ta": null,
+    "year": 2333,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2333
+   },
+   "title_en": "Birth of Shelah",
+   "title_ta": null,
+   "description_en": "Shelah, son of Arpachshad and grandson of Shem, is born.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Shelah",
+    "Arpachshad"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:12",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "12"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003988",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Shelah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003988",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003988&wtlocale=E",
+     "par": null,
+     "quote_en": "Son of Arpachshad and grandson of Shem, who was born in 2333 B.C.E. and died in 1900 B.C.E., at the age of 433."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0024",
+   "slug": "peleg-born",
+   "date": {
+    "display_en": "2269 B.C.E.",
+    "display_ta": null,
+    "year": 2269,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2269
+   },
+   "title_en": "Birth of Peleg",
+   "title_ta": null,
+   "description_en": "Peleg, whose name means 'Division', is born. In his days the earth's population was divided.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Peleg",
+    "Eber"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 10:25",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 10,
+     "verses": "25"
+    },
+    {
+     "ref_en": "Gen. 11:16-19",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "16-19"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003421",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Peleg",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003421",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003421&wtlocale=E",
+     "par": null,
+     "quote_en": "Peleg lived 239 years (2269-2030 B.C.E.) and founded one of the 70 post-Flood families."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "his life span, which extended from 2269 to 2030 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0025"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0025",
+   "slug": "tower-of-babel",
+   "date": {
+    "display_en": "a. 2269 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2269 பி.",
+    "year": 2269,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "sort_key": -2268.99
+   },
+   "title_en": "Building of the Tower of Babel; languages confused",
+   "title_ta": "பாபேல் கோபுரம் கட்டுதல்",
+   "description_en": "Under Nimrod's leadership, people attempt to build a city and a tower to avoid being scattered. Jehovah confuses their language and scatters them; this division occurred during the days of Peleg.",
+   "description_ta": null,
+   "category": "bible.judgment",
+   "event_kind": "judgment",
+   "tags": [
+    "Babel",
+    "languages",
+    "Nimrod"
+   ],
+   "people": [
+    "Nimrod",
+    "Peleg"
+   ],
+   "places": [
+    "Babel",
+    "Shinar"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:4",
+     "ref_ta": "ஆதி. 11:4",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "4"
+    },
+    {
+     "ref_en": "Gen. 10:25",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 10,
+     "verses": "25"
+    },
+    {
+     "ref_en": "Gen. 11:9",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "9"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "a. 2269 B.C.E. Building of the Tower of Babel Gen. 11:4"
+    },
+    {
+     "docid": "1200000529",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Babel",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000529",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000529&wtlocale=E",
+     "par": null,
+     "quote_en": "The approximate time of such building may be drawn from the following information: Peleg lived from 2269 to 2030 B.C.E."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "the division took place, not at or immediately subsequent to Peleg’s birth, but sometime during his life span"
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1200000970",
+     "value": "2269–2030 B.C.E. (during Peleg's life)",
+     "note": "Insight 'Chronology' says the date is not stated in the record and places the dispersion sometime during Peleg's life (2269-2030 B.C.E.); si chart gives 'a. 2269 B.C.E.'. Not a contradiction, but Insight is less specific."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b1-0024"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0026",
+   "slug": "reu-born",
+   "date": {
+    "display_en": "2239 B.C.E.",
+    "display_ta": null,
+    "year": 2239,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2239
+   },
+   "title_en": "Birth of Reu",
+   "title_ta": null,
+   "description_en": "Reu, son of Peleg and an ancestor of Jesus Christ, is born.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Reu",
+    "Peleg"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:18-21",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "18-21"
+    },
+    {
+     "ref_en": "Luke 3:35",
+     "ref_ta": null,
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 3,
+     "verses": "35"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003712",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Reu",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003712",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003712&wtlocale=E",
+     "par": null,
+     "quote_en": "Reu, who lived 239 years (2239-2000 B.C.E.), was also an ancestor of Jesus Christ."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0027",
+   "slug": "serug-born",
+   "date": {
+    "display_en": "2207 B.C.E.",
+    "display_ta": null,
+    "year": 2207,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2207
+   },
+   "title_en": "Birth of Serug",
+   "title_ta": null,
+   "description_en": "Serug, son of Reu, is born; he became father to Nahor at age 30.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Serug",
+    "Reu"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:20-23",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "20-23"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003909",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Serug",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003909",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003909&wtlocale=E",
+     "par": null,
+     "quote_en": "Serug lived 230 years (2207-1977 B.C.E.) and had a number of children, becoming father to Nahor at the age of 30."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0028",
+   "slug": "nahor-born",
+   "date": {
+    "display_en": "2177 B.C.E.",
+    "display_ta": null,
+    "year": 2177,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2177
+   },
+   "title_en": "Birth of Nahor (grandfather of Abraham)",
+   "title_ta": null,
+   "description_en": "Nahor, son of Serug and grandfather of Abraham, is born.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy",
+    "post-Flood"
+   ],
+   "people": [
+    "Nahor",
+    "Serug"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:22-26",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "22-26"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003170",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Nahor",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003170",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003170&wtlocale=E",
+     "par": null,
+     "quote_en": "He lived 148 years (2177 to 2029 B.C.E.)."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0029",
+   "slug": "peleg-dies",
+   "date": {
+    "display_en": "2030 B.C.E.",
+    "display_ta": null,
+    "year": 2030,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2030
+   },
+   "title_en": "Death of Peleg",
+   "title_ta": null,
+   "description_en": "Peleg dies at the age of 239.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Peleg"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:19",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "19"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003421",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Peleg",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003421",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003421&wtlocale=E",
+     "par": null,
+     "quote_en": "Peleg lived 239 years (2269-2030 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0030",
+   "slug": "nahor-dies",
+   "date": {
+    "display_en": "2029 B.C.E.",
+    "display_ta": null,
+    "year": 2029,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2029
+   },
+   "title_en": "Death of Nahor (grandfather of Abraham)",
+   "title_ta": null,
+   "description_en": "Nahor, son of Serug, dies at the age of 148.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Nahor"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:25",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "25"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003170",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Nahor",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003170",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003170&wtlocale=E",
+     "par": null,
+     "quote_en": "He lived 148 years (2177 to 2029 B.C.E.)."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0031",
+   "slug": "noah-dies",
+   "date": {
+    "display_en": "2020 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2020",
+    "year": 2020,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2020
+   },
+   "title_en": "Death of Noah",
+   "title_ta": "நோவாவின் மரணம்",
+   "description_en": "Noah dies at the age of 950, having lived 350 years after the Flood.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Noah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 9:28, 29",
+     "ref_ta": "ஆதி. 9:28, 29",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 9,
+     "verses": "28, 29"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2020 B.C.E. Death of Noah Gen. 9:28, 29"
+    },
+    {
+     "docid": "1200003266",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Noah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003266",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003266&wtlocale=E",
+     "par": null,
+     "quote_en": "Noah lived for 350 years after the Flood."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0032",
+   "slug": "abraham-born",
+   "date": {
+    "display_en": "2018 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2018",
+    "year": 2018,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2018
+   },
+   "title_en": "Birth of Abraham (Abram)",
+   "title_ta": "ஆபிரகாமின் பிறப்பு",
+   "description_en": "Abram, later named Abraham, is born to Terah 352 years after the Flood, the tenth generation from Noah through Shem.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "genealogy"
+   ],
+   "people": [
+    "Abraham",
+    "Terah"
+   ],
+   "places": [
+    "Ur"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:26, 32",
+     "ref_ta": "ஆதி. 11:26, 32",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "26, 32"
+    },
+    {
+     "ref_en": "Gen. 12:4",
+     "ref_ta": "ஆதி. 12:4",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 12,
+     "verses": "4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "2018 B.C.E. Birth of Abraham Gen. 11:26, 32; 12:4"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "Abraham was the tenth generation from Noah through Shem and was born 352 years after the Deluge, in 2018 B.C.E."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/it-1/2018/11",
+     "caption_en": "[Diagram on page 30] (Insight, “Abraham”)",
+     "caption_ta": null,
+     "source_docid": "1200000060",
+     "kind": "chart"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0033",
+   "slug": "reu-dies",
+   "date": {
+    "display_en": "2000 B.C.E.",
+    "display_ta": null,
+    "year": 2000,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -2000
+   },
+   "title_en": "Death of Reu",
+   "title_ta": null,
+   "description_en": "Reu dies at the age of 239.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Reu"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:21",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "21"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003712",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Reu",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003712",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003712&wtlocale=E",
+     "par": null,
+     "quote_en": "Reu, who lived 239 years (2239-2000 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0034",
+   "slug": "serug-dies",
+   "date": {
+    "display_en": "1977 B.C.E.",
+    "display_ta": null,
+    "year": 1977,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1977
+   },
+   "title_en": "Death of Serug",
+   "title_ta": null,
+   "description_en": "Serug dies at the age of 230.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Serug"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:23",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "23"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003909",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Serug",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003909",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003909&wtlocale=E",
+     "par": null,
+     "quote_en": "Serug lived 230 years (2207-1977 B.C.E.)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0035",
+   "slug": "terah-dies",
+   "date": {
+    "display_en": "c. 1943 B.C.E.",
+    "display_ta": null,
+    "year": 1943,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "sort_key": -1942.85
+   },
+   "title_en": "Death of Terah at Haran",
+   "title_ta": null,
+   "description_en": "Terah, Abraham's father, who had accompanied the family from Ur, dies in Haran. Abraham then leaves Haran for Canaan.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "427 years"
+   ],
+   "people": [
+    "Terah",
+    "Abraham"
+   ],
+   "places": [
+    "Haran",
+    "Ur"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:31, 32",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "31, 32"
+    },
+    {
+     "ref_en": "Acts 7:2-4",
+     "ref_ta": null,
+     "book": "Acts",
+     "book_num": 44,
+     "chapter": 7,
+     "verses": "2-4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200004368",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Terah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004368",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200004368&wtlocale=E",
+     "par": null,
+     "quote_en": "Terah as family head went along to Haran where they all lived until after his death about 1943 B.C.E."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "As Abraham’s departure from Haran and his entry into Canaan followed the death of his father Terah"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0036"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0036",
+   "slug": "abraham-crosses-euphrates",
+   "date": {
+    "display_en": "1943 B.C.E., Nisan 14",
+    "display_ta": "பொ.ச.மு. 1943",
+    "year": 1943,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": "Nisan",
+    "hebrew_day": 14,
+    "season": "spring",
+    "precision": "exact",
+    "sort_key": -1942.75
+   },
+   "title_en": "Abraham crosses the Euphrates on his way to Canaan",
+   "title_ta": "ஆபிரகாம் கானானுக்குச் செல்லும் வழியில் ஐப்பிராத்தைக் கடக்கிறார்",
+   "description_en": "At 75 years of age, following Terah's death, Abraham leaves Haran and crosses the Euphrates on his way to Canaan, evidently on the day later known as Nisan 14.",
+   "description_ta": "ஆகவே இந்தக் காலப்பகுதி, ஆபிரகாம் கானானுக்குச் செல்லும் வழியில் ஐப்பிராத்தைக் கடந்த சமயத்தில் ஆபிரகாமிய உடன்படிக்கை செல்லுபடியானதோடு தொடங்கிற்றென்று உறுதியாகிறது. இது பொ.ச.மு. 1943-ல் நிகழ்ந்தது; அப்போது ஆபிரகாமுக்கு 75 வயது.",
+   "category": "bible.patriarch",
+   "event_kind": "journey",
+   "tags": [
+    "anchor-date",
+    "430 years"
+   ],
+   "people": [
+    "Abraham",
+    "Sarah",
+    "Lot"
+   ],
+   "places": [
+    "Haran",
+    "Euphrates River",
+    "Canaan"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 12:4, 7",
+     "ref_ta": "ஆதி. 12:4, 7",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 12,
+     "verses": "4, 7"
+    },
+    {
+     "ref_en": "Ex. 12:40",
+     "ref_ta": "யாத். 12:40",
+     "book": "Exodus",
+     "book_num": 2,
+     "chapter": 12,
+     "verses": "40"
+    },
+    {
+     "ref_en": "Gal. 3:17",
+     "ref_ta": "கலா. 3:17",
+     "book": "Galatians",
+     "book_num": 48,
+     "chapter": 3,
+     "verses": "17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1943 B.C.E. Abraham crosses Euphrates on his way to Canaan"
+    },
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": 9,
+     "quote_en": "This was therefore in 1943 B.C.E., when Abraham was 75 years old."
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "Abraham went out from Haran in 1943 B.C.E. and crossed the Euphrates River, evidently on the 14th day of the month that later became known as Nisan."
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "Abraham crossed the Euphrates River on his way to Canaan on Nisan 14, 1943 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1200000060",
+     "value": "Nisan 14 (evidently)",
+     "note": "si chart gives only the year 1943; Insight adds that the crossing was evidently on Nisan 14."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b1-0037",
+    "b1-0035"
+   ],
+   "notes": "si chart gives the year only; the Nisan 14 day comes from Insight 'Abraham' and 'Covenant' ('evidently')."
+  },
+  {
+   "id": "b1-0037",
+   "slug": "abrahamic-covenant-validated",
+   "date": {
+    "display_en": "1943 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1943",
+    "year": 1943,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": "Nisan",
+    "hebrew_day": 14,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1942.74
+   },
+   "title_en": "Abrahamic covenant validated; 430-year period to the Law covenant begins",
+   "title_ta": "ஆபிரகாமிய உடன்படிக்கை செல்லுபடியாக்கப்பட்டது; நியாயப்பிரமாண உடன்படிக்கை வரையான 430 ஆண்டு காலப்பகுதியின் தொடக்கம்",
+   "description_en": "When Abraham crosses the Euphrates and moves into the land God showed him, the Abrahamic covenant takes effect. This starts the 430 years that end with the Exodus and the Law covenant in 1513 B.C.E.",
+   "description_ta": null,
+   "category": "bible.covenant",
+   "event_kind": "covenant",
+   "tags": [
+    "430 years",
+    "Abrahamic covenant",
+    "anchor-date"
+   ],
+   "people": [
+    "Abraham"
+   ],
+   "places": [
+    "Canaan"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 12:1-7",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 12,
+     "verses": "1-7"
+    },
+    {
+     "ref_en": "Ex. 12:40",
+     "ref_ta": "யாத். 12:40",
+     "book": "Exodus",
+     "book_num": 2,
+     "chapter": 12,
+     "verses": "40"
+    },
+    {
+     "ref_en": "Gal. 3:17",
+     "ref_ta": "கலா. 3:17",
+     "book": "Galatians",
+     "book_num": 48,
+     "chapter": 3,
+     "verses": "17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "Abrahamic covenant validated; beginning of the 430-year period to Law covenant"
+    },
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": 9,
+     "quote_en": "Galatians 3:17 ... confirms that this period started with the validating of the Abrahamic covenant"
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "The covenant with Abraham apparently went into effect when Abram (Abraham) crossed the Euphrates on his way to Canaan."
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "the date of the validating of this covenant is set at 1943 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0036"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0038",
+   "slug": "lot-rescued",
+   "date": {
+    "display_en": "b. 1933 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1933 மு.",
+    "year": 1933,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "sort_key": -1933.01
+   },
+   "title_en": "Abraham rescues Lot",
+   "title_ta": "லோத்து மீட்கப்படுகிறார்",
+   "description_en": "After four allied kings led by Chedorlaomer sack Sodom and Gomorrah and take Lot captive, Abraham pursues them with 318 trained servants, defeats them, and rescues Lot.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "battle",
+   "tags": [
+    "war of the kings"
+   ],
+   "people": [
+    "Abraham",
+    "Lot",
+    "Chedorlaomer"
+   ],
+   "places": [
+    "Sodom",
+    "Damascus"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 14:16",
+     "ref_ta": "ஆதி. 14:16",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 14,
+     "verses": "16"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "b. 1933 B.C.E. Lot rescued; Abraham visits Melchizedek Gen. 14:16, 18; 16:3"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "Lot was thus rescued, and the stolen property was recovered."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0039"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0039",
+   "slug": "abraham-meets-melchizedek",
+   "date": {
+    "display_en": "b. 1933 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1933 மு.",
+    "year": 1933,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "sort_key": -1933.01
+   },
+   "title_en": "Abraham visits Melchizedek",
+   "title_ta": "ஆபிரகாம் மெல்கிசேதேக்கை சந்திக்கிறார்",
+   "description_en": "Returning from his victory, Abraham is blessed by Melchizedek, king of Salem and priest of the Most High God, and gives him a tenth of everything. Melchizedek is the first priest mentioned in the Scriptures.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "meeting",
+   "tags": [
+    "priesthood",
+    "tithe"
+   ],
+   "people": [
+    "Abraham",
+    "Melchizedek"
+   ],
+   "places": [
+    "Salem"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 14:18",
+     "ref_ta": "ஆதி. 14:18",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 14,
+     "verses": "18"
+    },
+    {
+     "ref_en": "Gen. 16:3",
+     "ref_ta": "ஆதி. 16:3",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 16,
+     "verses": "3"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "b. 1933 B.C.E. Lot rescued; Abraham visits Melchizedek Gen. 14:16, 18; 16:3"
+    },
+    {
+     "docid": "1200002970",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Melchizedek",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002970&wtlocale=E",
+     "par": null,
+     "quote_en": "He is the first priest mentioned in the Scriptures; he occupied that position sometime prior to 1933 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0038"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0040",
+   "slug": "ishmael-born",
+   "date": {
+    "display_en": "1932 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1932",
+    "year": 1932,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1932
+   },
+   "title_en": "Birth of Ishmael",
+   "title_ta": "இஸ்மவேல் பிறக்கிறார்",
+   "description_en": "Sarah's Egyptian maidservant Hagar bears Ishmael to Abraham, who is 86 years old.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [],
+   "people": [
+    "Ishmael",
+    "Abraham",
+    "Hagar",
+    "Sarah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 16:15, 16",
+     "ref_ta": "ஆதி. 16:15, 16",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 16,
+     "verses": "15, 16"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1932 B.C.E. Ishmael born Gen. 16:15, 16"
+    },
+    {
+     "docid": "1200002215",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ishmael",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002215",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002215&wtlocale=E",
+     "par": null,
+     "quote_en": "Son of Abraham by Sarah’s Egyptian slave girl Hagar; born in 1932 B.C.E., his father being 86 years old at the time."
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "And so in 1932 B.C.E., when Abraham was 86 years old, Ishmael was born."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0041",
+   "slug": "covenant-of-circumcision",
+   "date": {
+    "display_en": "1919 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1919",
+    "year": 1919,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1919
+   },
+   "title_en": "Covenant of circumcision made",
+   "title_ta": "விருத்தசேதன உடன்படிக்கை செய்யப்பட்டது",
+   "description_en": "When Abraham is 99, Jehovah makes the covenant of circumcision with him and his natural seed and changes his name from Abram to Abraham.",
+   "description_ta": null,
+   "category": "bible.covenant",
+   "event_kind": "covenant",
+   "tags": [
+    "circumcision",
+    "name change"
+   ],
+   "people": [
+    "Abraham"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 17:1, 10, 24",
+     "ref_ta": "ஆதி. 17:1, 10, 24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 17,
+     "verses": "1, 10, 24"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1919 B.C.E. Covenant of circumcision made Gen. 17:1, 10, 24"
+    },
+    {
+     "docid": "1200001054",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Covenant",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001054",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001054&wtlocale=E",
+     "par": null,
+     "quote_en": "The covenant of circumcision was made in 1919 B.C.E., when Abraham was 99 years old."
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1919 B.C.E., when Abraham was 99 years old ... Jehovah commanded that all the males of Abraham’s household be circumcised."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0042"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0042",
+   "slug": "sodom-gomorrah-destroyed",
+   "date": {
+    "display_en": "1919 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1919",
+    "year": 1919,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1918.99
+   },
+   "title_en": "Judgment of Sodom and Gomorrah",
+   "title_ta": "சோதோம் கொமோராவின் ஆக்கினைத்தீர்ப்பு",
+   "description_en": "Jehovah destroys Sodom and Gomorrah with fire and sulfur; Lot and his two daughters barely escape.",
+   "description_ta": null,
+   "category": "bible.judgment",
+   "event_kind": "judgment",
+   "tags": [
+    "judgment"
+   ],
+   "people": [
+    "Lot",
+    "Abraham"
+   ],
+   "places": [
+    "Sodom",
+    "Gomorrah"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 19:24",
+     "ref_ta": "ஆதி. 19:24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 19,
+     "verses": "24"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1919 B.C.E. ... Judgment of Sodom and Gomorrah Gen. 19:24"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "And what an eventful year it proved to be! Sodom and Gomorrah were destroyed."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0041"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0043",
+   "slug": "isaac-born",
+   "date": {
+    "display_en": "1918 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1918",
+    "year": 1918,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1918
+   },
+   "title_en": "Birth of Isaac, the true heir",
+   "title_ta": "மெய்யான சுதந்தரவாளியாகிய ஈசாக்கின் பிறப்பு",
+   "description_en": "Isaac, the long-promised heir, is born to Abraham, aged 100, and Sarah, aged 90.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "promised seed"
+   ],
+   "people": [
+    "Isaac",
+    "Abraham",
+    "Sarah"
+   ],
+   "places": [
+    "Gerar"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 21:2, 5",
+     "ref_ta": "ஆதி 21:2, 5",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 21,
+     "verses": "2, 5"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1918 B.C.E. Birth of Isaac, the true heir"
+    },
+    {
+     "docid": "1200002203",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Isaac",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002203&wtlocale=E",
+     "par": null,
+     "quote_en": "Isaac was about five years old when weaned, having been born in 1918 B.C.E."
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "at the appointed time, 1918 B.C.E., Isaac, the long-promised heir, was born when Abraham was 100 years old and Sarah was 90."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0044"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0044",
+   "slug": "about-450-years-begin",
+   "date": {
+    "display_en": "1918 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1918",
+    "year": 1918,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1917.99
+   },
+   "title_en": "Beginning of the 'about 450 years'",
+   "title_ta": "‘ஏறக்குறைய நானூற்றைம்பது வருஷகாலத்தின்’ தொடக்கம்",
+   "description_en": "The 'about 450 years' of Acts 13:17-20 begin with God's choosing of the forefathers, apparently at Isaac's birth, and end about 1467 B.C.E. when the land of Canaan was distributed.",
+   "description_ta": null,
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "period_start",
+   "tags": [
+    "450 years",
+    "time period"
+   ],
+   "people": [
+    "Isaac"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Acts 13:17-20",
+     "ref_ta": "அப். 13:17-20",
+     "book": "Acts",
+     "book_num": 44,
+     "chapter": 13,
+     "verses": "17-20"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "beginning of the ‘about 450 years’ Acts 13:17-20"
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "it would seem to have begun in the year 1918 B.C.E. with the birth of Isaac"
+    },
+    {
+     "docid": "1200002203",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Isaac",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002203&wtlocale=E",
+     "par": null,
+     "quote_en": "his birth marked the beginning of the 450 years mentioned in Acts 13:17-20"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0043"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0045",
+   "slug": "isaac-weaned-ishmael-mocks",
+   "date": {
+    "display_en": "1913 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1913",
+    "year": 1913,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1913
+   },
+   "title_en": "Weaning of Isaac; Ishmael pokes fun at him",
+   "title_ta": "ஈசாக்கு பால்மறந்தது",
+   "description_en": "At the feast for Isaac's weaning, about five years after his birth, the 19-year-old Ishmael is caught 'poking fun' at his younger half brother.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "family",
+   "tags": [
+    "400 years"
+   ],
+   "people": [
+    "Isaac",
+    "Ishmael",
+    "Abraham",
+    "Sarah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 21:8",
+     "ref_ta": "ஆதி. 21:8",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 21,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1913 B.C.E. Weaning of Isaac; Ishmael sent away; beginning of the 400-year affliction"
+    },
+    {
+     "docid": "1200002215",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ishmael",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002215",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002215&wtlocale=E",
+     "par": null,
+     "quote_en": "Five years after that, in 1913 B.C.E., on the day of Isaac’s being weaned, Ishmael was caught “poking fun” at his younger half brother."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0046",
+    "b1-0047"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0046",
+   "slug": "ishmael-sent-away",
+   "date": {
+    "display_en": "1913 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1913",
+    "year": 1913,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1912.99
+   },
+   "title_en": "Ishmael and Hagar sent away",
+   "title_ta": "இஸ்மவேலை அனுப்பிவிடுதல்",
+   "description_en": "With God's approval of Sarah's insistence, Abraham dismisses Hagar and her son Ishmael.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "family",
+   "tags": [],
+   "people": [
+    "Ishmael",
+    "Hagar",
+    "Abraham",
+    "Sarah"
+   ],
+   "places": [
+    "Beer-sheba"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 21:10-14",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 21,
+     "verses": "10-14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1913 B.C.E. Weaning of Isaac; Ishmael sent away"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "Abraham was compelled to dismiss Ishmael and his mother Hagar. It was then, in 1913 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0045",
+    "b1-0047"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0047",
+   "slug": "400-year-affliction-begins",
+   "date": {
+    "display_en": "1913 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1913",
+    "year": 1913,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1912.98
+   },
+   "title_en": "Beginning of the 400-year affliction of Abraham's seed",
+   "title_ta": "400 வருட துன்பகாலத்தின் தொடக்கம்",
+   "description_en": "The foretold 400 years of affliction on Abraham's seed begin with Ishmael's mocking of Isaac and end with Israel's deliverance from Egypt in 1513 B.C.E.",
+   "description_ta": "எகிப்தில் இஸ்ரவேலர்கள் பட்ட துன்பத்திலிருந்து பொ.ச.மு. 1513-ல் யெகோவா விடுவித்தார். அப்படியென்றால், அவர்களது துன்ப காலம் பொ.ச.மு. 1913-ல் தொடங்கியிருக்க வேண்டும்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "period_start",
+   "tags": [
+    "400 years",
+    "time period"
+   ],
+   "people": [
+    "Isaac",
+    "Ishmael"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 15:13",
+     "ref_ta": "ஆதி. 15:13",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 15,
+     "verses": "13"
+    },
+    {
+     "ref_en": "Acts 7:6",
+     "ref_ta": "அப். 7:6",
+     "book": "Acts",
+     "book_num": 44,
+     "chapter": 7,
+     "verses": "6"
+    },
+    {
+     "ref_en": "Gal. 4:29",
+     "ref_ta": null,
+     "book": "Galatians",
+     "book_num": 48,
+     "chapter": 4,
+     "verses": "29"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "beginning of the 400-year affliction"
+    },
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": 10,
+     "quote_en": "the beginning of affliction must have been in 1913 B.C.E. This was five years after the birth of Isaac"
+    },
+    {
+     "docid": "1200000970",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Chronology",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
+     "par": null,
+     "quote_en": "Counting back 400 years from the Exodus ... would bring us to 1913 B.C.E."
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "It was then, in 1913 B.C.E., that the 400 years of affliction upon Abraham’s offspring began."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0045",
+    "b1-0046"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0048",
+   "slug": "shelah-dies",
+   "date": {
+    "display_en": "1900 B.C.E.",
+    "display_ta": null,
+    "year": 1900,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1900
+   },
+   "title_en": "Death of Shelah",
+   "title_ta": null,
+   "description_en": "Shelah, son of Arpachshad, dies at the age of 433.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Shelah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:15",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "15"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200003988",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Shelah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003988",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003988&wtlocale=E",
+     "par": null,
+     "quote_en": "who was born in 2333 B.C.E. and died in 1900 B.C.E., at the age of 433."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0049",
+   "slug": "sarah-dies",
+   "date": {
+    "display_en": "1881 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1881",
+    "year": 1881,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1881
+   },
+   "title_en": "Death of Sarah",
+   "title_ta": "சாராளின் மரணம்",
+   "description_en": "Sarah dies at Hebron at the age of 127. Abraham buys the cave of Machpelah from the Hittites as a burial place.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [],
+   "people": [
+    "Sarah",
+    "Abraham"
+   ],
+   "places": [
+    "Hebron",
+    "Machpelah"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 17:17",
+     "ref_ta": "ஆதி. 17:17",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 17,
+     "verses": "17"
+    },
+    {
+     "ref_en": "Gen. 23:1",
+     "ref_ta": "ஆதி. 23:1",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 23,
+     "verses": "1"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1881 B.C.E. Death of Sarah Gen. 17:17; 23:1"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "When Sarah died at Hebron in 1881 B.C.E. at the age of 127, it was necessary for Abraham to purchase a burial plot"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0050",
+   "slug": "isaac-marries-rebekah",
+   "date": {
+    "display_en": "1878 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1878",
+    "year": 1878,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1878
+   },
+   "title_en": "Marriage of Isaac and Rebekah",
+   "title_ta": "ஈசாக்குக்கும் ரெபெக்காளுக்கும் திருமணம்",
+   "description_en": "Abraham's servant finds Rebekah at the city of Nahor in Mesopotamia, and Isaac, then 40 years old, marries her.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "marriage",
+   "tags": [],
+   "people": [
+    "Isaac",
+    "Rebekah",
+    "Abraham",
+    "Eliezer"
+   ],
+   "places": [
+    "Haran",
+    "Paddan-aram"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 25:20",
+     "ref_ta": "ஆதி. 25:20",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 25,
+     "verses": "20"
+    },
+    {
+     "ref_en": "Gen. 24:10-67",
+     "ref_ta": null,
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 24,
+     "verses": "10-67"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1878 B.C.E. Marriage of Isaac and Rebekah Gen. 25:20"
+    },
+    {
+     "docid": "1200002203",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Isaac",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002203&wtlocale=E",
+     "par": null,
+     "quote_en": "Isaac being 40, the marriage took place in 1878 B.C.E."
+    },
+    {
+     "docid": "1200003658",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Rebekah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003658",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003658&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1878 B.C.E., when Abraham sent his household manager, likely Eliezer, in search of a suitable wife for his son Isaac"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/it-1/2018/561",
+     "caption_en": "Present-day Haran preserves the name of the ancient city at or near which Abraham’s servant found a wife for Isaac",
+     "caption_ta": null,
+     "source_docid": "1200001872",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0051",
+   "slug": "shem-dies",
+   "date": {
+    "display_en": "1868 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1868",
+    "year": 1868,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1868
+   },
+   "title_en": "Death of Shem",
+   "title_ta": "சேமின் மரணம்",
+   "description_en": "Shem dies about 13 years after Sarah's death and ten years after Isaac's marriage.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [
+    "post-Flood"
+   ],
+   "people": [
+    "Shem"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 11:11",
+     "ref_ta": "ஆதி. 11:11",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 11,
+     "verses": "11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1868 B.C.E. Death of Shem Gen. 11:11"
+    },
+    {
+     "docid": "1200003997",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Shem",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003997",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003997&wtlocale=E",
+     "par": null,
+     "quote_en": "His death thus occurred some 13 years after the death of Sarah (1881 B.C.E.) and ten years after the marriage of Isaac and Rebekah (1878 B.C.E.)."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0052",
+   "slug": "esau-jacob-born",
+   "date": {
+    "display_en": "1858 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1858",
+    "year": 1858,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1858
+   },
+   "title_en": "Birth of Esau and Jacob",
+   "title_ta": "ஏசா மற்றும் யாக்கோபின் பிறப்பு",
+   "description_en": "After 20 years of marriage, Rebekah gives birth to twins, Esau and Jacob, when Isaac is 60 years old.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [
+    "twins"
+   ],
+   "people": [
+    "Esau",
+    "Jacob",
+    "Isaac",
+    "Rebekah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 25:26",
+     "ref_ta": "ஆதி. 25:26",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 25,
+     "verses": "26"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1858 B.C.E. Birth of Esau and Jacob Gen. 25:26"
+    },
+    {
+     "docid": "1200002203",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Isaac",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002203&wtlocale=E",
+     "par": null,
+     "quote_en": "Finally, in 1858 B.C.E., when Isaac was 60 years old, he was given the double blessing of twins, Esau and Jacob."
+    },
+    {
+     "docid": "1200001417",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Esau",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001417",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001417&wtlocale=E",
+     "par": null,
+     "quote_en": "Even before the birth of the twins in 1858 B.C.E., when Isaac was 60 years of age"
+    },
+    {
+     "docid": "1200002279",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Jacob",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002279",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002279&wtlocale=E",
+     "par": null,
+     "quote_en": "Jacob’s parents had been married for 20 years before the birth of these twins, their only children, in 1858 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0053",
+   "slug": "abraham-dies",
+   "date": {
+    "display_en": "1843 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1843",
+    "year": 1843,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1843
+   },
+   "title_en": "Death of Abraham",
+   "title_ta": "ஆபிரகாமின் மரணம்",
+   "description_en": "Abraham dies at the age of 175 and is buried by Isaac and Ishmael in the cave of Machpelah. His grandson Jacob is then 15 years old.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [],
+   "people": [
+    "Abraham",
+    "Isaac",
+    "Ishmael"
+   ],
+   "places": [
+    "Machpelah"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 25:7",
+     "ref_ta": "ஆதி. 25:7",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 25,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1843 B.C.E. Death of Abraham Gen. 25:7"
+    },
+    {
+     "docid": "1200000060",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Abraham",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000060",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000060&wtlocale=E",
+     "par": null,
+     "quote_en": "Finally, at the good old age of 175, Abraham died, in 1843 B.C.E."
+    },
+    {
+     "docid": "1200002279",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Jacob",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002279",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002279&wtlocale=E",
+     "par": null,
+     "quote_en": "Abraham did not die until his grandson Jacob was 15 years old, in 1843 B.C.E."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0054",
+   "slug": "esau-marries",
+   "date": {
+    "display_en": "1818 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1818",
+    "year": 1818,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1818
+   },
+   "title_en": "Esau marries his first two wives",
+   "title_ta": "முதல் இரண்டு மனைவிகளை ஏசா விவாகஞ்செய்தல்",
+   "description_en": "At 40 years of age, Esau marries two Hittite women, Judith and Basemath, a source of bitterness to Isaac and Rebekah.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "marriage",
+   "tags": [],
+   "people": [
+    "Esau"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 26:34",
+     "ref_ta": "ஆதி. 26:34",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 26,
+     "verses": "34"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1818 B.C.E. Esau marries first two wives Gen. 26:34"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0055",
+   "slug": "ishmael-dies",
+   "date": {
+    "display_en": "1795 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1795",
+    "year": 1795,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1795
+   },
+   "title_en": "Death of Ishmael",
+   "title_ta": "இஸ்மவேலின் மரணம்",
+   "description_en": "Ishmael dies at the age of 137.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "death",
+   "tags": [],
+   "people": [
+    "Ishmael"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 25:17",
+     "ref_ta": "ஆதி. 25:17",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 25,
+     "verses": "17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1795 B.C.E. Death of Ishmael Gen. 25:17"
+    },
+    {
+     "docid": "1200002215",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Ishmael",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002215",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002215&wtlocale=E",
+     "par": null,
+     "quote_en": "After that he lived another 48 years, dying in 1795 B.C.E. at the age of 137."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0056",
+   "slug": "jacob-flees-to-haran",
+   "date": {
+    "display_en": "1781 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1781",
+    "year": 1781,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1781
+   },
+   "title_en": "Jacob flees to Haran",
+   "title_ta": "யாக்கோபு ஆரானுக்கு ஓடிப்போகிறார்",
+   "description_en": "After receiving Isaac's blessing, Jacob flees from his brother Esau, who wants to kill him, and travels to his relatives in Haran in Paddan-aram.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "journey",
+   "tags": [],
+   "people": [
+    "Jacob",
+    "Esau"
+   ],
+   "places": [
+    "Haran",
+    "Paddan-aram"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 28:2",
+     "ref_ta": "ஆதி. 28:2",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 28,
+     "verses": "2"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1781 B.C.E. Jacob flees to Haran; his vision at Bethel Gen. 28:2, 13, 19"
+    },
+    {
+     "docid": "1200003621",
+     "publication": "Insight on the Scriptures (it-2)",
+     "title_en": "Rachel",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003621",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003621&wtlocale=E",
+     "par": null,
+     "quote_en": "Jacob fled from his murderous brother Esau in 1781 B.C.E., traveling to Haran in Paddan-aram"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0057"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0057",
+   "slug": "jacob-vision-bethel",
+   "date": {
+    "display_en": "1781 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1781",
+    "year": 1781,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1780.99
+   },
+   "title_en": "Jacob's vision at Bethel",
+   "title_ta": "பெத்தேலில் அவர் கண்ட தரிசனம்",
+   "description_en": "On the way to Haran, Jacob sees a vision of a stairway to heaven and Jehovah confirms to him the promises made to Abraham. Jacob names the place Bethel.",
+   "description_ta": null,
+   "category": "bible.covenant",
+   "event_kind": "vision",
+   "tags": [
+    "Abrahamic covenant"
+   ],
+   "people": [
+    "Jacob"
+   ],
+   "places": [
+    "Bethel"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 28:13, 19",
+     "ref_ta": "ஆதி. 28:13, 19",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 28,
+     "verses": "13, 19"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1781 B.C.E. Jacob flees to Haran; his vision at Bethel Gen. 28:2, 13, 19"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0056"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0058",
+   "slug": "jacob-marries-leah-rachel",
+   "date": {
+    "display_en": "1774 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1774",
+    "year": 1774,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1774
+   },
+   "title_en": "Jacob marries Leah and Rachel",
+   "title_ta": "யாக்கோபு லேயாளையும் ராகேலையும் மணம் செய்கிறார்",
+   "description_en": "After seven years of service to Laban, Jacob is given Leah and then Rachel as wives.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "marriage",
+   "tags": [],
+   "people": [
+    "Jacob",
+    "Leah",
+    "Rachel",
+    "Laban"
+   ],
+   "places": [
+    "Haran"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 29:23-30",
+     "ref_ta": "ஆதி. 29:23-30",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 29,
+     "verses": "23-30"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1774 B.C.E. Jacob marries Leah and Rachel Gen. 29:23-30"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0059",
+   "slug": "joseph-born",
+   "date": {
+    "display_en": "1767 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1767",
+    "year": 1767,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1767
+   },
+   "title_en": "Birth of Joseph",
+   "title_ta": "யோசேப்பின் பிறப்பு",
+   "description_en": "Rachel, after years of barrenness, gives birth to Joseph, Jacob's 11th son.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "birth",
+   "tags": [],
+   "people": [
+    "Joseph",
+    "Jacob",
+    "Rachel"
+   ],
+   "places": [
+    "Haran"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 30:23, 24",
+     "ref_ta": "ஆதி. 30:23, 24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 30,
+     "verses": "23, 24"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1767 B.C.E. Birth of Joseph Gen. 30:23, 24"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b1-0060",
+   "slug": "jacob-returns-to-canaan",
+   "date": {
+    "display_en": "1761 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1761",
+    "year": 1761,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": -1761
+   },
+   "title_en": "Jacob returns to Canaan from Haran",
+   "title_ta": "யாக்கோபு ஆரானிலிருந்து கானானுக்குத் திரும்புகிறார்",
+   "description_en": "After 20 years with Laban, Jacob leaves Haran with his family and livestock to return to Canaan.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "journey",
+   "tags": [],
+   "people": [
+    "Jacob",
+    "Laban"
+   ],
+   "places": [
+    "Haran",
+    "Canaan"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 31:18, 41",
+     "ref_ta": "ஆதி. 31:18, 41",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 31,
+     "verses": "18, 41"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1761 B.C.E. Jacob returns to Canaan from Haran Gen. 31:18, 41"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0061"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b1-0061",
+   "slug": "jacob-wrestles-angel",
+   "date": {
+    "display_en": "c. 1761 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1761 ஏ.",
+    "year": 1761,
+    "era": "BCE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "sort_key": -1760.9
+   },
+   "title_en": "Jacob wrestles an angel and is named Israel",
+   "title_ta": "யாக்கோபு தேவதூதரோடு போராடுகிறார்; இஸ்ரவேல் என்று பெயரிடப்படுகிறார்",
+   "description_en": "On his way back, Jacob wrestles with an angel and will not let go until he is blessed; his name is changed to Israel.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "encounter",
+   "tags": [
+    "Israel",
+    "name change"
+   ],
+   "people": [
+    "Jacob"
+   ],
+   "places": [
+    "Peniel",
+    "Jabbok"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 32:24-28",
+     "ref_ta": "ஆதி. 32:24-28",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 32,
+     "verses": "24-28"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "c. 1761 B.C.E. Jacob wrestles angel; is named Israel Gen. 32:24-28"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0060"
+   ],
+   "notes": null
+  }
+ ]
+}

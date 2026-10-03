@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Timeline Event",
+  "type": "object",
+  "required": ["id", "slug", "date", "title_en", "description_en", "category", "scriptures", "sources"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+-[0-9]{3,4}$", "description": "batch prefix + zero-padded sequence, e.g. b1-0001"},
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "date": {
+      "type": "object",
+      "required": ["display_en", "precision", "sort_key"],
+      "properties": {
+        "display_en": {"type": "string", "description": "As the source prints it, e.g. '4026 B.C.E.', 'c. 1473 B.C.E.', '33 C.E., Nisan 14', 'a. 443 B.C.E.'"},
+        "display_ta": {"type": ["string", "null"], "description": "Tamil display if a Tamil source exists, e.g. 'பொ.ச.மு. 4026'"},
+        "year": {"type": ["integer", "null"], "description": "Positive integer; sign is carried by era"},
+        "era": {"type": ["string", "null"], "enum": ["BCE", "CE", null]},
+        "year_end": {"type": ["integer", "null"], "description": "For ranges, the end year (same era unless era_end given)"},
+        "era_end": {"type": ["string", "null"], "enum": ["BCE", "CE", null]},
+        "month": {"type": ["integer", "null"], "minimum": 1, "maximum": 12},
+        "day": {"type": ["integer", "null"], "minimum": 1, "maximum": 31},
+        "hebrew_month": {"type": ["string", "null"], "description": "Nisan, Tishri, etc."},
+        "hebrew_day": {"type": ["integer", "null"]},
+        "season": {"type": ["string", "null"], "enum": ["spring", "summer", "autumn", "winter", null]},
+        "precision": {"type": "string", "enum": ["exact", "approx", "before", "after", "range", "undated"]},
+        "sort_key": {"type": "number", "description": "BCE years negative, CE positive; add fraction (month-1)/12 etc. for in-year ordering. Undated future events use 100000+n."}
+      }
+    },
+    "title_en": {"type": "string", "maxLength": 140},
+    "title_ta": {"type": ["string", "null"]},
+    "description_en": {"type": "string", "description": "1-3 sentences, in your own words, faithful to the source"},
+    "description_ta": {"type": ["string", "null"]},
+    "category": {"type": "string", "enum": [
+      "bible.creation", "bible.patriarch", "bible.covenant", "bible.judgment", "bible.exodus_law",
+      "bible.conquest_judges", "bible.monarchy", "bible.prophet", "bible.temple", "bible.exile_return",
+      "bible.book_writing", "bible.intertestament", "bible.jesus", "bible.apostolic", "bible.prophecy_fulfilled",
+      "history.apostasy", "history.bible_translation", "history.bible_preservation", "history.reform", "history.persecution",
+      "jw.organization", "jw.doctrine", "jw.publication", "jw.legal", "jw.persecution", "jw.convention",
+      "jw.construction", "jw.preaching", "jw.leadership", "jw.education", "jw.relief",
+      "future.prophecy"
+    ]},
+    "event_kind": {"type": ["string", "null"], "description": "free short label: birth, death, accession, battle, decree, writing_completed, release, court_ruling, resolution, dedication, miracle, teaching, journey, etc."},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "people": {"type": "array", "items": {"type": "string"}},
+    "places": {"type": "array", "items": {"type": "string"}},
+    "scriptures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref_en"],
+        "properties": {
+          "ref_en": {"type": "string", "description": "NWT style, e.g. 'Gen. 2:7' or 'Luke 3:1, 2, 23'"},
+          "ref_ta": {"type": ["string", "null"]},
+          "book": {"type": ["string", "null"]},
+          "book_num": {"type": ["integer", "null"], "minimum": 1, "maximum": 66},
+          "chapter": {"type": ["integer", "null"]},
+          "verses": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["docid", "title_en", "url_en"],
+        "properties": {
+          "docid": {"type": "string", "description": "WOL/jw.org document id, e.g. 1101990130"},
+          "publication": {"type": ["string", "null"], "description": "e.g. 'All Scripture Is Inspired (si)', 'Insight (it-1)', 'NWT Study Edition App. A7-A', 'Proclaimers (jv)', 'kr', 'Watchtower 2015 7/15'"},
+          "title_en": {"type": "string"},
+          "title_ta": {"type": ["string", "null"]},
+          "url_en": {"type": "string", "pattern": "^https://(wol\\.jw\\.org|www\\.jw\\.org)/"},
+          "url_ta": {"type": ["string", "null"], "pattern": "^https://(wol\\.jw\\.org|www\\.jw\\.org)/"},
+          "finder_url": {"type": ["string", "null"], "description": "https://www.jw.org/finder?docid=<docid>&wtlocale=E (locale-switchable)"},
+          "par": {"type": ["integer", "string", "null"], "description": "paragraph number if known"},
+          "quote_en": {"type": ["string", "null"], "maxLength": 220, "description": "Short supporting excerpt (<=25 words) establishing the date"}
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url": {"type": "string"},
+          "caption_en": {"type": ["string", "null"]},
+          "caption_ta": {"type": ["string", "null"]},
+          "source_docid": {"type": ["string", "null"]},
+          "kind": {"type": ["string", "null"], "description": "illustration, photo, map, chart"}
+        }
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "description": "Where two jw.org sources differ (date, spelling, detail). Record both.",
+      "items": {
+        "type": "object",
+        "required": ["note"],
+        "properties": {
+          "docid": {"type": ["string", "null"]},
+          "value": {"type": ["string", "null"]},
+          "note": {"type": "string"}
+        }
+      }
+    },
+    "importance": {"type": ["integer", "null"], "description": "Leave null. Assigned later by owner."},
+    "related_ids": {"type": "array", "items": {"type": "string"}},
+    "notes": {"type": ["string", "null"]}
+  }
+}

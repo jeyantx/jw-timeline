@@ -1,0 +1,3280 @@
+{
+ "batch": "b10",
+ "scope": "(A) Undated future prophetic events in the sequence presented by jw.org (kr chap. 21 chart 'What the Near Future Holds', w15 7/15, w12 9/15, rr chaps. 15-22, w22); (B) dated 'last days' fulfilled-prophecy markers 1914-1935.",
+ "generated": "2026-10-03",
+ "sources_consulted": [
+  {
+   "docid": "1102014263",
+   "title_en": "God’s Kingdom Removes Its Enemies",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263"
+  },
+  {
+   "docid": "2015523",
+   "title_en": "“Your Deliverance Is Getting Near”!",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523"
+  },
+  {
+   "docid": "2012681",
+   "title_en": "How This World Will Come to an End",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681"
+  },
+  {
+   "docid": "2012682",
+   "title_en": "Peace for a Thousand Years—And Beyond!",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682"
+  },
+  {
+   "docid": "2013533",
+   "title_en": "“Who Really Is the Faithful and Discreet Slave?”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013533",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013533"
+  },
+  {
+   "docid": "1102017175",
+   "title_en": "“I Will Bring an End to Your Prostitution”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017175",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017175"
+  },
+  {
+   "docid": "1102017176",
+   "title_en": "“Put a Mark on the Foreheads”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017176",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017176"
+  },
+  {
+   "docid": "1102017177",
+   "title_en": "“I Am Against You, O Gog”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017177",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017177"
+  },
+  {
+   "docid": "1102017178",
+   "title_en": "“My Great Rage Will Flare Up”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017178",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017178"
+  },
+  {
+   "docid": "1102017192",
+   "title_en": "“Worship God”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017192",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017192"
+  },
+  {
+   "docid": "2022401",
+   "title_en": "Revelation—What It Means for God’s Enemies",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401"
+  },
+  {
+   "docid": "2022402",
+   "title_en": "Revelation—What It Means for Your Future",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022402",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022402"
+  },
+  {
+   "docid": "2022567",
+   "title_en": "Is Your Name in “the Book of Life”?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022567",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022567"
+  },
+  {
+   "docid": "2019603",
+   "title_en": "Stay Faithful Through the “Great Tribulation”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2019603",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2019603"
+  },
+  {
+   "docid": "1102014241",
+   "title_en": "The Kingdom Is Born in Heaven",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241"
+  },
+  {
+   "docid": "1102014244",
+   "title_en": "The King Shines Light on the Kingdom",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014244",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014244"
+  },
+  {
+   "docid": "1200004476",
+   "title_en": "Tribulation",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004476",
+   "url_ta": null
+  },
+  {
+   "docid": "1200001884",
+   "title_en": "Har–Magedon",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001884",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003709",
+   "title_en": "Resurrection",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003709",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002547",
+   "title_en": "Judgment Day",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002547",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000065",
+   "title_en": "Abyss",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000065",
+   "url_ta": null
+  },
+  {
+   "docid": "1200000316",
+   "title_en": "Appointed Times of the Nations",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000316",
+   "url_ta": null
+  },
+  {
+   "docid": "1101993014",
+   "title_en": "The Great Crowd—To Live in Heaven? Or on Earth?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993014",
+   "url_ta": null
+  }
+ ],
+ "events": [
+  {
+   "id": "b10-0001",
+   "slug": "gentile-times-end-1914",
+   "date": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1914.75
+   },
+   "title_en": "Appointed times of the nations (Gentile Times) end",
+   "title_ta": null,
+   "description_en": "The 'seven times' of Daniel 4, understood as 2,520 years counted from Jerusalem's overthrow in 607 B.C.E., ended in 1914, closing the 'appointed times of the nations' during which Gentile powers trampled God's Kingdom. The Watch Tower had pointed to 1914 as early as the 1870's (Insight cites the March 1880 issue).",
+   "description_ta": null,
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "1914",
+    "Gentile Times",
+    "seven times",
+    "last days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 4:16",
+     "ref_ta": null,
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 4,
+     "verses": "16"
+    },
+    {
+     "ref_en": "Dan. 4:23",
+     "ref_ta": null,
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 4,
+     "verses": "23"
+    },
+    {
+     "ref_en": "Dan. 4:25",
+     "ref_ta": "தானி. 4:25",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 4,
+     "verses": "25"
+    },
+    {
+     "ref_en": "Luke 21:24",
+     "ref_ta": "லூக். 21:24",
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 21,
+     "verses": "24"
+    },
+    {
+     "ref_en": "Ezek. 21:25-27",
+     "ref_ta": "எசே. 21:25-27",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 21,
+     "verses": "25-27"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200000316",
+     "publication": "Insight (it-1)",
+     "title_en": "Appointed Times of the Nations",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000316",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000316&wtlocale=E",
+     "par": null,
+     "quote_en": "the March 1880 edition of the Watch Tower magazine identified the year 1914 as the time for the close of “the appointed times of the nations”"
+    },
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 10,
+     "quote_en": "As early as the 1870’s, they pointed to 1914 as the year when those seven times would end."
+    },
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 33,
+     "quote_en": "the Watch Tower had rightly pointed to 1914 as the year when the Gentile Times would end"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0002",
+    "b10-0003"
+   ],
+   "notes": "sort_key fraction reflects kr chap. 2 timeline: in October 1914 C. T. Russell announced to the Bethel family that the Gentile times had ended. Insight Tamil mirror not available."
+  },
+  {
+   "id": "b10-0002",
+   "slug": "kingdom-born-in-heaven-1914",
+   "date": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1914.76
+   },
+   "title_en": "God's Kingdom born in heaven; Christ begins ruling as King",
+   "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+   "description_en": "In 1914 God's Messianic Kingdom was established in heaven, pictured in John's vision by a woman giving birth to a male child who is caught up to God's throne. No human witnessed it, but a voice in heaven announced that the Kingdom of God and the authority of his Christ had come.",
+   "description_ta": "கடைசியில், ஆவலோடு எதிர்பார்க்கப்பட்ட 1914-ஆம் வருஷம் வந்தது. இந்த அதிகாரத்தின் ஆரம்பத்தில் நாம் பார்த்தபடி, பரலோகத்தில் நடந்த முக்கியமான சம்பவங்களை மனிதர்கள் யாரும் பார்க்கவில்லை.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "enthronement",
+   "tags": [
+    "1914",
+    "Kingdom",
+    "Christ's presence"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "heaven"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 12:1",
+     "ref_ta": "வெளி. 12:1",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 12,
+     "verses": "1"
+    },
+    {
+     "ref_en": "Rev. 12:5",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 12,
+     "verses": "5"
+    },
+    {
+     "ref_en": "Rev. 12:10",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 12,
+     "verses": "10"
+    },
+    {
+     "ref_en": "Dan. 2:44",
+     "ref_ta": "தானி. 2:44",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 2,
+     "verses": "44"
+    },
+    {
+     "ref_en": "Dan. 7:13, 14",
+     "ref_ta": "தானி. 7:13, 14",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 7,
+     "verses": "13, 14"
+    },
+    {
+     "ref_en": "Dan. 4:17",
+     "ref_ta": "தானி. 4:17",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 4,
+     "verses": "17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 27,
+     "quote_en": "Finally, the momentous year 1914 arrived."
+    },
+    {
+     "docid": "1200000316",
+     "publication": "Insight (it-1)",
+     "title_en": "Appointed Times of the Nations",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000316",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000316&wtlocale=E",
+     "par": null,
+     "quote_en": "God would give world domination “to the one whom he wants to.”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/26",
+     "caption_en": "In 1914, the Bible Students began to discern the sign of Christ’s invisible presence",
+     "caption_ta": "1914-ல், கிறிஸ்துவுடைய பிரசன்னத்தின் அடையாளத்தை பைபிள் மாணாக்கர்கள் புரிந்துகொள்ள ஆரம்பித்தார்கள்",
+     "source_docid": "1102014241",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/32",
+     "caption_en": "A king on his throne",
+     "caption_ta": "சிம்மாசனத்தில் ராஜா",
+     "source_docid": "1102014241",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0001",
+    "b10-0003"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0003",
+   "slug": "last-days-begin-1914",
+   "date": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1914.77
+   },
+   "title_en": "Last days begin; World War I breaks out and Satan's 'woe' comes upon the earth",
+   "title_ta": null,
+   "description_en": "With Satan's greater influence on human society from 1914 (Rev. 12:12), the first world war broke out that year and the sign of Christ's presence in kingly power began to be fulfilled worldwide, marking the start of the last days of this system of things.",
+   "description_ta": "1914-ல், முதல் உலகப் போர் ஆரம்பமானது. அதோடு, கிறிஸ்து ராஜாவாக ஆட்சி செய்ய ஆரம்பித்ததற்கான அடையாளம் பூமி முழுவதும் நிறைவேற ஆரம்பித்தது. அந்தச் சமயத்திலிருந்து, இந்த உலகத்தின் ‘கடைசி நாட்கள்’ ஆரம்பமாயின.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "1914",
+    "last days",
+    "World War I",
+    "sign"
+   ],
+   "people": [
+    "Satan"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 12:12",
+     "ref_ta": "வெளி. 12:12",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 12,
+     "verses": "12"
+    },
+    {
+     "ref_en": "2 Tim. 3:1",
+     "ref_ta": "2 தீ. 3:1",
+     "book": "2 Timothy",
+     "book_num": 55,
+     "chapter": 3,
+     "verses": "1"
+    },
+    {
+     "ref_en": "Luke 21:7-24",
+     "ref_ta": null,
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 21,
+     "verses": "7-24"
+    },
+    {
+     "ref_en": "Rev. 11:15-18",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 11,
+     "verses": "15-18"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 29,
+     "quote_en": "In 1914, the first world war broke out and the sign of Christ’s presence in kingly power began to see global fulfillment."
+    },
+    {
+     "docid": "1200000316",
+     "publication": "Insight (it-1)",
+     "title_en": "Appointed Times of the Nations",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000316",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000316&wtlocale=E",
+     "par": null,
+     "quote_en": "beginning with the great war that erupted, the first world war in mankind’s history"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0002"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0004",
+   "slug": "harvest-season-begins-1914",
+   "date": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1914.78
+   },
+   "title_en": "Harvest season begins: separating of 'wheat' from 'weeds'",
+   "title_ta": null,
+   "description_en": "The harvest season foretold in Jesus' illustration of the wheat and the weeds began in 1914, when the time came to separate anointed Christians from imitation Christians.",
+   "description_ta": "1914-ல் அறுவடைக் காலம் ஆரம்பித்தது",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "1914",
+    "harvest",
+    "wheat and weeds"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:36-43",
+     "ref_ta": "மத். 13:36-43",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "36-43"
+    },
+    {
+     "ref_en": "Matt. 13:30",
+     "ref_ta": "மத். 13:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "30"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013533",
+     "publication": "The Watchtower 2013 7/15",
+     "title_en": "“Who Really Is the Faithful and Discreet Slave?”",
+     "title_ta": "“உண்மையும் விவேகமும் உள்ள அடிமை யார்?”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013533",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013533",
+     "finder_url": "https://www.jw.org/finder?docid=2013533&wtlocale=E",
+     "par": 7,
+     "quote_en": "The harvest season began in that year. The time had finally arrived to separate the weeds from the wheat."
+    },
+    {
+     "docid": "1102014244",
+     "publication": "God’s Kingdom Rules! (kr) chap. 5",
+     "title_en": "The King Shines Light on the Kingdom",
+     "title_ta": "கடவுளுடைய அரசாங்கத்தின் மீது ராஜா ஒளியைப் பிரகாசிக்கச் செய்கிறார்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014244",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014244",
+     "finder_url": "https://www.jw.org/finder?docid=1102014244&wtlocale=E",
+     "par": 11,
+     "quote_en": "The year 1914 marked the beginning of the harvest season"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/95",
+     "caption_en": "The year 1914 marked the beginning of the harvest season (See paragraph 11)",
+     "caption_ta": "1914-ல் அறுவடைக் காலம் ஆரம்பித்தது (பாரா 11)",
+     "source_docid": "1102014244",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "description_ta is the Tamil caption of the kr chap. 5 illustration."
+  },
+  {
+   "id": "b10-0005",
+   "slug": "temple-inspection-1914-1919",
+   "date": {
+    "display_en": "1914–early 1919",
+    "display_ta": "1914 முதல் 1919-ன் ஆரம்பம் வரை",
+    "year": 1914,
+    "era": "CE",
+    "year_end": 1919,
+    "era_end": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "range",
+    "sort_key": 1914.8
+   },
+   "title_en": "Jehovah and Jesus inspect and refine the spiritual temple",
+   "title_ta": null,
+   "description_en": "From 1914 to the early part of 1919, Jehovah and Jesus came to inspect the spiritual temple, as foretold at Malachi 3:1-4. They found a small band of loyal Bible Students who, through a brief period of testing and refining, including persecution, imprisonment and unfulfilled expectations, humbly accepted cleansing.",
+   "description_ta": "இயேசுவும் அவருடைய தகப்பனும் ஆன்மீக ஆலயத்தை, அதாவது வணக்கத்திற்கான ஏற்பாடுகளை, 1914 முதல் 1919-ன் ஆரம்பம் வரையான காலப்பகுதியில் சோதனையிட்ட பிறகே இந்தக் கேள்விக்குப் பதிலளிக்கப்பட்டது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "inspection",
+   "tags": [
+    "1914",
+    "1919",
+    "refining",
+    "Malachi 3"
+   ],
+   "people": [
+    "Jehovah",
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Mal. 3:1",
+     "ref_ta": "மல். 3:1",
+     "book": "Malachi",
+     "book_num": 39,
+     "chapter": 3,
+     "verses": "1"
+    },
+    {
+     "ref_en": "Mal. 3:2-4",
+     "ref_ta": "மல். 3:2-4",
+     "book": "Malachi",
+     "book_num": 39,
+     "chapter": 3,
+     "verses": "2-4"
+    },
+    {
+     "ref_en": "Mal. 3:3",
+     "ref_ta": "மல். 3:3",
+     "book": "Malachi",
+     "book_num": 39,
+     "chapter": 3,
+     "verses": "3"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013533",
+     "publication": "The Watchtower 2013 7/15",
+     "title_en": "“Who Really Is the Faithful and Discreet Slave?”",
+     "title_ta": "“உண்மையும் விவேகமும் உள்ள அடிமை யார்?”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013533",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013533",
+     "finder_url": "https://www.jw.org/finder?docid=2013533&wtlocale=E",
+     "par": 12,
+     "quote_en": "after he and his Father came and inspected the temple, or spiritual arrangement for worship, from 1914 to the early part of 1919."
+    },
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 31,
+     "quote_en": "Beginning in 1914, God’s people on earth faced a succession of major tests and hardships."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0006",
+    "b10-0007"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0006",
+   "slug": "bible-students-revived-1919",
+   "date": {
+    "display_en": "early 1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1919.1
+   },
+   "title_en": "Faithful Bible Students revived after the 1918 test",
+   "title_ta": null,
+   "description_en": "After the 1918 imprisonment of J. F. Rutherford and seven associates made the work seem paralyzed and the clergy thought the Bible Students 'dead,' God's spirit revived the faithful ones from early in 1919, fulfilling Revelation 11:11.",
+   "description_ta": "எது நடக்கவே நடக்காது என்று எதிரிகள் நினைத்தார்களோ அது 1919-ல் நடக்க ஆரம்பித்தது; கடவுளுடைய சக்தியினால் உண்மையுள்ளவர்கள் புத்துயிர் பெற்றார்கள்!",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "1919",
+    "two witnesses",
+    "revival"
+   ],
+   "people": [
+    "J. F. Rutherford"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 11:3",
+     "ref_ta": "வெளி. 11:3",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 11,
+     "verses": "3"
+    },
+    {
+     "ref_en": "Rev. 11:7-10",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 11,
+     "verses": "7-10"
+    },
+    {
+     "ref_en": "Rev. 11:11",
+     "ref_ta": "வெளி. 11:11",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 11,
+     "verses": "11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 35,
+     "quote_en": "From early in 1919, it became clear that God’s spirit had done what the enemies of his people thought impossible. The faithful ones were revived!"
+    },
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 34,
+     "quote_en": "A daunting test arose in 1918."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/30",
+     "caption_en": "Brother Rutherford delivers a stirring discourse at a convention just months after his release from prison",
+     "caption_ta": "சிறையிலிருந்து விடுதலை பெற்ற சில மாதங்களில், சகோதரர் ரதர்ஃபர்ட் ஒரு மாநாட்டில் ஆர்வத்தைத் தூண்டும் பேச்சைக் கொடுக்கிறார்",
+     "source_docid": "1102014241",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0007"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0007",
+   "slug": "faithful-slave-appointed-1919",
+   "date": {
+    "display_en": "1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1919.2
+   },
+   "title_en": "Christ appoints the faithful and discreet slave over his domestics",
+   "title_ta": null,
+   "description_en": "In 1919, a time of spiritual revival, Jesus selected capable anointed brothers from among the refined Bible Students to be 'the faithful and discreet slave,' appointing them over his domestics to provide spiritual food at the proper time.",
+   "description_ta": "1919-ல், அவர்களிலிருந்து தகுதியுள்ள பரலோக நம்பிக்கையுள்ள சகோதரர்களை இயேசு உண்மையும் விவேகமும் உள்ள அடிமையாகத் தேர்ந்தெடுத்து தம் வீட்டார் மீது நியமித்தார்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "appointment",
+   "tags": [
+    "1919",
+    "faithful and discreet slave",
+    "Governing Body"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:45-47",
+     "ref_ta": "மத். 24:45-47",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "45-47"
+    },
+    {
+     "ref_en": "Mal. 3:1",
+     "ref_ta": "மல். 3:1",
+     "book": "Malachi",
+     "book_num": 39,
+     "chapter": 3,
+     "verses": "1"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013533",
+     "publication": "The Watchtower 2013 7/15",
+     "title_en": "“Who Really Is the Faithful and Discreet Slave?”",
+     "title_ta": "“உண்மையும் விவேகமும் உள்ள அடிமை யார்?”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013533",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013533",
+     "finder_url": "https://www.jw.org/finder?docid=2013533&wtlocale=E",
+     "par": 12,
+     "quote_en": "In 1919, a time of spiritual revival, Jesus selected capable anointed brothers from among them to be the faithful and discreet slave"
+    },
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) chap. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": 35,
+     "quote_en": "He appointed “the faithful and discreet slave,” a small group of anointed men who would take the lead"
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "2013533",
+     "value": "Pentecost 33 C.E. appointment over domestics; 1919 appointment over all belongings",
+     "note": "w13 7/15 par. 3 records the earlier understanding (slave appointed over domestics at Pentecost 33 C.E., over 'all his belongings' in 1919) and clarifies it: appointment over domestics in 1919; appointment over all belongings still future, at Christ's coming during the great tribulation."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b10-0005"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0008",
+   "slug": "great-crowd-identified-1935",
+   "date": {
+    "display_en": "May 31, 1935",
+    "display_ta": "1935",
+    "year": 1935,
+    "era": "CE",
+    "year_end": null,
+    "era_end": null,
+    "month": 5,
+    "day": 31,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "sort_key": 1935.41
+   },
+   "title_en": "Great crowd identified as an earthly class at Washington, D.C., convention",
+   "title_ta": null,
+   "description_en": "On May 31, 1935, at the convention in Washington, D.C., J. F. Rutherford's discourse identified the great multitude of Revelation 7 as an earthly class, the same as the 'sheep' of Jesus' parable and part of the 'other sheep.' When he asked those hoping to live forever on earth to stand, more than half the audience rose.",
+   "description_ta": "1935-ல் மாபெரும் ஆன்மீக ஒளி கடவுளுடைய மக்கள்மேல் பிரகாசித்தது. வாஷிங்டன், டி.சி.-யில் நடந்த மாநாட்டில் திரள் கூட்டமான மக்கள் பூமிக்குரிய வகுப்பாராக அடையாளம் காட்டப்பட்டார்கள்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "doctrinal_clarification",
+   "tags": [
+    "1935",
+    "great crowd",
+    "other sheep",
+    "convention"
+   ],
+   "people": [
+    "J. F. Rutherford"
+   ],
+   "places": [
+    "Washington, D.C., U.S.A."
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 7:9",
+     "ref_ta": "வெளி. 7:9",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 7,
+     "verses": "9"
+    },
+    {
+     "ref_en": "Rev. 7:14",
+     "ref_ta": "வெளி. 7:14",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 7,
+     "verses": "14"
+    },
+    {
+     "ref_en": "John 10:16",
+     "ref_ta": "யோவா. 10:16",
+     "book": "John",
+     "book_num": 43,
+     "chapter": 10,
+     "verses": "16"
+    },
+    {
+     "ref_en": "Matt. 25:33-40",
+     "ref_ta": "மத். 25:33-40",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 25,
+     "verses": "33-40"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014244",
+     "publication": "God’s Kingdom Rules! (kr) chap. 5",
+     "title_en": "The King Shines Light on the Kingdom",
+     "title_ta": "கடவுளுடைய அரசாங்கத்தின் மீது ராஜா ஒளியைப் பிரகாசிக்கச் செய்கிறார்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014244",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014244",
+     "finder_url": "https://www.jw.org/finder?docid=1102014244&wtlocale=E",
+     "par": 17,
+     "quote_en": "In 1935 came a brilliant flash of spiritual light. At the convention held in Washington, D.C., the great multitude was identified as an earthly class"
+    },
+    {
+     "docid": "1101993014",
+     "publication": "Proclaimers (jv) chap. 12",
+     "title_en": "The Great Crowd—To Live in Heaven? Or on Earth?",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993014",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1101993014&wtlocale=E",
+     "par": null,
+     "quote_en": "on Friday, May 31, 1935, at the Washington, D.C., convention, a satisfying answer was given."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/103",
+     "caption_en": "The overflow audience at the 1935 convention in Washington, D.C.",
+     "caption_ta": "1935, வாஷிங்டன், டி.சி.-யில் நடந்த மாநாட்டில் நிரம்பி வழியும் மக்கள் கூட்டம்",
+     "source_docid": "1102014244",
+     "kind": "photo"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/97",
+     "caption_en": "Brother Rutherford could not foresee how numerous the great crowd would become (From left to right: Nathan H. Knorr, Joseph F. Rutherford, and Hayden C. Covington)",
+     "caption_ta": "திரள் கூட்டத்தாரின் எண்ணிக்கை எந்தளவுக்கு அதிகரிக்கும் என்று சகோதரர் ரதர்ஃபர்ட்டால் நினைத்துப் பார்க்கவே முடியவில்லை (இடது பக்கத்திலிருந்து: நேதன் எச். நார், ஜோஸஃப் எஃப். ரதர்ஃபர்ட், ஹேடன் ஸி. கவிங்டன்)",
+     "source_docid": "1102014244",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "kr box gives the discourse date as May 31, 1935; jv chap. 12 gives convention dates May 30–June 3, 1935. jv Tamil mirror not available."
+  },
+  {
+   "id": "b10-0009",
+   "slug": "peace-and-security-proclamation",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100001
+   },
+   "title_en": "Proclamation of “Peace and security!”",
+   "title_ta": "சமாதானம், பாதுகாப்பு பற்றிய அறிவிப்பு",
+   "description_en": "Just before Jehovah's day begins, the nations will proclaim 'Peace and security!', possibly a single pronouncement or a series of notable statements, perhaps joined by religious leaders. It signals that sudden destruction is about to come.",
+   "description_ta": "யெகோவாவின் நாள் ஆரம்பிப்பதற்குச் சற்று முன்பு அரசியல் தலைவர்கள், “சமாதானம், பாதுகாப்பு!” என்று அறிவிப்பு செய்வார்கள். அது ஒரேவொரு அறிவிப்பாக இருக்கலாம், அல்லது தொடர்ச்சியாகச் செய்யப்படும் குறிப்பிடத்தக்க அறிவிப்புகளாக இருக்கலாம்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "great tribulation",
+    "precursor",
+    "1 Thessalonians 5"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "1 Thess. 5:2, 3",
+     "ref_ta": "1 தெ. 5:2, 3",
+     "book": "1 Thessalonians",
+     "book_num": 52,
+     "chapter": 5,
+     "verses": "2, 3"
+    },
+    {
+     "ref_en": "1 Thess. 5:4-6",
+     "ref_ta": null,
+     "book": "1 Thessalonians",
+     "book_num": 52,
+     "chapter": 5,
+     "verses": "4-6"
+    },
+    {
+     "ref_en": "Jer. 6:14",
+     "ref_ta": "எரே. 6:14",
+     "book": "Jeremiah",
+     "book_num": 24,
+     "chapter": 6,
+     "verses": "14"
+    },
+    {
+     "ref_en": "Jer. 23:16, 17",
+     "ref_ta": null,
+     "book": "Jeremiah",
+     "book_num": 24,
+     "chapter": 23,
+     "verses": "16, 17"
+    },
+    {
+     "ref_en": "Rev. 17:1, 2",
+     "ref_ta": "வெளி. 17:1, 2",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "1, 2"
+    },
+    {
+     "ref_en": "Zeph. 3:8",
+     "ref_ta": "செப். 3:8",
+     "book": "Zephaniah",
+     "book_num": 36,
+     "chapter": 3,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 3,
+     "quote_en": "just before Jehovah’s day begins, nations will be saying, “Peace and security!”"
+    },
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 3,
+     "quote_en": "just before that day of Jehovah begins, world leaders will be saying “Peace and security!”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/409",
+     "caption_en": "Various world leaders announce ‘peace and security’",
+     "caption_ta": "அரசியல் தலைவர்கள் பலர் “சமாதானம், பாதுகாப்பு!” என்று அறிவிக்கிறார்கள்",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/198",
+     "caption_en": "Leaders announcing peace to crowds of people",
+     "caption_ta": null,
+     "source_docid": "2012681",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0011"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0010",
+   "slug": "final-sealing-anointed",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100002
+   },
+   "title_en": "Final sealing of the remnant of anointed Christians completed",
+   "title_ta": "பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களில் மீதியானோர் கடைசி முத்திரை பெறுவது",
+   "description_en": "The remaining anointed Christians receive their final sealing either before they die or just before the great tribulation breaks out; as anointed ones they do not need to be marked for survival through Armageddon.",
+   "description_ta": "அவர்கள் இறப்பதற்கு முன்பு அல்லது மிகுந்த உபத்திரவம் ஆரம்பிப்பதற்கு முன்பு, தங்களுடைய கடைசி முத்திரையைப் பெறுவார்கள்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "anointed",
+    "144,000",
+    "sealing"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 7:1-3",
+     "ref_ta": "வெளி. 7:1-3",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 7,
+     "verses": "1-3"
+    },
+    {
+     "ref_en": "Rev. 7:1-4",
+     "ref_ta": "வெளி. 7:1-4",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 7,
+     "verses": "1-4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 15,
+     "quote_en": "the final sealing of the remnant of anointed Christians, which will occur just before the great tribulation begins."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 14,
+     "quote_en": "That sealing happens before the outbreak of the great tribulation."
+    },
+    {
+     "docid": "1102017176",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 16",
+     "title_en": "“Put a Mark on the Foreheads”",
+     "title_ta": "“நெற்றியில் அடையாளம் போடு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017176",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017176",
+     "finder_url": "https://www.jw.org/finder?docid=1102017176&wtlocale=E",
+     "par": 18,
+     "quote_en": "they will receive their final sealing either before they die or before the outbreak of the great tribulation."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0016"
+   ],
+   "notes": "The batch request listed this after the attack on Babylon the Great; all three sources place the final sealing before the great tribulation begins, so it is ordered here right after the 'Peace and security' proclamation, as in the kr chap. 21 chart."
+  },
+  {
+   "id": "b10-0011",
+   "slug": "babylon-the-great-destroyed",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100003
+   },
+   "title_en": "Attack on Babylon the Great: the great tribulation begins",
+   "title_ta": "மதங்கள்மேல் தாக்குதல்",
+   "description_en": "Immediately after the cry of 'Peace and security!', the political powers ('ten horns') supporting the 'scarlet-colored wild beast' (the United Nations) will turn on Babylon the Great, the world empire of false religion, and destroy it as if in one day. This destruction of Christendom and all other false religious organizations opens the great tribulation; former adherents are apparently not all killed.",
+   "description_ta": "கிறிஸ்தவமண்டலமும் மற்ற எல்லா பொய் மத அமைப்புகளும் அழிக்கப்படும்போது “மிகுந்த உபத்திரவம்” ஆரம்பமாகும். (மத். 24:21; 2 தெ. 2:8)",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "great tribulation",
+    "Babylon the Great",
+    "false religion",
+    "United Nations"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 17:3",
+     "ref_ta": "வெளி. 17:3",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "3"
+    },
+    {
+     "ref_en": "Rev. 17:5, 6",
+     "ref_ta": "வெளி. 17:5, 6",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "5, 6"
+    },
+    {
+     "ref_en": "Rev. 17:16-18",
+     "ref_ta": "வெளி. 17:16-18",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "16-18"
+    },
+    {
+     "ref_en": "Rev. 18:7, 8",
+     "ref_ta": "வெளி. 18:7, 8",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 18,
+     "verses": "7, 8"
+    },
+    {
+     "ref_en": "Rev. 18:21",
+     "ref_ta": "வெளி. 18:21",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 18,
+     "verses": "21"
+    },
+    {
+     "ref_en": "Matt. 24:21",
+     "ref_ta": "மத். 24:21",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "21"
+    },
+    {
+     "ref_en": "2 Thess. 2:8",
+     "ref_ta": "2 தெ. 2:8",
+     "book": "2 Thessalonians",
+     "book_num": 53,
+     "chapter": 2,
+     "verses": "8"
+    },
+    {
+     "ref_en": "Zech. 13:4-6",
+     "ref_ta": "சக. 13:4-6",
+     "book": "Zechariah",
+     "book_num": 38,
+     "chapter": 13,
+     "verses": "4-6"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 5,
+     "quote_en": "This destruction of Christendom and all other false religious organizations forms the opening phase of the “great tribulation.”"
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 4,
+     "quote_en": "The book of Revelation answers by describing the destruction of “Babylon the Great.”"
+    },
+    {
+     "docid": "1102017175",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 15",
+     "title_en": "“I Will Bring an End to Your Prostitution”",
+     "title_ta": "“நான் உன்னுடைய விபச்சாரத்துக்கு ஒரு முடிவுகட்டுவேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017175",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017175",
+     "finder_url": "https://www.jw.org/finder?docid=1102017175&wtlocale=E",
+     "par": 21,
+     "quote_en": "This will mark the beginning of the great tribulation, a time of unprecedented turmoil."
+    },
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 5,
+     "quote_en": "That attack against all forms of false religion, including Christendom, is the start of the “great tribulation.”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/411",
+     "caption_en": "Religious organizations being destroyed",
+     "caption_ta": "மத அமைப்புகள் அழிக்கப்படுகின்றன",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/329",
+     "caption_en": "The nations that Babylon the Great has long seduced and influenced will turn on her and destroy her (See paragraphs 19, 20)",
+     "caption_ta": "மகா பாபிலோன் பல காலமாக எந்தத் தேசங்களோடு ஒழுக்கக்கேட்டில் ஈடுபட்டிருக்கிறதோ அந்தத் தேசங்களே அவளுக்கு எதிராக நடவடிக்கை எடுத்து அவளை அழித்துப்போடும் (பாராக்கள் 19, 20)",
+     "source_docid": "1102017175",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/331",
+     "caption_en": "The governments of this world will turn against Babylon the Great in an expression of God’s judgment (See paragraph 21)",
+     "caption_ta": "இந்த உலகத்தின் அரசாங்கங்கள் மகா பாபிலோனுக்கு எதிராகச் செயல்படுவதன் மூலம் கடவுளுடைய நியாயத்தீர்ப்பை நிறைவேற்றும் (பாரா 21)",
+     "source_docid": "1102017175",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/200",
+     "caption_en": "Religious buildings surrounded by soldiers",
+     "caption_ta": null,
+     "source_docid": "2012681",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/315",
+     "caption_en": "A SCARLET-COLORED WILD BEAST\nIt is being ridden by a prostitute, Babylon the Great. The beast is described as an eighth king. (Rev. 17:3-6, 8, 11) At first the prostitute controls the wild beast, but later she is destroyed by it. The prostitute represents the world empire of false religion. The beast today represents the United Nations, which promotes the interests of the worldwide political system (See paragraphs 10, 14-17)",
+     "caption_ta": "கருஞ்சிவப்பு நிறமுள்ள மூர்க்க மிருகம்\nமகா பாபிலோன் என்ற விபச்சாரி இந்த மிருகத்தின்மேல் சவாரி செய்துகொண்டு இருக்கிறாள். இந்த மிருகம்தான் எட்டாவது ராஜா. (வெளி. 17:3-6, 8, 11) இந்த மூர்க்க மிருகம், ஆரம்பத்தில் இந்த விபச்சாரியின் கட்டுப்பாட்டில் இருக்கிறது. அதற்குப் பிறகு இந்த மிருகமே அவளை அழித்துவிடுகிறது. இந்த விபச்சாரி உலகம் முழுவதும் இருக்கிற எல்லா பொய் மதங்களையும் குறிக்கிறாள். இந்த மிருகம் இன்று உலகத்தில் இருக்கிற எல்லா அரசியல் அமைப்புகளுக்கும் ஆதரவு கொடுக்கிற ஐநா சபையைக் குறிக்கிறது. (பாராக்கள் 10, 14-17)",
+     "source_docid": "2022401",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0009",
+    "b10-0012"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0012",
+   "slug": "attack-cut-short",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100004
+   },
+   "title_en": "Attack on religion 'cut short' for the sake of the chosen ones",
+   "title_ta": "தாக்குதல் குறைக்கப்படுவது",
+   "description_en": "As in 66 C.E., when the Roman attack on Jerusalem was cut short, Jehovah through Christ will cut short the nations' attack on religion so that true religion is not destroyed with the false. A brief respite follows, a time of testing in which true worshippers prove their loyalty.",
+   "description_ta": "மதங்கள்மீது ஐக்கிய நாடுகள் நடத்தும் தாக்குதலை, நம் ராஜா மூலமாக யெகோவா ‘குறைப்பார்,’ அதாவது நிறுத்துவார். அதனால், பொய் மதத்தோடு சேர்ந்து உண்மை மதம் அழிக்கப்படாது.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "great tribulation",
+    "chosen ones"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:21, 22",
+     "ref_ta": "மத். 24:21, 22",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "21, 22"
+    },
+    {
+     "ref_en": "Mark 13:20",
+     "ref_ta": "மாற். 13:20",
+     "book": "Mark",
+     "book_num": 41,
+     "chapter": 13,
+     "verses": "20"
+    },
+    {
+     "ref_en": "Ps. 96:5",
+     "ref_ta": "சங். 96:5",
+     "book": "Psalms",
+     "book_num": 19,
+     "chapter": 96,
+     "verses": "5"
+    },
+    {
+     "ref_en": "Rev. 6:15-17",
+     "ref_ta": "வெளி. 6:15-17",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 6,
+     "verses": "15-17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 7,
+     "quote_en": "Jehovah, by means of our King, will “cut short” the United Nations’ attack on religion"
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 6,
+     "quote_en": "the initial part of the future great tribulation will be “cut short” because of “the chosen ones.”"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0011"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0013",
+   "slug": "celestial-phenomena",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100005
+   },
+   "title_en": "Celestial phenomena: signs in sun, moon and stars",
+   "title_ta": "வானத்தில் நடக்கும் அற்புதமான நிகழ்வுகள்",
+   "description_en": "Jesus foretold that the sun would be darkened, the moon would not give its light and the stars would fall; religious leaders will no longer be looked to for light, and there may also be supernatural manifestations in the heavens. Enemies of the Kingdom will be in anguish and seek hiding places in vain.",
+   "description_ta": "“சூரியன் இருண்டுவிடும், சந்திரன் ஒளி கொடுக்காது, வானத்திலிருந்து நட்சத்திரங்கள் விழும்” என்று இயேசு முன்னறிவித்தார்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "great tribulation",
+    "signs in heaven"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:29",
+     "ref_ta": "மத். 24:29",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "29"
+    },
+    {
+     "ref_en": "Mark 13:24, 25",
+     "ref_ta": null,
+     "book": "Mark",
+     "book_num": 41,
+     "chapter": 13,
+     "verses": "24, 25"
+    },
+    {
+     "ref_en": "Luke 21:25, 26",
+     "ref_ta": null,
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 21,
+     "verses": "25, 26"
+    },
+    {
+     "ref_en": "Isa. 13:9-11",
+     "ref_ta": "ஏசா. 13:9-11",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 13,
+     "verses": "9-11"
+    },
+    {
+     "ref_en": "Joel 2:1, 30, 31",
+     "ref_ta": "யோவே. 2:1, 30, 31",
+     "book": "Joel",
+     "book_num": 29,
+     "chapter": 2,
+     "verses": "1, 30, 31"
+    },
+    {
+     "ref_en": "Rev. 6:15-17",
+     "ref_ta": "வெளி. 6:15-17",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 6,
+     "verses": "15-17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 9,
+     "quote_en": "Was Jesus also referring to a supernatural manifestation in the heavens? Perhaps he was."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 11,
+     "quote_en": "Will the fulfillment of this prophecy include frightening signs and events in the literal heavens? We will have to wait and see."
+    },
+    {
+     "docid": "1200004476",
+     "publication": "Insight (it-2)",
+     "title_en": "Tribulation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004476",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200004476&wtlocale=E",
+     "par": null,
+     "quote_en": "after the outbreak of the coming global tribulation, there will be striking phenomena"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/413",
+     "caption_en": "Supernatural signs in the heavens",
+     "caption_ta": "வானத்தில் அற்புதமான நிகழ்வுகள்",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0014",
+   "slug": "son-of-man-comes-judgment",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100006
+   },
+   "title_en": "Sign of the Son of man; Jesus comes in glory and judges the sheep and the goats",
+   "title_ta": "செம்மறியாடுகளையும் வெள்ளாடுகளையும் பிரிப்பது",
+   "description_en": "People will see 'the sign of the Son of man' as Jesus comes in the clouds with power and great glory to pronounce judgment. Loyal Kingdom supporters are judged as 'sheep' (the great crowd marked for survival) and lift up their heads, while opposers are judged as 'goats' and beat themselves in grief.",
+   "description_ta": "“மனிதகுமாரன் மிகுந்த வல்லமையோடும் மகிமையோடும் மேகங்களில் வருவதை அவர்கள் பார்ப்பார்கள்” என்று இயேசு சொன்னார். (மாற். 13:26) அந்தக் காட்சி, இயேசு தீர்ப்பளிக்க வந்திருக்கிறார் என்பதற்கு அடையாளமாக இருக்கும்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "sign of the Son of man",
+    "sheep and goats",
+    "judgment",
+    "marking"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:30",
+     "ref_ta": "மத். 24:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "30"
+    },
+    {
+     "ref_en": "Mark 13:26",
+     "ref_ta": "மாற். 13:26",
+     "book": "Mark",
+     "book_num": 41,
+     "chapter": 13,
+     "verses": "26"
+    },
+    {
+     "ref_en": "Luke 21:27, 28",
+     "ref_ta": null,
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 21,
+     "verses": "27, 28"
+    },
+    {
+     "ref_en": "Matt. 25:31-33",
+     "ref_ta": "மத். 25:31-33",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 25,
+     "verses": "31-33"
+    },
+    {
+     "ref_en": "Matt. 25:46",
+     "ref_ta": "மத். 25:46",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 25,
+     "verses": "46"
+    },
+    {
+     "ref_en": "Rev. 1:7",
+     "ref_ta": "வெளி. 1:7",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 1,
+     "verses": "7"
+    },
+    {
+     "ref_en": "Ezek. 9:4",
+     "ref_ta": "எசே. 9:4",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 9,
+     "verses": "4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 10,
+     "quote_en": "This supernatural display of power will signal that Jesus has come to pronounce judgment."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 12,
+     "quote_en": "This will be a time for rewarding those who are faithful and for punishing those who are not."
+    },
+    {
+     "docid": "1102017176",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 16",
+     "title_en": "“Put a Mark on the Foreheads”",
+     "title_ta": "“நெற்றியில் அடையாளம் போடு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017176",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017176",
+     "finder_url": "https://www.jw.org/finder?docid=1102017176&wtlocale=E",
+     "par": 18,
+     "quote_en": "That coming of Jesus will take place during the great tribulation, after the destruction of false religion."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/415",
+     "caption_en": "Separating the sheep from the goats",
+     "caption_ta": "வெள்ளாடுகளிலிருந்து செம்மறியாடுகள் பிரிக்கப்படுவது",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w15/2015/1087",
+     "caption_en": "We will have a positive attitude, confident of deliverance! (See paragraphs 12, 13)",
+     "caption_ta": null,
+     "source_docid": "2015523",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/341",
+     "caption_en": "The man with the secretary’s inkhorn putting a mark on a faithful man’s forehead.",
+     "caption_ta": "செயலாளரின் மைப் பெட்டியை வைத்திருப்பவர், உண்மையுள்ள ஒருவரின் நெற்றியில் அடையாளம் போடுகிறார்.",
+     "source_docid": "1102017176",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0015",
+   "slug": "gog-of-magog-attack",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100007
+   },
+   "title_en": "Attack by Gog of Magog on God's people",
+   "title_ta": "மாகோகு தேசத்தின் கோகு நடத்தும் தாக்குதல்",
+   "description_en": "With false religion gone and God's people seemingly living without walls, Gog of Magog, a coalition of nations incited by Satan, will launch an all-out attack on the anointed remnant and their other sheep companions. This attack provokes Jehovah's 'great rage.'",
+   "description_ta": "பொய் மத அமைப்புகள் அழிக்கப்பட்ட பின்பு, அதேசமயத்தில், அர்மகெதோன் போர் ஆரம்பமாவதற்கு முன்பு, உண்மை வணக்கத்தார்மீது கோகு முழு வீச்சோடு தன்னுடைய கடைசித் தாக்குதலை நடத்துவான்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "Gog of Magog",
+    "great tribulation",
+    "attack"
+   ],
+   "people": [
+    "Satan"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Ezek. 38:2",
+     "ref_ta": "எசே. 38:2",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "2"
+    },
+    {
+     "ref_en": "Ezek. 38:8",
+     "ref_ta": null,
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "8"
+    },
+    {
+     "ref_en": "Ezek. 38:10-12",
+     "ref_ta": "எசே. 38:10-12",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "10-12"
+    },
+    {
+     "ref_en": "Ezek. 38:15, 16",
+     "ref_ta": "எசே. 38:15, 16",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "15, 16"
+    },
+    {
+     "ref_en": "Rev. 12:17",
+     "ref_ta": "வெளி. 12:17",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 12,
+     "verses": "17"
+    },
+    {
+     "ref_en": "Zech. 2:8",
+     "ref_ta": "சக. 2:8",
+     "book": "Zechariah",
+     "book_num": 38,
+     "chapter": 2,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 12,
+     "quote_en": "Gog of Magog will attack the remaining anointed ones and their other sheep companions."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 10,
+     "quote_en": "what Gog of Magog, a coalition of nations, will do"
+    },
+    {
+     "docid": "1102017177",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 17",
+     "title_en": "“I Am Against You, O Gog”",
+     "title_ta": "“கோகுவே, நான் உன்னுடைய எதிரியாக வருவேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017177",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017177",
+     "finder_url": "https://www.jw.org/finder?docid=1102017177&wtlocale=E",
+     "par": 16,
+     "quote_en": "After false religious institutions have been destroyed and before Armageddon begins, Gog will launch a final, all-out attack on true worshippers."
+    },
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 8,
+     "quote_en": "It appears that they will become the object of an all-out assault by “many peoples.”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/417",
+     "caption_en": "All-out attack by God’s enemies",
+     "caption_ta": "கடவுளுடைய எதிரிகள் முழுவீச்சோடு தாக்குதல் நடத்துகிறார்கள்",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/357",
+     "caption_en": "Military personnel with weapons and armored vehicles, standing ready to attack Jehovah’s people.",
+     "caption_ta": "படைவீர்கள் ஆயுதங்களோடும், கவச வாகனங்களோடும் யெகோவாவின் மக்களைத் தாக்கத் தயாராக இருக்கிறார்கள்.",
+     "source_docid": "1102017177",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/361",
+     "caption_en": "Gog will “devise an evil plan” in a futile attempt to wipe out pure worship (See paragraph 19)",
+     "caption_ta": "தூய வணக்கத்தைத் துடைத்தழிக்க கோகு ‘ஒரு சதித்திட்டத்தைத் தீட்டுவான்.’ ஆனால், அது வெற்றி பெறாது (பாரா 19)",
+     "source_docid": "1102017177",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/202",
+     "caption_en": "Armed soldiers and riot police",
+     "caption_ta": null,
+     "source_docid": "2012681",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [
+    {
+     "docid": "1102017177",
+     "value": "Gog = Satan (former view)",
+     "note": "rr chap. 17 par. 4 notes that for many decades publications identified Gog as Satan; the adjusted understanding is that Gog is a coalition of earthly nations, with Satan as mastermind."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b10-0016",
+    "b10-0017",
+    "b10-0024"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0016",
+   "slug": "anointed-gathered-to-heaven",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100008
+   },
+   "title_en": "Remaining anointed ones gathered to heaven",
+   "title_ta": "பரலோக நம்பிக்கையுள்ளவர்களில் மீதியானோர் பரலோகத்தில் கூட்டிச்சேர்க்கப்படுவது",
+   "description_en": "At some point after Gog's attack begins and before Armageddon, the angels will gather the remaining anointed ones on earth, changed 'in the blink of an eye,' to receive their heavenly reward, so that all 144,000 can share with Christ in the war.",
+   "description_ta": "கடவுளுடைய மக்கள்மீது சாத்தான் முழுவீச்சோடு தாக்குதலை ஆரம்பித்த பிறகு ஒரு கட்டத்தில் பரலோக நம்பிக்கையுள்ளவர்களில் மீதியானோர் பரலோகத்தில் கூட்டிச்சேர்க்கப்படுவார்கள்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "anointed",
+    "144,000",
+    "gathering"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:31",
+     "ref_ta": "மத். 24:31",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "31"
+    },
+    {
+     "ref_en": "Mark 13:27",
+     "ref_ta": "மாற். 13:27",
+     "book": "Mark",
+     "book_num": 41,
+     "chapter": 13,
+     "verses": "27"
+    },
+    {
+     "ref_en": "1 Thess. 4:15-17",
+     "ref_ta": "1 தெ. 4:15-17",
+     "book": "1 Thessalonians",
+     "book_num": 52,
+     "chapter": 4,
+     "verses": "15-17"
+    },
+    {
+     "ref_en": "Rev. 14:1",
+     "ref_ta": "வெளி. 14:1",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 14,
+     "verses": "1"
+    },
+    {
+     "ref_en": "1 Cor. 15:50-53",
+     "ref_ta": null,
+     "book": "1 Corinthians",
+     "book_num": 46,
+     "chapter": 15,
+     "verses": "50-53"
+    },
+    {
+     "ref_en": "Matt. 13:43",
+     "ref_ta": "மத். 13:43",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "43"
+    },
+    {
+     "ref_en": "Rev. 17:14",
+     "ref_ta": "வெளி. 17:14",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 15,
+     "quote_en": "apparently at some point after the start of Satan’s all-out attack on God’s people, anointed ones who still remain on earth will be gathered to heaven."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 14,
+     "quote_en": "It is the time when the remaining ones of the 144,000 will receive their heavenly reward."
+    },
+    {
+     "docid": "1102017178",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 18",
+     "title_en": "“My Great Rage Will Flare Up”",
+     "title_ta": "“என்னுடைய கோபம் நெருப்பாகப் பற்றியெரியும்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017178",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017178",
+     "finder_url": "https://www.jw.org/finder?docid=1102017178&wtlocale=E",
+     "par": 22,
+     "quote_en": "At some point before Armageddon begins, the last of them remaining on earth will be raised to heavenly life"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/419",
+     "caption_en": "Earthly remnant of anointed ones being gathered to heaven",
+     "caption_ta": "பரலோக நம்பிக்கையுள்ள மீதியானோர் பரலோகத்தில் கூட்டிச்சேர்க்கப்படுகிறார்கள்",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0015",
+    "b10-0010"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0017",
+   "slug": "armageddon",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100009
+   },
+   "title_en": "War of Armageddon: the finale of the great tribulation",
+   "title_ta": "அர்மகெதோன் போர் ஆரம்பிக்கிறது!",
+   "description_en": "Jehovah's rage flares up and he sends his King, Jesus Christ, with the angels and the 144,000, to defend his people. In 'the war of the great day of God the Almighty,' all judged as goats are destroyed, God's people on earth do not fight, and the great crowd comes out of the great tribulation alive.",
+   "description_ta": "அர்மகெதோன் போர், மிகுந்த உபத்திரவத்தின் உச்சக்கட்டமாக இருக்கும்.",
+   "category": "future.prophecy",
+   "event_kind": "battle",
+   "tags": [
+    "Armageddon",
+    "Har-Magedon",
+    "great tribulation",
+    "great crowd"
+   ],
+   "people": [
+    "Jehovah",
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Ezek. 38:18",
+     "ref_ta": "எசே. 38:18",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "18"
+    },
+    {
+     "ref_en": "Ezek. 38:21",
+     "ref_ta": "எசே. 38:21",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 38,
+     "verses": "21"
+    },
+    {
+     "ref_en": "Rev. 16:14, 16",
+     "ref_ta": "வெளி. 16:14, 16",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 16,
+     "verses": "14, 16"
+    },
+    {
+     "ref_en": "Rev. 17:14",
+     "ref_ta": "வெளி. 17:14",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "14"
+    },
+    {
+     "ref_en": "Rev. 19:11-21",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 19,
+     "verses": "11-21"
+    },
+    {
+     "ref_en": "Matt. 25:46",
+     "ref_ta": "மத். 25:46",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 25,
+     "verses": "46"
+    },
+    {
+     "ref_en": "Rev. 7:9, 14",
+     "ref_ta": "வெளி. 7:9, 14",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 7,
+     "verses": "9, 14"
+    },
+    {
+     "ref_en": "Dan. 2:44",
+     "ref_ta": "தானி. 2:44",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 2,
+     "verses": "44"
+    },
+    {
+     "ref_en": "2 Chron. 20:17",
+     "ref_ta": "2 நா. 20:17",
+     "book": "2 Chronicles",
+     "book_num": 14,
+     "chapter": 20,
+     "verses": "17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 17,
+     "quote_en": "The war of Armageddon will be the finale of the great tribulation."
+    },
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 17,
+     "quote_en": "The resulting war of Armageddon will lead to the magnifying of Jehovah’s holy name."
+    },
+    {
+     "docid": "1102017178",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 18",
+     "title_en": "“My Great Rage Will Flare Up”",
+     "title_ta": "“என்னுடைய கோபம் நெருப்பாகப் பற்றியெரியும்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017178",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017178",
+     "finder_url": "https://www.jw.org/finder?docid=1102017178&wtlocale=E",
+     "par": 2,
+     "quote_en": "During the war of Armageddon, Jehovah will execute people, not in a cold, clinical manner, but in a “great rage.”"
+    },
+    {
+     "docid": "1200001884",
+     "publication": "Insight (it-1)",
+     "title_en": "Har–Magedon",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001884",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001884&wtlocale=E",
+     "par": null,
+     "quote_en": "Har–Magedon is thus seen to be a fight, not merely among men, but one in which God’s invisible armies take part."
+    },
+    {
+     "docid": "2019603",
+     "publication": "The Watchtower (Study) October 2019",
+     "title_en": "Stay Faithful Through the “Great Tribulation”",
+     "title_ta": "‘மிகுந்த உபத்திரவத்தின்போது’ உண்மையாக இருங்கள்!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2019603",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2019603",
+     "finder_url": "https://www.jw.org/finder?docid=2019603&wtlocale=E",
+     "par": 17,
+     "quote_en": "The war of Armageddon will be the grand finale to the conclusion of this system of things."
+    },
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 10,
+     "quote_en": "That intervention will be “the war of the great day of God the Almighty”​—Armageddon."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/kr/2014/407",
+     "caption_en": "The war of Armageddon begins!",
+     "caption_ta": "அர்மகெதோன் போர் ஆரம்பிக்கிறது!",
+     "source_docid": "1102014263",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/377",
+     "caption_en": "When his people are threatened, Jehovah will use heavenly armies to unleash his wrath (See paragraph 21)",
+     "caption_ta": "தன்னுடைய மக்கள் அச்சுறுத்தப்படும்போது, பரலோகப் படைகள் மூலம் யெகோவா தன்னுடைய கோபத்தை வெளிக்காட்டுவார் (பாரா 21)",
+     "source_docid": "1102017178",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/379",
+     "caption_en": "During Armageddon, Jehovah’s people will not fight. Angels will protect them as the attackers turn on one another.​—Ezek. 38:21 (See paragraphs 22-24)",
+     "caption_ta": "அர்மகெதோன் போரின்போது, யெகோவாவின் மக்கள் சண்டை போட வேண்டியிருக்காது. எதிரிகள் ஒருவரை ஒருவர் தாக்கும்போது, தேவதூதர்கள் யெகோவாவின் மக்களைப் பாதுகாப்பார்கள்.—எசே. 38:21 (பாராக்கள் 22-24)",
+     "source_docid": "1102017178",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w19/2019/752",
+     "caption_en": "Jesus and his heavenly army will soon ride into the war of Armageddon to destroy God’s enemies! (See paragraph 17)",
+     "caption_ta": "சீக்கிரத்தில் ஆரம்பிக்கப்போகிற அர்மகெதோன் போரில், இயேசுவும் அவரோடு சேர்ந்த பரலோகப் படைவீரர்களும் கடவுளுடைய எதிரிகளை நாசமாக்குவார்கள் (பாரா 17)",
+     "source_docid": "2019603",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w19/2019/750",
+     "caption_en": "Prepare now to survive the “great tribulation” (See paragraphs 13-16)h",
+     "caption_ta": "“மிகுந்த உபத்திரவத்திலிருந்து” தப்பிப்பதற்கு இப்போதே தயாராகுங்கள் (பாராக்கள் 13-16)g",
+     "source_docid": "2019603",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/204",
+     "caption_en": "Armageddon",
+     "caption_ta": null,
+     "source_docid": "2012681",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0015",
+    "b10-0019"
+   ],
+   "notes": "Sequence follows the chart 'What the Near Future Holds' in kr chap. 21; w15 7/15 par. 11 and kr par. 11 caution that the Bible does not reveal the exact time order and some events may overlap."
+  },
+  {
+   "id": "b10-0018",
+   "slug": "marriage-of-the-lamb",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100010
+   },
+   "title_en": "Marriage of the Lamb takes place in heaven",
+   "title_ta": null,
+   "description_en": "Once all the 144,000 are in heaven and the earth has been cleansed at Armageddon, the marriage of the Lamb, the climax of Revelation, takes place; Psalm 45 likewise shows the King fighting first and the marriage following.",
+   "description_ta": "கடைசியாக, வெளிப்படுத்துதல் புத்தகத்தில் சொல்லப்பட்டு இருப்பதுபோல் ஆட்டுக்குட்டியானவரின் திருமணம் நடக்கும்!",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "marriage of the Lamb",
+    "144,000"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 19:9",
+     "ref_ta": "வெளி. 19:9",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 19,
+     "verses": "9"
+    },
+    {
+     "ref_en": "Rev. 21:1-4",
+     "ref_ta": "வெளி. 21:1-4",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 21,
+     "verses": "1-4"
+    },
+    {
+     "ref_en": "Ps. 45:1-17",
+     "ref_ta": null,
+     "book": "Psalms",
+     "book_num": 19,
+     "chapter": 45,
+     "verses": "1-17"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2015523",
+     "publication": "The Watchtower 2015 7/15",
+     "title_en": "“Your Deliverance Is Getting Near”!",
+     "title_ta": "உங்களுடைய மீட்பு நெருங்கிவிட்டது!",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015523",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015523",
+     "finder_url": "https://www.jw.org/finder?docid=2015523&wtlocale=E",
+     "par": 17,
+     "quote_en": "With all preparations completed, the climax of the book of Revelation, the marriage of the Lamb, can take place."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "Single source (w15 7/15 par. 16-17 and footnote d); not in the batch request list but explicitly sequenced by the source."
+  },
+  {
+   "id": "b10-0019",
+   "slug": "satan-abyssed",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100011
+   },
+   "title_en": "Satan and the demons hurled into the abyss for a thousand years",
+   "title_ta": null,
+   "description_en": "After Satan's whole earthly organization is wiped out, Jesus Christ, the angel with the key of the abyss, will seize Satan and his demons and hurl them into the abyss, a deathlike, inactive state, for a thousand years, the initial stage of bruising the serpent's head.",
+   "description_ta": "‘அதலபாதாளத்தின் சாவியை . . . தன் கையில்’ வைத்திருக்கும் ‘தேவதூதர்,’ அதாவது இயேசு கிறிஸ்து, சாத்தானையும் அவனுடைய பேய்களையும் பிடித்து, அதலபாதாளத்தில் தள்ளி, ஆயிரம் வருடங்களுக்குக் கட்டிப்போடுவார்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "Satan",
+    "demons",
+    "abyss"
+   ],
+   "people": [
+    "Satan",
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 20:1-3",
+     "ref_ta": "வெளி. 20:1-3",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "1-3"
+    },
+    {
+     "ref_en": "Rev. 6:2",
+     "ref_ta": "வெளி. 6:2",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 6,
+     "verses": "2"
+    },
+    {
+     "ref_en": "Luke 8:30, 31",
+     "ref_ta": "லூக். 8:30, 31",
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 8,
+     "verses": "30, 31"
+    },
+    {
+     "ref_en": "1 John 3:8",
+     "ref_ta": "1 யோ. 3:8",
+     "book": "1 John",
+     "book_num": 62,
+     "chapter": 3,
+     "verses": "8"
+    },
+    {
+     "ref_en": "Gen. 3:15",
+     "ref_ta": "ஆதி. 3:15",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 3,
+     "verses": "15"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102014263",
+     "publication": "God’s Kingdom Rules! (kr) chap. 21",
+     "title_en": "God’s Kingdom Removes Its Enemies",
+     "title_ta": "கடவுளுடைய அரசாங்கம் எதிரிகளை ஒழித்துக்கட்டுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014263",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014263",
+     "finder_url": "https://www.jw.org/finder?docid=1102014263&wtlocale=E",
+     "par": 18,
+     "quote_en": "he will hurl Satan and his demons into the abyss. There they will be kept in a deathlike, inactive state for a thousand years."
+    },
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 15,
+     "quote_en": "will seize Satan and his demons, hurl them into the abyss, and keep them there for a thousand years."
+    },
+    {
+     "docid": "2022401",
+     "publication": "The Watchtower (Study) May 2022",
+     "title_en": "Revelation—What It Means for God’s Enemies",
+     "title_ta": "வெளிப்படுத்துதல்—கடவுளுடைய எதிரிகளைப் பற்றி என்ன சொல்கிறது?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401",
+     "finder_url": "https://www.jw.org/finder?docid=2022401&wtlocale=E",
+     "par": 20,
+     "quote_en": "an angel will hurl Satan into an abyss, which represents a prisonlike confinement."
+    },
+    {
+     "docid": "1200000065",
+     "publication": "Insight (it-1)",
+     "title_en": "Abyss",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000065",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000065&wtlocale=E",
+     "par": null,
+     "quote_en": "Revelation 20:1-3 describes the future casting of Satan into the abyss"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/206",
+     "caption_en": "A dragon being thrown into an abyss",
+     "caption_ta": null,
+     "source_docid": "2012681",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0017",
+    "b10-0024"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0020",
+   "slug": "thousand-year-reign-begins",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100012
+   },
+   "title_en": "Christ's Thousand Year Reign begins",
+   "title_ta": null,
+   "description_en": "With all wickedness gone, mankind enters Christ's Millennial Reign. Jesus and his 144,000 corulers will progressively undo the damage done to humans and the earth, fulfilling the promise of 'new heavens and a new earth.'",
+   "description_ta": "இந்தச் சம்பவங்களெல்லாம் நடந்தேறிய பிறகு, பொல்லாதவர்கள் முற்றிலும் அகற்றப்பட்டிருப்பார்கள்; புதிய சகாப்தத்தில், கிறிஸ்துவின் ஆயிர வருட ஆட்சியில், நாம் அடியெடுத்து வைப்போம்",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "Millennium",
+    "Thousand Year Reign",
+    "Paradise"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 20:4, 6",
+     "ref_ta": "வெளி. 20:4, 6",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "4, 6"
+    },
+    {
+     "ref_en": "Ps. 37:10, 11",
+     "ref_ta": "சங். 37:10, 11",
+     "book": "Psalms",
+     "book_num": 19,
+     "chapter": 37,
+     "verses": "10, 11"
+    },
+    {
+     "ref_en": "Isa. 65:17",
+     "ref_ta": "ஏசா. 65:17",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 65,
+     "verses": "17"
+    },
+    {
+     "ref_en": "Isa. 65:21",
+     "ref_ta": "ஏசா. 65:21",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 65,
+     "verses": "21"
+    },
+    {
+     "ref_en": "Isa. 11:6-9",
+     "ref_ta": "ஏசா. 11:6-9",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 11,
+     "verses": "6-9"
+    },
+    {
+     "ref_en": "Rev. 21:4",
+     "ref_ta": "வெளி. 21:4",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 21,
+     "verses": "4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2012681",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "How This World Will Come to an End",
+     "title_ta": "இந்த உலகம் எப்படி அழிவைச் சந்திக்கும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012681",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012681",
+     "finder_url": "https://www.jw.org/finder?docid=2012681&wtlocale=E",
+     "par": 17,
+     "quote_en": "After these events, when all wickedness is gone, we will enter a new chapter in life​—Christ’s Millennial Reign"
+    },
+    {
+     "docid": "2012682",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "Peace for a Thousand Years—And Beyond!",
+     "title_ta": "சமாதானம் —ஆயிரம் ஆண்டுகளுக்கும்... அதற்கு அப்பாலும்...",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682",
+     "finder_url": "https://www.jw.org/finder?docid=2012682&wtlocale=E",
+     "par": 3,
+     "quote_en": "God’s Kingdom will take progressive steps to undo all the damage done to humans and their home"
+    },
+    {
+     "docid": "2022402",
+     "publication": "The Watchtower (Study) May 2022",
+     "title_en": "Revelation—What It Means for Your Future",
+     "title_ta": "வெளிப்படுத்துதல்—உங்களுடைய எதிர்காலத்தைப் பற்றி என்ன சொல்கிறது?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022402",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022402",
+     "finder_url": "https://www.jw.org/finder?docid=2022402&wtlocale=E",
+     "par": null,
+     "quote_en": "During the Millennium, it will bring countless blessings to obedient mankind"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/216",
+     "caption_en": "1. Building houses in Paradise; 2. A little girl playing with a leopard",
+     "caption_ta": null,
+     "source_docid": "2012682",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/323",
+     "caption_en": "Revelation chapter 21 depicts the symbolic city of New Jerusalem as “coming down out of heaven from God.” During the Millennium, it will bring countless blessings to obedient mankind (See paragraphs 14-16)",
+     "caption_ta": "அடையாள அர்த்தமுள்ள புதிய எருசலேம் என்ற நகரம் “கடவுளிடமிருந்து பரலோகத்தைவிட்டு இறங்கி வருவதை” பற்றி வெளிப்படுத்துதல் 21-வது அதிகாரம் சொல்கிறது. ஆயிர வருஷ ஆட்சியின்போது, கடவுளுக்குக் கீழ்ப்படிகிற மனிதர்களுக்கு அது அளவில்லாத ஆசீர்வாதங்களைக் கொடுக்கும் (பாராக்கள் 14-16)",
+     "source_docid": "2022402",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/325",
+     "caption_en": "Who will benefit from the provisions represented by “a river” and by “trees”? (See paragraphs 16-17)",
+     "caption_ta": "‘ஆற்றையும்’ ‘மரங்களையும்’ அடையாளப்படுத்துகிற ஏற்பாடுகளிலிருந்து யாரெல்லாம் நன்மை அடைவார்கள்? (பாராக்கள் 16-17)",
+     "source_docid": "2022402",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b10-0021",
+   "slug": "earthly-resurrection",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100013
+   },
+   "title_en": "Earthly resurrection of the righteous and the unrighteous",
+   "title_ta": null,
+   "description_en": "During the Thousand Year Reign, billions will be raised to life on earth: 'the righteous,' whose names are already in the book of life ('a resurrection of life'), and 'the unrighteous' ('a resurrection of judgment'), who will be taught Jehovah's standards in a vast educational program.",
+   "description_ta": "இறந்துபோன கோடிக்கணக்கான மக்களை இயேசு தன்னுடைய ஆயிர வருஷ ஆட்சியின்போது உயிர்த்தெழுப்புவார்.",
+   "category": "future.prophecy",
+   "event_kind": "resurrection",
+   "tags": [
+    "resurrection",
+    "Millennium",
+    "righteous",
+    "unrighteous"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Acts 24:15",
+     "ref_ta": "அப். 24:15",
+     "book": "Acts",
+     "book_num": 44,
+     "chapter": 24,
+     "verses": "15"
+    },
+    {
+     "ref_en": "John 5:28, 29",
+     "ref_ta": "யோவா. 5:28, 29",
+     "book": "John",
+     "book_num": 43,
+     "chapter": 5,
+     "verses": "28, 29"
+    },
+    {
+     "ref_en": "1 Cor. 15:26",
+     "ref_ta": "1 கொ. 15:26",
+     "book": "1 Corinthians",
+     "book_num": 46,
+     "chapter": 15,
+     "verses": "26"
+    },
+    {
+     "ref_en": "Mark 5:38-42",
+     "ref_ta": "மாற். 5:38-42",
+     "book": "Mark",
+     "book_num": 41,
+     "chapter": 5,
+     "verses": "38-42"
+    },
+    {
+     "ref_en": "Luke 7:11-17",
+     "ref_ta": null,
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 7,
+     "verses": "11-17"
+    },
+    {
+     "ref_en": "Luke 23:43",
+     "ref_ta": "லூக். 23:43",
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 23,
+     "verses": "43"
+    },
+    {
+     "ref_en": "Rev. 20:13",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "13"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2022567",
+     "publication": "The Watchtower (Study) September 2022",
+     "title_en": "Is Your Name in “the Book of Life”?",
+     "title_ta": "‘வாழ்வின் புத்தகத்தில்’ உங்கள் பெயர் எழுதப்பட்டிருக்கிறதா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022567",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022567",
+     "finder_url": "https://www.jw.org/finder?docid=2022567&wtlocale=E",
+     "par": 9,
+     "quote_en": "The Bible speaks of two groups of people who will be resurrected with the prospect of living forever on earth"
+    },
+    {
+     "docid": "1102017192",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 22",
+     "title_en": "“Worship God”",
+     "title_ta": "“கடவுளை வணங்கு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017192",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017192",
+     "finder_url": "https://www.jw.org/finder?docid=1102017192&wtlocale=E",
+     "par": 19,
+     "quote_en": "During the Thousand Year Reign, Jesus will bring billions back to life"
+    },
+    {
+     "docid": "2012682",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "Peace for a Thousand Years—And Beyond!",
+     "title_ta": "சமாதானம் —ஆயிரம் ஆண்டுகளுக்கும்... அதற்கு அப்பாலும்...",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682",
+     "finder_url": "https://www.jw.org/finder?docid=2012682&wtlocale=E",
+     "par": 14,
+     "quote_en": "For the billions who have already been snatched up by death, it will be possible to experience a resurrection."
+    },
+    {
+     "docid": "1200003709",
+     "publication": "Insight (it-2)",
+     "title_en": "Resurrection",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003709",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003709&wtlocale=E",
+     "par": null,
+     "quote_en": "this judgment is placed in the Bible in the account of events occurring during Christ’s Thousand Year Reign"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/218",
+     "caption_en": "1. A father hugging his resurrected daughter; 2. A family playing at the beach",
+     "caption_ta": null,
+     "source_docid": "2012682",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/645",
+     "caption_en": "A brother shares in the great educational program that will take place during the Millennium (See paragraph 20)",
+     "caption_ta": "ஆயிர வருட ஆட்சியில் நடைபெறுகிற பிரமாண்டமான கற்பிக்கும் வேலையில் ஒரு சகோதரர் ஈடுபடுகிறார். (பாரா 20)",
+     "source_docid": "2022567",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [
+    {
+     "docid": "1200003709",
+     "value": "John 5:29 'did good things'/'practiced vile things' viewed in retrospect of deeds after resurrection",
+     "note": "Insight 'Resurrection' explains John 5:29 as referring to deeds done during the judgment period after resurrection; the newer w22 September (par. 14-16) clarifies that the deeds were done before death: 'resurrection of life' = the righteous, 'resurrection of judgment' = the unrighteous. Newer publication followed."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b10-0022"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0022",
+   "slug": "scrolls-opened",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100014
+   },
+   "title_en": "New scrolls opened; the resurrected judged by their deeds",
+   "title_ta": null,
+   "description_en": "During the 1,000 years new scrolls will be opened, and all resurrected ones, righteous and unrighteous, must obey the laws written in them. They are judged according to their deeds in response to this new-world training, not by deeds done before death.",
+   "description_ta": "ஆயிர வருஷ ஆட்சியில் புதிய சுருள்கள் திறக்கப்படும். உயிர்த்தெழுந்து வருபவர்கள் நீதிமான்களாக இருந்தாலும் சரி, அநீதிமான்களாக இருந்தாலும் சரி, அந்தச் சுருள்களில் இருக்கிற சட்டங்களுக்குக் கீழ்ப்படிய வேண்டும்.",
+   "category": "future.prophecy",
+   "event_kind": "judgment",
+   "tags": [
+    "Judgment Day",
+    "scrolls",
+    "book of life",
+    "Millennium"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 20:12, 13",
+     "ref_ta": "வெளி. 20:12, 13",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "12, 13"
+    },
+    {
+     "ref_en": "Rom. 6:7",
+     "ref_ta": null,
+     "book": "Romans",
+     "book_num": 45,
+     "chapter": 6,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2022567",
+     "publication": "The Watchtower (Study) September 2022",
+     "title_en": "Is Your Name in “the Book of Life”?",
+     "title_ta": "‘வாழ்வின் புத்தகத்தில்’ உங்கள் பெயர் எழுதப்பட்டிருக்கிறதா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022567",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022567",
+     "finder_url": "https://www.jw.org/finder?docid=2022567&wtlocale=E",
+     "par": 17,
+     "quote_en": "resurrected ones will need to obey the laws found in the new scrolls that will be opened during the 1,000 years."
+    },
+    {
+     "docid": "1200003709",
+     "publication": "Insight (it-2)",
+     "title_en": "Resurrection",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003709",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200003709&wtlocale=E",
+     "par": null,
+     "quote_en": "They are “judged out of those things written in the scrolls” that will be opened then."
+    },
+    {
+     "docid": "1200002547",
+     "publication": "Insight (it-2)",
+     "title_en": "Judgment Day",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002547",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002547&wtlocale=E",
+     "par": null,
+     "quote_en": "Revelation 20:12 says that the resurrected dead will then be “judged out of those things written in the scrolls according to their deeds.”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/643",
+     "caption_en": "Down through history, Jehovah has added names to “the book of life” (See paragraphs 1-2)",
+     "caption_ta": "ஆபேலின் காலத்திலிருந்தே ‘வாழ்வின் புத்தகத்தில்’ ஏராளமானவர்களின் பெயர்களை யெகோவா சேர்த்துவந்திருக்கிறார் (பாராக்கள் 1-2)",
+     "source_docid": "2022567",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0021"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0023",
+   "slug": "kingdom-handed-back-to-father",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100015
+   },
+   "title_en": "Christ hands the Kingdom back to his God and Father",
+   "title_ta": null,
+   "description_en": "At the end of the thousand years, when mankind is perfect and the earth a Paradise, Jesus and his 144,000 corulers will humbly hand over the Kingdom to Jehovah, so that God may be 'all things to everyone.'",
+   "description_ta": "இயேசுவும் அவரோடு சேர்ந்து ஆட்சி செய்யும் 1,44,000 பேரும் மிகச் சிறந்த விதத்தில் மனத்தாழ்மையைக் காட்டுவார்கள். ஆம், அவர்கள் அரசாங்கத்தை யெகோவாவிடம் ஒப்படைப்பார்கள்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "Millennium end",
+    "Kingdom",
+    "humility"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Jehovah"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "1 Cor. 15:24-28",
+     "ref_ta": null,
+     "book": "1 Corinthians",
+     "book_num": 46,
+     "chapter": 15,
+     "verses": "24-28"
+    },
+    {
+     "ref_en": "Matt. 28:18",
+     "ref_ta": "மத். 28:18",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 28,
+     "verses": "18"
+    },
+    {
+     "ref_en": "Phil. 2:9-11",
+     "ref_ta": "பிலி. 2:9-11",
+     "book": "Philippians",
+     "book_num": 50,
+     "chapter": 2,
+     "verses": "9-11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102017192",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 22",
+     "title_en": "“Worship God”",
+     "title_ta": "“கடவுளை வணங்கு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017192",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017192",
+     "finder_url": "https://www.jw.org/finder?docid=1102017192&wtlocale=E",
+     "par": 20,
+     "quote_en": "Jesus and his 144,000 corulers will display remarkable humility; they will hand over the Kingdom to Jehovah."
+    },
+    {
+     "docid": "2012682",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "Peace for a Thousand Years—And Beyond!",
+     "title_ta": "சமாதானம் —ஆயிரம் ஆண்டுகளுக்கும்... அதற்கு அப்பாலும்...",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682",
+     "finder_url": "https://www.jw.org/finder?docid=2012682&wtlocale=E",
+     "par": 18,
+     "quote_en": "He humbly “hands over the kingdom to his God and Father.”"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/499",
+     "caption_en": "Jesus handing his crown back to Jehovah.",
+     "caption_ta": "இயேசு தன்னுடைய கிரீடத்தை, யெகோவாவிடம் திருப்பிக் கொடுக்கிறார்.",
+     "source_docid": "1102017192",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w12/2012/220",
+     "caption_en": "Upon completion of his assignments as King, Jesus will humbly hand over the Kingdom to his Father",
+     "caption_ta": null,
+     "source_docid": "2012682",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0024"
+   ],
+   "notes": "The batch request listed this last; rr chap. 22 (par. 20-21) and w12 9/15 (par. 18-19) both place the handing over of the Kingdom at the end of the Millennium, before Satan's release and the final test, so the source order is kept."
+  },
+  {
+   "id": "b10-0024",
+   "slug": "final-test",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100016
+   },
+   "title_en": "Satan released from the abyss; the final test",
+   "title_ta": null,
+   "description_en": "After the thousand years, Satan and the demons are released for a brief period to test perfected mankind, most of whom have never had their loyalty tested. Those who rebel are called 'Gog and Magog'; their number, 'as the sand of the sea,' need not be a large proportion of mankind.",
+   "description_ta": "ஆயிரம் வருஷங்களாகக் கட்டி வைக்கப்பட்டிருந்த சாத்தானையும் பேய்களையும் அதலபாதாளத்திலிருந்து விடுதலை செய்யும்படி அவர் கட்டளையிடுவார்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "final test",
+    "Gog and Magog",
+    "Satan released"
+   ],
+   "people": [
+    "Satan"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 20:3",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "3"
+    },
+    {
+     "ref_en": "Rev. 20:7-9",
+     "ref_ta": null,
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "7-9"
+    },
+    {
+     "ref_en": "Job 1:9, 10",
+     "ref_ta": "யோபு 1:9, 10",
+     "book": "Job",
+     "book_num": 18,
+     "chapter": 1,
+     "verses": "9, 10"
+    },
+    {
+     "ref_en": "Gen. 22:17, 18",
+     "ref_ta": "ஆதி. 22:17, 18",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 22,
+     "verses": "17, 18"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102017192",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 22",
+     "title_en": "“Worship God”",
+     "title_ta": "“கடவுளை வணங்கு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017192",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017192",
+     "finder_url": "https://www.jw.org/finder?docid=1102017192&wtlocale=E",
+     "par": 21,
+     "quote_en": "He will direct that Satan and the demons be released from the abyss in which they have been confined for the thousand years."
+    },
+    {
+     "docid": "2012682",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "Peace for a Thousand Years—And Beyond!",
+     "title_ta": "சமாதானம் —ஆயிரம் ஆண்டுகளுக்கும்... அதற்கு அப்பாலும்...",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682",
+     "finder_url": "https://www.jw.org/finder?docid=2012682&wtlocale=E",
+     "par": 19,
+     "quote_en": "They will have the opportunity to demonstrate their desire to do that by successfully passing the final test."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/501",
+     "caption_en": "TEACHING BOX 22A: Facing the Final Test",
+     "caption_ta": "தகவல் பெட்டி 22அ: கடைசி சோதனையைச் சந்தித்தல்",
+     "source_docid": "1102017192",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/505",
+     "caption_en": "Those who rebel are called Gog and Magog (See paragraph 24)",
+     "caption_ta": "கலகம் செய்கிறவர்கள் கோகு என்றும் மாகோகு என்றும் அழைக்கப்படுவார்கள் (பாரா 24)",
+     "source_docid": "1102017192",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0019",
+    "b10-0025"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b10-0025",
+   "slug": "satan-destroyed",
+   "date": {
+    "display_en": "Future (undated)",
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "year_end": null,
+    "era_end": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "sort_key": 100017
+   },
+   "title_en": "Satan, the demons and all rebels destroyed forever",
+   "title_ta": null,
+   "description_en": "Those who join the rebellion are quickly wiped out together with Satan and the demons, hurled into 'the lake of fire and sulfur' with no prospect of resurrection. Those who pass the final test have their names permanently written in the book of life, and all creation is united in pure worship.",
+   "description_ta": "கடைசியில், சாத்தானும் அவனோடு சேர்ந்த பேய்களும் “நெருப்பும் கந்தகமும் எரிகிற ஏரியில்” தள்ளப்படுவார்கள், அதாவது முழுமையாக அழிக்கப்படுவார்கள்.",
+   "category": "future.prophecy",
+   "event_kind": "prophecy",
+   "tags": [
+    "Satan",
+    "lake of fire",
+    "book of life"
+   ],
+   "people": [
+    "Satan"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 20:10",
+     "ref_ta": "வெளி. 20:10",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "10"
+    },
+    {
+     "ref_en": "Rev. 20:15",
+     "ref_ta": "வெளி. 20:15",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "15"
+    },
+    {
+     "ref_en": "Ps. 99:1-3",
+     "ref_ta": null,
+     "book": "Psalms",
+     "book_num": 19,
+     "chapter": 99,
+     "verses": "1-3"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1102017192",
+     "publication": "Pure Worship of Jehovah—Restored At Last! (rr) chap. 22",
+     "title_en": "“Worship God”",
+     "title_ta": "“கடவுளை வணங்கு”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017192",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017192",
+     "finder_url": "https://www.jw.org/finder?docid=1102017192&wtlocale=E",
+     "par": 26,
+     "quote_en": "Along with Satan and the demons, they will cease to exist​—with no prospect of ever coming back to life."
+    },
+    {
+     "docid": "2022401",
+     "publication": "The Watchtower (Study) May 2022",
+     "title_en": "Revelation—What It Means for God’s Enemies",
+     "title_ta": "வெளிப்படுத்துதல்—கடவுளுடைய எதிரிகளைப் பற்றி என்ன சொல்கிறது?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401",
+     "finder_url": "https://www.jw.org/finder?docid=2022401&wtlocale=E",
+     "par": 20,
+     "quote_en": "Finally, Satan and his demons will be destroyed once and for all"
+    },
+    {
+     "docid": "2012682",
+     "publication": "The Watchtower 2012 9/15",
+     "title_en": "Peace for a Thousand Years—And Beyond!",
+     "title_ta": "சமாதானம் —ஆயிரம் ஆண்டுகளுக்கும்... அதற்கு அப்பாலும்...",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012682",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012682",
+     "finder_url": "https://www.jw.org/finder?docid=2012682&wtlocale=E",
+     "par": 19,
+     "quote_en": "Thereafter, all rebels​—human and spirit—​will be eliminated forever."
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/317",
+     "caption_en": "THE FIERY-COLORED DRAGON\nSatan gives authority to the wild beast. (Rev. 12:3, 9, 13; 13:4; 20:2, 10) As Jehovah’s greatest enemy, Satan will be abyssed for 1,000 years. After that, Satan will be hurled into “the lake of fire and sulfur” (See paragraphs 19-20)",
+     "caption_ta": "சிவப்புநிற ராட்சதப் பாம்பு\nஏழு தலைகள் இருக்கிற மூர்க்க மிருகத்துக்கு சாத்தான் அதிகாரத்தைக் கொடுக்கிறான். (வெளி. 12:3, 9, 13; 13:4; 20:2, 10) யெகோவாவுடைய முக்கிய எதிரியான சாத்தான் 1,000 வருஷங்களுக்கு அதலபாதாளத்தில் அடைக்கப்படுவான். அதற்குப் பிறகு, அவன் “நெருப்பும் கந்தகமும் எரிகிற ஏரியில்” தள்ளப்படுவான். (பாராக்கள் 19-20)",
+     "source_docid": "2022401",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/509",
+     "caption_en": "Imagine the joy when all creation in heaven and on earth will finally be united in pure worship (See paragraphs 27-29)",
+     "caption_ta": "பரலோகத்திலும் பூமியிலும் உள்ள எல்லா படைப்புகளும் கடைசியில் ஒன்றுபட்டு தூய வணக்கத்தில் ஈடுபடும் சந்தோஷத்தை கற்பனை செய்து பாருங்கள் (பாராக்கள் 27-29)",
+     "source_docid": "1102017192",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0024"
+   ],
+   "notes": null
+  }
+ ]
+}

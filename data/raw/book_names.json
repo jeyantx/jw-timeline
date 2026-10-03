@@ -1,0 +1,471 @@
+{
+ "source": {
+  "en": "https://wol.jw.org/en/wol/binav/r1/lp-e",
+  "ta": "https://wol.jw.org/ta/wol/binav/r122/lp-tl",
+  "note": "Tamil names/abbreviations from the Tamil NWT Study Edition (nwtsty) book navigation on WOL; English from English WOL book navigation."
+ },
+ "books": [
+  {
+   "book_num": 1,
+   "en_name": "Genesis",
+   "en_abbr": "Gen.",
+   "ta_name": "ஆதியாகமம்",
+   "ta_abbr": "ஆதி."
+  },
+  {
+   "book_num": 2,
+   "en_name": "Exodus",
+   "en_abbr": "Ex.",
+   "ta_name": "யாத்திராகமம்",
+   "ta_abbr": "யாத்."
+  },
+  {
+   "book_num": 3,
+   "en_name": "Leviticus",
+   "en_abbr": "Lev.",
+   "ta_name": "லேவியராகமம்",
+   "ta_abbr": "லேவி."
+  },
+  {
+   "book_num": 4,
+   "en_name": "Numbers",
+   "en_abbr": "Num.",
+   "ta_name": "எண்ணாகமம்",
+   "ta_abbr": "எண்."
+  },
+  {
+   "book_num": 5,
+   "en_name": "Deuteronomy",
+   "en_abbr": "Deut.",
+   "ta_name": "உபாகமம்",
+   "ta_abbr": "உபா."
+  },
+  {
+   "book_num": 6,
+   "en_name": "Joshua",
+   "en_abbr": "Josh.",
+   "ta_name": "யோசுவா",
+   "ta_abbr": "யோசு."
+  },
+  {
+   "book_num": 7,
+   "en_name": "Judges",
+   "en_abbr": "Judg.",
+   "ta_name": "நியாயாதிபதிகள்",
+   "ta_abbr": "நியா."
+  },
+  {
+   "book_num": 8,
+   "en_name": "Ruth",
+   "en_abbr": "Ruth",
+   "ta_name": "ரூத்",
+   "ta_abbr": "ரூ."
+  },
+  {
+   "book_num": 9,
+   "en_name": "1 Samuel",
+   "en_abbr": "1 Sam.",
+   "ta_name": "1 சாமுவேல்",
+   "ta_abbr": "1 சா."
+  },
+  {
+   "book_num": 10,
+   "en_name": "2 Samuel",
+   "en_abbr": "2 Sam.",
+   "ta_name": "2 சாமுவேல்",
+   "ta_abbr": "2 சா."
+  },
+  {
+   "book_num": 11,
+   "en_name": "1 Kings",
+   "en_abbr": "1 Ki.",
+   "ta_name": "1 ராஜாக்கள்",
+   "ta_abbr": "1 ரா."
+  },
+  {
+   "book_num": 12,
+   "en_name": "2 Kings",
+   "en_abbr": "2 Ki.",
+   "ta_name": "2 ராஜாக்கள்",
+   "ta_abbr": "2 ரா."
+  },
+  {
+   "book_num": 13,
+   "en_name": "1 Chronicles",
+   "en_abbr": "1 Chron.",
+   "ta_name": "1 நாளாகமம்",
+   "ta_abbr": "1 நா."
+  },
+  {
+   "book_num": 14,
+   "en_name": "2 Chronicles",
+   "en_abbr": "2 Chron.",
+   "ta_name": "2 நாளாகமம்",
+   "ta_abbr": "2 நா."
+  },
+  {
+   "book_num": 15,
+   "en_name": "Ezra",
+   "en_abbr": "Ezra",
+   "ta_name": "எஸ்றா",
+   "ta_abbr": "எஸ்றா"
+  },
+  {
+   "book_num": 16,
+   "en_name": "Nehemiah",
+   "en_abbr": "Neh.",
+   "ta_name": "நெகேமியா",
+   "ta_abbr": "நெ."
+  },
+  {
+   "book_num": 17,
+   "en_name": "Esther",
+   "en_abbr": "Esther",
+   "ta_name": "எஸ்தர்",
+   "ta_abbr": "எஸ்தர்."
+  },
+  {
+   "book_num": 18,
+   "en_name": "Job",
+   "en_abbr": "Job",
+   "ta_name": "யோபு",
+   "ta_abbr": "யோபு"
+  },
+  {
+   "book_num": 19,
+   "en_name": "Psalms",
+   "en_abbr": "Ps.",
+   "ta_name": "சங்கீதம்",
+   "ta_abbr": "சங்."
+  },
+  {
+   "book_num": 20,
+   "en_name": "Proverbs",
+   "en_abbr": "Prov.",
+   "ta_name": "நீதிமொழிகள்",
+   "ta_abbr": "நீதி."
+  },
+  {
+   "book_num": 21,
+   "en_name": "Ecclesiastes",
+   "en_abbr": "Eccl.",
+   "ta_name": "பிரசங்கி",
+   "ta_abbr": "பிர."
+  },
+  {
+   "book_num": 22,
+   "en_name": "Song of Solomon",
+   "en_abbr": "Song of Sol.",
+   "ta_name": "உன்னதப்பாட்டு",
+   "ta_abbr": "உன்."
+  },
+  {
+   "book_num": 23,
+   "en_name": "Isaiah",
+   "en_abbr": "Isa.",
+   "ta_name": "ஏசாயா",
+   "ta_abbr": "ஏசா."
+  },
+  {
+   "book_num": 24,
+   "en_name": "Jeremiah",
+   "en_abbr": "Jer.",
+   "ta_name": "எரேமியா",
+   "ta_abbr": "எரே."
+  },
+  {
+   "book_num": 25,
+   "en_name": "Lamentations",
+   "en_abbr": "Lam.",
+   "ta_name": "புலம்பல்",
+   "ta_abbr": "புல."
+  },
+  {
+   "book_num": 26,
+   "en_name": "Ezekiel",
+   "en_abbr": "Ezek.",
+   "ta_name": "எசேக்கியேல்",
+   "ta_abbr": "எசே."
+  },
+  {
+   "book_num": 27,
+   "en_name": "Daniel",
+   "en_abbr": "Dan.",
+   "ta_name": "தானியேல்",
+   "ta_abbr": "தானி."
+  },
+  {
+   "book_num": 28,
+   "en_name": "Hosea",
+   "en_abbr": "Hos.",
+   "ta_name": "ஓசியா",
+   "ta_abbr": "ஓசி."
+  },
+  {
+   "book_num": 29,
+   "en_name": "Joel",
+   "en_abbr": "Joel",
+   "ta_name": "யோவேல்",
+   "ta_abbr": "யோவே."
+  },
+  {
+   "book_num": 30,
+   "en_name": "Amos",
+   "en_abbr": "Amos",
+   "ta_name": "ஆமோஸ்",
+   "ta_abbr": "ஆமோ."
+  },
+  {
+   "book_num": 31,
+   "en_name": "Obadiah",
+   "en_abbr": "Obad.",
+   "ta_name": "ஒபதியா",
+   "ta_abbr": "ஒப."
+  },
+  {
+   "book_num": 32,
+   "en_name": "Jonah",
+   "en_abbr": "Jonah",
+   "ta_name": "யோனா",
+   "ta_abbr": "யோனா"
+  },
+  {
+   "book_num": 33,
+   "en_name": "Micah",
+   "en_abbr": "Mic.",
+   "ta_name": "மீகா",
+   "ta_abbr": "மீ."
+  },
+  {
+   "book_num": 34,
+   "en_name": "Nahum",
+   "en_abbr": "Nah.",
+   "ta_name": "நாகூம்",
+   "ta_abbr": "நாகூ."
+  },
+  {
+   "book_num": 35,
+   "en_name": "Habakkuk",
+   "en_abbr": "Hab.",
+   "ta_name": "ஆபகூக்",
+   "ta_abbr": "ஆப."
+  },
+  {
+   "book_num": 36,
+   "en_name": "Zephaniah",
+   "en_abbr": "Zeph.",
+   "ta_name": "செப்பனியா",
+   "ta_abbr": "செப்."
+  },
+  {
+   "book_num": 37,
+   "en_name": "Haggai",
+   "en_abbr": "Hag.",
+   "ta_name": "ஆகாய்",
+   "ta_abbr": "ஆகா."
+  },
+  {
+   "book_num": 38,
+   "en_name": "Zechariah",
+   "en_abbr": "Zech.",
+   "ta_name": "சகரியா",
+   "ta_abbr": "சக."
+  },
+  {
+   "book_num": 39,
+   "en_name": "Malachi",
+   "en_abbr": "Mal.",
+   "ta_name": "மல்கியா",
+   "ta_abbr": "மல்."
+  },
+  {
+   "book_num": 40,
+   "en_name": "Matthew",
+   "en_abbr": "Matt.",
+   "ta_name": "மத்தேயு",
+   "ta_abbr": "மத்."
+  },
+  {
+   "book_num": 41,
+   "en_name": "Mark",
+   "en_abbr": "Mark",
+   "ta_name": "மாற்கு",
+   "ta_abbr": "மாற்."
+  },
+  {
+   "book_num": 42,
+   "en_name": "Luke",
+   "en_abbr": "Luke",
+   "ta_name": "லூக்கா",
+   "ta_abbr": "லூக்."
+  },
+  {
+   "book_num": 43,
+   "en_name": "John",
+   "en_abbr": "John",
+   "ta_name": "யோவான்",
+   "ta_abbr": "யோவா."
+  },
+  {
+   "book_num": 44,
+   "en_name": "Acts",
+   "en_abbr": "Acts",
+   "ta_name": "அப்போஸ்தலர்",
+   "ta_abbr": "அப்."
+  },
+  {
+   "book_num": 45,
+   "en_name": "Romans",
+   "en_abbr": "Rom.",
+   "ta_name": "ரோமர்",
+   "ta_abbr": "ரோ."
+  },
+  {
+   "book_num": 46,
+   "en_name": "1 Corinthians",
+   "en_abbr": "1 Cor.",
+   "ta_name": "1 கொரிந்தியர்",
+   "ta_abbr": "1 கொ."
+  },
+  {
+   "book_num": 47,
+   "en_name": "2 Corinthians",
+   "en_abbr": "2 Cor.",
+   "ta_name": "2 கொரிந்தியர்",
+   "ta_abbr": "2 கொ."
+  },
+  {
+   "book_num": 48,
+   "en_name": "Galatians",
+   "en_abbr": "Gal.",
+   "ta_name": "கலாத்தியர்",
+   "ta_abbr": "கலா."
+  },
+  {
+   "book_num": 49,
+   "en_name": "Ephesians",
+   "en_abbr": "Eph.",
+   "ta_name": "எபேசியர்",
+   "ta_abbr": "எபே."
+  },
+  {
+   "book_num": 50,
+   "en_name": "Philippians",
+   "en_abbr": "Phil.",
+   "ta_name": "பிலிப்பியர்",
+   "ta_abbr": "பிலி."
+  },
+  {
+   "book_num": 51,
+   "en_name": "Colossians",
+   "en_abbr": "Col.",
+   "ta_name": "கொலோசெயர்",
+   "ta_abbr": "கொலோ."
+  },
+  {
+   "book_num": 52,
+   "en_name": "1 Thessalonians",
+   "en_abbr": "1 Thess.",
+   "ta_name": "1 தெசலோனிக்கேயர்",
+   "ta_abbr": "1 தெ."
+  },
+  {
+   "book_num": 53,
+   "en_name": "2 Thessalonians",
+   "en_abbr": "2 Thess.",
+   "ta_name": "2 தெசலோனிக்கேயர்",
+   "ta_abbr": "2 தெ."
+  },
+  {
+   "book_num": 54,
+   "en_name": "1 Timothy",
+   "en_abbr": "1 Tim.",
+   "ta_name": "1 தீமோத்தேயு",
+   "ta_abbr": "1 தீ."
+  },
+  {
+   "book_num": 55,
+   "en_name": "2 Timothy",
+   "en_abbr": "2 Tim.",
+   "ta_name": "2 தீமோத்தேயு",
+   "ta_abbr": "2 தீ."
+  },
+  {
+   "book_num": 56,
+   "en_name": "Titus",
+   "en_abbr": "Titus",
+   "ta_name": "தீத்து",
+   "ta_abbr": "தீத்."
+  },
+  {
+   "book_num": 57,
+   "en_name": "Philemon",
+   "en_abbr": "Philem.",
+   "ta_name": "பிலேமோன்",
+   "ta_abbr": "பிலே."
+  },
+  {
+   "book_num": 58,
+   "en_name": "Hebrews",
+   "en_abbr": "Heb.",
+   "ta_name": "எபிரெயர்",
+   "ta_abbr": "எபி."
+  },
+  {
+   "book_num": 59,
+   "en_name": "James",
+   "en_abbr": "Jas.",
+   "ta_name": "யாக்கோபு",
+   "ta_abbr": "யாக்."
+  },
+  {
+   "book_num": 60,
+   "en_name": "1 Peter",
+   "en_abbr": "1 Pet.",
+   "ta_name": "1 பேதுரு",
+   "ta_abbr": "1 பே."
+  },
+  {
+   "book_num": 61,
+   "en_name": "2 Peter",
+   "en_abbr": "2 Pet.",
+   "ta_name": "2 பேதுரு",
+   "ta_abbr": "2 பே."
+  },
+  {
+   "book_num": 62,
+   "en_name": "1 John",
+   "en_abbr": "1 John",
+   "ta_name": "1 யோவான்",
+   "ta_abbr": "1 யோ."
+  },
+  {
+   "book_num": 63,
+   "en_name": "2 John",
+   "en_abbr": "2 John",
+   "ta_name": "2 யோவான்",
+   "ta_abbr": "2 யோ."
+  },
+  {
+   "book_num": 64,
+   "en_name": "3 John",
+   "en_abbr": "3 John",
+   "ta_name": "3 யோவான்",
+   "ta_abbr": "3 யோ."
+  },
+  {
+   "book_num": 65,
+   "en_name": "Jude",
+   "en_abbr": "Jude",
+   "ta_name": "யூதா",
+   "ta_abbr": "யூ."
+  },
+  {
+   "book_num": 66,
+   "en_name": "Revelation",
+   "en_abbr": "Rev.",
+   "ta_name": "வெளிப்படுத்துதல்",
+   "ta_abbr": "வெளி."
+  }
+ ]
+}
