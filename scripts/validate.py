@@ -1,51 +1,122 @@
 #!/usr/bin/env python3
-"""Validate data/raw/*.json against schema/event.schema.json and print a summary.
-Usage: python3 scripts/validate.py [files...]   (defaults to data/raw/*.json)
+"""Validate event files against schema/event.schema.json (v2: points and spans).
+
+Usage: python3 scripts/validate.py [files...]
+Default: every data/raw/b*.json and data/derived/d*.json.
+Exit code 1 if any problem is found.
 """
-import json, sys, glob, re, os
+import glob, json, os, re, sys
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-schema = json.load(open(os.path.join(ROOT, "schema/event.schema.json")))
+SCHEMA = json.load(open(os.path.join(ROOT, "schema/event.schema.json")))
 try:
     import jsonschema
+    VALIDATOR = jsonschema.Draft7Validator(SCHEMA)
 except ImportError:
-    jsonschema = None
+    VALIDATOR = None
     print("note: pip install jsonschema for full validation; running basic checks only", file=sys.stderr)
 
-files = sys.argv[1:] or sorted(p for p in glob.glob(os.path.join(ROOT, "data/raw/b*.json")) if re.fullmatch(r"b\d+\.json", os.path.basename(p)))
-total_ok = 0; total_err = 0
-for f in files:
-    try:
-        doc = json.load(open(f, encoding="utf-8"))
-    except Exception as e:
-        print(f"{f}: INVALID JSON: {e}"); total_err += 1; continue
-    events = doc["events"] if isinstance(doc, dict) and "events" in doc else doc
-    if not isinstance(events, list):
-        print(f"{f}: top level must be a list or {{'events': [...]}}"); total_err += 1; continue
-    errs = 0; ids = set(); slugs = set()
-    for i, ev in enumerate(events):
-        probs = []
-        if jsonschema:
-            for e in jsonschema.Draft7Validator(schema).iter_errors(ev):
-                probs.append(f"{'/'.join(map(str,e.path))}: {e.message[:120]}")
-        else:
-            for k in schema["required"]:
-                if k not in ev: probs.append(f"missing {k}")
-        if ev.get("id") in ids: probs.append(f"duplicate id {ev.get('id')}")
-        if ev.get("slug") in slugs: probs.append(f"duplicate slug {ev.get('slug')}")
-        ids.add(ev.get("id")); slugs.add(ev.get("slug"))
-        d = ev.get("date", {})
-        if d.get("year") is not None and d.get("era") and d.get("precision") != "undated":
-            exp = -d["year"] if d["era"] == "BCE" else d["year"]
-            if abs(d.get("sort_key", 0) - exp) > 1.0: probs.append(f"sort_key {d.get('sort_key')} inconsistent with {d['year']} {d['era']}")
-        for s in ev.get("sources", []):
-            for u in (s.get("url_en"), s.get("url_ta")):
-                if u and not re.match(r"^https://(wol\.jw\.org|www\.jw\.org)/", u): probs.append(f"non-jw.org url {u}")
-        if probs:
-            errs += 1
-            print(f"{os.path.basename(f)} [{i}] {ev.get('id')}: " + " | ".join(probs[:4]))
-    ta = sum(1 for e in events if e.get("title_ta"))
-    img = sum(1 for e in events if e.get("images"))
-    print(f"{os.path.basename(f)}: {len(events)} events, {errs} with problems, {ta} with Tamil title, {img} with images")
-    total_ok += len(events) - errs; total_err += errs
-print(f"TOTAL ok={total_ok} problems={total_err}")
-sys.exit(1 if total_err else 0)
+URL_RE = re.compile(r"^https://(wol\.jw\.org|www\.jw\.org)/")
+
+
+def default_files():
+    out = [p for p in glob.glob(os.path.join(ROOT, "data/raw/b*.json")) if re.fullmatch(r"b\d+\.json", os.path.basename(p))]
+    out += glob.glob(os.path.join(ROOT, "data/derived/d*.json"))
+    return sorted(out)
+
+
+def signed(y, era):
+    return -y if era == "BCE" else y
+
+
+def check_point(label, p):
+    probs = []
+    if not p:
+        return probs
+    y, era, prec, sk = p.get("year"), p.get("era"), p.get("precision"), p.get("sort_key")
+    if y is not None and era and prec not in ("undated", "unknown"):
+        base = signed(y, era)
+        if prec == "before" and sk > base + 1.0:
+            probs.append(f"{label}.sort_key {sk} is after 'before {y} {era}'")
+        elif prec == "after" and sk < base - 1.0:
+            probs.append(f"{label}.sort_key {sk} is before 'after {y} {era}'")
+        elif prec not in ("before", "after") and abs(sk - base) > 1.0:
+            probs.append(f"{label}.sort_key {sk} inconsistent with {y} {era}")
+    if prec == "between":
+        lt = p.get("latest")
+        if not lt:
+            probs.append(f"{label}: precision 'between' needs latest")
+        elif lt["sort_key"] < sk:
+            probs.append(f"{label}.latest is before {label}")
+    elif p.get("latest"):
+        probs.append(f"{label}: latest only allowed with precision 'between'")
+    if prec in ("exact", "approx", "before", "after", "between") and y is None:
+        probs.append(f"{label}: precision {prec} but year is null")
+    return probs
+
+
+def check_event(ev):
+    probs = []
+    if VALIDATOR:
+        for e in VALIDATOR.iter_errors(ev):
+            probs.append(f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message[:140]}")
+    else:
+        for k in SCHEMA["required"]:
+            if k not in ev:
+                probs.append(f"missing {k}")
+    probs += check_point("start", ev.get("start"))
+    if ev.get("timing") == "span":
+        end = ev.get("end") or {}
+        probs += check_point("end", end)
+        if end.get("precision") == "ongoing" and ev["start"].get("precision") != "undated" and end.get("year") is not None:
+            probs.append("end: ongoing must have year null")
+        if end.get("precision") not in ("unknown", "ongoing", "undated") and ev["start"].get("precision") not in ("unknown", "undated"):
+            if end.get("sort_key", 0) < ev["start"].get("sort_key", 0):
+                probs.append(f"end ({end.get('sort_key')}) before start ({ev['start'].get('sort_key')})")
+    if ev.get("timing") == "point" and ev.get("start", {}).get("precision") == "ongoing":
+        probs.append("point cannot be ongoing")
+    for s in ev.get("sources", []):
+        for u in (s.get("url_en"), s.get("url_ta")):
+            if u and not URL_RE.match(u):
+                probs.append(f"non-jw.org url {u}")
+    return probs
+
+
+def main():
+    files = sys.argv[1:] or default_files()
+    total_ok = total_bad = 0
+    for f in files:
+        try:
+            doc = json.load(open(f, encoding="utf-8"))
+        except Exception as e:
+            print(f"{f}: INVALID JSON: {e}")
+            total_bad += 1
+            continue
+        events = doc["events"] if isinstance(doc, dict) and "events" in doc else doc
+        if not isinstance(events, list):
+            print(f"{f}: top level must be a list or {{'events': [...]}}")
+            total_bad += 1
+            continue
+        ids, slugs, bad = set(), set(), 0
+        for i, ev in enumerate(events):
+            probs = check_event(ev)
+            if ev.get("id") in ids:
+                probs.append(f"duplicate id {ev.get('id')}")
+            if ev.get("slug") in slugs:
+                probs.append(f"duplicate slug {ev.get('slug')}")
+            ids.add(ev.get("id"))
+            slugs.add(ev.get("slug"))
+            if probs:
+                bad += 1
+                print(f"{os.path.basename(f)} [{i}] {ev.get('id')}: " + " | ".join(probs[:4]))
+        spans = sum(1 for e in events if e.get("timing") == "span")
+        ta = sum(1 for e in events if e.get("title_ta"))
+        print(f"{os.path.basename(f)}: {len(events)} events ({spans} spans), {bad} with problems, {ta} with Tamil title")
+        total_ok += len(events) - bad
+        total_bad += bad
+    print(f"TOTAL ok={total_ok} problems={total_bad}")
+    sys.exit(1 if total_bad else 0)
+
+
+if __name__ == "__main__":
+    main()

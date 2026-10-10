@@ -30,8 +30,10 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 | **Era bands** | 4 top-level bands: **Bible** (4026 BCE–100 CE), **Bible & church history** (100–1869), **Jehovah's Witnesses** (1870–today), **Future** (undated prophetic sequence) | Colour-coded bands/lanes; the Future band has no time axis, it is an ordered sequence |
 | **Category** | 32 categories grouped by band, e.g. `bible.monarchy`, `bible.jesus`, `history.bible_translation`, `jw.doctrine`, `jw.legal`, `future.prophecy` | Filter chips, icon + colour per category |
 | **Event kind** | free label: birth, death, accession, battle, decree, writing_completed, release, court_ruling, convention, beliefs_clarified… | Small icon glyph on the event marker |
-| **Date precision** | exact / approx (c.) / before (b.) / after (a.) / range / undated | Marker style: solid dot = exact, hollow dot = approx, half-dot = before/after, bar = range, no axis = undated |
-| **Display date** | As printed by the source: "1513 B.C.E., Nisan 14", "c. 96 C.E.", "2023, October 7" | Always show the source's wording, never reformat into ISO |
+| **Points vs spans** | Every record is either a **point** (one moment: "Jesus dies, Nisan 14, 33 C.E.") or a **span** (start → end: "Life of Abraham 2018–1843 B.C.E.", "Reign of Asa 978–937 B.C.E.", "Paul's 2nd journey c. 49–52", "Russia ban 2017–ongoing"). About 155 spans today: 53 reigns, 31 lifespans, judgeships, prophets' activity, journeys, wars, bans, multi-day conventions; more coming (world powers, presidents' terms, Governing Body tenures). | Points = markers. Spans = horizontal bars from start to end (vertical bars on mobile). A lifespan bar also shows its birth and death markers at its ends. Nested spans (a judge inside "Period of the Judges", David's Hebron years inside his reign) render as a thinner bar inside the parent bar. |
+| **Date precision** | exact / approx (c.) / before (b.) / after (a.) / between ("31 or 32 C.E.": one moment somewhere in a window) / unknown (no year printed; order only) / ongoing (span not ended) / undated (future) | Marker: solid dot = exact, hollow dot = approx, half-dot = before/after, dot + faint whisker = between, no axis label = undated. Bar ends: solid = exact, soft/feathered = approx, open bracket = before/after, dashed = unknown, fade-out arrow = ongoing |
+| **Duration** | Spans carry a length, either printed ("41 years", "7 days") or computed ("c. 33½ years") | Show on the bar label and in detail; computed values get a small "computed" mark with a tooltip explaining how |
+| **Display date** | As printed by the source: "1513 B.C.E., Nisan 14", "c. 940–c. 906 B.C.E.", "April 19-25, 1891" | Always show the source's wording, never reformat into ISO |
 | **Scale problem** | 4026 BCE–1000 BCE has sparse events; 33 CE has 170 events in one year; 2013 has ~25 | Timeline must zoom non-linearly / let the user change scale; dense clusters collapse into a count bubble |
 | **Importance tier** | 1 (hero), 2 (major), 3 (detail). Currently null, owner will assign | Tier controls what shows at each zoom level; a tier filter in settings |
 | **Sources** | 1–7 jw.org documents per event, each with EN link, optional Tamil link, and a locale-switchable "finder" link | Source list in detail view; one-tap open on jw.org in current language |
@@ -67,9 +69,11 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 **Layout (desktop):**
 - Top app bar (56px): logo/wordmark left; global search field centre (placeholder "Search events, people, verses… e.g. 'Nisan 14' or 'Daniel'"); right: language toggle (EN | தமிழ்), theme toggle, settings gear.
 - **Era ribbon** directly under the app bar: a thin full-width strip showing the 4 era bands proportionally (log scale) with labels. It is a mini-map: current viewport is a highlighted window; drag it to pan, click an era to jump.
-- **Main canvas** (fills the rest): horizontal time axis along the bottom with tick labels adapting to zoom (millennia → centuries → decades → years → months). Events render above the axis in **swim lanes by category group** (e.g. lane rows: Kings & rulers · Prophets & writings · Covenants & judgments · Jesus & apostles · Bible text history · JW organisation · JW doctrine · Legal & persecution). Lanes can be collapsed/expanded from a left gutter.
+- **Main canvas** (fills the rest): horizontal time axis along the bottom with tick labels adapting to zoom (millennia → centuries → decades → years → months). Events render above the axis in **swim lanes by category group** (e.g. lane rows: Lives · Kings & rulers · Prophets & writings · Covenants & judgments · Jesus & apostles · Bible text history · JW organisation · JW doctrine · Legal & persecution). Lanes can be collapsed/expanded from a left gutter.
+- **Span bars:** spans stack inside their lane like a Gantt chart (packed into as few sub-rows as possible, never overlapping). Bar label = title + duration ("Asa · 41 yrs"), truncated with the full label on hover. The **Lives** lane shows lifespan bars (usefulcharts-style: Adam's 930 years overlapping Methuselah, Noah, Shem…). The **Kings** lane shows two parallel tracks for Judah and Israel, reign bars end to end. Very short spans (7-day convention, 3-month reign) collapse to a point marker with a small bracket until the zoom makes them wide enough. Ongoing spans fade into the now-marker. Spans with unknown years (most judges) are drawn with dashed outlines in their source order and a "years not stated" note.
 - **Density handling:** when more than N events share a pixel column, show a rounded "cluster bubble" with the count (e.g. "⬤ 42 · 33 C.E."). Clicking a cluster zooms into it; at max zoom a dense year expands to a vertical stacked list with the sub-year order (Nisan 14, Nisan 16, Iyyar 25…).
-- **Event marker:** glyph by precision (see table) + category colour + tiny event-kind icon. Hover shows a tooltip card: display date, title (both languages if available), first scripture, category. Click opens Event detail panel on the right (420px) without leaving the timeline.
+- **Event marker:** glyph by precision (see table) + category colour + tiny event-kind icon. Hover shows a tooltip card: display date, title (both languages if available), first scripture, category; for spans also duration and the start/end labels. Click opens Event detail panel on the right (420px) without leaving the timeline.
+- **Hover on a span** highlights its linked start/end point markers and any child spans; hovering a birth/death marker highlights the lifespan bar.
 - **Filter bar** (floating, bottom-left or under app bar): active filter chips (category, era, people, tier, precision, "has image", "has Tamil"), "Clear all".
 - **Zoom controls** (bottom-right): + / −, "Fit all", "Today", and a scale selector: Linear | Log | Stretch-dense (compresses empty millennia).
 - **Now marker:** vertical line at today's date with label.
@@ -92,7 +96,7 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 - Share current view (URL encodes viewport + filters)
 - "Random event" (fun discovery button)
 
-**UI items to design:** app bar, era ribbon/minimap, axis ticks for 5 zoom levels, 6 marker precision glyphs × category colours, cluster bubble, tooltip card, lane headers and collapse control, filter chip bar, zoom/scale control cluster, now-marker, mobile vertical variant, year scrubber, empty-canvas state (all filtered out).
+**UI items to design:** app bar, era ribbon/minimap, axis ticks for 5 zoom levels, 8 marker precision glyphs × category colours, span bar (with its 5 end styles, label, duration, nested child bar, collapsed-short state, ongoing fade), Lives lane and twin-track Kings lane, cluster bubble, tooltip card (point and span variants), lane headers and collapse control, filter chip bar, zoom/scale control cluster, now-marker, mobile vertical variant, year scrubber, empty-canvas state (all filtered out).
 
 ### 4.2 Event detail
 
@@ -100,7 +104,8 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 
 **Content (top → bottom):**
 1. Category colour header strip with category name + event-kind icon; close/back; prev/next event arrows (chronological, within current filter).
-2. **Display date** large (as printed, e.g. "33 C.E., Nisan 14 (c. 3:00 p.m., Friday)"), precision badge (Exact / Approx. / Before / After / Range / Future), and Tamil date on the second line when present ("பொ.ச. 33, நிசான் 14").
+2. **Display date** large (as printed, e.g. "33 C.E., Nisan 14 (c. 3:00 p.m., Friday)"), precision badge (Exact / Approx. / Before / After / Between / Unknown / Ongoing / Future), and Tamil date on the second line when present ("கி.பி. 33, நிசான் 14").
+   **For spans** this block becomes a mini range bar: start label ← duration → end label ("997 B.C.E. ← 17 years → 980 B.C.E."), each end tappable to jump to its linked point event (e.g. the birth, the successor's accession). Computed parts carry the "computed" mark with the explanation ("ends when Abijah becomes king, as laid out in NWT Appendix A6"). A span with a parent shows a breadcrumb ("Period of the Judges › Tola"); a span with children lists them.
 3. **Title** in current language; the other language shown smaller beneath (toggle to swap).
 4. **Description** (1–3 sentences) in current language; "Show English" link if Tamil missing.
 5. **Scriptures:** chips "Luke 22:20" / "லூக். 22:20" → opens jw.org NWT verse in current language.
@@ -113,7 +118,7 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 
 **Desktop:** right-side panel 420–480px, timeline stays interactive behind it; panel can be pinned/expanded to full. **Mobile:** bottom sheet with drag handle; swipe left/right for prev/next event.
 
-**UI items:** header strip, precision badges (6), bilingual title block, scripture chip, image thumb + lightbox, source row (with publication badge system), conflicts accordion, chip set, related mini-card, footer actions.
+**UI items:** header strip, precision badges (8), span range block (with computed mark, linked ends, breadcrumb, children list), bilingual title block, scripture chip, image thumb + lightbox, source row (with publication badge system), conflicts accordion, chip set, related mini-card, footer actions.
 
 ### 4.3 Search & filter
 
@@ -167,7 +172,7 @@ Entry points for browsing without knowing dates.
 - Full-page poster preview with zoom/pan; page outline with bleed marks.
 - Controls: orientation (landscape/portrait), tier cut-off (what appears: tier 1 only / 1+2), language (EN / TA / bilingual), era band proportions preset (Equal · Proportional · Bible-heavy), colour palette (same as app), include images (yes/no), show scripture refs (yes/no).
 - "Export PDF (print-ready)" and "Export PNG".
-- Visual language of the poster: 4 horizontal era bands stacked, each with its own axis; key events as labelled markers with leader lines; kings shown as reign bars; prophets as activity bars; Jesus' life as an inset zoom panel; JW history as a dense decade grid; Future as a right-edge ordered column without axis; footer with source legend and "All dates from jw.org publications".
+- Visual language of the poster: 4 horizontal era bands stacked, each with its own axis; key events as labelled markers with leader lines; a **lifespans band** (patriarchs' overlapping lives from Adam to Joseph, then key figures) in the usefulcharts style; kings shown as reign bars on twin Judah/Israel tracks; prophets as activity bars; Jesus' life as an inset zoom panel; JW history as a dense decade grid; Future as a right-edge ordered column without axis; footer with source legend and "All dates from jw.org publications".
 
 **UI items:** preview frame, control sidebar, export dialog with progress, poster component kit (band header, reign bar, activity bar, labelled marker + leader line, inset panel, legend, footer).
 
@@ -204,7 +209,7 @@ Entry points for browsing without knowing dates.
 
 - **Typography:** a humanist sans for UI (must have excellent Tamil support, e.g. Noto Sans + Noto Sans Tamil, or a pairing the designer proposes). Dates and ids in a tabular-figure face. Hierarchy: date > title > description. Minimum body 16px desktop / 17px Tamil.
 - **Colour:** 4 era-band hues (suggest: deep blue for Bible, warm ochre for church/Bible history, teal/green for JW history, violet for Future) with lighter tints for the ~8 category groups within each; neutral greys for chrome. Must pass WCAG AA in both themes and be distinguishable in greyscale print (use glyph shape as well as colour).
-- **Markers:** the six precision glyphs are a core design asset; show them at 12/16/24px.
+- **Markers & bars:** the eight precision glyphs and the five span-bar end styles are core design assets; show them at 12/16/24px and on bars of 4/8/16px height.
 - **Density:** generous whitespace in detail views; dense but legible on the canvas.
 - **Motion:** smooth zoom with easing; detail panel slides; respect reduce-motion.
 - **Iconography:** one consistent outline icon set for event kinds (birth, death, crown, scroll, covenant, judgment/flame, temple, journey, gavel, convention, publication, broadcast, construction, prophecy/star…).
@@ -225,7 +230,7 @@ Entry points for browsing without knowing dates.
 
 ## 7. Deliverables requested from Claude Design
 
-1. Design system: colour tokens (light/dark), type scale (Latin + Tamil), spacing, radii, elevation, icon set, the 6 precision glyphs, category colour map, publication badge set.
+1. Design system: colour tokens (light/dark), type scale (Latin + Tamil), spacing, radii, elevation, icon set, the 8 precision glyphs, span-bar styles, category colour map, publication badge set.
 2. Desktop screens: Timeline (3 zoom levels: millennia, year 33 C.E. expanded, 2013 cluster), Event detail panel (an event with image + conflicts + Tamil; one without Tamil), Search overlay (typing + results), Filter panel, List view, People explore, Bible books explore, Collection page, Poster preview, About, Settings.
 3. Mobile screens: Timeline vertical (with scrubber), Event bottom sheet (half + full), Search, Filters, List, Explore grid, Settings, Onboarding cards.
 4. States: hover/focus/active for markers and chips; loading skeletons; empty; error; offline.
@@ -236,38 +241,43 @@ Entry points for browsing without knowing dates.
 
 ## 8. Data model (for reference)
 
-Each event in `data/merged/timeline.json`:
+Full field reference: [`docs/DATA_SCHEMA.md`](DATA_SCHEMA.md). Data file: `data/merged/timeline.json` (public raw URL: `https://raw.githubusercontent.com/jeyantx/jw-timeline/main/data/merged/timeline.json`).
+
+A **point**:
 
 ```json
 {
-  "id": "ev-00412",
-  "slug": "jesus-death-nisan-14",
-  "date": {
-    "display_en": "33 C.E., Nisan 14 (c. 3:00 p.m., Friday)",
-    "display_ta": "பொ.ச. 33, நிசான் 14",
-    "year": 33, "era": "CE", "year_end": null,
-    "month": null, "day": null, "hebrew_month": "Nisan", "hebrew_day": 14,
-    "season": "spring", "precision": "exact", "sort_key": 33.25
-  },
-  "title_en": "Jesus dies on the torture stake",
-  "title_ta": "இயேசு சித்திரவதைக் கம்பத்தில் இறக்கிறார்",
-  "description_en": "…1–3 sentences…",
-  "description_ta": "…",
-  "category": "bible.jesus",
-  "event_kind": "death",
-  "tags": ["passover", "ransom"],
-  "people": ["Jesus", "Pilate"],
-  "places": ["Golgotha", "Jerusalem"],
-  "scriptures": [{"ref_en": "Luke 23:33", "ref_ta": "லூக். 23:33", "book": "Luke", "book_num": 42, "chapter": 23, "verses": "33"}],
-  "sources": [{"docid": "1001070214", "publication": "NWT Study Edition App. A7-H", "title_en": "…", "title_ta": "…",
+  "id": "b5-0163", "timing": "point", "span_kind": null,
+  "date_label_en": "33 C.E., Nisan 14 (c. 3:00 p.m., Friday)",
+  "date_label_ta": "கி.பி. 33, நிசான் 14 (மதியம் சுமார் 3 மணி, வெள்ளி)",
+  "start": {"year": 33, "era": "CE", "hebrew_month": "Nisan", "hebrew_day": 14, "season": "spring", "precision": "approx", "sort_key": 33.2528},
+  "end": null, "duration": null,
+  "title_en": "Dies on torture stake", "title_ta": "சித்திரவதைக் கம்பத்தில் இறந்துபோகிறார்",
+  "description_en": "…", "description_ta": "…",
+  "category": "bible.jesus", "event_kind": "death",
+  "tags": [], "people": ["Jesus"], "places": ["Golgotha"],
+  "scriptures": [{"ref_en": "Luke 23:33", "ref_ta": "லூக். 23:33", "book_num": 42, "chapter": 23, "verses": "33"}],
+  "sources": [{"docid": "1001070214", "publication": "NWT Study Edition App. A7-H", "title_en": "…",
                "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070214", "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070214",
-               "finder_url": "https://www.jw.org/finder?docid=1001070214&wtlocale=E", "par": null, "quote_en": "…"}],
-  "images": [{"url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/44", "caption_en": "…", "caption_ta": "…", "source_docid": "1001070214", "kind": "map"}],
-  "conflicts": [{"docid": "1200002451", "value": "…", "note": "…"}],
-  "importance": null,
-  "related_ids": ["ev-00411", "ev-00414"],
-  "notes": null
+               "finder_url": "https://www.jw.org/finder?docid=1001070214&wtlocale=E", "quote_en": "…"}],
+  "images": [{"url": "…", "caption_en": "…", "caption_ta": "…", "kind": "map"}],
+  "conflicts": [], "importance": null, "related_ids": ["b5-0162", "b5-0164"]
 }
 ```
 
-Counts to design for: 1,669 events; 407 BCE, 1,245 CE, 17 future; 32 categories; 547 images; up to 7 sources per event; densest year 33 C.E. (≈170 events); longest title ≈140 chars; Tamil present on 45% of titles.
+A **span** (same fields plus start/end/duration/links):
+
+```json
+{
+  "id": "d1-0024", "timing": "span", "span_kind": "lifespan",
+  "date_label_en": "2 B.C.E., c. Oct. 1 – 33 C.E., Nisan 14 (c. 3:00 p.m., Friday)",
+  "start": {"year": 2, "era": "BCE", "month": 10, "day": 1, "precision": "approx", "sort_key": -1.25},
+  "end":   {"year": 33, "era": "CE", "hebrew_month": "Nisan", "hebrew_day": 14, "precision": "approx", "sort_key": 33.2528},
+  "duration": {"years": 33.5, "display_en": "c. 33½ years", "approx": true, "derived": true},
+  "start_event_id": "b5-0006", "end_event_id": "b5-0163", "parent_id": null, "child_ids": [],
+  "derived": {"method": "paired_events", "note": "Built from b5-0006 (start) and b5-0163 (end)."},
+  "title_en": "Jesus' earthly life", "category": "bible.jesus", "sources": ["… both input events' sources, each marked supports: start/end …"]
+}
+```
+
+Counts to design for: ≈1,750 records (≈1,595 points, ≈155 spans and growing); 32 categories; 30 span kinds (top: reign, lifespan, judgeship, prophetic activity, journey, convention); spans from 7 days to 930 years long; 547 images; up to 7 sources per record; densest year 33 C.E. (≈170 points); longest title ≈140 chars; Tamil present on ≈45% of titles.

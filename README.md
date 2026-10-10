@@ -5,13 +5,15 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 
 ## Layout
 - `research/` — owner's original Tamil sheet (181 rows)
-- `schema/event.schema.json` — the event record contract
+- `schema/event.schema.json` — the record contract (v2: points and spans)
+- `docs/DATA_SCHEMA.md` — field-by-field explanation with real examples
 - `docs/AGENT_BRIEF.md` — rules given to research agents (sources, Tamil, images, precision)
 - `data/raw/b1..b11.json` — one file per research batch (see below)
 - `data/raw/book_names.json` — 66 Bible books EN/TA names + abbreviations
-- `data/merged/timeline.json` — merged, sorted, globally re-numbered
+- `data/derived/d1.json` — spans built from existing sourced events (lifespans, reigns)
+- `data/merged/timeline.json` — merged, sorted, stable ids
 - `data/merged/duplicates_report.md` — cross-batch duplicate candidates for manual review
-- `scripts/validate.py`, `scripts/merge.py`
+- `scripts/validate.py`, `scripts/derive_spans.py`, `scripts/merge.py` (and the one-off `scripts/migrate_v2.py`)
 
 ## Batches
 | batch | span | main sources |
@@ -30,7 +32,8 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 
 ## Workflow
 ```
-python3 scripts/validate.py          # all raw files
+python3 scripts/derive_spans.py      # → data/derived/d1.json (lifespans, reigns)
+python3 scripts/validate.py          # all raw + derived files
 python3 scripts/merge.py             # → data/merged/timeline.json + duplicates report
 ```
 `importance` is intentionally null everywhere — owner assigns tiers later.

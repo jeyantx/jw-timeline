@@ -1,33 +1,87 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Timeline Event",
+  "$id": "https://github.com/jeyantx/jw-timeline/schema/event.schema.json",
+  "title": "Timeline Event (schema v2: points and spans)",
+  "description": "One record per event. A 'point' happened at one moment (possibly an uncertain one). A 'span' lasted from a start to an end (a life, a reign, a journey, a ban). See docs/DATA_SCHEMA.md.",
   "type": "object",
-  "required": ["id", "slug", "date", "title_en", "description_en", "category", "scriptures", "sources"],
-  "properties": {
-    "id": {"type": "string", "pattern": "^[a-z0-9]+-[0-9]{3,4}$", "description": "batch prefix + zero-padded sequence, e.g. b1-0001"},
-    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
-    "date": {
+  "required": ["id", "slug", "timing", "start", "date_label_en", "title_en", "description_en", "category", "scriptures", "sources"],
+  "definitions": {
+    "datePoint": {
       "type": "object",
-      "required": ["display_en", "precision", "sort_key"],
+      "required": ["precision", "sort_key"],
       "properties": {
-        "display_en": {"type": "string", "description": "As the source prints it, e.g. '4026 B.C.E.', 'c. 1473 B.C.E.', '33 C.E., Nisan 14', 'a. 443 B.C.E.'"},
-        "display_ta": {"type": ["string", "null"], "description": "Tamil display if a Tamil source exists, e.g. 'பொ.ச.மு. 4026'"},
-        "year": {"type": ["integer", "null"], "description": "Positive integer; sign is carried by era"},
+        "display_en": {"type": ["string", "null"], "description": "This endpoint as the source prints it, e.g. 'c. 940 B.C.E.'. Null when the source gives no wording for this endpoint."},
+        "display_ta": {"type": ["string", "null"]},
+        "year": {"type": ["integer", "null"], "minimum": 1, "description": "Positive; the sign is carried by era. Null when unknown."},
         "era": {"type": ["string", "null"], "enum": ["BCE", "CE", null]},
-        "year_end": {"type": ["integer", "null"], "description": "For ranges, the end year (same era unless era_end given)"},
-        "era_end": {"type": ["string", "null"], "enum": ["BCE", "CE", null]},
-        "month": {"type": ["integer", "null"], "minimum": 1, "maximum": 12},
+        "month": {"type": ["integer", "null"], "minimum": 1, "maximum": 12, "description": "Gregorian month"},
         "day": {"type": ["integer", "null"], "minimum": 1, "maximum": 31},
-        "hebrew_month": {"type": ["string", "null"], "description": "Nisan, Tishri, etc."},
-        "hebrew_day": {"type": ["integer", "null"]},
+        "hebrew_month": {"type": ["string", "null"], "description": "Nisan, Iyyar, Sivan, Tammuz, Ab, Elul, Tishri, Heshvan, Chislev, Tebeth, Shebat, Adar"},
+        "hebrew_day": {"type": ["integer", "null"], "minimum": 1, "maximum": 30},
         "season": {"type": ["string", "null"], "enum": ["spring", "summer", "autumn", "winter", null]},
-        "precision": {"type": "string", "enum": ["exact", "approx", "before", "after", "range", "undated"]},
-        "sort_key": {"type": "number", "description": "BCE years negative, CE positive; add fraction (month-1)/12 etc. for in-year ordering. Undated future events use 100000+n."}
+        "precision": {
+          "type": "string",
+          "enum": ["exact", "approx", "before", "after", "between", "unknown", "ongoing", "undated"],
+          "description": "exact = as printed with no qualifier; approx = 'c.'; before = 'b.'; after = 'a.'; between = happened once somewhere between this point and `latest` ('31 or 32 C.E.', 'c. 50-52'); unknown = source gives no date for this endpoint; ongoing = span has not ended (end only); undated = future prophetic sequence with no date"
+        },
+        "latest": {
+          "type": ["object", "null"],
+          "description": "Only with precision 'between': the latest possible moment.",
+          "properties": {
+            "year": {"type": "integer", "minimum": 1},
+            "era": {"type": "string", "enum": ["BCE", "CE"]},
+            "month": {"type": ["integer", "null"]},
+            "day": {"type": ["integer", "null"]},
+            "sort_key": {"type": "number"}
+          },
+          "required": ["year", "era", "sort_key"]
+        },
+        "sort_key": {"type": "number", "description": "Signed decimal year: BCE negative, CE positive, fraction for position in the year. Undated future: 100000 + n. For 'unknown' endpoints: best ordering estimate (documented in event.notes)."}
+      }
+    }
+  },
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z][a-z0-9]*-[0-9]{3,5}$", "description": "Stable id = batch prefix + sequence, e.g. b3-0017, d1-0004. Never reused."},
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "timing": {"type": "string", "enum": ["point", "span"]},
+    "span_kind": {
+      "type": ["string", "null"],
+      "enum": ["lifespan", "reign", "office", "ministry", "prophetic_activity", "judgeship", "journey", "residence", "imprisonment", "captivity", "exile", "construction", "war", "campaign", "persecution", "ban", "council", "convention", "assembly", "school", "writing", "translation", "copying", "publication", "broadcast", "world_power", "prophetic_period", "period", "festival", "other", null],
+      "description": "Required for spans, null for points."
+    },
+    "start": {"$ref": "#/definitions/datePoint", "description": "For a point, the moment. For a span, when it began."},
+    "end": {"oneOf": [{"$ref": "#/definitions/datePoint"}, {"type": "null"}], "description": "Spans only. Null for points."},
+    "duration": {
+      "type": ["object", "null"],
+      "description": "Length of a span as printed by the source ('41 years', '18 months', '52 days') or computed (then derived=true).",
+      "properties": {
+        "years": {"type": ["number", "null"]},
+        "months": {"type": ["number", "null"]},
+        "days": {"type": ["number", "null"]},
+        "display_en": {"type": ["string", "null"]},
+        "display_ta": {"type": ["string", "null"]},
+        "approx": {"type": "boolean"},
+        "derived": {"type": "boolean", "description": "true when computed from start/end, not printed by a source"}
       }
     },
-    "title_en": {"type": "string", "maxLength": 140},
+    "date_label_en": {"type": "string", "description": "Whole date as printed, for display: '1513 B.C.E., Nisan 14', 'c. 940–c. 906 B.C.E.', 'April 19-25, 1891'."},
+    "date_label_ta": {"type": ["string", "null"]},
+    "start_event_id": {"type": ["string", "null"], "description": "Span only: id of the point event marking the start (e.g. the birth)."},
+    "end_event_id": {"type": ["string", "null"], "description": "Span only: id of the point event marking the end (e.g. the death)."},
+    "parent_id": {"type": ["string", "null"], "description": "Id of an enclosing span (a judgeship inside 'Period of the Judges'; a miracle inside 'Jesus' ministry')."},
+    "derived": {
+      "type": ["object", "null"],
+      "description": "Set when the pipeline (not a source) created the record or computed an endpoint. Sources still cite the jw.org pages behind each input.",
+      "properties": {
+        "method": {"type": "string", "enum": ["paired_events", "successor_accession", "start_plus_duration", "parsed_from_label", "manual"]},
+        "fields": {"type": "array", "items": {"type": "string"}, "description": "Which fields were computed, e.g. ['end'] or ['duration']"},
+        "note": {"type": "string"}
+      },
+      "required": ["method", "note"]
+    },
+    "title_en": {"type": "string", "maxLength": 160},
     "title_ta": {"type": ["string", "null"]},
-    "description_en": {"type": "string", "description": "1-3 sentences, in your own words, faithful to the source"},
+    "description_en": {"type": "string"},
     "description_ta": {"type": ["string", "null"]},
     "category": {"type": "string", "enum": [
       "bible.creation", "bible.patriarch", "bible.covenant", "bible.judgment", "bible.exodus_law",
@@ -38,7 +92,7 @@
       "jw.construction", "jw.preaching", "jw.leadership", "jw.education", "jw.relief",
       "future.prophecy"
     ]},
-    "event_kind": {"type": ["string", "null"], "description": "free short label: birth, death, accession, battle, decree, writing_completed, release, court_ruling, resolution, dedication, miracle, teaching, journey, etc."},
+    "event_kind": {"type": ["string", "null"]},
     "tags": {"type": "array", "items": {"type": "string"}},
     "people": {"type": "array", "items": {"type": "string"}},
     "places": {"type": "array", "items": {"type": "string"}},
@@ -48,7 +102,7 @@
         "type": "object",
         "required": ["ref_en"],
         "properties": {
-          "ref_en": {"type": "string", "description": "NWT style, e.g. 'Gen. 2:7' or 'Luke 3:1, 2, 23'"},
+          "ref_en": {"type": "string"},
           "ref_ta": {"type": ["string", "null"]},
           "book": {"type": ["string", "null"]},
           "book_num": {"type": ["integer", "null"], "minimum": 1, "maximum": 66},
@@ -64,15 +118,16 @@
         "type": "object",
         "required": ["docid", "title_en", "url_en"],
         "properties": {
-          "docid": {"type": "string", "description": "WOL/jw.org document id, e.g. 1101990130"},
-          "publication": {"type": ["string", "null"], "description": "e.g. 'All Scripture Is Inspired (si)', 'Insight (it-1)', 'NWT Study Edition App. A7-A', 'Proclaimers (jv)', 'kr', 'Watchtower 2015 7/15'"},
+          "docid": {"type": "string"},
+          "publication": {"type": ["string", "null"]},
           "title_en": {"type": "string"},
           "title_ta": {"type": ["string", "null"]},
           "url_en": {"type": "string", "pattern": "^https://(wol\\.jw\\.org|www\\.jw\\.org)/"},
           "url_ta": {"type": ["string", "null"], "pattern": "^https://(wol\\.jw\\.org|www\\.jw\\.org)/"},
-          "finder_url": {"type": ["string", "null"], "description": "https://www.jw.org/finder?docid=<docid>&wtlocale=E (locale-switchable)"},
-          "par": {"type": ["integer", "string", "null"], "description": "paragraph number if known"},
-          "quote_en": {"type": ["string", "null"], "maxLength": 220, "description": "Short supporting excerpt (<=25 words) establishing the date"}
+          "finder_url": {"type": ["string", "null"]},
+          "par": {"type": ["integer", "string", "null"]},
+          "quote_en": {"type": ["string", "null"], "maxLength": 300},
+          "supports": {"type": ["string", "null"], "enum": ["start", "end", "duration", "whole", null], "description": "Spans: which part of the record this source establishes"}
         }
       }
     },
@@ -86,25 +141,24 @@
           "caption_en": {"type": ["string", "null"]},
           "caption_ta": {"type": ["string", "null"]},
           "source_docid": {"type": ["string", "null"]},
-          "kind": {"type": ["string", "null"], "description": "illustration, photo, map, chart"}
+          "kind": {"type": ["string", "null"]}
         }
       }
     },
     "conflicts": {
       "type": "array",
-      "description": "Where two jw.org sources differ (date, spelling, detail). Record both.",
       "items": {
         "type": "object",
         "required": ["note"],
-        "properties": {
-          "docid": {"type": ["string", "null"]},
-          "value": {"type": ["string", "null"]},
-          "note": {"type": "string"}
-        }
+        "properties": {"docid": {"type": ["string", "null"]}, "value": {"type": ["string", "null"]}, "note": {"type": "string"}}
       }
     },
-    "importance": {"type": ["integer", "null"], "description": "Leave null. Assigned later by owner."},
+    "importance": {"type": ["integer", "null"]},
     "related_ids": {"type": "array", "items": {"type": "string"}},
     "notes": {"type": ["string", "null"]}
-  }
+  },
+  "allOf": [
+    {"if": {"properties": {"timing": {"const": "span"}}}, "then": {"required": ["end", "span_kind"], "properties": {"end": {"$ref": "#/definitions/datePoint"}, "span_kind": {"type": "string"}}}},
+    {"if": {"properties": {"timing": {"const": "point"}}}, "then": {"properties": {"end": {"type": "null"}, "span_kind": {"type": "null"}, "start_event_id": {"type": "null"}, "end_event_id": {"type": "null"}}}}
+  ]
 }

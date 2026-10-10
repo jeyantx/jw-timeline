@@ -1,5 +1,11 @@
 # Research Agent Brief — Bible & JW History Timeline
 
+> **Schema v2 (2026-10-10).** Records are `timing: "point"` or `timing: "span"` with `start` / `end` DatePoints,
+> `date_label_en`, optional `duration`, `start_event_id` / `end_event_id`, `parent_id`. Rule 9 below (`date`,
+> `sort_key`, 'range') is superseded by **docs/DATA_SCHEMA.md** — read it first. In short: a period with a start and
+> an end is a **span**; one moment known only within a window ("31 or 32 C.E.") is a **point** with
+> `precision: "between"` and `latest`; an endpoint jw.org does not date is `precision: "unknown"`, never guessed.
+
 You are collecting dated events for a searchable timeline app and an A0 wall chart.
 Owner: Tamil-speaking Jehovah's Witness. Output must be faithful to jw.org sources.
 
