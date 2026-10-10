@@ -4208,577 +4208,6 @@
   },
   {
    "id": "d1-0032",
-   "slug": "reign-united-kingdom-of-israel-saul",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "1117 B.C.E. – 1077 B.C.E.",
-   "date_label_ta": "பொ.ச.மு. 1117 – பொ.ச.மு. 1077",
-   "start": {
-    "display_en": "1117 B.C.E.",
-    "display_ta": "பொ.ச.மு. 1117",
-    "year": 1117,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -1117.0
-   },
-   "end": {
-    "display_en": "1077 B.C.E.",
-    "display_ta": "பொ.ச.மு. 1077",
-    "year": 1077,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -1077.0
-   },
-   "duration": {
-    "years": 40,
-    "months": null,
-    "days": null,
-    "display_en": "40 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b3-0001",
-   "end_event_id": "b3-0006",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Start b3-0001; ends with b3-0006."
-   },
-   "title_en": "Reign of Saul (united kingdom of Israel)",
-   "title_ta": null,
-   "description_en": "Saul rules united kingdom of Israel. Starts with Samuel anoints Saul as king of Israel (1117 B.C.E.); ends with b3-0006.",
-   "description_ta": null,
-   "category": "bible.monarchy",
-   "event_kind": "reign",
-   "tags": [
-    "reign",
-    "united-kingdom"
-   ],
-   "people": [
-    "Saul"
-   ],
-   "places": [
-    "Israel",
-    "Hebron",
-    "Judah"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "1 Sam. 10:24",
-     "ref_ta": "1 சா. 10:24",
-     "book": "1 Samuel",
-     "book_num": 9,
-     "chapter": 10,
-     "verses": "24"
-    },
-    {
-     "ref_en": "Acts 13:21",
-     "ref_ta": "அப். 13:21",
-     "book": "Acts",
-     "book_num": 44,
-     "chapter": 13,
-     "verses": "21"
-    },
-    {
-     "ref_en": "2 Sam. 2:4",
-     "ref_ta": "2 சா. 2:4",
-     "book": "2 Samuel",
-     "book_num": 10,
-     "chapter": 2,
-     "verses": "4"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": null,
-     "quote_en": "1117 B.C.E. Samuel anoints Saul as king of Israel",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) \"Chronology\" — chart \"Outstanding Dates During the Period of the Kings of Judah and of Israel\"",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": "SAUL began to rule as king over all 12 tribes (40 years) ... 1117",
-     "supports": "whole"
-    },
-    {
-     "docid": "1101990070",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 9",
-     "title_en": "Bible Book Number 9—1 Samuel",
-     "title_ta": "பைபிள் புத்தக எண் 9—1 சாமுவேல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990070",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990070",
-     "finder_url": "https://www.jw.org/finder?docid=1101990070&wtlocale=E",
-     "par": null,
-     "quote_en": "IN THE year 1117 B.C.E., there came a momentous change in Israel’s national organization.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200001130",
-     "publication": "Insight (it-1) \"David\"",
-     "title_en": "David",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001130",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200001130&wtlocale=E",
-     "par": null,
-     "quote_en": "anointed him as king over their tribe in 1077 B.C.E., when he was 30 years old",
-     "supports": "end"
-    },
-    {
-     "docid": "1101990071",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 10",
-     "title_en": "Bible Book Number 10—2 Samuel",
-     "title_ta": "பைபிள் புத்தக எண் 10—2 சாமுவேல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990071",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990071",
-     "finder_url": "https://www.jw.org/finder?docid=1101990071&wtlocale=E",
-     "par": null,
-     "quote_en": "Here the elders of the tribe come to anoint David as their king in 1077 B.C.E.",
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200010959",
-     "value": "1117 B.C.E.",
-     "note": "The 1971 Aid chart agrees (1117, 40 years)."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b3-0001",
-    "b3-0006"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0033",
-   "slug": "reign-united-kingdom-of-israel-david",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "1077 B.C.E. – 1037 B.C.E.",
-   "date_label_ta": "பொ.ச.மு. 1077 – பொ.ச.மு. 1037",
-   "start": {
-    "display_en": "1077 B.C.E.",
-    "display_ta": "பொ.ச.மு. 1077",
-    "year": 1077,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -1077.0
-   },
-   "end": {
-    "display_en": "1037 B.C.E.",
-    "display_ta": "பொ.ச.மு. 1037",
-    "year": 1037,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -1036.7
-   },
-   "duration": {
-    "years": 40,
-    "months": null,
-    "days": null,
-    "display_en": "40 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b3-0006",
-   "end_event_id": "b3-0011",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Start b3-0006; ends with b3-0011."
-   },
-   "title_en": "Reign of David (united kingdom of Israel)",
-   "title_ta": null,
-   "description_en": "David rules united kingdom of Israel. Starts with David becomes king of Judah at Hebron (1077 B.C.E.); ends with b3-0011.",
-   "description_ta": null,
-   "category": "bible.monarchy",
-   "event_kind": "reign",
-   "tags": [
-    "reign",
-    "united-kingdom"
-   ],
-   "people": [
-    "David"
-   ],
-   "places": [
-    "Hebron",
-    "Judah",
-    "Jerusalem"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "2 Sam. 2:4",
-     "ref_ta": "2 சா. 2:4",
-     "book": "2 Samuel",
-     "book_num": 10,
-     "chapter": 2,
-     "verses": "4"
-    },
-    {
-     "ref_en": "1 Ki. 1:39",
-     "ref_ta": "1 இரா. 1:39",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 1,
-     "verses": "39"
-    },
-    {
-     "ref_en": "1 Ki. 2:12",
-     "ref_ta": "1 இரா. 2:12",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 2,
-     "verses": "12"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": null,
-     "quote_en": "1077 B.C.E. David becomes king of Judah at Hebron",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) \"Chronology\" — chart \"Outstanding Dates During the Period of the Kings of Judah and of Israel\"",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": "DAVID began to rule as king of Judah at Hebron (40) ... 1077",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200001130",
-     "publication": "Insight (it-1) \"David\"",
-     "title_en": "David",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001130",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200001130&wtlocale=E",
-     "par": null,
-     "quote_en": "anointed him as king over their tribe in 1077 B.C.E., when he was 30 years old",
-     "supports": "start"
-    },
-    {
-     "docid": "1101990071",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 10",
-     "title_en": "Bible Book Number 10—2 Samuel",
-     "title_ta": "பைபிள் புத்தக எண் 10—2 சாமுவேல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990071",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990071",
-     "finder_url": "https://www.jw.org/finder?docid=1101990071&wtlocale=E",
-     "par": null,
-     "quote_en": "Here the elders of the tribe come to anoint David as their king in 1077 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200004178",
-     "publication": "Insight (it-2) \"Solomon\"",
-     "title_en": "Solomon",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004178",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200004178&wtlocale=E",
-     "par": null,
-     "quote_en": "king of Israel from 1037 to 998 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1101990075",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 14",
-     "title_en": "Bible Book Number 14—2 Chronicles",
-     "title_ta": "பைபிள் புத்தக எண் 14—2 நாளாகமம்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990075",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990075",
-     "finder_url": "https://www.jw.org/finder?docid=1101990075&wtlocale=E",
-     "par": null,
-     "quote_en": "from the reign of Solomon, commencing in 1037 B.C.E.",
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200004178",
-     "value": "1037-998 B.C.E.",
-     "note": "Insight \"Solomon\" gives his reign as 1037 to 998 B.C.E.; si Study 3 says his 40th regnal year ended in spring 997 B.C.E., when the kingdom split. Both are consistent with a Nisan-to-Nisan count."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b3-0006",
-    "b3-0011"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0034",
-   "slug": "reign-united-kingdom-of-israel-solomon",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "1037 B.C.E. – 997 B.C.E.",
-   "date_label_ta": "பொ.ச.மு. 1037 – பொ.ச.மு. 997",
-   "start": {
-    "display_en": "1037 B.C.E.",
-    "display_ta": "பொ.ச.மு. 1037",
-    "year": 1037,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -1036.7
-   },
-   "end": {
-    "display_en": "997 B.C.E.",
-    "display_ta": "பொ.ச.மு. 997",
-    "year": 997,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -996.68
-   },
-   "duration": {
-    "years": 40,
-    "months": null,
-    "days": null,
-    "display_en": "40 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b3-0011",
-   "end_event_id": "b3-0019",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Start b3-0011; ends with b3-0019."
-   },
-   "title_en": "Reign of Solomon (united kingdom of Israel)",
-   "title_ta": null,
-   "description_en": "Solomon rules united kingdom of Israel. Starts with Solomon succeeds David as king of Israel (1037 B.C.E.); ends with b3-0019.",
-   "description_ta": null,
-   "category": "bible.monarchy",
-   "event_kind": "reign",
-   "tags": [
-    "reign",
-    "united-kingdom"
-   ],
-   "people": [
-    "Solomon"
-   ],
-   "places": [
-    "Jerusalem",
-    "Judah",
-    "Israel"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "1 Ki. 1:39",
-     "ref_ta": "1 இரா. 1:39",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 1,
-     "verses": "39"
-    },
-    {
-     "ref_en": "1 Ki. 2:12",
-     "ref_ta": "1 இரா. 2:12",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 2,
-     "verses": "12"
-    },
-    {
-     "ref_en": "1 Ki. 11:43",
-     "ref_ta": "1 இரா. 11:43",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 11,
-     "verses": "43"
-    },
-    {
-     "ref_en": "1 Ki. 12:19, 20",
-     "ref_ta": "1 இரா. 12:19, 20",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 12,
-     "verses": "19, 20"
-    },
-    {
-     "ref_en": "Ezek. 4:5",
-     "ref_ta": "எசே. 4:5",
-     "book": "Ezekiel",
-     "book_num": 26,
-     "chapter": 4,
-     "verses": "5"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": null,
-     "quote_en": "1037 B.C.E. Solomon succeeds David as king of Israel",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) \"Chronology\" — chart \"Outstanding Dates During the Period of the Kings of Judah and of Israel\"",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": "SOLOMON began to rule as king (40) ... 1037",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200004178",
-     "publication": "Insight (it-2) \"Solomon\"",
-     "title_en": "Solomon",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004178",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200004178&wtlocale=E",
-     "par": null,
-     "quote_en": "king of Israel from 1037 to 998 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1101990075",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 14",
-     "title_en": "Bible Book Number 14—2 Chronicles",
-     "title_ta": "பைபிள் புத்தக எண் 14—2 நாளாகமம்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990075",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990075",
-     "finder_url": "https://www.jw.org/finder?docid=1101990075&wtlocale=E",
-     "par": null,
-     "quote_en": "from the reign of Solomon, commencing in 1037 B.C.E.",
-     "supports": "whole"
-    },
-    {
-     "docid": "1001070206",
-     "publication": "NWT Study Edition App. A6-A",
-     "title_en": "A6-A Chart: Prophets and Kings of Judah and of Israel (Part 1)",
-     "title_ta": "A6-A பட்டியல்: யூதாவிலும் இஸ்ரவேலிலும் இருந்த தீர்க்கதரிசிகள் மற்றும் ராஜாக்கள் (பகுதி 1)",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070206",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070206",
-     "finder_url": "https://www.jw.org/finder?docid=1001070206&wtlocale=E",
-     "par": null,
-     "quote_en": "997 B.C.E. — Kings of Southern Two-Tribe Kingdom of Judah / Northern Ten-Tribe Kingdom of Israel",
-     "supports": "end"
-    },
-    {
-     "docid": "1101990072",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 11",
-     "title_en": "Bible Book Number 11—1 Kings",
-     "title_ta": "பைபிள் புத்தக எண் 11—1 இராஜாக்கள்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990072",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990072",
-     "finder_url": "https://www.jw.org/finder?docid=1101990072&wtlocale=E",
-     "par": null,
-     "quote_en": "Solomon dies after reigning for 40 years, and his son Rehoboam becomes king in the year 997 B.C.E.",
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200004178",
-     "value": "1037-998 B.C.E.",
-     "note": "Insight \"Solomon\" gives his reign as 1037 to 998 B.C.E.; si Study 3 says his 40th regnal year ended in spring 997 B.C.E., when the kingdom split. Both are consistent with a Nisan-to-Nisan count."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b3-0011",
-    "b3-0019"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0035",
    "slug": "reign-judah-rehoboam",
    "timing": "span",
    "span_kind": "reign",
@@ -4928,7 +4357,7 @@
    "notes": null
   },
   {
-   "id": "d1-0036",
+   "id": "d1-0033",
    "slug": "reign-judah-abijah",
    "timing": "span",
    "span_kind": "reign",
@@ -5092,7 +4521,7 @@
    "notes": null
   },
   {
-   "id": "d1-0037",
+   "id": "d1-0034",
    "slug": "reign-judah-asa",
    "timing": "span",
    "span_kind": "reign",
@@ -5256,7 +4685,7 @@
    "notes": null
   },
   {
-   "id": "d1-0038",
+   "id": "d1-0035",
    "slug": "reign-judah-jehoshaphat",
    "timing": "span",
    "span_kind": "reign",
@@ -5415,7 +4844,7 @@
    "notes": null
   },
   {
-   "id": "d1-0039",
+   "id": "d1-0036",
    "slug": "reign-judah-jehoram",
    "timing": "span",
    "span_kind": "reign",
@@ -5557,7 +4986,7 @@
    "notes": "Associated with Jehoshaphat in the government from c. 919 B.C.E. (b3-0037)."
   },
   {
-   "id": "d1-0040",
+   "id": "d1-0037",
    "slug": "reign-judah-ahaziah",
    "timing": "span",
    "span_kind": "reign",
@@ -5693,7 +5122,7 @@
    "notes": null
   },
   {
-   "id": "d1-0041",
+   "id": "d1-0038",
    "slug": "reign-judah-athaliah",
    "timing": "span",
    "span_kind": "reign",
@@ -5841,7 +5270,7 @@
    "notes": null
   },
   {
-   "id": "d1-0042",
+   "id": "d1-0039",
    "slug": "reign-judah-jehoash",
    "timing": "span",
    "span_kind": "reign",
@@ -5989,7 +5418,7 @@
    "notes": null
   },
   {
-   "id": "d1-0043",
+   "id": "d1-0040",
    "slug": "reign-judah-amaziah",
    "timing": "span",
    "span_kind": "reign",
@@ -6125,7 +5554,7 @@
    "notes": null
   },
   {
-   "id": "d1-0044",
+   "id": "d1-0041",
    "slug": "reign-judah-uzziah-azariah",
    "timing": "span",
    "span_kind": "reign",
@@ -6285,7 +5714,7 @@
    "notes": "Becomes king 'in a special sense' c. 818 B.C.E. (b3-0058)."
   },
   {
-   "id": "d1-0045",
+   "id": "d1-0042",
    "slug": "reign-judah-jotham",
    "timing": "span",
    "span_kind": "reign",
@@ -6444,7 +5873,7 @@
    "notes": null
   },
   {
-   "id": "d1-0046",
+   "id": "d1-0043",
    "slug": "reign-judah-ahaz",
    "timing": "span",
    "span_kind": "reign",
@@ -6620,7 +6049,7 @@
    "notes": null
   },
   {
-   "id": "d1-0047",
+   "id": "d1-0044",
    "slug": "reign-judah-hezekiah",
    "timing": "span",
    "span_kind": "reign",
@@ -6791,7 +6220,7 @@
    "notes": null
   },
   {
-   "id": "d1-0048",
+   "id": "d1-0045",
    "slug": "reign-judah-manasseh",
    "timing": "span",
    "span_kind": "reign",
@@ -6950,7 +6379,7 @@
    "notes": null
   },
   {
-   "id": "d1-0049",
+   "id": "d1-0046",
    "slug": "reign-judah-amon",
    "timing": "span",
    "span_kind": "reign",
@@ -7104,7 +6533,7 @@
    "notes": null
   },
   {
-   "id": "d1-0050",
+   "id": "d1-0047",
    "slug": "reign-judah-josiah",
    "timing": "span",
    "span_kind": "reign",
@@ -7261,7 +6690,7 @@
    "notes": null
   },
   {
-   "id": "d1-0051",
+   "id": "d1-0048",
    "slug": "reign-judah-jehoahaz",
    "timing": "span",
    "span_kind": "reign",
@@ -7397,7 +6826,7 @@
    "notes": null
   },
   {
-   "id": "d1-0052",
+   "id": "d1-0049",
    "slug": "reign-judah-jehoiakim",
    "timing": "span",
    "span_kind": "reign",
@@ -7551,7 +6980,7 @@
    "notes": null
   },
   {
-   "id": "d1-0053",
+   "id": "d1-0050",
    "slug": "reign-judah-jehoiachin",
    "timing": "span",
    "span_kind": "reign",
@@ -7705,7 +7134,7 @@
    "notes": null
   },
   {
-   "id": "d1-0054",
+   "id": "d1-0051",
    "slug": "reign-judah-zedekiah",
    "timing": "span",
    "span_kind": "reign",
@@ -7851,7 +7280,7 @@
    "notes": null
   },
   {
-   "id": "d1-0055",
+   "id": "d1-0052",
    "slug": "reign-israel-jeroboam",
    "timing": "span",
    "span_kind": "reign",
@@ -7987,7 +7416,7 @@
    "notes": null
   },
   {
-   "id": "d1-0056",
+   "id": "d1-0053",
    "slug": "reign-israel-nadab",
    "timing": "span",
    "span_kind": "reign",
@@ -8123,7 +7552,7 @@
    "notes": null
   },
   {
-   "id": "d1-0057",
+   "id": "d1-0054",
    "slug": "reign-israel-baasha",
    "timing": "span",
    "span_kind": "reign",
@@ -8259,7 +7688,7 @@
    "notes": null
   },
   {
-   "id": "d1-0058",
+   "id": "d1-0055",
    "slug": "reign-israel-elah",
    "timing": "span",
    "span_kind": "reign",
@@ -8395,7 +7824,7 @@
    "notes": null
   },
   {
-   "id": "d1-0059",
+   "id": "d1-0056",
    "slug": "reign-israel-zimri",
    "timing": "span",
    "span_kind": "reign",
@@ -8531,7 +7960,7 @@
    "notes": null
   },
   {
-   "id": "d1-0060",
+   "id": "d1-0057",
    "slug": "reign-israel-omri",
    "timing": "span",
    "span_kind": "reign",
@@ -8668,7 +8097,7 @@
    "notes": "Starts with the 4-year rivalry with Tibni (c. 951 B.C.E., b3-0029); Omri ruled alone from c. 947 B.C.E. for 8 years (b3-0030)."
   },
   {
-   "id": "d1-0061",
+   "id": "d1-0058",
    "slug": "reign-israel-ahab",
    "timing": "span",
    "span_kind": "reign",
@@ -8810,7 +8239,7 @@
    "notes": null
   },
   {
-   "id": "d1-0062",
+   "id": "d1-0059",
    "slug": "reign-israel-ahaziah",
    "timing": "span",
    "span_kind": "reign",
@@ -8957,7 +8386,7 @@
    "notes": null
   },
   {
-   "id": "d1-0063",
+   "id": "d1-0060",
    "slug": "reign-israel-jehoram",
    "timing": "span",
    "span_kind": "reign",
@@ -9107,7 +8536,7 @@
    "notes": null
   },
   {
-   "id": "d1-0064",
+   "id": "d1-0061",
    "slug": "reign-israel-jehu",
    "timing": "span",
    "span_kind": "reign",
@@ -9257,7 +8686,7 @@
    "notes": null
   },
   {
-   "id": "d1-0065",
+   "id": "d1-0062",
    "slug": "reign-israel-jehoahaz",
    "timing": "span",
    "span_kind": "reign",
@@ -9399,7 +8828,7 @@
    "notes": "Includes c. 3 years of joint rule with his son Jehoash (c. 862–859 B.C.E., b3-0047)."
   },
   {
-   "id": "d1-0066",
+   "id": "d1-0063",
    "slug": "reign-israel-jehoash",
    "timing": "span",
    "span_kind": "reign",
@@ -9535,7 +8964,7 @@
    "notes": null
   },
   {
-   "id": "d1-0067",
+   "id": "d1-0064",
    "slug": "reign-israel-jeroboam-ii",
    "timing": "span",
    "span_kind": "reign",
@@ -9697,7 +9126,7 @@
    "notes": null
   },
   {
-   "id": "d1-0068",
+   "id": "d1-0065",
    "slug": "reign-israel-zechariah",
    "timing": "span",
    "span_kind": "reign",
@@ -9847,7 +9276,7 @@
    "notes": "NWT App. A6: 'recorded reign of only 6 months'. Sources differ on when it began (c. 803 vs c. 792 B.C.E.); see conflicts."
   },
   {
-   "id": "d1-0069",
+   "id": "d1-0066",
    "slug": "reign-israel-shallum",
    "timing": "span",
    "span_kind": "reign",
@@ -9983,7 +9412,7 @@
    "notes": null
   },
   {
-   "id": "d1-0070",
+   "id": "d1-0067",
    "slug": "reign-israel-menahem",
    "timing": "span",
    "span_kind": "reign",
@@ -10119,7 +9548,7 @@
    "notes": null
   },
   {
-   "id": "d1-0071",
+   "id": "d1-0068",
    "slug": "reign-israel-pekahiah",
    "timing": "span",
    "span_kind": "reign",
@@ -10255,7 +9684,7 @@
    "notes": null
   },
   {
-   "id": "d1-0072",
+   "id": "d1-0069",
    "slug": "reign-israel-pekah",
    "timing": "span",
    "span_kind": "reign",
@@ -10399,7 +9828,7 @@
    "notes": null
   },
   {
-   "id": "d1-0073",
+   "id": "d1-0070",
    "slug": "reign-israel-hoshea",
    "timing": "span",
    "span_kind": "reign",
@@ -10578,7 +10007,7 @@
    "notes": "NWT App. A6 gives 9 years counted from c. 748 B.C.E., when his rule became fully established (b3-0072)."
   },
   {
-   "id": "d1-0074",
+   "id": "d1-0071",
    "slug": "david-reigns-in-hebron-over-judah",
    "timing": "span",
    "span_kind": "reign",
@@ -10623,7 +10052,7 @@
    },
    "start_event_id": "b3-0006",
    "end_event_id": "b3-0007",
-   "parent_id": "d1-0033",
+   "parent_id": "b12-0012",
    "derived": {
     "method": "paired_events",
     "fields": [
@@ -10725,1178 +10154,6 @@
    "related_ids": [
     "b3-0006",
     "b3-0007"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0075",
-   "slug": "reign-babylon-nebuchadnezzar",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "625 B.C.E. – 582 B.C.E. (October)",
-   "date_label_ta": "பொ.ச.மு. 625 – பொ.ச.மு. 582",
-   "start": {
-    "display_en": "625 B.C.E.",
-    "display_ta": "பொ.ச.மு. 625",
-    "year": 625,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -624.5
-   },
-   "end": {
-    "display_en": "582 B.C.E. (October)",
-    "display_ta": "பொ.ச.மு. 582",
-    "year": 582,
-    "era": "BCE",
-    "month": 10,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -581.25
-   },
-   "duration": {
-    "years": 43,
-    "months": null,
-    "days": null,
-    "display_en": "43 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b3-0100",
-   "end_event_id": "b4-0013",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b3-0100 (start) and b4-0013 (end)."
-   },
-   "title_en": "Reign of Nebuchadnezzar (Babylon)",
-   "title_ta": null,
-   "description_en": "Nebuchadnezzar rules Babylon: from Nebuchadnezzar becomes king of Babylon (625 B.C.E.) to Death of Nebuchadnezzar II (582 B.C.E. (October)).",
-   "description_ta": null,
-   "category": "bible.monarchy",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Nebuchadnezzar"
-   ],
-   "places": [
-    "Babylon"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Jer. 25:1",
-     "ref_ta": "எரே. 25:1",
-     "book": "Jeremiah",
-     "book_num": 24,
-     "chapter": 25,
-     "verses": "1"
-    },
-    {
-     "ref_en": "Dan. 4:30-36",
-     "ref_ta": null,
-     "book": "Daniel",
-     "book_num": 27,
-     "chapter": 4,
-     "verses": "30-36"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": null,
-     "quote_en": "625 B.C.E. Nebuchadnezzar (II) becomes king of Babylon; first regnal year counts from Nisan of 624 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200003200",
-     "publication": "Insight (it-2) \"Nebuchadnezzar\"",
-     "title_en": "Nebuchadnezzar",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003200",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003200&wtlocale=E",
-     "par": null,
-     "quote_en": "Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.)",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200000530",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Babylon",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000530",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000530&wtlocale=E",
-     "par": null,
-     "quote_en": "Nebuchadnezzar II died in October of 582 B.C.E. and was succeeded by Awil-Marduk (Evil-merodach).",
-     "supports": "end"
-    },
-    {
-     "docid": "1101999026",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 7",
-     "title_en": "Four Words That Changed the World",
-     "title_ta": "உலகை மாற்றிய அந்த நான்கு வார்த்தைகள்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999026",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999026",
-     "finder_url": "https://www.jw.org/finder?docid=1101999026&wtlocale=E",
-     "par": null,
-     "quote_en": "Proud King Nebuchadnezzar's 43-year reign in Babylon ended with his death in 582 B.C.E.",
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [],
-   "importance": null,
-   "related_ids": [
-    "b3-0100",
-    "b4-0013"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0076",
-   "slug": "reign-persia-cyrus",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "560/559 B.C.E. – 530 B.C.E.",
-   "date_label_ta": "பொ.ச.மு. 560/559 – பொ.ச.மு. 530",
-   "start": {
-    "display_en": "560/559 B.C.E.",
-    "display_ta": "பொ.ச.மு. 560/559",
-    "year": 560,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "approx",
-    "latest": null,
-    "sort_key": -559.5
-   },
-   "end": {
-    "display_en": "530 B.C.E.",
-    "display_ta": "பொ.ச.மு. 530",
-    "year": 530,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -529.5
-   },
-   "duration": {
-    "years": 30,
-    "months": null,
-    "days": null,
-    "display_en": "c. 30 years",
-    "display_ta": null,
-    "approx": true,
-    "derived": true
-   },
-   "start_event_id": "b4-0018",
-   "end_event_id": "b4-0035",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0018 (start) and b4-0035 (end)."
-   },
-   "title_en": "Reign of Cyrus (Persia)",
-   "title_ta": null,
-   "description_en": "Cyrus rules Persia: from Cyrus begins his reign (560/559 B.C.E.) to Cyrus dies on a military campaign (530 B.C.E.).",
-   "description_ta": null,
-   "category": "bible.exile_return",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Cyrus"
-   ],
-   "places": [
-    "Anshan",
-    "Persia"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Isa. 45:1",
-     "ref_ta": null,
-     "book": "Isaiah",
-     "book_num": 23,
-     "chapter": 45,
-     "verses": "1"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1200001102",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Cyrus",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001102",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200001102&wtlocale=E",
-     "par": null,
-     "quote_en": "Diodorus (first century B.C.E.) places the start of Cyrus' reign in the first year of the 55th Olympiad, or 560/559 B.C.E.",
-     "supports": "whole"
-    },
-    {
-     "docid": "1101999028",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 9",
-     "title_en": "Who Will Rule the World?",
-     "title_ta": "உலகை ஆளப்போவது யார்?",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999028",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999028",
-     "finder_url": "https://www.jw.org/finder?docid=1101999028&wtlocale=E",
-     "par": null,
-     "quote_en": "Cyrus' march to fame began about 560/559 B.C.E. when he succeeded his father Cambyses I to the throne of Anshan",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) Chronology",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "start"
-    },
-    {
-     "docid": "1200003447",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Persia, Persians",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003447",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003447&wtlocale=E",
-     "par": null,
-     "quote_en": "The reign of Cyrus the Great ended in 530 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1101999023",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 4",
-     "title_en": "The Rise and Fall of an Immense Image",
-     "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
-     "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [],
-   "importance": null,
-   "related_ids": [
-    "b4-0018",
-    "b4-0035"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0077",
-   "slug": "reign-persia-darius-i",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "522 B.C.E. (December) – 486 B.C.E.",
-   "date_label_ta": null,
-   "start": {
-    "display_en": "522 B.C.E. (December)",
-    "display_ta": null,
-    "year": 522,
-    "era": "BCE",
-    "month": 12,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -521.05
-   },
-   "end": {
-    "display_en": "486 B.C.E.",
-    "display_ta": "பொ.ச.மு. 486",
-    "year": 486,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -486.0
-   },
-   "duration": {
-    "years": 36,
-    "months": null,
-    "days": null,
-    "display_en": "36 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b4-0038",
-   "end_event_id": "b4-0057",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0038 (start) and b4-0057 (end)."
-   },
-   "title_en": "Reign of Darius I (Persia)",
-   "title_ta": null,
-   "description_en": "Darius I rules Persia: from Darius I establishes himself in Babylon (522 B.C.E. (December)) to Death of Darius I (486 B.C.E.).",
-   "description_ta": null,
-   "category": "bible.exile_return",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Darius I"
-   ],
-   "places": [
-    "Babylon",
-    "Persia"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Ezra 4:24",
-     "ref_ta": null,
-     "book": "Ezra",
-     "book_num": 15,
-     "chapter": 4,
-     "verses": "24"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) Chronology",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": "the year 522 B.C.E. may be viewed as the accession year of King Darius I.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200003156",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Nabonidus",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003156",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003156&wtlocale=E",
-     "par": null,
-     "quote_en": "He was defeated in the accession year of Darius I late in 522 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1101999023",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 4",
-     "title_en": "The Rise and Fall of an Immense Image",
-     "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
-     "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
-     "par": null,
-     "quote_en": "By the time Darius I ... ascended the throne in 521 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200001124",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Darius",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001124",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200001124&wtlocale=E",
-     "par": null,
-     "quote_en": "he was unable to carry it out before his death in 486 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1200003447",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Persia, Persians",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003447",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003447&wtlocale=E",
-     "par": null,
-     "quote_en": "Darius died in 486 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1101999030",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 11",
-     "title_en": "The Time of Messiah’s Coming Revealed",
-     "title_ta": "மேசியா தோன்றும் காலத்தை தெரிவித்தல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999030",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999030",
-     "finder_url": "https://www.jw.org/finder?docid=1101999030&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1101999023",
-     "value": "521 B.C.E.",
-     "note": "dp ch. 4 says Darius I 'ascended the throne in 521 B.C.E.' (first regnal year); Insight Chronology treats 522 as accession year."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b4-0038",
-    "b4-0057"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0078",
-   "slug": "reign-persia-xerxes",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "496 B.C.E. – 475 B.C.E. (latter part)",
-   "date_label_ta": null,
-   "start": {
-    "display_en": "496 B.C.E.",
-    "display_ta": null,
-    "year": 496,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -496.2
-   },
-   "end": {
-    "display_en": "475 B.C.E. (latter part)",
-    "display_ta": "பொ.ச.மு. 475",
-    "year": 475,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": "autumn",
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -474.2
-   },
-   "duration": {
-    "years": 21,
-    "months": null,
-    "days": null,
-    "display_en": "21 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b4-0052",
-   "end_event_id": "b4-0063",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0052 (start) and b4-0063 (end)."
-   },
-   "title_en": "Reign of Xerxes (Persia)",
-   "title_ta": null,
-   "description_en": "Xerxes rules Persia: from Xerxes becomes coregent with Darius (496 B.C.E.) to Xerxes dies; Artaxerxes I's accession year (475 B.C.E. (latter part)).",
-   "description_ta": null,
-   "category": "bible.exile_return",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Xerxes"
-   ],
-   "places": [
-    "Babylon",
-    "Persia"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Esther 1:3",
-     "ref_ta": null,
-     "book": "Esther",
-     "book_num": 17,
-     "chapter": 1,
-     "verses": "3"
-    },
-    {
-     "ref_en": "Neh. 2:1",
-     "ref_ta": null,
-     "book": "Nehemiah",
-     "book_num": 16,
-     "chapter": 2,
-     "verses": "1"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1200000142",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Ahasuerus",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000142",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000142&wtlocale=E",
-     "par": null,
-     "quote_en": "This would mean that Xerxes' accession year was 496 B.C.E. and that his first regnal year was 495 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200003447",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Persia, Persians",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003447",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003447&wtlocale=E",
-     "par": null,
-     "quote_en": "Excavations there have unearthed a palace for Xerxes completed in 496 B.C.E.",
-     "supports": "whole"
-    },
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": 18,
-     "quote_en": "His father and predecessor, Xerxes, died in the latter part of 475 B.C.E. Artaxerxes' accession year thus began in 475 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1200003915",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Seventy Weeks",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003915",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003915&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    },
-    {
-     "docid": "1101999030",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 11",
-     "title_en": "The Time of Messiah’s Coming Revealed",
-     "title_ta": "மேசியா தோன்றும் காலத்தை தெரிவித்தல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999030",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999030",
-     "finder_url": "https://www.jw.org/finder?docid=1101999030&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    },
-    {
-     "docid": "1101999023",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 4",
-     "title_en": "The Rise and Fall of an Immense Image",
-     "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
-     "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200003447",
-     "value": "486 B.C.E.",
-     "note": "Insight notes Xerxes' rule is customarily counted from 486 B.C.E. (Darius' death); jw.org holds a coregency from 496."
-    },
-    {
-     "docid": "1200000389",
-     "value": "465 B.C.E.",
-     "note": "Insight 'Artaxerxes' notes most reference works give 465 B.C.E. as the accession year; jw.org holds 475."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b4-0052",
-    "b4-0063"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0079",
-   "slug": "reign-persia-artaxerxes-i",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "475 B.C.E. (latter part) – 424 B.C.E.",
-   "date_label_ta": null,
-   "start": {
-    "display_en": "475 B.C.E. (latter part)",
-    "display_ta": "பொ.ச.மு. 475",
-    "year": 475,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": "autumn",
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -474.2
-   },
-   "end": {
-    "display_en": "424 B.C.E.",
-    "display_ta": null,
-    "year": 424,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -424.0
-   },
-   "duration": {
-    "years": 51,
-    "months": null,
-    "days": null,
-    "display_en": "51 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b4-0063",
-   "end_event_id": "b4-0077",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0063 (start) and b4-0077 (end)."
-   },
-   "title_en": "Reign of Artaxerxes I (Persia)",
-   "title_ta": null,
-   "description_en": "Artaxerxes I rules Persia: from Xerxes dies; Artaxerxes I's accession year (475 B.C.E. (latter part)) to End of Artaxerxes I's reign; Darius II succeeds (424 B.C.E.).",
-   "description_ta": null,
-   "category": "bible.exile_return",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Artaxerxes I"
-   ],
-   "places": [
-    "Persia"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Neh. 2:1",
-     "ref_ta": null,
-     "book": "Nehemiah",
-     "book_num": 16,
-     "chapter": 2,
-     "verses": "1"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101990130",
-     "publication": "All Scripture Is Inspired (si) Study 3",
-     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
-     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
-     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
-     "par": 18,
-     "quote_en": "His father and predecessor, Xerxes, died in the latter part of 475 B.C.E. Artaxerxes' accession year thus began in 475 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200003447",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Persia, Persians",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003447",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003447&wtlocale=E",
-     "par": null,
-     "quote_en": "testimonies from Greek, Persian, and Babylonian sources agree that Artaxerxes' accession year was 475 B.C.E.",
-     "supports": "whole"
-    },
-    {
-     "docid": "1200003915",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Seventy Weeks",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003915",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003915&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "start"
-    },
-    {
-     "docid": "1101999030",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 11",
-     "title_en": "The Time of Messiah’s Coming Revealed",
-     "title_ta": "மேசியா தோன்றும் காலத்தை தெரிவித்தல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999030",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999030",
-     "finder_url": "https://www.jw.org/finder?docid=1101999030&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "start"
-    },
-    {
-     "docid": "1101999023",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 4",
-     "title_en": "The Rise and Fall of an Immense Image",
-     "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
-     "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "start"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200000389",
-     "value": "465 B.C.E.",
-     "note": "Insight 'Artaxerxes' notes most reference works give 465 B.C.E. as the accession year; jw.org holds 475."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b4-0063",
-    "b4-0077"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0080",
-   "slug": "reign-macedonia-alexander-the-great",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "336 B.C.E. – 323 B.C.E., June 13",
-   "date_label_ta": "பொ.ச.மு. 336 – பொ.ச.மு. 323, ஜூன் 13",
-   "start": {
-    "display_en": "336 B.C.E.",
-    "display_ta": "பொ.ச.மு. 336",
-    "year": 336,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -336.0
-   },
-   "end": {
-    "display_en": "323 B.C.E., June 13",
-    "display_ta": "பொ.ச.மு. 323, ஜூன் 13",
-    "year": 323,
-    "era": "BCE",
-    "month": 6,
-    "day": 13,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "exact",
-    "latest": null,
-    "sort_key": -322.55
-   },
-   "duration": {
-    "years": 13,
-    "months": null,
-    "days": null,
-    "display_en": "13 years",
-    "display_ta": null,
-    "approx": false,
-    "derived": true
-   },
-   "start_event_id": "b4-0082",
-   "end_event_id": "b4-0090",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0082 (start) and b4-0090 (end)."
-   },
-   "title_en": "Reign of Alexander the Great (Macedonia)",
-   "title_ta": null,
-   "description_en": "Alexander the Great rules Macedonia: from Alexander becomes king of Macedonia (336 B.C.E.) to Death of Alexander the Great (323 B.C.E., June 13).",
-   "description_ta": null,
-   "category": "bible.prophecy_fulfilled",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Alexander the Great"
-   ],
-   "places": [
-    "Macedonia",
-    "Babylon"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Dan. 11:3",
-     "ref_ta": null,
-     "book": "Daniel",
-     "book_num": 27,
-     "chapter": 11,
-     "verses": "3"
-    },
-    {
-     "ref_en": "Dan. 8:8, 21, 22",
-     "ref_ta": null,
-     "book": "Daniel",
-     "book_num": 27,
-     "chapter": 8,
-     "verses": "8, 21, 22"
-    },
-    {
-     "ref_en": "Dan. 11:3, 4",
-     "ref_ta": null,
-     "book": "Daniel",
-     "book_num": 27,
-     "chapter": 11,
-     "verses": "3, 4"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1101999028",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 9",
-     "title_en": "Who Will Rule the World?",
-     "title_ta": "உலகை ஆளப்போவது யார்?",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999028",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999028",
-     "finder_url": "https://www.jw.org/finder?docid=1101999028&wtlocale=E",
-     "par": null,
-     "quote_en": "The assassination of Philip in 336 B.C.E. led to 20-year-old Alexander's inheriting the throne of Macedonia.",
-     "supports": "whole"
-    },
-    {
-     "docid": "1101999032",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 13",
-     "title_en": "Two Kings in Conflict",
-     "title_ta": "எதிரும் புதிருமான இரு ராஜாக்கள்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999032",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999032",
-     "finder_url": "https://www.jw.org/finder?docid=1101999032&wtlocale=E",
-     "par": null,
-     "quote_en": "Twenty-year-old Alexander 'stood up' as king of Macedonia in 336 B.C.E.",
-     "supports": "start"
-    },
-    {
-     "docid": "1101999029",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 10",
-     "title_en": "Who Can Stand Against the Prince of Princes?",
-     "title_ta": "அதிபதிகளுக்கெல்லாம் அதிபதிக்கு முன்பாக நிற்க துணிந்தவர் யார்?",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999029",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999029",
-     "finder_url": "https://www.jw.org/finder?docid=1101999029&wtlocale=E",
-     "par": null,
-     "quote_en": "In 336 B.C.E., the last king of the Persian Empire, Darius III (Codommanus), was crowned.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200003447",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Persia, Persians",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003447",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200003447&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "start"
-    },
-    {
-     "docid": "1200000192",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Alexander",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000192",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000192&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    },
-    {
-     "docid": "1200001765",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Greece, Greeks",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001765",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200001765&wtlocale=E",
-     "par": null,
-     "quote_en": "Alexander died in Babylon in 323 B.C.E.",
-     "supports": "end"
-    },
-    {
-     "docid": "1101999023",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 4",
-     "title_en": "The Rise and Fall of an Immense Image",
-     "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
-     "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    },
-    {
-     "docid": "1101990088",
-     "publication": "All Scripture Is Inspired (si)",
-     "title_en": "Bible Book Number 27—Daniel",
-     "title_ta": "பைபிள் புத்தக எண் 27—தானியேல்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990088",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990088",
-     "finder_url": "https://www.jw.org/finder?docid=1101990088&wtlocale=E",
-     "par": null,
-     "quote_en": null,
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [],
-   "importance": null,
-   "related_ids": [
-    "b4-0082",
-    "b4-0090"
-   ],
-   "notes": null
-  },
-  {
-   "id": "d1-0081",
-   "slug": "reign-judea-herod-the-great",
-   "timing": "span",
-   "span_kind": "reign",
-   "date_label_en": "c. 39 B.C.E. – 1 B.C.E.",
-   "date_label_ta": null,
-   "start": {
-    "display_en": "c. 39 B.C.E.",
-    "display_ta": "பொ.ச.மு. 39",
-    "year": 39,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "approx",
-    "latest": null,
-    "sort_key": -39.0
-   },
-   "end": {
-    "display_en": "1 B.C.E.",
-    "display_ta": null,
-    "year": 1,
-    "era": "BCE",
-    "month": null,
-    "day": null,
-    "hebrew_month": null,
-    "hebrew_day": null,
-    "season": null,
-    "precision": "approx",
-    "latest": null,
-    "sort_key": -0.9
-   },
-   "duration": {
-    "years": 38,
-    "months": null,
-    "days": null,
-    "display_en": "c. 38 years",
-    "display_ta": null,
-    "approx": true,
-    "derived": true
-   },
-   "start_event_id": "b4-0128",
-   "end_event_id": "b4-0138",
-   "parent_id": null,
-   "derived": {
-    "method": "paired_events",
-    "fields": [
-     "start",
-     "end",
-     "duration"
-    ],
-    "note": "Built from b4-0128 (start) and b4-0138 (end)."
-   },
-   "title_en": "Reign of Herod the Great (Judea)",
-   "title_ta": null,
-   "description_en": "Herod the Great rules Judea: from Herod appointed king of Judea by the Roman Senate (c. 39 B.C.E.) to Death of Herod the Great (1 B.C.E.).",
-   "description_ta": null,
-   "category": "bible.intertestament",
-   "event_kind": "reign",
-   "tags": [
-    "reign"
-   ],
-   "people": [
-    "Herod the Great"
-   ],
-   "places": [
-    "Rome",
-    "Judea",
-    "Jericho"
-   ],
-   "scriptures": [
-    {
-     "ref_en": "Matt. 2:16-19",
-     "ref_ta": null,
-     "book": "Matthew",
-     "book_num": 40,
-     "chapter": 2,
-     "verses": "16-19"
-    }
-   ],
-   "sources": [
-    {
-     "docid": "1200002000",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Herod",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002000",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200002000&wtlocale=E",
-     "par": null,
-     "quote_en": "about 39 B.C.E., was made king of greater Judea by appointment of the Roman senate",
-     "supports": "whole"
-    },
-    {
-     "docid": "1101999032",
-     "publication": "Pay Attention to Daniel's Prophecy! (dp) ch. 13",
-     "title_en": "Two Kings in Conflict",
-     "title_ta": "எதிரும் புதிருமான இரு ராஜாக்கள்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999032",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999032",
-     "finder_url": "https://www.jw.org/finder?docid=1101999032&wtlocale=E",
-     "par": null,
-     "quote_en": "In 39 B.C.E., the Roman Senate appointed Herod—an Edomite—to be king of Judea.",
-     "supports": "start"
-    },
-    {
-     "docid": "1200000970",
-     "publication": "Insight (it-1) Chronology",
-     "title_en": "Chronology",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
-     "par": null,
-     "quote_en": "there is evidence pointing to the year 1 B.C.E. as the likely time of his death.",
-     "supports": "end"
-    },
-    {
-     "docid": "1200002436",
-     "publication": "Insight on the Scriptures",
-     "title_en": "Jerusalem",
-     "title_ta": null,
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002436",
-     "url_ta": null,
-     "finder_url": "https://www.jw.org/finder?docid=1200002436&wtlocale=E",
-     "par": null,
-     "quote_en": "Herod died, evidently in the year 1 B.C.E.",
-     "supports": "end"
-    }
-   ],
-   "images": [],
-   "conflicts": [
-    {
-     "docid": "1200002000",
-     "value": "40 B.C.E.",
-     "note": "Insight 'Herod' notes Josephus' method would place the appointment in 40 B.C.E., while Appianos' data place it in 39 B.C.E."
-    },
-    {
-     "docid": "1200002000",
-     "value": "5 or 4 B.C.E.",
-     "note": "Insight notes some chronologers hold 5 or 4 B.C.E. based on the partial eclipse of March 11, 4 B.C.E.; jw.org favors 1 B.C.E."
-    }
-   ],
-   "importance": null,
-   "related_ids": [
-    "b4-0128",
-    "b4-0138"
    ],
    "notes": null
   }

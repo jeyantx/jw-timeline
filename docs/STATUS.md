@@ -1,4 +1,23 @@
-# Data collection status — 2026-10-03
+# Data collection status
+
+## Update 2026-10-10 — schema v2 (points and spans)
+`data/merged/timeline.json` now holds **1,860 records: 1,595 points and 265 spans**. Every record validates against schema v2 ([DATA_SCHEMA.md](DATA_SCHEMA.md)).
+
+| span source | count |
+|---|---|
+| converted from v1 "range" records (prophets, judges, journeys, wars, conventions…) | 74 |
+| b12: periods sourced directly from jw.org (world powers, 70 weeks, Gentile Times, presidents, Governing Body, bans, HQ, magazines, Roman emperors) | 120 (1 folded) |
+| d1: derived from sourced points (31 lifespans, 40 reigns of Judah and Israel) | 71 |
+
+- v1 "range" was split: 74 became spans; 40 "31 or 32 C.E."-type windows became uncertain points (`between`); 31 remain after duplicate folding.
+- 134 spans link both ends to existing point events; 22 are ongoing; 17 have an end jw.org does not date (`unknown`); 3 are undated future spans.
+- Merged ids are now stable batch ids (`b3-0017`, `d1-0024`). The old `ev-00001` numbering broke `related_ids`; that is fixed.
+- jw.org does not date (dropped from b12): Millerite start, medieval/Roman Inquisition end, wheat-and-weeds period, Reformation as a period, Wycliffe/Tyndale translation spans, Operation North end, Spain/Portugal/Greece/Japan bans, Photo-Drama showings, Adams' and Henschel's presidency end, several Governing Body start dates, lifespans of Solomon/Samuel/Daniel/Paul.
+- New conflicts recorded: David/Solomon reign ends (NWT App. B7 1038/998 vs si/Insight 1037/997), Anglo-American world power start, Augustus 31 vs 27 B.C.E., Canada ban end, Brooklyn move month.
+
+---
+
+## Original collection — 2026-10-03
 
 ## Result
 `data/merged/timeline.json` — **1,669 events**, Creation → Oct 2026 → undated future, every one sourced to jw.org / wol.jw.org.

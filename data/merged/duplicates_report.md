@@ -1,4 +1,4 @@
-# Auto-merged duplicates (74)
+# Auto-merged duplicates (75)
 
 Rules: bible.book_writing → b11 wins; other b11 vs chronology batch → chronology batch wins; b3 vs b4 at the 607 B.C.E. seam → b3 wins; plus a short manual list in scripts/merge.py. Sources, Tamil and images are folded into the kept record and references to the dropped id are repointed.
 
@@ -76,6 +76,7 @@ Rules: bible.book_writing → b11 wins; other b11 vs chronology batch → chrono
 - **c. 100 C.E.** kept [b6-0107] Apostle John, the last of the apostles, dies  ← dropped [b11-0072] Apostle John, last surviving apostle, dies at Ephesus
 - **February 16, 1852** kept [b8-0001] Charles Taze Russell is born  ← dropped [b7-0217] Charles Taze Russell born
 - **1868 or 1869** kept [b8-0002] Russell’s wavering faith is reestablished after hearing Jonas Wendell  ← dropped [b7-0229] C. T. Russell begins careful study of the Scriptures
+- **1939-45** kept [b8-0218] 23 British Commonwealth nations ban Witnesses or their literature  ← dropped [b12-0083] Bans in British Empire and Commonwealth lands during World War II
 
 # Needs manual review (0)
 

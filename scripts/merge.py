@@ -42,7 +42,15 @@ def sc_keys(ev):
     return {f"{s.get('book_num')}:{s.get('chapter')}" for s in ev.get("scriptures", []) if s.get("book_num") and s.get("chapter")}
 
 
+NOT_DUPLICATES = {  # reviewed pairs that look alike but are different records
+    frozenset({"b8-0126", "b12-0076"}),  # 1919 convention vs. The Golden Age magazine run
+    frozenset({"b8-0247", "b12-0089"}),  # 1943 course introduced vs. the school's 1943-2015 run
+}
+
+
 def pair_is_dup(a, b):
+    if frozenset({a["id"], b["id"]}) in NOT_DUPLICATES:
+        return False, 0
     if a["batch"] == b["batch"] or a["timing"] != b["timing"]:
         return False, 0
     if a["batch"].startswith("d") or b["batch"].startswith("d"):
@@ -131,6 +139,7 @@ MANUAL = {  # drop (batch, slug) -> keep (batch, slug)
     ("b4", "john-birth-foretold-3"): ("b5", "angel-gabriel-foretells-the-birth-of-john-the-baptist-to-zec"),
     ("b7", "russell-born"): ("b8", "russell-born"),
     ("b7", "russell-begins-study"): ("b8", "russell-faith-reestablished"),
+    ("b12", "british-commonwealth-bans"): ("b8", "commonwealth-bans"),  # Commonwealth bans 1939-45; children repointed
 }
 idx = {(e["batch"], e["slug"]): e for e in events}
 for dkey, kkey in MANUAL.items():

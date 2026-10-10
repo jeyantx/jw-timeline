@@ -19,7 +19,7 @@ Spans and points link to each other. A lifespan's `start_event_id` and `end_even
 
 | field | type | required | notes |
 |---|---|---|---|
-| `id` | string | ✓ | **Stable** id = batch prefix + sequence: `b3-0017` (research batch 3), `d1-0024` (derived span). Never reused; safe for deep links. |
+| `id` | string | ✓ | **Stable** id = batch prefix + sequence: `b3-0017` (research batch 3), `d1-0024` (derived span). Never reused; safe for deep links. Derived ids are pinned by slug in `data/derived/id_registry.json` (append-only). |
 | `slug` | string | ✓ | kebab-case, readable |
 | `timing` | `point` \| `span` | ✓ | see §1 |
 | `span_kind` | enum \| null | spans | `lifespan`, `reign`, `office`, `ministry`, `prophetic_activity`, `judgeship`, `journey`, `residence`, `imprisonment`, `captivity`, `exile`, `construction`, `war`, `campaign`, `persecution`, `ban`, `council`, `convention`, `assembly`, `school`, `writing`, `translation`, `copying`, `publication`, `broadcast`, `world_power`, `prophetic_period`, `period`, `festival`, `other`. Null for points. |
@@ -89,6 +89,7 @@ Spans and points link to each other. A lifespan's `start_event_id` and `end_even
 The pipeline never invents a date. It does two things:
 
 1. **Pairs existing sourced events into spans.** Lifespans pair a birth with a death. Reigns run from an accession to the successor's accession, as NWT Appendix A6 lays the kings out, or to the king's death or the end of the kingdom.
+   Where a research batch sources the same span directly (b12: reigns of Saul, David, Solomon, Nebuchadnezzar, Cyrus…), the sourced record is used and no derived copy is made.
 2. **Computes values from printed ones.** These are durations, and the end of a reign shorter than a year.
 
 `derived` records which of these happened:
@@ -136,7 +137,7 @@ The UI should show a small "computed" marker on derived values, such as the dura
  "end": null, "title_en": "Jesus gives Kingdom illustrations"}
 ```
 
-**Span from a source's printed range**
+**Span from a source's printed range** (research batches also contain spans sourced directly as periods, e.g. `b12-0024` "The 70 years of Judah's desolation, 607–537 B.C.E.")
 
 ```json
 {"id": "b3-0032", "timing": "span", "span_kind": "prophetic_activity", "date_label_en": "c. 940–c. 906 B.C.E.",
@@ -162,7 +163,7 @@ The UI should show a small "computed" marker on derived values, such as the dura
 **Reign ending at the successor's accession**
 
 ```json
-{"id": "d1-0035", "timing": "span", "span_kind": "reign", "date_label_en": "997 B.C.E. – 980 B.C.E.",
+{"id": "d1-0032", "timing": "span", "span_kind": "reign", "date_label_en": "997 B.C.E. – 980 B.C.E.",
  "date_label_ta": "கி.மு. 997 – கி.மு. 980",
  "duration": {"years": 17, "display_en": "17 years", "derived": false},
  "start_event_id": "b3-0017", "end_event_id": "b3-0021",

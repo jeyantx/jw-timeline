@@ -12,6 +12,7 @@ import copy, glob, json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data/derived/d1.json")
+REGISTRY = os.path.join(ROOT, "data/derived/id_registry.json")  # slug -> id, append-only, so ids never shift
 
 # ---- lifespans: (person label, start event, end event). Ids are the copies that survive the merge.
 LIFESPANS = [
@@ -30,9 +31,9 @@ LIFESPANS = [
 ]
 LIFE_TITLES = {"Jesus": "Jesus' earthly life", "Enoch": "Life of Enoch (until God took him)"}
 
-# ---- reigns: ordered succession lists. Each item: (ruler, start id, explicit end id or None)
+# ---- reigns: ordered succession lists. (Saul, David, Solomon and the foreign rulers are NOT derived:
+# research batch b12 sources those reigns directly from jw.org, which beats a computed pairing.) Each item: (ruler, start id, explicit end id or None)
 # None = end at the next ruler's accession (as NWT App. A6 lays the chart out).
-UNITED = [("Saul", "b3-0001", "b3-0006"), ("David", "b3-0006", "b3-0011"), ("Solomon", "b3-0011", "b3-0019")]
 JUDAH = [("Rehoboam", "b3-0017", None), ("Abijah", "b3-0021", None), ("Asa", "b3-0022", None),
          ("Jehoshaphat", "b3-0034", "b3-0041"), ("Jehoram", "b3-0040", None), ("Ahaziah", "b3-0042", None),
          ("Athaliah", "b3-0044", None), ("Jehoash", "b3-0045", None), ("Amaziah", "b3-0049", None),
@@ -46,12 +47,6 @@ ISRAEL = [("Jeroboam", "b3-0018", None), ("Nadab", "b3-0023", None), ("Baasha", 
           ("Jehoahaz", "b3-0046", None), ("Jehoash", "b3-0048", None), ("Jeroboam II", "b3-0052", None),
           ("Zechariah", "b3-0061", None), ("Shallum", "b3-0062", None), ("Menahem", "b3-0063", None),
           ("Pekahiah", "b3-0064", None), ("Pekah", "b3-0065", None), ("Hoshea", "b3-0071", "b3-0076")]
-OTHER = [  # (ruler, realm, start, end)
-    ("Nebuchadnezzar", "Babylon", "b3-0100", "b4-0013"), ("Cyrus", "Persia", "b4-0018", "b4-0035"),
-    ("Darius I", "Persia", "b4-0038", "b4-0057"), ("Xerxes", "Persia", "b4-0052", "b4-0063"),
-    ("Artaxerxes I", "Persia", "b4-0063", "b4-0077"), ("Alexander the Great", "Macedonia", "b4-0082", "b4-0090"),
-    ("Herod the Great", "Judea", "b4-0128", "b4-0138"),
-]
 # printed length in the title describes only part of the reign -> compute from endpoints instead
 IGNORE_PRINTED = {"Omri"}
 REIGN_NOTES = {
@@ -62,7 +57,7 @@ REIGN_NOTES = {
     ("Judah", "Jehoram"): "Associated with Jehoshaphat in the government from c. 919 B.C.E. (b3-0037).",
     ("Judah", "Uzziah (Azariah)"): "Becomes king 'in a special sense' c. 818 B.C.E. (b3-0058).",
 }
-SUB_REIGNS = [("David reigns in Hebron over Judah", "David", "b3-0006", "b3-0007")]
+SUB_REIGNS = [("David reigns in Hebron over Judah", "David", "b3-0006", "b3-0007", "b12-0012")]  # parent = b12 reign of David
 
 WORD = {"one": 1, "two": 2, "three": 3, "six": 6, "seven": 7}
 
@@ -248,23 +243,31 @@ def main():
             made[ruler] = rec["id"]
         return made
 
-    united = succession(UNITED, "united kingdom of Israel", "bible.monarchy", "united-kingdom")
     succession(JUDAH, "Judah", "bible.monarchy", "kingdom-of-judah")
     succession(ISRAEL, "Israel", "bible.monarchy", "kingdom-of-israel")
-    for title, ruler, sid, eid in SUB_REIGNS:
+    for title, ruler, sid, eid, parent in SUB_REIGNS:
         n += 1
         out.append(make_span(n, slugify(title), title, "reign", evs[sid], evs[eid], "bible.monarchy", [ruler],
                              f"{title}: {evs[sid]['date_label_en']} to {evs[eid]['date_label_en']}.", "paired_events",
-                             f"Built from {sid} and {eid}.", extra_tags=["reign"], parent_id=united[ruler]))
-    for ruler, realm, sid, eid in OTHER:
-        n += 1
-        s, e = evs[sid], evs[eid]
-        out.append(make_span(n, f"reign-{slugify(realm)}-{slugify(ruler)}", f"Reign of {ruler} ({realm})", "reign", s, e,
-                             s["category"], [ruler], f"{ruler} rules {realm}: from {s['title_en'].rstrip('.')} "
-                             f"({s['date_label_en']}) to {e['title_en'].rstrip('.')} ({e['date_label_en']}).",
-                             "paired_events", f"Built from {sid} (start) and {eid} (end).", extra_tags=["reign"]))
+                             f"Built from {sid} and {eid}.", extra_tags=["reign"], parent_id=parent))
 
+    # stable ids: reuse the id registered for this slug; new slugs get the next unused number
+    reg = json.load(open(REGISTRY)) if os.path.exists(REGISTRY) else {}
+    nxt = max([int(v.split("-")[1]) for v in reg.values()] + [0]) + 1
+    old_to_new = {}
+    for rec in out:
+        if rec["slug"] not in reg:
+            reg[rec["slug"]] = f"d1-{nxt:04d}"
+            nxt += 1
+        old_to_new[rec["id"]] = reg[rec["slug"]]
+    for rec in out:
+        rec["id"] = old_to_new[rec["id"]]
+        if rec.get("parent_id") in old_to_new:
+            rec["parent_id"] = old_to_new[rec["parent_id"]]
+        rec["related_ids"] = [old_to_new.get(r, r) for r in rec.get("related_ids", [])]
+    out.sort(key=lambda r: r["id"])
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    json.dump(dict(sorted(reg.items(), key=lambda kv: kv[1])), open(REGISTRY, "w"), indent=1)
     json.dump({"batch": "d1", "schema_version": 2, "scope": "Spans derived from existing sourced point events: lifespans and reigns",
                "generated_by": "scripts/derive_spans.py", "events": out},
               open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

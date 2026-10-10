@@ -8,9 +8,9 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 - `schema/event.schema.json` — the record contract (v2: points and spans)
 - `docs/DATA_SCHEMA.md` — field-by-field explanation with real examples
 - `docs/AGENT_BRIEF.md` — rules given to research agents (sources, Tamil, images, precision)
-- `data/raw/b1..b11.json` — one file per research batch (see below)
+- `data/raw/b1..b12.json` — one file per research batch (see below)
 - `data/raw/book_names.json` — 66 Bible books EN/TA names + abbreviations
-- `data/derived/d1.json` — spans built from existing sourced events (lifespans, reigns)
+- `data/derived/d1.json` — spans built from existing sourced events (lifespans, reigns); `id_registry.json` pins their ids
 - `data/merged/timeline.json` — merged, sorted, stable ids
 - `data/merged/duplicates_report.md` — cross-batch duplicate candidates for manual review
 - `scripts/validate.py`, `scripts/derive_spans.py`, `scripts/merge.py` (and the one-off `scripts/migrate_v2.py`)
@@ -29,6 +29,8 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 | b9 | 1946–2026 JW history | Proclaimers, kr, jw.org Newsroom |
 | b10 | fulfilled-prophecy markers + undated future | rr book, Watchtower, Insight |
 | b11 | 66 Bible books writing completed | NWT Table of Books, si per-book |
+| b12 | 121 sourced **spans**: world powers, prophetic periods, presidents, Governing Body tenures, bans, HQ, magazines, Roman emperors | si, Insight, dp, kr, jv, NWT App. B, Watchtower, jw.org |
+| d1 | 71 **derived spans**: 31 lifespans + 40 reigns (Judah, Israel) built from sourced points | scripts/derive_spans.py |
 
 ## Workflow
 ```
