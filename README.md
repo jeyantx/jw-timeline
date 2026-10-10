@@ -13,6 +13,8 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 - `data/derived/d1.json` — spans built from existing sourced events (lifespans, reigns); `id_registry.json` pins their ids
 - `data/merged/timeline.json` — merged, sorted, stable ids
 - `data/merged/duplicates_report.md` — cross-batch duplicate candidates for manual review
+- `exports/timeline_review.xlsx` — review workbook (Timeline with review columns, Add new events, Sources, Categories, Summary)
+- `exports/timeline.csv` — same Timeline rows as UTF-8 CSV
 - `scripts/validate.py`, `scripts/derive_spans.py`, `scripts/merge.py` (and the one-off `scripts/migrate_v2.py`)
 
 ## Batches
@@ -37,5 +39,6 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 python3 scripts/derive_spans.py      # → data/derived/d1.json (lifespans, reigns)
 python3 scripts/validate.py          # all raw + derived files
 python3 scripts/merge.py             # → data/merged/timeline.json + duplicates report
+python3 scripts/export_review.py     # → exports/timeline_review.xlsx + exports/timeline.csv
 ```
 `importance` is intentionally null everywhere — owner assigns tiers later.

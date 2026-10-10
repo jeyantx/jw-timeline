@@ -9,7 +9,7 @@
 | b12: periods sourced directly from jw.org (world powers, 70 weeks, Gentile Times, presidents, Governing Body, bans, HQ, magazines, Roman emperors) | 120 (1 folded) |
 | d1: derived from sourced points (31 lifespans, 40 reigns of Judah and Israel) | 71 |
 
-- v1 "range" was split: 74 became spans; 40 "31 or 32 C.E."-type windows became uncertain points (`between`); 31 remain after duplicate folding.
+- v1 "range" was split: 74 became spans; 40 "31 or 32 C.E."-type windows became uncertain points (`between`); 31 remain after duplicate folding, and 4 b12 span starts also use `between` (35 in all).
 - 134 spans link both ends to existing point events; 22 are ongoing; 17 have an end jw.org does not date (`unknown`); 3 are undated future spans.
 - Merged ids are now stable batch ids (`b3-0017`, `d1-0024`). The old `ev-00001` numbering broke `related_ids`; that is fixed.
 - jw.org does not date (dropped from b12): Millerite start, medieval/Roman Inquisition end, wheat-and-weeds period, Reformation as a period, Wycliffe/Tyndale translation spans, Operation North end, Spain/Portugal/Greece/Japan bans, Photo-Drama showings, Adams' and Henschel's presidency end, several Governing Body start dates, lifespans of Solomon/Samuel/Daniel/Paul.
