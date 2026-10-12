@@ -1,1309 +1,1400 @@
-# A0 poster – records left off (1211)
+# A0 poster — records not on the poster (1347)
 
-Suggested poster set: **691 records** (238 spans). Everything below stays in the data and the app; it is only left off the printed poster. To bring one back, mark it in `exports/poster_selection.xlsx` (Drop sheet) or add its id to `data/curation/poster_overrides.json`.
+Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing below (rubric: `docs/POSTER_TIER_RUBRIC.md`). Everything here stays in the data and the app. To change a record's tier, use the yellow column in `exports/poster_selection.xlsx` or add it to `data/curation/tier_overrides.json`.
 
-| reason | records |
-|---|---|
-| Shown by its life/reign/office bar (birth, death, accession) | 122 |
-| One-line Publications Index entry (beliefs clarified / convention theme) — app only | 230 |
-| Secular or political history detail — app only | 32 |
-| Church/Christendom detail — app only (poster keeps Bible milestones + a few weeds) | 110 |
-| Modern-history detail (minor case, report, update) — app only | 109 |
-| Yearly statistic (one per decade kept) | 22 |
-| Other detail — app only | 8 |
-| Lower priority in its poster zone (zone budget full) — app only | 578 |
+## Tier 3 — Notable detail (app) (1088)
 
-## Shown by its life/reign/office bar (birth, death, accession) (122)
+### Row 1 · 4026–1000 B.C.E. (24)
 
-**Row 1 · 4026–1000 B.C.E.** (40)
+- 3152 B.C.E. — Birth of Lamech `b1-0008` · Minor genealogy birth; Lamech has no bar
+- 2470 B.C.E. — Birth of Japheth `b1-0015` · Minor genealogy birth
+- after 2470 B.C.E. — Birth of Ham `b1-0016` · Minor genealogy birth
+- 2368 B.C.E. — Birth of Arpachshad `b1-0022` · Genealogy birth; chronology detail only
+- c. 1943 B.C.E. — Death of Terah at Haran `b1-0035` · Terah's death at Haran; context for Abraham's move
+- b. 1933 B.C.E. — Abraham rescues Lot `b1-0038` · Rescue of Lot; setting for Melchizedek meeting
+- 1913 B.C.E. — Weaning of Isaac; Ishmael pokes fun at him `b1-0045` · Ishmael's mocking; 400-year bar start already marks it
+- 1881 B.C.E. — Death of Sarah `b1-0049` · Sarah's death; person detail, no bar
+- 1818 B.C.E. — Esau marries his first two wives `b1-0054` · Esau's marriages; rubric T3 example
+- 1781 B.C.E. — Jacob flees to Haran `b1-0056` · Flight to Haran; Bethel vision same year carries it
+- 1761 B.C.E. — Jacob returns to Canaan from Haran `b1-0060` · Return journey; wrestling/naming record carries it
+- 1739 B.C.E. — Joseph interprets the dreams of the cupbearer and the baker `b2-0002` · Lead-in to Joseph's rise; ruler record carries it
+- 1512 B.C.E., Nisan 14 — Passover observed in the wilderness at Sinai `b2-0027` · Repeat Passover observance; like Gilgal Passover
+- 1474 B.C.E., Nisan — Death of Miriam at Kadesh `b2-0033` · Miriam's death; person detail, no bar
+- 1473 B.C.E. — Census of Israel on the Plains of Moab `b2-0037` · Census figures; rubric T3 example
+- 1473 B.C.E., spring — Two spies lodge with Rahab in Jericho `b2-0044` · Rubric T3 example; Rahab bar and Jericho kept
+- 1473 B.C.E., Nisan 11-13 — Israelite males circumcised at Gilgal `b2-0046` · Gilgal circumcision; detail of entry
+- 1473 B.C.E., Nisan 14 — Passover celebrated at Gilgal `b2-0047` · Repeat Passover observance; like Sinai Passover
+- 1473 B.C.E., Nisan — Israel eats the produce of the land; manna stops `b2-0048` · Manna ceases; minor detail versus its start
+- c. 1467 B.C.E. — Ark of the covenant moved to Shiloh `b2-0053` · Tabernacle/ark location detail
+- 1424 B.C.E., Tishri — First Jubilee year begins `b2-0059` · First Jubilee; calendar detail
+- Period of the Judges (c. 1450–c. 1120 B.C.E.; date not stated) — Abimelech rules for three years `b2-0066` · Usurper Abimelech; not a judgeship
+- Before 1117 B.C.E. (20 years) — Ark returned; kept at Kiriath-jearim 20 years `b2-0077` · Ark's return; aftermath detail
+- c. 1078 B.C.E. (shortly before Saul’s death) — Saul consults the spirit medium at En-dor `b18-0018` · Prelude to Saul's death; context
 
-- 3896 B.C.E. — Birth of Seth `b1-0004`
-- 3566 B.C.E. — Birth of Jared `b1-0005`
-- 3404 B.C.E. — Birth of righteous Enoch `b1-0006`
-- 3339 B.C.E. — Birth of Methuselah `b1-0007`
-- 3096 B.C.E. — Death of Adam `b1-0009`
-- 3039 B.C.E. — Transference of Enoch; end of his prophesying `b1-0010`
-- 2984 B.C.E. — Death of Seth `b1-0011`
-- 2970 B.C.E. — Birth of Noah `b1-0012`
-- 2604 B.C.E. — Death of Jared `b1-0013`
-- 2468 B.C.E. — Birth of Shem `b1-0017`
-- 2370 B.C.E. — Death of Methuselah `b1-0018`
-- 2333 B.C.E. — Birth of Shelah `b1-0023`
-- 2269 B.C.E. — Birth of Peleg `b1-0024`
-- 2239 B.C.E. — Birth of Reu `b1-0026`
-- 2207 B.C.E. — Birth of Serug `b1-0027`
-- 2177 B.C.E. — Birth of Nahor (grandfather of Abraham) `b1-0028`
-- 2030 B.C.E. — Death of Peleg `b1-0029`
-- 2029 B.C.E. — Death of Nahor (grandfather of Abraham) `b1-0030`
-- 2020 B.C.E. — Death of Noah `b1-0031`
-- 2018 B.C.E. — Birth of Abraham (Abram) `b1-0032`
-- 2000 B.C.E. — Death of Reu `b1-0033`
-- 1977 B.C.E. — Death of Serug `b1-0034`
-- 1932 B.C.E. — Birth of Ishmael `b1-0040`
-- 1918 B.C.E. — Birth of Isaac, the true heir `b1-0043`
-- 1900 B.C.E. — Death of Shelah `b1-0048`
-- 1868 B.C.E. — Death of Shem `b1-0051`
-- 1843 B.C.E. — Death of Abraham `b1-0053`
-- 1795 B.C.E. — Death of Ishmael `b1-0055`
-- 1767 B.C.E. — Birth of Joseph `b1-0059`
-- 1738 B.C.E. — Death of Isaac `b2-0003`
-- 1597 B.C.E. — Birth of Aaron `b2-0010`
-- 1593 B.C.E. — Birth of Moses `b2-0011`
-- c. 1560 B.C.E. — Birth of Joshua (approximate) `b2-0012`
-- 1552 B.C.E. — Birth of Caleb `b2-0014`
-- c. 1500 B.C.E. — Birth of Rahab (approximate) `b2-0032`
-- c. 1450 B.C.E. — Death of Joshua `b2-0054`
-- c. 1450 B.C.E. — Death of Caleb (approximate) `b2-0056`
-- c. 1400 B.C.E. — Death of Rahab (approximate) `b2-0061`
-- 1107 B.C.E. — Birth of David at Bethlehem `b3-0002`
-- 1037 B.C.E. — Solomon succeeds David as king of Israel `b3-0011`
+### Row 2 · 1000–1 B.C.E. (95)
 
-**Row 2 · 1000–1 B.C.E.** (50)
+- 962 B.C.E. — Baasha comes up to build Ramah `b3-0026` · Border war detail between Asa and Baasha
+- During Elisha’s activity (c. 917–c. 857 B.C.E.; year not stated) — Elisha multiplies a widow’s oil `b18-0032` · Lesser-known Elisha miracle
+- During Jehoash’s reign (898–858 B.C.E.; year not stated) — Jehoash and Jehoiada repair the temple `b18-0037` · Temple restoration; context within reign
+- a. 858 B.C.E. — Jehoash of Israel captures Amaziah and breaches Jerusalem’s wall `b3-0050` · Israel–Judah war detail under Amaziah
+- During Uzziah’s reign (829–777 B.C.E.; year not stated) — King Uzziah is struck with leprosy for burning incense `b18-0039` · Notable judgment; context within reign
+- c. 759 B.C.E. — Ahaz becomes tributary to Tiglath-pileser III `b3-0070` · Ahaz's vassalage to Assyria; background to Isaiah 7
+- 742 B.C.E. — Assyrian siege of Samaria begins `b3-0075` · Siege start; the 740 fall carries the event
+- During Manasseh’s reign (716–661 B.C.E.; year not stated) — Manasseh repents and is restored to his throne `b18-0042` · Notable repentance; context within reign
+- 652 B.C.E. — Josiah begins to search for Jehovah `b3-0085` · Josiah's personal start; campaign and Law find carry story
+- 620 B.C.E. — Nebuchadnezzar makes Jehoiakim a tributary king `b3-0101` · Step toward exile; deportations carry the story
+- 618 B.C.E. — Jehoiakim rebels; Nebuchadnezzar comes against Jerusalem `b3-0102` · Step toward exile; deportations carry the story
+- 617 B.C.E.–580 B.C.E. — Jehoiachin’s captivity in Babylon `b12-0021` · Captivity bar; deportation point and release carry it
+- 609 B.C.E., Tebeth 10 — Nebuchadnezzar begins the final siege of Jerusalem `b3-0110` · Siege start (Tebeth 10); siege bar shows it
+- 607 B.C.E., Tammuz 9 — Jerusalem’s walls breached; Zedekiah captured `b3-0111` · Siege end; destruction record carries the event
+- 607 B.C.E. — Gedaliah appointed governor of Judah `b3-0114` · Governor appointment; administrative aftermath
+- 607 B.C.E., seventh month — Gedaliah murdered `b3-0115` · Aftermath; desolation start carries the outcome
+- 607 B.C.E., tenth month, 5th day — Ezekiel told that Jerusalem has been struck down `b4-0007` · Report reaching Ezekiel; detail
+- 591 B.C.E. — Ezekiel foretells Egypt given to Nebuchadnezzar `b4-0010` · Minor prophecy detail on Egypt
+- 588 B.C.E. — Nebuchadnezzar campaigns against Egypt (37th year) `b4-0012` · Fragmentary secular text; possible fulfilment
+- 581 B.C.E. — Evil-merodach succeeds Nebuchadnezzar `b4-0014` · Foreign accession; no bar, minor
+- 580 B.C.E. — Jehoiachin released from prison by Evil-merodach `b4-0015` · Jehoiachin's release; closing note of Kings
+- 556 B.C.E. — Nabonidus begins to rule Babylon `b4-0019` · Foreign accession; context for Belshazzar
+- About the middle of the sixth century B.C.E. — Babylonian king Nabonidus conquers Edom `b15-0002` · Secondary fulfilment against Edom
+- 550 B.C.E. — Cyrus conquers Media `b4-0021` · Persian conquest not narrated in the Bible
+- 539 B.C.E., Tishri — Cyrus defeats Babylonian forces at Opis `b4-0022` · Battle known from Nabonidus Chronicle only
+- 539 B.C.E., Marchesvan 3 — Cyrus enters Babylon `b4-0025` · Follow-up detail to Babylon's fall
+- 537 B.C.E., Tishri — Festival of Booths celebrated by the returned exiles `b4-0030` · Festival accompanying the return
+- 536 B.C.E.–515 B.C.E. — Rebuilding of the temple under Zerubbabel `b12-0028` · Bar duplicates foundation (T2) and completion (T1) points
+- 522 B.C.E. — Cambyses II dies; usurper rules seven months `b4-0036` · Persian succession; identifies Ezra 4:7 'Artaxerxes'
+- 522 B.C.E. — Ban put on temple-building work `b4-0037` · Ban start; ban bar carries it
+- 520 B.C.E. — Darius I confirms Cyrus' decree and lifts the ban `b4-0040` · Ban end; ban bar carries it
+- c. Feb. 9, 519 B.C.E. — Zechariah's night visions begin `b4-0043` · Sub-date within Zechariah's ministry
+- c. 519-518 B.C.E. — Darius I reconquers Egypt `b4-0044` · Persian campaign not narrated in the Bible
+- c. Dec. 1, 518 B.C.E. (Chislev 4) — Question about fasting brought to Zechariah `b4-0045` · Sub-date within Zechariah's ministry
+- 515 B.C.E. — Rebuilt temple inaugurated; Passover held `b4-0048` · Same moment as completion (T1)
+- 513 B.C.E. — Darius I invades Thrace `b4-0049` · Persian campaign not narrated in the Bible
+- 508 B.C.E. — Darius I subdues Thrace `b4-0050` · Persian campaign not narrated in the Bible
+- 499 B.C.E. — Darius I puts down revolt of Greek colonies `b4-0051` · Dan 11:2 background; secular campaign
+- 496 B.C.E. — Darius I conquers Macedonia `b4-0053` · Persian campaign not narrated in the Bible
+- 492 B.C.E. — Persian invasion fleet wrecked by storm `b4-0055` · Persian–Greek war detail
+- 490 B.C.E. — Persians defeated at Marathon `b4-0056` · Marathon; Greek battle the Bible does not narrate
+- 480 B.C.E. — Xerxes launches massive invasion of Greece `b4-0060` · Dan 11:2 fulfilment; secondary Daniel 11 detail
+- 479 B.C.E. — Greek victory at Plataea `b4-0061` · Greek battle the Bible does not narrate
+- 456 B.C.E., Chislev — Nehemiah hears of Jerusalem's distress `b4-0068` · Prelude to Nehemiah's commission
+- 455 B.C.E., about Ab 4 — Repair of Jerusalem's wall begins `b4-0070` · Wall start; commission (T1) and completion carry it
+- 443 B.C.E. (32nd year of Artaxerxes) — Nehemiah returns to Artaxerxes' court `b4-0072` · End of governorship bar
+- a. 443 B.C.E. — Nehemiah's second visit to Jerusalem and reforms `b4-0073` · Nehemiah's later reforms; secondary
+- 431-404 B.C.E. — Peloponnesian War between Athens and Sparta `b4-0076` · Greek war the Bible does not narrate
+- 406 B.C.E. — Rebuilding of Jerusalem evidently completed `b4-0078` · End of first 'seven weeks'; secondary series step
+- c. 371 B.C.E. — Spartan dominance ends; Thebes gains superiority `b4-0079` · Greek politics the Bible does not narrate
+- 338 B.C.E. — Philip II of Macedonia conquers Greece `b4-0081` · Greek politics the Bible does not narrate
+- 336 B.C.E.–June 13, 323 B.C.E. — Reign of Alexander the Great `b12-0036` · Largely duplicates Alexander lifespan bar (T2)
+- 334 B.C.E. (spring) — Alexander crosses the Hellespont; victory at Granicus `b4-0083` · Alexander battle; Gaugamela carries the conquest
+- 333 B.C.E. — Alexander defeats the Persians at Issus `b4-0084` · Alexander battle; Gaugamela carries the conquest
+- 332 B.C.E. — Greece, fifth world power, rules Judea `b4-0086` · Duplicates Greece's rise; Gaugamela carries it
+- 328 B.C.E. — Alexander's conquest complete `b4-0088` · Alexander campaign detail
+- 326 B.C.E. (June) — Alexander's fourth and final major battle `b4-0089` · Alexander campaign detail
+- 323 B.C.E., June 13 — Death of Alexander the Great `b4-0090` · End of Alexander lifespan bar; division record carries prophecy
+- c. 320 B.C.E. — Ptolemy I draws Jews to Egypt as colonists `b4-0091` · Jewish colonists in Egypt; background
+- 312 B.C.E. — Seleucus Nicator conquers Babylon `b4-0092` · Daniel 11 detail beyond the key fulfilments
+- 311 B.C.E. — Alexander IV killed by Cassander `b4-0093` · Daniel 11 detail beyond the key fulfilments
+- 305 B.C.E. — Ptolemy I assumes title of king in Egypt `b4-0094` · Daniel 11 detail beyond the key fulfilments
+- 285 B.C.E. — Lysimachus takes the European part of the empire `b4-0096` · Hellenistic politics detail
+- 281 B.C.E. — Lysimachus falls to Seleucus; Seleucus assassinated `b4-0097` · Daniel 11 detail beyond the key fulfilments
+- 276 B.C.E. — Antigonus II Gonatas becomes king of Macedonia `b4-0099` · Hellenistic politics detail
+- 250 B.C.E. — Antiochus II and Ptolemy II make an 'equitable arrangement' `b4-0100` · Daniel 11 detail beyond the key fulfilments
+- 246 B.C.E. — Death of Antiochus II `b4-0101` · Daniel 11 detail beyond the key fulfilments
+- c. 242 B.C.E. — Seleucus II retreats to Antioch `b4-0102` · Daniel 11 detail beyond the key fulfilments
+- 217 B.C.E. (spring) — Antiochus III marches against Ptolemy IV `b4-0103` · Daniel 11 detail beyond the key fulfilments
+- 198 B.C.E. — Antiochus III takes Sidon and Jerusalem; Judea passes to the Seleucids `b4-0104` · Daniel 11 detail; Judea changes overlord
+- 197 B.C.E. — Macedonia and Greece fall to the Romans `b4-0105` · Roman conquest the Bible does not narrate
+- 193 B.C.E. — Antiochus III's daughter marries Ptolemy V `b4-0106` · Daniel 11 detail beyond the key fulfilments
+- 192 B.C.E. — War in Greece draws in Antiochus III `b4-0107` · Daniel 11 detail beyond the key fulfilments
+- 190 B.C.E. — Antiochus III defeated by Rome at Magnesia `b4-0108` · Daniel 11 detail beyond the key fulfilments
+- 187 B.C.E. — Death of Antiochus III `b4-0109` · Daniel 11 detail beyond the key fulfilments
+- 175 B.C.E. — High priest Onias deposed by Antiochus Epiphanes `b4-0110` · High-priest politics under Antiochus IV
+- 168 B.C.E. — Antiochus IV humiliated by Rome; Macedonia defeated `b4-0111` · Daniel 11 detail beyond the key fulfilments
+- 163 B.C.E. — Death of Antiochus IV `b4-0114` · Antiochus IV carried by the desecration record
+- c. 160 B.C.E. — Maccabean Jews appeal to Rome `b4-0115` · Maccabean diplomacy detail
+- 146 B.C.E. — Rome destroys Corinth; Achaia and Macedonia become provinces `b4-0117` · Roman politics the Bible does not narrate
+- c. 142 B.C.E. — Simon Maccabaeus makes Jerusalem capital of a free region `b4-0118` · Maccabean politics detail
+- c. 125 B.C.E. — John Hyrcanus I forces circumcision on the Idumeans `b4-0119` · Background to Herod's Idumean family
+- 104 B.C.E. — Aristobulus I takes the title of king `b4-0120` · Maccabean politics detail
+- 64 B.C.E. — Pompey makes Syria a Roman province `b4-0121` · Roman provincial politics
+- 55 B.C.E. — Julius Caesar invades Britannia `b4-0123` · Roman history the Bible does not narrate
+- 48 B.C.E. — Lex Julia majestatis enacted `b4-0124` · Roman law; background only
+- c. 47 B.C.E. — Herod made governor of Galilee `b4-0125` · Herod's early appointment; reign bar carries Herod
+- 46 B.C.E. — Julius Caesar appointed dictator `b4-0126` · Roman political title
+- 44 B.C.E. — Julius Caesar assassinated `b4-0127` · Roman politics the Bible does not narrate
+- c. 37 B.C.E. — Herod takes Jerusalem by storm `b4-0129` · Start of Herod's effective rule; reign bar carries it
+- 31 B.C.E. (September) — Octavian defeats Antony and Cleopatra at Actium `b4-0130` · Actium; Egypt's fall (30) carries the B9 step
+- 27 B.C.E., January 16 — Octavian given the title Augustus `b4-0132` · Roman political title
+- 27 B.C.E. — Province of Achaia includes all southern and central Greece `b4-0133` · Roman provincial detail
+- 18/17 B.C.E.–c. 64 C.E. — Herod’s rebuilding of the temple `b12-0041` · Bar duplicates Herod's rebuilding start (T2)
+- 12 B.C.E. — Augustus becomes Pontifex Maximus `b4-0135` · Roman political title
 
-- 997 B.C.E. — Rehoboam becomes king of Judah (17 years) `b3-0017`
-- 997 B.C.E. — Jeroboam becomes king of Israel (22 years) `b3-0018`
-- 980 B.C.E. — Abijah (Abijam) becomes king of Judah (3 years) `b3-0021`
-- 978 B.C.E. — Asa becomes king of Judah (41 years) `b3-0022`
-- c. 976 B.C.E. — Nadab becomes king of Israel (2 years) `b3-0023`
-- c. 975 B.C.E. — Baasha becomes king of Israel (24 years) `b3-0024`
-- c. 952 B.C.E. — Elah becomes king of Israel (2 years) `b3-0027`
-- c. 951 B.C.E. — Zimri becomes king of Israel (7 days) `b3-0028`
-- c. 951 B.C.E. — Omri and Tibni become rival kings of Israel (4 years) `b3-0029`
-- c. 940 B.C.E. — Ahab becomes king of Israel (22 years) `b3-0033`
-- 937 B.C.E. — Jehoshaphat becomes king of Judah (25 years) `b3-0034`
-- c. 920 B.C.E. — Ahaziah (of Israel) becomes king of Israel (2 years) `b3-0036`
-- c. 917 B.C.E. — Jehoram (of Israel) becomes king of Israel (12 years) `b3-0039`
-- 913 B.C.E. — Jehoram (of Judah) becomes king of Judah (8 years) `b3-0040`
-- c. 906 B.C.E. — Ahaziah (of Judah) becomes king of Judah (1 year) `b3-0042`
-- c. 905 B.C.E. — Jehu becomes king of Israel (28 years) `b3-0043`
-- c. 905 B.C.E. — Queen Athaliah usurps the throne of Judah (6 years) `b3-0044`
-- 898 B.C.E. — Jehoash (of Judah) becomes king of Judah (40 years) `b3-0045`
-- 876 B.C.E. — Jehoahaz (of Israel) becomes king of Israel (14 years) `b3-0046`
-- c. 859 B.C.E. — Jehoash becomes sole king of Israel (16 years) `b3-0048`
-- 858 B.C.E. — Amaziah becomes king of Judah (29 years) `b3-0049`
-- c. 844 B.C.E. — Jeroboam II becomes king of Israel (41 years) `b3-0052`
-- 829 B.C.E. — Uzziah (Azariah) becomes king of Judah (52 years) `b3-0055`
-- c. 803 B.C.E. — Zechariah (of Israel) becomes king of Israel (recorded reign of only 6 months) `b3-0061`
-- c. 791 B.C.E. — Shallum becomes king of Israel (1 month) `b3-0062`
-- c. 791 B.C.E. — Menahem becomes king of Israel (10 years) `b3-0063`
-- c. 780 B.C.E. — Pekahiah becomes king of Israel (2 years) `b3-0064`
-- c. 778 B.C.E. — Pekah becomes king of Israel (20 years) `b3-0065`
-- 777 B.C.E. — Jotham becomes king of Judah (16 years) `b3-0067`
-- 762 B.C.E. — Ahaz becomes king of Judah (16 years) `b3-0069`
-- c. 758 B.C.E. — Hoshea becomes king of Israel (9 years from c. 748) `b3-0071`
-- 746 B.C.E. — Hezekiah becomes king of Judah (29 years) `b3-0073`
-- 716 B.C.E. — Manasseh becomes king of Judah (55 years) `b3-0081`
-- 661 B.C.E. — Amon becomes king of Judah (2 years) `b3-0082`
-- 659 B.C.E. — Josiah becomes king of Judah (31 years) `b3-0083`
-- 628 B.C.E. — Jehoahaz (of Judah) becomes king of Judah (3 months) `b3-0095`
-- 628 B.C.E. — Jehoiakim becomes king of Judah (11 years) `b3-0096`
-- 625 B.C.E. — Nebuchadnezzar becomes king of Babylon `b3-0100`
-- 618 B.C.E. — Jehoiachin becomes king of Judah (3 months, 10 days) `b3-0104`
-- 617 B.C.E. — Zedekiah becomes king of Judah (11 years) `b3-0108`
-- 582 B.C.E. (October) — Death of Nebuchadnezzar II `b4-0013`
-- 560/559 B.C.E. — Cyrus begins his reign `b4-0018`
-- 530 B.C.E. — Cyrus dies on a military campaign `b4-0035`
-- 522 B.C.E. (December) — Darius I establishes himself in Babylon `b4-0038`
-- 486 B.C.E. — Death of Darius I `b4-0057`
-- 475 B.C.E. (latter part) — Xerxes dies; Artaxerxes I's accession year `b4-0063`
-- 424 B.C.E. — End of Artaxerxes I's reign; Darius II succeeds `b4-0077`
-- 356 B.C.E. — Birth of Alexander the Great `b4-0080`
-- c. 39 B.C.E. — Herod appointed king of Judea by the Roman Senate `b4-0128`
-- 1 B.C.E. — Death of Herod the Great `b4-0138`
+### S Bible books strip (1)
 
-**Row 3 · 1–100 C.E.** (3)
+- c. 62 C.E. — James, Jesus' brother and writer of James, stoned (per Josephus) `b11-0062` · Death of James per Josephus; extra-biblical person detail
 
-- 41 C.E. — Claudius becomes Roman emperor after Caligula’s assassination `b6-0012`
-- 54 C.E. — Nero becomes Roman emperor `b6-0048`
-- 68 C.E. — Nero commits suicide `b6-0094`
+### P4 Jesus 2 B.C.E.–33 C.E. (85)
 
-**P5 Bible survives / wheat & weeds** (7)
+- 2 B.C.E. — Augustus given the title 'Father of His Country' `b4-0137` · Roman political title; context only
+- c. 2 B.C.E. — Mary visits her relative Elizabeth `b5-0003` · Mary visits Elizabeth; supporting detail of the birth narratives
+- 2 B.C.E. — Zechariah prophesies; John to be in desert `b5-0005` · Zechariah's prophecy; detail of John's birth account
+- 2 B.C.E., c. Oct. 1 — Jesus circumcised (8th day) `b5-0008` · Circumcision on eighth day; Law-keeping detail
+- 1 B.C.E. or 1 C.E. — Family returns from Egypt and settles in Nazareth `b5-0013` · Settling in Nazareth; follow-on travel detail
+- c. 12 C.E. (after the Passover of 12 C.E.; no time given in source) — Returns to Nazareth; continues subject to parents; learns carpentry; Mary raises four more sons, as well as daughters `b5-0015` · Youth in Nazareth, carpentry, siblings; background detail
+- 29 C.E., fall — Jesus visits Capernaum `b5-0022` · Brief visit to Capernaum; minor travel leg
+- 30 C.E., Passover — Jesus goes to Judean countryside; his disciples baptize `b5-0025` · Disciples baptize in Judea; context detail
+- 30 C.E., Passover — John’s final witness about Jesus `b5-0026` · John's final witness; context detail
+- 30 C.E., Passover — Jesus leaves for Galilee `b5-0028` · Departure for Galilee; minor travel leg
+- 30 C.E. — Jesus heals official’s son `b5-0031` · Official's son healed; lesser-known healing
+- 30 C.E. — Jesus goes to Capernaum `b5-0033` · Moves to Capernaum; travel detail
+- 30 C.E. — Heals Simon’s mother-in-law and others `b5-0035` · Healing Peter's mother-in-law; other healing
+- 30 C.E. — First tour of Galilee, with the four `b5-0036` · First Galilee tour; tours 1-2 context, tour 3 sends apostles
+- 30 C.E. — Heals leper; crowds follow `b5-0037` · Healing a leper; other healing
+- 30 C.E. — Jesus calls Matthew `b5-0039` · Single disciple's call; less defining than calling the four
+- 30 C.E. — Jesus dines with tax collectors; fasting question `b5-0040` · Dining with tax collectors; fasting question; other teaching
+- 30 C.E. — Preaches in synagogues `b5-0041` · General synagogue preaching; summary detail
+- 31 C.E., Passover — Jews seek to kill Jesus `b5-0043` · Opposition grows; context
+- 31 C.E., Passover — Disciples pluck grain on the Sabbath; Jesus “Lord of the Sabbath” `b5-0044` · 'Lord of the Sabbath'; other teaching
+- 31 C.E., Passover — Heals man’s hand on the Sabbath; crowds follow; heals many more `b5-0045` · Withered hand healed on Sabbath; other healing
+- 31 C.E., Passover — John sends disciples to Jesus `b5-0050` · John's disciples' question; other teaching
+- 31 C.E., Passover — Truth revealed to young children; yoke kindly `b5-0051` · 'My yoke is kindly'; other teaching
+- 31 C.E., Passover — Sinful woman pours oil on his feet `b5-0052` · Sinful woman anoints feet; lesser account
+- 31 C.E., Passover — Debtors illustration `b5-0053` · Two debtors; minor illustration
+- 31 C.E., Passover — Second preaching tour, with the 12 `b5-0054` · Second Galilee tour; tours 1-2 context
+- 31 C.E., Passover — Expels demons; unforgivable sin `b5-0055` · Expels demons; unforgivable sin; other teaching
+- 31 C.E., Passover — Gives no sign but sign of Jonah `b5-0056` · First 'sign of Jonah'; other teaching
+- 31 C.E., Passover — His mother and brothers come; says disciples are his relatives `b5-0057` · Mother and brothers; other teaching
+- 31 or 32 C.E. — Heals the blind and speechless `b5-0063` · Blind and speechless healed; other healing
+- 31 or 32 C.E. — Rejected again in his hometown `b5-0064` · Second rejection at Nazareth; repeated item
+- 31 or 32 C.E. — Herod perplexed by Jesus `b5-0067` · Herod perplexed; context
+- 32 C.E., near Passover (Joh 6:4) — Apostles return from preaching tour `b5-0068` · Apostles report back; follow-on detail
+- 32 C.E., near Passover (Joh 6:4) — Says he is “the bread of life”; many are stumbled and leave `b5-0073` · 'Bread of life'; many leave; other teaching
+- 32 C.E., after Passover — Exposes human traditions `b5-0074` · Exposes traditions; other teaching
+- 32 C.E., after Passover — Jesus heals Syrophoenician woman’s daughter `b5-0075` · Syrophoenician woman's daughter; other healing
+- 32 C.E., after Passover — Jesus feeds 4,000 men `b5-0076` · Feeds 4,000; repeat of the 5,000 feeding
+- 32 C.E., after Passover — On boat to Bethsaida, Jesus warns against leaven of Pharisees `b5-0078` · Leaven of Pharisees; other teaching
+- 32 C.E., after Passover — Jesus heals blind man `b5-0079` · Blind man at Bethsaida; other healing
+- 32 C.E., after Passover — Heals demon-possessed boy `b5-0083` · Demon-possessed boy; other healing
+- 32 C.E., after Passover — Pays tax with coin from fish’s mouth `b5-0085` · Coin from fish's mouth; lesser-known miracle
+- 32 C.E., after Passover — Greatest in the Kingdom `b5-0086` · Greatest in Kingdom; other teaching
+- 32 C.E., after Passover — Lost sheep and unforgiving slave illustrations `b5-0087` · Lost sheep (Matt 18), unforgiving slave; secondary parables
+- 32 C.E., after Passover — On way to Jerusalem, tells disciples to set aside all for Kingdom `b5-0088` · Teaching en route; context
+- 32 C.E., Festival of Tabernacles (or, Booths) — Teaches at the Festival; officers sent to arrest him `b5-0089` · Teaching at Tabernacles; context
+- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus says “I am the light of the world” `b5-0090` · 'Light of the world'; other teaching
+- 32 C.E., Festival of Tabernacles (or, Booths) — Persistent friend illustration `b5-0096` · Persistent friend; secondary parable
+- 32 C.E., Festival of Tabernacles (or, Booths) — Dines with Pharisee; condemns hypocrisy of Pharisees `b5-0098` · Condemns Pharisees at meal; other teaching
+- 32 C.E., Festival of Tabernacles (or, Booths) — Illustrations: unreasonable rich man and the faithful steward `b5-0099` · Rich man, faithful steward; secondary parables
+- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus heals crippled woman on the Sabbath `b5-0100` · Crippled woman; other healing
+- 32 C.E., Festival of Dedication — Jews try to stone Jesus `b5-0103` · Attempt to stone Jesus; context
+- 32 C.E., Festival of Dedication — Jesus leaves for Bethany across Jordan `b5-0104` · Withdraws across Jordan; travel leg
+- 32 C.E., after Festival of Dedication — Goes to where John was baptizing; many put faith in Jesus `b5-0105` · Where John baptized; travel leg
+- 32 C.E., after Festival of Dedication — Teaches in cities and villages, traveling toward Jerusalem `b5-0106` · General teaching tour; summary detail
+- 32 C.E., after Festival of Dedication — Jesus urges to enter narrow door `b5-0107` · Narrow door; other teaching
+- 32 C.E., after Festival of Dedication — Jesus laments over Jerusalem `b5-0108` · Laments over Jerusalem; other teaching
+- 32 C.E., after Festival of Dedication — Teaches humility; illustrations: most prominent place and guests who made excuses `b5-0109` · Humility, excuses; secondary parables
+- 32 C.E., after Festival of Dedication — Count cost of discipleship `b5-0110` · Count the cost; other teaching
+- 32 C.E., after Festival of Dedication — Teaches on stumbling, forgiveness, and faith `b5-0113` · Stumbling, forgiveness, faith; other teaching
+- 32 C.E., after Festival of Dedication — Plot to kill Jesus `b5-0115` · Sanhedrin plots death; context
+- 32 C.E., after Festival of Dedication — Jesus leaves for Ephraim `b5-0116` · Retreat to Ephraim; travel leg
+- 32 C.E., after Festival of Dedication — Jesus tells how God’s Kingdom will come `b5-0118` · How the Kingdom comes; other teaching
+- 32 C.E., after Festival of Dedication — Illustrations: persistent widow, Pharisee and tax collector `b5-0119` · Persistent widow, Pharisee and tax collector; secondary parables
+- 32 C.E., after Festival of Dedication — Teaches on marriage and divorce `b5-0120` · Marriage and divorce; other teaching
+- 32 C.E., after Festival of Dedication — Blesses the children `b5-0121` · Blesses children; other teaching
+- 32 C.E., after Festival of Dedication — Illustration of vineyard workers and equal pay `b5-0123` · Vineyard workers; secondary parable
+- 32 C.E., after Festival of Dedication — Request for James’ and John’s position in the Kingdom `b5-0125` · James and John's request; other teaching
+- 32 C.E., after Festival of Dedication — Passing through Jericho, Jesus heals two blind men `b5-0126` · Two blind men at Jericho; other healing
+- 32 C.E., after Festival of Dedication — Ten minas illustration `b5-0128` · Ten minas; secondary parable
+- 33 C.E., Nisan 10 — Chief priests and scribes scheme to destroy Jesus `b5-0134` · Leaders scheme; context
+- 33 C.E., Nisan 11 — Withered fig tree lesson `b5-0136` · Withered fig tree lesson; follow-on detail
+- 33 C.E., Nisan 11 — Jesus’ authority challenged `b5-0137` · Authority challenged; context
+- 33 C.E., Nisan 11 — Illustration of two sons `b5-0138` · Two sons; secondary parable
+- 33 C.E., Nisan 11 — Illustrations: murderous cultivators, marriage feast `b5-0139` · Cultivators, marriage feast; secondary parables
+- 33 C.E., Nisan 11 — Asks crowd if Christ is David’s son `b5-0141` · David's son question; other teaching
+- 33 C.E., Nisan 11 — Woes to scribes and Pharisees `b5-0142` · Woes to Pharisees; other teaching
+- 33 C.E., Nisan 12 — Jesus spends a quiet day with his disciples `b16-0003` · Quiet Nisan 12; B12 day marker without event
+- 33 C.E., Nisan 12 — Jewish leaders plot to kill him `b5-0146` · Leaders plot; repeats earlier plots
+- 33 C.E., Nisan 13 (Thursday afternoon) — Prepares for last Passover `b5-0148` · Passover preparations; detail
+- 33 C.E., Nisan 14 — Jesus identifies Judas as traitor and dismisses him `b5-0151` · Judas dismissed; detail of last supper
+- 33 C.E., Nisan 14 — Foretells Peter’s denials and scattering of apostles `b5-0153` · Foretells denials; detail
+- 33 C.E., Nisan 14 (after sunrise) — Jesus stands before the Sanhedrin again `b16-0005` · Second Sanhedrin session; repeats trial record
+- 33 C.E., Nisan 15 — Priests and Pharisees get guard for tomb and seal it `b5-0165` · Tomb guarded and sealed; detail
+- Nisan 16–Iyyar 25, 33 C.E. — Jesus’ 40 days of appearances after his resurrection `b12-0046` · 40-day span duplicates appearance and ascension points
+- 33 C.E. (between the ascension and Pentecost) — Matthias chosen by lot to replace Judas `b18-0051` · Restores the Twelve before Pentecost; context
 
-- c. 1330 — John Wycliffe born `b7-0084`
-- 1384, December 31 — John Wycliffe dies `b7-0087`
-- 1483, November — Martin Luther born `b7-0098`
-- 1546, February — Martin Luther dies `b7-0141`
-- 1628 — João Ferreira de Almeida, Portuguese Bible translator, born `b7-0165`
-- 1691 — Almeida dies while translating Ezekiel `b7-0172`
-- 1796, December 13 — George Storrs born `b7-0186`
+### Row 3 · 33–100 C.E. (45)
 
-**P6 Modern by decade** (22)
+- 33 or 34 C.E. (before Stephen’s death) — Seven qualified men appointed to care for the food distribution `b18-0055` · Organizational detail before Stephen's martyrdom
+- c. 34-36 C.E. — Saul preaches in Damascus `b6-0007` · Saul preaches in Damascus; context
+- c. 36 C.E. — Paul first visits Jerusalem as a Christian and spends 15 days with Peter `b6-0008` · Paul's first Jerusalem visit; minor travel leg
+- c. 36 C.E. — Caiaphas’ term as high priest ends `b6-0009` · High priest's term ends; official's term
+- 37-41 C.E. — Reign of Gaius (Caligula), Roman emperor `b12-0047` · Caligula not named in Bible; emperor context
+- c. 41 C.E. — Paul’s vision of “the third heaven” `b6-0013` · Paul's vision of third heaven; context
+- c. 44 C.E. — Agabus prophesies a great famine `b6-0015` · Agabus foretells famine; famine relief is the T2 record
+- c. 46 C.E. — Foretold great famine strikes `b6-0020` · Famine strikes; relief record carries it
+- c. 47–48 C.E. (first missionary journey) — Paul and Barnabas hailed as gods at Lystra; Paul stoned `b18-0058` · Episode within the first journey bar
+- c. 49 C.E. — Circumcision issue raised at Antioch `b6-0023` · Dispute that led to the council; council is T1
+- c. 49 C.E. — Paul corrects Peter at Antioch `b6-0025` · Paul corrects Peter; context
+- c. 49-52 C.E. — Barnabas and Mark preach in Cyprus `b6-0027` · Barnabas and Mark in Cyprus; minor travel leg
+- c. 49-50 C.E. — Claudius expels the Jews from Rome `b6-0028` · Claudius expels Jews; political context
+- c. 50 C.E. — Luke joins Paul at Troas `b6-0031` · Luke joins Paul; companion detail
+- c. 50 C.E. — Paul visits Philippi `b6-0032` · Philippi visit; congregation-founded record carries it
+- c. 50 C.E. — Lydia and her household become Christians in Philippi `b6-0033` · Lydia baptized; detail of Philippi account
+- summer 51 – summer 52 C.E. — Gallio serves as proconsul of Achaia `b6-0040` · Gallio's proconsulship; official's term
+- 51/52 C.E. — Paul brought before Gallio’s judgment seat and released `b6-0042` · Gallio dismisses case; detail of Corinth stay
+- 52 C.E. (per most scholars) — Felix becomes procurator of Judea `b6-0043` · Felix appointed; official's term
+- c. 52 C.E. — Apollos taught by Aquila and Priscilla in Ephesus `b6-0044` · Apollos taught; individual detail
+- c. 55 C.E. — Titus sent to Corinth `b6-0050` · Titus sent to Corinth; minor mission
+- c. 55 C.E. (after Pentecost) — Paul leaves Ephesus for Macedonia and Greece `b6-0051` · Leaves Ephesus; minor travel leg
+- c. 56 C.E. — Paul and Luke stay with Philip the evangelizer in Caesarea `b6-0055` · Stay with Philip; minor travel leg
+- c. 56 C.E. — Agabus foretells Paul’s arrest `b6-0056` · Agabus foretells arrest; context
+- c. 56 C.E. (by Pentecost) — Paul arrives in Jerusalem and meets James and the elders `b6-0057` · Arrives in Jerusalem; travel leg before arrest
+- c. 56 C.E. (before Paul’s transfer to Caesarea) — Paul’s nephew foils a plot to kill Paul `b18-0063` · Episode between arrest and Caesarea custody
+- c. 58 C.E. — Porcius Festus succeeds Felix as governor of Judea `b6-0061` · Festus succeeds Felix; official's term
+- c. 58 C.E. — Paul and other prisoners sent by ship toward Rome `b6-0064` · Departure by ship; covered by Rome-trip bar
+- c. 59 C.E. — Paul arrives at Puteoli and Rome `b6-0066` · Arrival at Rome; covered by Rome-trip bar
+- c. 59-61 C.E. — Paul’s first imprisonment (house arrest) in Rome `b6-0067` · House arrest; covered by Rome-trip bar
+- c. 61 C.E. — Paul released from house arrest in Rome `b6-0075` · Release from house arrest; end of Rome-trip bar
+- c. 61-64 C.E. — Paul’s later missionary travels after his release `b6-0076` · Later travels; minor travel legs
+- c. 61-64 C.E. — Titus left in Crete to organize the congregations `b6-0077` · Titus in Crete; assignment detail
+- c. 65 C.E. — Paul’s second imprisonment in Rome `b6-0085` · Second Roman imprisonment; context for 2 Timothy
+- 66 C.E. — Jewish revolt against Rome begins `b6-0090` · Revolt start shown by revolt bar
+- 66 C.E. — Sicarii (“dagger men”) seize Masada and massacre the Roman garrison `b6-0091` · Sicarii take Masada; not narrated in Bible
+- 68-69 C.E. — Reign of Galba, Roman emperor `b12-0051` · Galba not in Bible; emperor context
+- 69-79 C.E. — Reign of Vespasian, Roman emperor `b12-0052` · Vespasian not named in Bible; emperor context
+- 70 C.E., April 3 — Roman armies under Titus lay siege to Jerusalem `b6-0095` · Siege start shown by siege bar
+- 73 C.E. — Masada, the last Jewish stronghold, falls to the Romans `b6-0097` · Masada falls; not narrated in Bible
+- 79-81 C.E. — Reign of Titus, Roman emperor `b12-0054` · Titus' reign; emperor not named in Bible
+- 81-96 C.E. — Reign of Domitian, Roman emperor `b12-0055` · Domitian not named in Bible; emperor context
+- 96-98 C.E. — Reign of Nerva, Roman emperor `b12-0056` · Nerva not in Bible; emperor context
+- a. 96 C.E. (after Domitian’s death) — John released from Patmos after Domitian’s death `b6-0101` · John released from Patmos; follow-on detail
+- 98-117 C.E. — Reign of Trajan, Roman emperor `b12-0057` · Trajan not in Bible; emperor context
 
-- February 16, 1852 — Charles Taze Russell is born `b8-0001`
-- November 8, 1869 — Joseph F. Rutherford is born `b8-0003`
-- December 28, 1879 — George Storrs dies `b8-0020`
-- April 23, 1905 — Nathan H. Knorr is born `b8-0080`
-- January 6, 1917 — J. F. Rutherford elected president of the Society `b8-0104`
-- January 8, 1942 — J. F. Rutherford dies in San Diego `b8-0237`
-- January 13, 1942 — N. H. Knorr becomes third president of the Society `b8-0238`
-- 1977, June 8 — Death of Nathan H. Knorr `b9-0112`
-- 1977, June 22 — Frederick W. Franz elected president `b9-0113`
-- 1988, June 16 — Death of Governing Body member Martin Poetzinger `b9-0163`
-- 1992, December 22 — Death of Frederick W. Franz `b9-0185`
-- 1992, December 30 — Milton G. Henschel chosen fifth president `b9-0186`
-- 1994, July 1 — Gerrit Lösch added to the Governing Body `b9-0197`
-- 1999, October 2 — Guy H. Pierce appointed to the Governing Body `b9-0221`
-- 2005, September 1 — Geoffrey Jackson and Anthony Morris added to Governing Body `b9-0248`
-- 2006, April 18 — Death of Governing Body member Daniel Sydlik `b9-0251`
-- 2010, June 9 — Death of Governing Body member Theodore Jaracz `b9-0276`
-- 2012, September 1 — Mark Sanderson added to the Governing Body `b9-0297`
-- 2014, March 18 — Death of Governing Body member Guy H. Pierce `b9-0327`
-- 2018, January 24 — Kenneth Cook, Jr., appointed to the Governing Body `b9-0377`
-- 2023, January 18 — Gage Fleegle and Jeffrey Winder appointed to Governing Body `b9-0417`
-- 2024, October 5 — Jody Jedele and Jacob Rumph appointed to Governing Body `b9-0440`
+### P5 Bible survives / wheat & weeds (188)
 
+- c. 150 B.C.E. (2nd century B.C.E.) — Septuagint translation completed `b4-0116` · Completion of Septuagint; the start marker represents it
+- 125–100 B.C.E. — Dead Sea Scroll of Isaiah copied (125–100 B.C.E.) `b17-0001` · Copying date; the 1947 discovery is the poster marker
+- July 64 C.E. — Great fire ravages Rome `b6-0083` · Roman fire; context for Nero's persecution
+- 81-96 C.E. — Persecution under Emperor Domitian peaks `b6-0098` · Persecution detail; Patmos exile covered in apostolic era
+- c. 100 C.E. — Herod Agrippa II dies childless `b6-0108` · Herodian person's death; not Bible milestone
+- 2nd century C.E. — Monarchical "bishop" office begins to develop `b7-0003` · Clergy development; church structure detail
+- 150-170 C.E. — Tatian produces the Diatessaron, a harmony of the four Gospels `b7-0004` · Gospel harmony; supporting canon evidence only
+- mid-2nd century C.E. — Greek philosophy begins to merge with "Christianity" `b7-0005` · Doctrinal drift detail; apostasy marker covers it
+- c. 170 C.E. — Muratorian Fragment — earliest known catalog of "New Testament" books `b7-0006` · Canon-list evidence; researcher detail
+- c. 187 C.E. — Irenaeus lists twenty varieties of "Christianity" `b7-0007` · Schism count; apostasy context
+- end of 2nd century C.E. — Canon of the Christian Greek Scriptures recognized as closed `b7-0008` · Canon recognition; context, not a copying/translation milestone
+- c. 200 C.E. — Symmachus' Greek version of the Hebrew Scriptures `b7-0009` · Minor Greek version
+- c. 200 C.E. — Chester Beatty Papyrus No. 2 (P46) — codex of nine letters of Paul `b7-0010` · Papyrus; P52 and the great codices represent manuscripts
+- c. 200 C.E. — Bodmer Papyri P66 and P75 written `b7-0011` · Papyrus; P52 and the great codices represent manuscripts
+- c. 245 C.E. — Origen completes the Hexapla `b7-0012` · Scholarly edition; divine name shown via Tyndale 1530 instead
+- 3rd century C.E. — Bishop of Rome first called "Pope" `b7-0013` · Papal title; church politics
+- by 250 C.E. — Earliest evidence of the Latin Bible, at Carthage `b7-0014` · Early Latin evidence; Vulgate is the Latin marker
+- by 3rd century C.E. — First Coptic translation of the Christian Greek Scriptures `b7-0015` · Early regional version; ancient versions kept at T3
+- c. 252 C.E. — Council of Carthage confirms infant baptism `b7-0016` · Doctrinal council detail
+- c. 258 C.E. — Clergy-laity distinction becomes prominent (death of Cyprian) `b7-0017` · Clergy-laity detail; apostasy marker covers it
+- 306 C.E. — Constantine succeeds his father as emperor `b7-0019` · Imperial accession
+- 312 C.E. — Constantine's victory at the Milvian Bridge under a "Christian" sign `b7-0020` · Battle; Constantine politics
+- 321 C.E. — Constantine decrees Sunday a day of rest `b7-0022` · Imperial decree; doctrine detail
+- 330 C.E. — Constantine moves capital to Byzantium (Constantinople) `b7-0024` · Capital moved; politics
+- 361-363 C.E. — Emperor Julian attempts to restore paganism `b7-0027` · Imperial reign; politics
+- 367 C.E. — Council of Laodicea acknowledges the Bible canon `b7-0028` · Council acknowledges canon; council detail
+- 379 C.E. — Theodosius I becomes emperor (379-395 C.E.) `b7-0029` · Imperial accession
+- 380 C.E. — Theodosius' edict requires all to profess the faith of Pope Damasus `b7-0030` · Imperial edict; politics
+- before 381 C.E. — Ulfilas completes Gothic Bible, inventing the Gothic alphabet `b7-0031` · Ancient version; Gothic now extinct; peers at T3
+- 381 C.E. — Council of Constantinople refines the Trinity; holy spirit declared a person `b7-0032` · Doctrinal council detail
+- c. 381 C.E. (last quarter of 4th century) — Trinitarian Catholicism becomes official state religion of the Roman Empire `b7-0033` · State religion; 313 Christendom marker covers it
+- 382 C.E. — Pope Damasus commissions Jerome to prepare an authoritative Latin Bible `b7-0036` · Commission; Vulgate completion (405) is the marker
+- c. 384 C.E. — Epiphanius counts eighty varieties of "Christianity" `b7-0038` · Schism count; peer of Irenaeus record
+- 386 C.E. — Jerome moves to Bethlehem to study Hebrew `b7-0039` · Jerome's personal move
+- 395 C.E. — Roman Empire divided into East and West at Theodosius' death `b7-0040` · Empire divided; politics
+- 397 C.E. — Council of Carthage includes Apocryphal books in the canon `b7-0041` · Canon council detail
+- 410 C.E. — "Christianized" Goths sack Rome `b7-0043` · Sack of Rome; war
+- early 5th century C.E. — Augustine's "The City of God" teaches the Church is the Kingdom `b7-0044` · Theology writing; doctrinal context
+- first half of 5th century C.E. — Codex Alexandrinus produced `b7-0045` · Lesser codex; Vaticanus and Sinaiticus represent codices
+- 440-461 C.E. — Pope Leo I asserts primacy and takes title Pontifex Maximus `b7-0046` · Papal primacy; politics
+- 451 C.E. — Council of Chalcedon defines Christ's "natures" `b7-0047` · Doctrinal council detail
+- 459-464 C.E. — Oldest dated Bible manuscripts: Syriac Peshitta copies `b7-0048` · Syriac manuscripts; ancient versions at T3
+- 476 C.E. — Western Roman Empire ends; Roman Church fills the vacuum `b7-0049` · Fall of Western empire; politics
+- c. 508 C.E. — Philoxenian revision adds missing books to the Syriac Bible `b7-0051` · Syriac revision detail
+- c. 636 C.E. — Isidore of Seville: only Hebrew, Greek, and Latin are sacred languages `b7-0052` · Background to later Bible bans
+- 724 C.E. — Earliest recorded Arabic Bible version, made in Spain `b7-0053` · Regional version; national translations mostly T3
+- 8th century C.E. — Eastern bishops' iconoclastic period `b7-0054` · Iconoclasm; church controversy
+- 800 C.E. — Pope Leo III crowns Charlemagne emperor `b7-0055` · Coronation; papal politics
+- 867 C.E. — Cyril and Methodius go to Rome to defend use of Slavonic `b7-0058` · Translators' journey
+- 869 C.E. — Cyril dies `b7-0059` · Translator's death
+- 870 C.E. — Methodius arrested and imprisoned by Frankish opponents `b7-0060` · Translator's arrest
+- 876 C.E. — Synod at Constantinople condemns the pope over the filioque clause `b7-0061` · Synod over filioque; doctrine/politics
+- 885 C.E. — Methodius dies; disciples expelled from Moravia `b7-0062` · Translator's death
+- c. 895 C.E. — Cairo Karaite Codex of the Prophets completed by Moses ben Asher `b7-0063` · Masoretic codex; Leningrad Codex is the marker
+- 916 C.E. — Petersburg Codex of the Latter Prophets `b7-0064` · Masoretic codex; Leningrad Codex is the marker
+- c. 930 C.E. — Aleppo Codex pointed and annotated by Aaron ben Asher `b7-0065` · Masoretic codex; Leningrad Codex is the marker
+- 1054 C.E. — Final break between Eastern and Western churches `b7-0067` · East-West schism; church politics
+- 1079 C.E. — Pope Gregory VII bans the vernacular (Slavonic) Scriptures `b7-0068` · Early vernacular ban; Toulouse/Trent are the ban markers
+- 1095 C.E., November 27 — Pope Urban II launches the Crusade appeal at Clermont `b7-0069` · Crusade appeal; war
+- 1096–1291 — The Crusades `b12-0060` · Crusades; wars not wanted on poster
+- c. 1170 C.E. — Vaudès (Peter Waldo) starts the Waldensian preaching movement `b7-0072` · Waldenses movement; context
+- 1179 C.E. — Vaudès seeks papal authorization to preach; lay preaching forbidden `b7-0073` · Waldensian detail
+- 1184 C.E. — Pope Lucius III establishes the Inquisition at Verona `b7-0074` · Inquisition founded; church institution
+- 1199 C.E. — Pope Innocent III condemns lay translation and discussion of the Bible `b7-0075` · Papal letter; Toulouse ban is the marker
+- 1209-1229 C.E. — Albigensian Crusade against the Cathari of southern France `b7-0076` · Crusade; war
+- 1215 C.E. — Fourth Lateran Council anathematizes the Waldenses `b7-0077` · Council anathema; church detail
+- 1217 C.E. — Vaudès dies; Waldenses dispersed by persecution `b7-0078` · Leader's death
+- 1231 C.E. — Medieval Inquisition begins in Italy and France `b7-0081` · Inquisition; church institution
+- 1234 C.E. — Assembly at Tarragona under James I of Aragon bans vernacular Bibles `b7-0082` · Repeats Toulouse ban; Toulouse represents
+- c. 1330 – 1384, December 31 — Life of John Wycliffe `d1-0025` · individual's lifespan (after Bible times)
+- 1382 — Anne of Bohemia, reader of Wycliffe's Gospels, marries Richard II `b7-0085` · Royal marriage; person
+- 1403 — Authorities order Jan Hus to stop preaching Wycliffe's ideas `b7-0088` · Hus ordered silent; reformer detail
+- 1410 — Jan Hus condemned and excommunicated `b7-0089` · Excommunication of a reformer
+- 1412 — Archbishop Arundel denounces Wycliffe for translating the Scriptures `b7-0090` · Denunciation of Wycliffe; context
+- 1414 — Hus summoned to the Council of Constance under false safe-conduct `b7-0091` · Reformer's trial
+- 1415 — Jan Hus burned at the stake `b7-0092` · Hus not a translator; Tyndale represents executions
+- 1415 — Council of Constance orders Wycliffe's bones exhumed and burned `b7-0093` · Posthumous decree against Wycliffe
+- by 1450 — Gutenberg begins printing with movable type `b7-0095` · Printing begins; Gutenberg Bible is the marker
+- 1478–1834 — The Spanish Inquisition `b12-0061` · Inquisition span; church institution
+- 1483, November – 1546, February — Life of Martin Luther `d1-0026` · individual's lifespan (after Bible times)
+- 1492 — Twenty handwritten Bibles burned at Salamanca `b7-0099` · Local Bible burning; Diocletian/Trent are markers
+- by 1495 — Bible printed in twelve languages `b7-0100` · Printing spread summary
+- 1497 — Savonarola excommunicated `b7-0101` · Reformer's excommunication
+- 1498 — Savonarola arrested, tortured, and hanged `b7-0102` · Reformer's execution; not a translator
+- 1501 — Luther enters University of Erfurt and first reads the Bible `b7-0103` · Luther's personal life
+- 1514-1517 — Complutensian Polyglot — first printed Greek "New Testament" `b7-0104` · Polyglot; Erasmus is the Greek-text marker
+- 1517, October 31 — Luther posts his 95 theses — start of the Protestant Reformation `b7-0106` · Reformation start; church politics, not Bible milestone
+- c. 1519 — Zwingli begins preaching reform in Zurich `b7-0108` · Reformer's activity
+- 1520, June 15 — Pope Leo X's bull against books containing "heresies" `b7-0109` · Book ban; Trent is the ban marker
+- 1520 — Papal bull against Luther; Luther burns it publicly `b7-0110` · Luther's personal conflict
+- 1521 — Luther excommunicated; outlawed at the Diet of Worms `b7-0111` · Luther's excommunication
+- 1522 — Zwingli charged with heresy; resigns as Catholic priest `b7-0112` · Reformer's resignation
+- 1523 — Tyndale seeks Bishop Tunstall's support, then leaves England `b7-0114` · Tyndale's personal journey
+- 1524 — Tyndale begins translating from Hebrew and Greek in Germany `b7-0115` · Tyndale starts; 1526 NT is the marker
+- 1525 — Tyndale's "New Testament" completed; Cologne printing raided `b7-0116` · Completion step; 1526 printed NT is the marker
+- 1528 — Miles Coverdale preaches against Catholic practices and flees England `b7-0120` · Coverdale's flight
+- 1529 — German princes protest — origin of the name "Protestant" `b7-0121` · Origin of 'Protestant'; politics
+- 1530 — Antonio Brucioli's Italian translation from Erasmus' text `b7-0123` · Italian version; national translations mostly T3
+- 1530 — Augsburg Confession rejected; Protestant-Catholic rift irreconcilable `b7-0124` · Diet of Augsburg; church politics
+- 1531 — Zurich Bible (German) produced by Zwingli's group `b7-0125` · Regional German version
+- 1531 — Zwingli killed at the battle of Kappel `b7-0126` · Reformer killed in battle
+- 1534 — Henry VIII's Act of Supremacy breaks England from Rome `b7-0127` · Act of Supremacy; politics
+- 1534 — Luther completes the Hebrew Scriptures — complete German Bible `b7-0128` · Complete German Bible; 1522 NT is the Luther marker
+- 1534 — Anabaptist band seizes Münster `b7-0129` · Uprising; politics
+- 1535 — Coverdale Bible — first complete printed English Bible `b7-0130` · English lineage already shown (Wycliffe, Tyndale, KJV)
+- 1535 — Olivétan Bible — first French Bible from the original languages `b7-0131` · French version; national translations mostly T3
+- 1536 — Calvin publishes "Institutes of the Christian Religion" `b7-0132` · Reformer's theology book
+- 1537 — Coverdale's Bible printed in England; Matthew's Bible approved `b7-0134` · English edition detail
+- 1538 — Henry VIII orders Bibles placed in every church `b7-0135` · Bibles in churches; English lineage already shown
+- 1539 — The Great Bible licensed and put in churches `b7-0136` · Great Bible; English lineage already shown
+- 1542 — Pope Paul III establishes the Roman Inquisition (Holy Office) `b7-0137` · Inquisition institution
+- 1544 — Francisco de Enzinas seeks permission to distribute his Spanish "New Testament" `b7-0138` · Translator's petition
+- 1545 — Massacre of the Waldenses in Provence `b7-0139` · Massacre; persecution context
+- 1546 — Council of Trent canonizes the Apocrypha and declares the Vulgate "authentic" `b7-0142` · Trent doctrinal decisions; b7-0140 is the marker
+- 1550 — Stephanus' third Greek edition becomes the "Received Text" `b7-0143` · Received Text; scholarly context
+- 1550, November — Estienne flees to Geneva `b7-0144` · Printer's flight
+- 1551 — Coverdale appointed bishop of Exeter; flees under Queen Mary (1553) `b7-0146` · Appointment and flight
+- 1553 — Stephanus' French Bible — first complete Bible with present verse divisions `b7-0147` · Follow-on to b7-0145 verse system
+- 1553 — Michael Servetus, critic of the Trinity, put to death `b7-0148` · Individual's death; doctrine dispute
+- 1557 — Estienne's two-version Latin Bible uses "Jehova" `b7-0149` · Divine name; Tyndale 1530 is the marker
+- 1558-1603 — Church of England becomes Protestant in practice under Elizabeth I `b7-0150` · Reign; church politics
+- 1559 — Pope Paul IV's Index forbids vernacular Bibles `b7-0151` · Index ban; Trent is the ban marker
+- 1559, October — Auto-da-fé at Valladolid `b7-0152` · Execution spectacle; persecution context
+- 1560 — Geneva Bible — first English Bible with numbered verses `b7-0153` · English version; lineage already shown
+- 1564 — John Calvin dies in Geneva `b7-0154` · Reformer's death
+- 1568 — Bishops' Bible published `b7-0155` · English version; lineage already shown
+- 1569 — Casiodoro de Reina's Spanish Bible published `b7-0156` · Spanish Bible; national translations mostly T3
+- 1582 — Catholic Rheims "New Testament" published `b7-0158` · Catholic English NT
+- 1592 — Sixtine Clementine Vulgate becomes Catholic standard `b7-0159` · Vulgate revision
+- 1602 — Cipriano de Valera revises Reina's Spanish Bible `b7-0160` · Spanish revision; national translations mostly T3
+- 1603 — James I ascends the English throne and endorses a new translation `b7-0161` · KJV commission; 1611 release is the marker
+- 1607 — Diodati Italian Bible published `b7-0162` · Italian version
+- 1618-1648 — Thirty Years' War between Catholic and Protestant states `b7-0164` · War
+- 1628 – 1691 — Life of João Ferreira de Almeida `d1-0027` · individual's lifespan (after Bible times)
+- 1637 — Dutch Statenvertaling published `b7-0166` · Dutch version
+- 1640 — Bay Psalm Book uses "Iehovah" `b7-0167` · Divine name; Tyndale 1530 is the marker
+- 1648 — Peace of Westphalia ends the Thirty Years' War `b7-0168` · Treaty; politics
+- 1661 — Inquisition at Goa sentences Almeida to death in absentia `b7-0169` · Translator sentenced in absentia
+- 1665 — Matthew's Gospel rendered into Tamil on palm leaves `b7-0170` · Early Tamil Gospel, handwritten; Ziegenbalg 1714 is the marker
+- 1681 — Almeida's Portuguese "New Testament" printed `b7-0171` · Portuguese NT; Almeida lifespan already on poster
+- 1706 — Ziegenbalg and a fellow German land at Tranquebar to translate the Bible into Tamil `b7-0173` · Arrival of Tamil translators; 1714 is the marker
+- 1719 — Ziegenbalg dies, having translated the Hebrew Scriptures up to Ruth `b7-0176` · Translator's death
+- by 1732 — Benjamin Schultze finishes a Telugu rendering (never printed) `b7-0178` · Unprinted Telugu manuscript
+- 1737 — Alexander Cruden's Bible concordance `b7-0179` · Concordance; study-aid detail
+- 1776-1780 — Kennicott publishes readings of over 600 Hebrew manuscripts `b7-0180` · Textual scholarship
+- 1782 — Spanish Inquisition permits Bibles with annotations `b7-0181` · Inquisition relaxation detail
+- 1784-1798 — De Rossi publishes comparisons of Hebrew manuscripts at Parma `b7-0182` · Textual scholarship
+- 1790 — Bishop Scio's Spanish Bible from the Vulgate `b7-0183` · Catholic Spanish version
+- 1796-1806 — Griesbach's principal Greek master text published `b7-0185` · Greek master text; Diaglott is the marker
+- 1796, December 13 – December 28, 1879 — Life of George Storrs `d1-0028` · individual's lifespan (after Bible times)
+- 1798 — Carey sets up a printing press at Calcutta `b7-0187` · Carey's press; Carey 1793 is the marker
+- 1800 — Carey moves his press to Serampore `b7-0188` · Serampore press; Carey 1793 is the marker
+- 1800 — Mary Jones walks 25 miles for a Welsh Bible `b7-0189` · Anecdote leading to Bible society; 1804 is the marker
+- 1805 — Christian Greek Scriptures in Chinese printed at Serampore `b7-0192` · Single-language Serampore printing
+- 1807 — Robert Morrison arrives in China to translate the Bible `b7-0193` · Translator's arrival
+- 1809 — Entire Bible in Bengali issued `b7-0194` · Single-language Serampore printing
+- 1812, February — Adoniram and Ann Judson embark; settle in Burma (1813) `b7-0195` · Missionaries' journey
+- 1812 — Fire at Serampore destroys unpublished translations `b7-0196` · Press fire
+- by 1813 — Associate Bible societies formed in Germany, Netherlands, Denmark, and Russia `b7-0197` · Bible-society spread; 1804 is the marker
+- 1814 — Morrison has the Christian Greek Scriptures in Chinese ready for printing `b7-0198` · Chinese NT ready; translation step
+- 1815 — Scriptures in Oriya published `b7-0199` · Single-language Serampore printing
+- 1816 — American Bible Society formed `b7-0200` · Bible society; 1804 is the marker
+- 1817 — Judson begins translating the Bible into Burmese `b7-0201` · Burmese translation begun
+- 1818 — Bibles in Sanskrit and Hindi issued `b7-0202` · Single-language Serampore printing
+- 1819 — Marathi version published `b7-0203` · Single-language Serampore printing
+- 1819, November 25 — Morrison completes the entire Bible in Chinese `b7-0204` · Chinese Bible; national translations mostly T3
+- 1821 — Robert Moffat begins mission among the Tswana `b7-0205` · Mission begun
+- 1823, June — Judson completes Burmese Christian Greek Scriptures `b7-0206` · Burmese NT step
+- 1823 — Torres Amat Spanish Bible from the Vulgate `b7-0207` · Catholic Spanish version
+- 1824 — Judson imprisoned in Burma; manuscript saved in a pillow `b7-0208` · Translator imprisoned
+- 1830 — Moffat prints Gospel of Luke in Tswana `b7-0209` · Tswana Gospel
+- 1835 — Judson completes the Burmese Bible `b7-0210` · Burmese Bible; national translations mostly T3
+- 1840 — Sharpe's English translation based on Griesbach `b7-0211` · English version based on Griesbach
+- 1841 — Malayalam Bible published, using "Jehovah" `b7-0212` · Malayalam Bible; divine name marker is Tyndale 1530
+- 1844 — Tischendorf discovers first portion of Codex Sinaiticus `b7-0213` · Partial discovery; codex itself is on poster
+- 1844, October 22 — Millerites' "Great Disappointment" `b7-0214` · Adventist prelude to the modern era
+- 1847 — Tulu Bible published `b7-0215` · Tulu Bible
+- 1848 — Communist Manifesto promotes atheism `b7-0216` · Attack on Bible; ideology context
+- 1853 — George Storrs publishes "Bible Vs. Tradition" in the United States `b7-0218` · Prelude publication to Bible Students
+- 1854 — First complete Telugu Bible `b7-0219` · Telugu Bible; national translations mostly T3
+- 1855 — German Elberfelder version (1855) uses "Jehova" `b7-0220` · Divine name version; Tyndale 1530 is the marker
+- 1856 — Joseph Seiss writes of an invisible presence of Christ `b7-0221` · Prelude teaching on invisible presence
+- 1857, January 29 — James White coins the "investigative judgment" teaching `b7-0222` · Adventist doctrine
+- 1857 — Moffat completes the entire Bible in Tswana `b7-0223` · Tswana Bible
+- 1859 — Tischendorf finds Codex Sinaiticus at Mount Sinai `b7-0224` · Discovery of codex already shown at T2
+- 1859 — Darby's French Bible published `b7-0225` · French version
+- 1859 — Darwin's "Origin of Species" undermines faith in the Bible `b7-0226` · Evolution theory; ideology context
+- 1862 — Young's translation (1862-98) uses "Jehovah" `b7-0227` · Divine name version; Tyndale 1530 is the marker
 
-## One-line Publications Index entry (beliefs clarified / convention theme) — app only (230)
+### P6 Kingdom activity 1870–2026 (650)
 
-**P6 Modern by decade** (230)
+- February 16, 1852 – October 31, 1916 — Life of Charles Taze Russell `d1-0029` · individual's lifespan (after Bible times)
+- 1868 or 1869 — Russell’s wavering faith is reestablished after hearing Jonas Wendell `b8-0002` · Doctrinal or practice refinement detail
+- November 8, 1869 – January 8, 1942 — Life of Joseph F. Rutherford `d1-0030` · individual's lifespan (after Bible times)
+- 1870–1917 — Britain as “the king of the south” `b14-0002` · King of south identity; Daniel 11 context
+- 1870-75 — Bible Students learn Christ’s return will be invisible `b8-0005` · Foundational understanding; covered by 1870 study and 1879 magazine
+- 1871 — German Empire established; “the king of the north” reappears `b14-0003` · King of north identity; Daniel 11 context
+- 1871–1945 — Germany as “the king of the north” `b14-0004` · King of north identity; Daniel 11 context
+- 1872 — Russell’s study group comes to appreciate the ransom `b8-0006` · Doctrinal or practice refinement detail
+- January 1876 — Russell receives a copy of Herald of the Morning `b8-0007` · Individual person's event or talk (C4)
+- Summer 1876 — Russell meets N. H. Barbour in Philadelphia `b8-0008` · Individual person's event or talk (C4)
+- 1877 — The book Three Worlds is published `b8-0010` · Individual publication or magazine detail
+- 1877 — Booklet The Object and Manner of Our Lord’s Return published `b8-0011` · Individual publication or magazine detail
+- August 1878 — Barbour’s article denies the substitutionary value of Christ’s death `b8-0012` · Doctrinal or practice refinement detail
+- September 1878 — Russell defends the ransom in “The Atonement” `b8-0013` · Doctrinal or practice refinement detail
+- 1879 — C. T. Russell marries Maria Frances Ackley `b8-0015` · Individual person's event or talk (C4)
+- 1879 — Babylon the Great associated with Christendom’s churches `b8-0016` · Doctrinal or practice refinement detail
+- May 1879 — Russell withdraws all support from Herald of the Morning `b8-0017` · Individual person's event or talk (C4)
+- July 1879– — The Watchtower magazine (Zion’s Watch Tower) in publication `b12-0062` · Magazine bar; launch point b8-0018 holds T1
+- October 9, 1879 — George Stetson dies `b8-0019` · Individual person's event or talk (C4)
+- 1880 — Russell tours the northeastern United States `b8-0021` · Individual person's event or talk (C4)
+- 1880 — Scores of congregations spread into nearby states `b8-0022` · Organizational or preaching detail; context
+- 1880 — Bible Students’ Tracts begin to be produced `b8-0023` · Individual publication or magazine detail
+- 1880 — Watch Tower clarifies the identity of the 144,000 `b8-0024` · Doctrinal or practice refinement detail
+- 1881 — Westcott and Hort Greek master text produced `b17-0005` · Master text; scholarly context
+- 1881 — First tracts published for free public distribution `b8-0025` · Individual publication or magazine detail
+- 1881 — Watch Tower readers invited to observe the Memorial in Allegheny `b8-0028` · Organizational or preaching detail; context
+- 1881 — Readers urged to hold regular meetings and report meeting places `b8-0029` · Organizational or preaching detail; context
+- February 16, 1881 — Zion’s Watch Tower Tract Society is formed `b8-0030` · Society formed; 1884 charter holds T2
+- September 1881 — Food for Thinking Christians distributed; 300,000 copies in Britain `b8-0031` · Individual publication or magazine detail
+- October 1881 — Faithful and wise servant explained as a collective servant `b8-0032` · Doctrinal or practice refinement detail
+- 1882 — Watch Tower article refutes the Trinity doctrine `b8-0033` · Doctrinal or practice refinement detail
+- 1882 — Pittsburgh congregation votes Russell its pastor `b8-0034` · Individual person's event or talk (C4)
+- 1883 — Watch Tower reaches China `b8-0035` · Organizational or preaching detail; context
+- 1883 — Watch Tower reasons Jesus was born about October `b8-0036` · Doctrinal or practice refinement detail
+- 1884–October 31, 1916 — C. T. Russell, first president of the Watch Tower Society `b12-0063` · individual tenure (Kingdom over persons)
+- 1884 — Food for Thinking Christians reaches Liberia `b8-0037` · Organizational or preaching detail; context
+- 1885 — Watch Tower publications read on five continents `b8-0039` · Organizational or preaching detail; context
+- April 18, 1886 — Three-day “general meeting” after the Memorial begins annual conventions `b8-0041` · Individual convention or assembly detail
+- 1889 — Bible House built in Allegheny as headquarters `b8-0042` · Start of Allegheny HQ bar (T2)
+- 1889 — Volume II The Time Is at Hand published `b8-0043` · Individual publication or magazine detail
+- 1890 — Bible Students build a meeting place at Mount Lookout, West Virginia `b8-0045` · Construction or printing detail
+- 1891 — Volume III Thy Kingdom Come published `b8-0047` · Individual publication or magazine detail
+- 1891 — Cross-and-crown symbol appears on Watch Tower cover `b8-0048` · Individual publication or magazine detail
+- 1891 — Russell begins extensive tours outside the United States `b8-0049` · Individual person's event or talk (C4)
+- April 19-25, 1891 — First gathering called a convention, in Allegheny `b8-0050` · Individual convention or assembly detail
+- 1892 — Watch Tower speaks of disfellowshipping those who deny the ransom `b8-0051` · Doctrinal or practice refinement detail
+- April 7-14, 1892 — Convention of about 400 at Allegheny `b8-0052` · Individual convention or assembly detail
+- 1893 — Major convention held in Chicago `b8-0053` · Individual convention or assembly detail
+- 1894 — Traveling representatives (pilgrims) sent to visit congregations `b8-0054` · Organizational or preaching detail; context
+- 1895 — “Dawn Circles” for Bible study recommended `b8-0056` · Organizational or preaching detail; context
+- August 1, 1895 — Russell comments against tobacco use `b8-0057` · Doctrinal or practice refinement detail
+- November 15, 1895 — Congregations instructed to choose elders `b8-0058` · Organizational or preaching detail; context
+- 1896 — Corporation renamed Watch Tower Bible and Tract Society `b8-0059` · Individual legal case or step; not a kr landmark
+- 1896 — Booklet What Say the Scriptures About Hell? published `b8-0060` · Individual publication or magazine detail
+- 1896 — Watch Tower Society publishes Rotherham’s New Testament `b8-0061` · Individual publication or magazine detail
+- 1897 — Volume IV The Day of Vengeance published `b8-0062` · Individual publication or magazine detail
+- 1897 — Joseph L. Russell, Charles’ father, dies `b8-0063` · Individual person's event or talk (C4)
+- 1898 — Local assemblies begin to be arranged `b8-0064` · Individual convention or assembly detail
+- 1899 — Volume V The At-one-ment Between God and Man published `b8-0065` · Individual publication or magazine detail
+- 1902 — Branch office established in Germany `b8-0070` · Organizational or preaching detail; context
+- 1902 — Holman Linear Parallel Bible with Berean Bible Study Helps `b8-0071` · Individual publication or magazine detail
+- 1903 — House-to-house tract distribution on Sundays `b8-0072` · Organizational or preaching detail; context
+- 1903 — Russell–Eaton debates at Carnegie Hall, Allegheny `b8-0073` · Individual person's event or talk (C4)
+- 1904 — Russell’s sermons begin to appear regularly in newspapers `b8-0074` · Organizational or preaching detail; context
+- 1904 — Volume VI The New Creation published `b8-0075` · Individual publication or magazine detail
+- 1904 — Branch office established in Australia `b8-0076` · Organizational or preaching detail; context
+- c. October 1904 — Name Studies in the Scriptures adopted for the series `b8-0077` · Individual publication or magazine detail
+- 1905-1907 — “To Hell and Back!” one-day conventions `b8-0078` · Organizational or preaching detail; context
+- April 23, 1905 – 1977, June 8 — Life of Nathan H. Knorr `d1-0031` · individual's lifespan (after Bible times)
+- 1906 — Rudolf Kittel releases the first edition of Biblia Hebraica `b17-0006` · Master text; scholarly context
+- 1907 — Bible Students Edition of the King James Version published `b8-0081` · Individual publication or magazine detail
+- June 15, 1908 — Watch Tower publishes the “vow” on moral conduct `b8-0082` · Doctrinal or practice refinement detail
+- January 31, 1909 — Headquarters moved to Brooklyn, New York `b8-0084` · Start of Brooklyn HQ bar (T2)
+- March 4, 1909 — Peoples Pulpit Association incorporated in New York `b8-0085` · Individual legal case or step; not a kr landmark
+- May 1909 — J. F. Rutherford admitted to the bar of the U.S. Supreme Court `b8-0086` · Individual person's event or talk (C4)
+- 1910 — Bible Students begin to use the name International Bible Students Association `b8-0087` · Organizational or preaching detail; context
+- 1910 — Society literature reproduced in Braille `b8-0088` · Individual publication or magazine detail
+- 1911-1912 — Russell and six companions make round-the-world tour `b8-0089` · Individual person's event or talk (C4)
+- 1911 — Congregations send speakers to give public lecture series `b8-0090` · Organizational or preaching detail; context
+- 1912 — Work begins on the “Photo-Drama of Creation” `b8-0091` · Preparation; Photo-Drama premiere holds T2
+- 1914 — Local groups adopt the name Associated Bible Students `b8-0093` · Organizational or preaching detail; context
+- June 30, 1914 — International Bible Students Association incorporated in London `b8-0096` · Individual legal case or step; not a kr landmark
+- September 27-30, 1914 — Convention at Saratoga Springs, New York `b8-0097` · Individual convention or assembly detail
+- October 2, 1914 — Russell announces: “The Gentile times have ended” `b8-0098` · Doctrinal or practice refinement detail
+- 1914 — Last days begin; World War I breaks out and Satan's 'woe' comes upon the earth `b10-0003` · Shown by T1 last-days span and T2 WWI span
+- September 1, 1915 — Watch Tower begins to refine understanding of neutrality `b8-0099` · Doctrinal or practice refinement detail
+- October 16, 1916 — Russell departs on his final lecture tour `b8-0100` · Individual person's event or talk (C4)
+- October 31, 1916 — C. T. Russell dies at age 64 `b8-0101` · Person's death (C4)
+- December 1, 1916 — Watch Tower lists an editorial committee instead of one editor `b8-0102` · Organizational or preaching detail; context
+- December 15, 1916 — Newspaper sermon feature discontinued `b8-0103` · Organizational or preaching detail; context
+- January 6, 1917–January 8, 1942 — J. F. Rutherford, second president of the Watch Tower Society `b12-0072` · individual tenure (Kingdom over persons)
+- March 1, 1917 — Society begins assigning preaching territory `b8-0105` · Organizational or preaching detail; context
+- July 17, 1917 — The Finished Mystery released to the Bethel family `b8-0106` · Individual publication or magazine detail
+- July 1917 onward — Opposition from four directors; congregations split `b8-0107` · Organizational or preaching detail; context
+- 1918 — Congregations encouraged to arrange juvenile Bible classes `b8-0108` · Training arrangement detail
+- January 5, 1918 — Annual meeting confirms Rutherford’s leadership `b8-0109` · Individual person's event or talk (C4)
+- February 12, 1918 — Canada bans The Finished Mystery `b8-0110` · Local persecution event; context
+- February 24, 1918 — “The World Has Ended—Millions Now Living May Never Die” first delivered `b8-0111` · Individual person's event or talk (C4)
+- March 15, 1918 — Tract Kingdom News No. 1 released `b8-0112` · Individual publication or magazine detail
+- March 31, 1918 — Boston talk titled “Millions Now Living Will Never Die” `b8-0113` · Individual person's event or talk (C4)
+- May 7, 1918 — Federal arrest warrants issued for Rutherford and associates `b8-0114` · Local persecution event; context
+- June 5, 1918 — Trial of the Society’s officers begins `b8-0115` · Individual legal case or step; not a kr landmark
+- 1918 — Spanish influenza kills tens of millions `b15-0003` · Last-days sign or prophecy detail; context
+- June 20, 1918 — Jury finds Rutherford and associates guilty `b8-0116` · Individual legal case or step; not a kr landmark
+- June 21, 1918 — Rutherford and associates sentenced to long prison terms `b8-0117` · Start of imprisonment bar (T2)
+- August 26, 1918–October 1, 1919 — Headquarters operations moved back to Pittsburgh `b12-0074` · Temporary 14-month HQ relocation
+- August 26, 1918 — Brooklyn headquarters closed; operations moved to Pittsburgh `b8-0118` · Temporary 14-month move; HQ moves to permanent sites hold T2
+- by 1919 — Babylon the Great evidently fallen `b17-0007` · Wheat-and-weeds member, not a core stage; 1919 covered elsewhere
+- 1919 — The Bulletin published to stimulate field service `b8-0119` · Individual publication or magazine detail
+- 1919 — Service director appointed in each congregation `b8-0120` · Organizational or preaching detail; context
+- January 4, 1919 — Rutherford reelected while in prison `b8-0122` · Election of a person
+- January 1919 — League of Nations officially proposed; the 1,290 days begin `b14-0005` · League proposal; League bar holds T2
+- early 1919 — Faithful Bible Students revived after the 1918 test `b10-0006` · Restoration covered by T1 1919 gathering and slave records
+- March 26, 1919 — Society’s officers released on bail `b8-0123` · End of imprisonment bar (T2)
+- May 4, 1919 — Public lecture “The Hope for Distressed Humanity” in Los Angeles `b8-0124` · Individual person's event or talk (C4)
+- May 14, 1919 — Court of appeals reverses the convictions `b8-0125` · Individual legal case or step; not a kr landmark
+- 1919 — Pamphlet To Whom the Work Is Entrusted urges house-to-house preaching `b17-0008` · House-to-house exhortation; context
+- September 1-8, 1919 — Cedar Point convention; The Golden Age announced `b8-0126` · Individual convention or assembly detail
+- By October 1, 1919 — Headquarters activity resumes in Brooklyn `b8-0127` · Return from temporary Pittsburgh move
+- 1919–1937 — The Golden Age magazine `b12-0076` · Golden Age bar; launch point holds T2
+- 1919–2015 — Bulletin / Our Kingdom Ministry (monthly service publication) `b12-0077` · Individual publication or magazine detail
+- 1920 — Booklet Millions Now Living Will Never Die points to 1925 `b8-0130` · Doctrinal or practice refinement detail
+- January 10, 1920 — League of Nations comes into existence (“the wild beast . . . was”) `b14-0006` · Start of League bar (T2)
+- May 5, 1920 — Government withdraws the case against the Society’s officers `b8-0131` · Individual legal case or step; not a kr landmark
+- July 1, 1920 — Watch Tower article “Gospel of the Kingdom” `b8-0132` · Doctrinal or practice refinement detail
+- 1921 — Over two million Russians starve to death `b15-0004` · Last-days sign or prophecy detail; context
+- 1921 — The Harp of God published `b8-0133` · Study book; Divine Plan holds the tier
+- 1922 — Convention resolution “A Challenge to World Leaders” `b8-0134` · Individual convention or assembly detail
+- 1922 — Clergy in Germany agitate for arrests of Bible Students `b8-0135` · Local persecution event; context
+- 1922 — Watch Tower points to two organizations, Jehovah’s and Satan’s `b8-0136` · Doctrinal or practice refinement detail
+- 1922 — Small printing plant set up in Korea `b8-0137` · Construction or printing detail
+- February 26, 1922 — Rutherford’s first radio broadcast `b8-0138` · First radio talk; radio era shown by WBBR bar
+- March 1, 1922 — Printing moves to 18 Concord Street, Brooklyn `b8-0139` · Construction or printing detail
+- April 16, 1922 — Broadcast from Metropolitan Opera House, Philadelphia `b8-0140` · Organizational or preaching detail; context
+- May 15, 1922 — Study questions become a regular Watch Tower feature `b8-0141` · Organizational or preaching detail; context
+- 1923 — Watch Tower draws attention to a class with earthly hope `b8-0143` · Doctrinal or practice refinement detail
+- 1923 — First broadcast of a convention session `b8-0144` · Individual convention or assembly detail
+- 1923 — Monthly field-service testimonies (forerunner of Service Meeting) `b8-0145` · Organizational or preaching detail; context
+- July 4, 1923 — Nathan H. Knorr baptized `b8-0146` · Individual person's event or talk (C4)
+- 1924 — Resolution “Ecclesiastics Indicted” distributed `b8-0147` · Individual convention or assembly detail
+- February 24, 1924 — WBBR, the Society’s own radio station, begins broadcasting `b8-0148` · Start of WBBR radio bar (T2)
+- January 1, 1926 — Watch Tower article “Who Will Honor Jehovah?” `b8-0151` · Doctrinal or practice refinement detail
+- 1926 — House-to-house preaching with books on Sunday encouraged `b8-0152` · House-to-house emphasis; context for kr methods
+- 1926 — Pilgrims become supervisors of field service `b8-0154` · Organizational or preaching detail; context
+- 1926 — Legal department established at Magdeburg, Germany `b8-0155` · Individual legal case or step; not a kr landmark
+- May 1926 — Convention in May 1926; book Deliverance released; the 1,335 days end `b14-0008` · 1926 convention; 1,335-days span is T1
+- December 1926 — Society prints The Emphatic Diaglott on its own presses `b8-0156` · Individual publication or magazine detail
+- 1926 — Last Christmas celebrated at Brooklyn Bethel `b8-0157` · Doctrinal or practice refinement detail
+- February 1927 — Society moves into its own factory at 117 Adams Street, Brooklyn `b8-0158` · Construction or printing detail
+- February 15, 1927 — Faithful and wise servant reaffirmed as collective `b8-0159` · Doctrinal or practice refinement detail
+- July 24, 1927 — Toronto convention talk carried by unparalleled radio network `b8-0160` · Individual convention or assembly detail
+- November 11, 1927 — Swiss Federal Supreme Court rules confiscating tracts violates freedom of belief `b8-0161` · Individual legal case or step; not a kr landmark
+- December 14, 1927 — The Golden Age notes Christmas is a pagan celebration `b8-0162` · Doctrinal or practice refinement detail
+- 1928 — Bible Students arrested in New Jersey for house-to-house preaching `b8-0163` · Individual legal case or step; not a kr landmark
+- 1928 — Cross-and-crown emblems shown to be objectionable (Detroit) `b8-0164` · Doctrinal or practice refinement detail
+- 1928 — Watch Tower stresses the Kingdom above personal salvation `b8-0165` · Doctrinal or practice refinement detail
+- 1928 — Bible Students’ radio stations in Canada lose licenses `b8-0167` · Local persecution event; context
+- 1928 — Congregations urged to hold Service Meeting weekly `b8-0168` · Organizational or preaching detail; context
+- December 12, 1928 — Exposé “Christmas, Its Origin and Purpose” `b8-0169` · Doctrinal or practice refinement detail
+- 1929 — Book Prophecy: Jehovah’s name the vital issue `b8-0170` · Doctrinal or practice refinement detail
+- 1929 — Superior authorities explained as Jehovah and Jesus `b8-0171` · Doctrinal or practice refinement detail
+- 1930 — Two-volume Light on Revelation published `b8-0172` · Individual publication or magazine detail
+- 1930 — German Interior Ministry halts peddling prosecutions `b8-0173` · Individual legal case or step; not a kr landmark
+- 1931 — Vindication, Book 1, published `b8-0174` · Individual publication or magazine detail
+- October 15, 1931 — Jehovah’s name on every Watchtower cover; title becomes The Watchtower `b8-0177` · Individual publication or magazine detail
+- 1932 — Vindication, Book 2: restoration prophecies apply to spiritual Israel `b8-0178` · Doctrinal or practice refinement detail
+- 1932 — Booklet Home and Happiness urges family Bible study `b8-0179` · Individual publication or magazine detail
+- August 1, 1932 — Jonadab pictures a class with earthly hope `b8-0180` · Doctrinal or practice refinement detail
+- August 15, 1932 — Arrangement for elective elders terminated `b8-0181` · Organizational or preaching detail; context
+- December 19, 1932 — Danish trial court rules preaching is not peddling (Lehmann case) `b8-0182` · Individual legal case or step; not a kr landmark
+- 1933 — Famine in Russia and Ukraine `b15-0005` · Last-days sign or prophecy detail; context
+- 1933 — Jehovah’s Witnesses banned in Germany; intense persecution begins `b8-0183` · Start of Nazi ban bar (T2)
+- 1933 — Transcription machines and sound cars used to broadcast lectures `b8-0184` · Organizational or preaching detail; context
+- 1933 — Testimony cards introduced for door-to-door ministry `b8-0185` · Organizational or preaching detail; context
+- 1933 — Arrests mount in the U.S.; legal department set up in Brooklyn `b8-0187` · Individual legal case or step; not a kr landmark
+- June 25, 1933 — Declaration adopted at Berlin assembly `b8-0188` · Local persecution event; context
+- October 3, 1933 — Supreme Court of Denmark upholds right to preach `b8-0189` · Individual legal case or step; not a kr landmark
+- August 15, 1934 — Watchtower: Jonadabs should dedicate themselves and be baptized `b8-0191` · Doctrinal or practice refinement detail
+- October 7, 1934 — German congregations send protest letters to the government `b8-0192` · Local persecution event; context
+- 1935 — Flag-salute issue first reaches American courts `b8-0194` · Individual legal case or step; not a kr landmark
+- March 1, 1935 — Watchtower addresses moral problems and drunkenness `b8-0195` · Doctrinal or practice refinement detail
+- April 1, 1935 — General ban of Jehovah’s Witnesses throughout Germany `b8-0196` · Detail within Nazi ban bar
+- July 9, 1935 — Romania’s High Court rules for Witnesses’ freedom of expression `b8-0198` · Individual legal case or step; not a kr landmark
+- 1936 — Placards first worn to advertise public lectures `b8-0199` · Organizational or preaching detail; context
+- 1936 — Book Riches published; Bible studies encouraged `b8-0200` · Training arrangement detail
+- 1936 — Jesus shown to have died on a stake, not a cross `b8-0201` · Doctrinal or practice refinement detail
+- May 6, 1936 — Golden Age notes no birthday celebrations among God’s people in the Bible `b8-0202` · Doctrinal or practice refinement detail
+- July 1936 — Traveling overseers called regional servants `b8-0203` · Organizational or preaching detail; context
+- December 12, 1936 — Witnesses in Germany distribute the Lucerne resolution `b8-0204` · Local persecution event; context
+- 1937–1946 — Consolation magazine `b12-0081` · Interim magazine title between Golden Age and Awake!
+- 1937 — Phonographs played on the doorstep; special pioneers outlined `b8-0205` · Organizational or preaching detail; context
+- 1937 — The Golden Age renamed Consolation `b8-0206` · Magazine rename; Golden Age/Awake! launches hold tier
+- 1937 — Great crowd brothers may serve on service committees `b8-0207` · Organizational or preaching detail; context
+- September 18, 1937 — Book Enemies released at Columbus convention `b8-0208` · Individual publication or magazine detail
+- Late 1937 — Witnesses withdraw from commercial radio `b8-0209` · Organizational or preaching detail; context
+- 1938 — Zone assemblies (forerunner of circuit assemblies) arranged `b8-0210` · Individual convention or assembly detail
+- 1938 — Congregation singing largely dispensed with `b8-0211` · Organizational or preaching detail; context
+- February 15, 1938 — Prospective great multitude invited to attend the Memorial `b8-0212` · Organizational or preaching detail; context
+- April 26, 1938 — Cantwell family arrested in New Haven `b8-0214` · Individual legal case or step; not a kr landmark
+- September 11, 1938 — “Face the Facts” lecture from Royal Albert Hall, London `b8-0216` · Individual person's event or talk (C4)
+- October 2, 1938 — Lecture “Fascism or Freedom” `b8-0217` · Individual person's event or talk (C4)
+- 1939-45 — 23 British Commonwealth nations ban Witnesses or their literature `b8-0218` · Wartime Commonwealth bans; context of WWII persecution
+- 1939 — Mob attempts to break up assembly at Madison Square Garden `b8-0219` · Local persecution event; context
+- 1939 — New York corporation renamed Watchtower Bible and Tract Society, Inc. `b8-0220` · Individual legal case or step; not a kr landmark
+- March 1, 1939 — Magazine titled The Watchtower Announcing Jehovah’s Kingdom `b8-0221` · Individual publication or magazine detail
+- September 15, 1939 — August Dickmann publicly shot at Sachsenhausen `b8-0222` · Individual person's event or talk (C4)
+- February 1, 1940 — Street distribution of magazines becomes a regular feature `b8-0225` · Street work method; context
+- March 30, 1940 — Young Witness Gerhard Steinacher executed `b8-0226` · Individual person's event or talk (C4)
+- June 3, 1940 — Gobitis decision upholds compulsory flag salute; mob violence follows `b8-0228` · Gobitis loss; Barnette reversal holds T2
+- June 10, 1940 — N. H. Knorr becomes vice president of the Society `b8-0229` · Individual person's event or talk (C4)
+- June 16, 1940 — U.S. solicitor general condemns attacks on Witnesses `b8-0230` · Local persecution event; context
+- 1940–June 1944 — Ban on Jehovah’s Witnesses in Canada `b12-0085` · Canada ban: shorter national ban than Nazi/Malawi/Russia
+- July 4, 1940 — Jehovah’s Witnesses banned in Canada `b8-0231` · Canada ban: shorter national ban than Nazi/Malawi/Russia
+- January 1941 to June 1943 — Ban on the Watch Tower Society in Australia `b12-0086` · Australia ban: shorter national ban
+- August 6-10, 1941 — St. Louis Theocratic Assembly; book Children released `b8-0233` · Individual convention or assembly detail
+- 1942 — Society prints the complete King James Version on its own press `b8-0235` · Individual publication or magazine detail
+- 1942 — Publications cease to name individual writers `b8-0236` · Individual publication or magazine detail
+- January 13, 1942–June 8, 1977 — N. H. Knorr, third president of the Watch Tower Society `b12-0087` · individual tenure (Kingdom over persons)
+- February 16, 1942 — Advanced Course in Theocratic Ministry inaugurated at headquarters `b8-0239` · Precursor course; Gilead holds tier
+- September 18-20, 1942 — New World Theocratic Assembly; talk “Peace—Can It Last?” `b8-0240` · Individual convention or assembly detail
+- September 24, 1942 — Boards approve a school to train missionaries `b8-0241` · Decision; Gilead start holds T1
+- October 1942 — Servants to the brethren begin visiting congregations `b8-0242` · Organizational or preaching detail; context
+- October 1, 1942 — Watchtower Study restructured `b8-0243` · Organizational or preaching detail; context
+- 1943 — Famine in Henan province, China `b15-0006` · Last-days sign or prophecy detail; context
+- 1943 — U.S. Supreme Court rules favorably in 20 of 24 Witness cases `b8-0244` · Summary of 1943 rulings; key rulings hold T2
+- 1943 — Book “The Truth Shall Make You Free” clarifies chronology `b8-0245` · Doctrinal or practice refinement detail
+- February 1, 1943– — Watchtower Bible School of Gilead `b12-0088` · Gilead bar; first-class point holds T1
+- 1943–2015 — Theocratic Ministry School in congregations `b12-0089` · TMS bar; 1943 start point holds T1
+- June 14, 1943 — High Court of Australia lifts ban on Witnesses `b8-0250` · Australia ban lifted; shorter national ban
+- 1944 — Society obtains rights to print the American Standard Version `b8-0251` · Individual publication or magazine detail
+- 1944 — Kingdom Service Song Book released; congregation singing revived `b8-0252` · Individual publication or magazine detail
+- 1944 — Judicial matters to be handled by responsible brothers `b8-0254` · Organizational or preaching detail; context
+- 1944 — Persecution of Witnesses in the U.S. abates `b8-0255` · Local persecution event; context
+- October 2, 1944 — Shareholders vote to revise the Society’s charter `b8-0256` · Charter change; administrative
+- 1945 — Global Public Meeting campaign announced `b8-0257` · Organizational or preaching detail; context
+- 1945 — Theocratic Aid to Kingdom Publishers released `b8-0258` · Individual publication or magazine detail
+- April-May 1945 — Concentration camps liberated; Witnesses survive death marches `b8-0260` · End of Nazi ban bar; covered by span
+- June 26, 1945 — United Nations Charter accepted: the scarlet-colored wild beast ascends out of the abyss `b14-0009` · Start of UN bar (T2)
+- August 5, 1945 — Convention in Amsterdam after release from camps `b8-0261` · Individual convention or assembly detail
+- 1945 — The Soviet Union and its allies become “the king of the north” `b14-0011` · King of north identity; Daniel 11 context
+- 1945–1991 — The Soviet Union and its allies as “the king of the north” `b14-0012` · King of north identity; Daniel 11 context
+- October 1, 1945 — Board of directors no longer chosen by donor-voters `b8-0263` · Charter change; administrative
+- October 5, 1945 — F. W. Franz selected vice president `b8-0264` · Individual person's event or talk (C4)
+- November 1945 — Knorr and Henschel begin tour of postwar Europe `b8-0265` · Individual person's event or talk (C4)
+- 1946– — Awake! magazine in publication `b12-0090` · Awake! bar; launch point holds T2
+- 1946 — Understanding clarified: New Year’s Day `b9-0002` · Publications Index one-line entry
+- 1946 — 1946: Glad Nations Theocratic Assemblies `b9-0003` · Publications Index one-line entry
+- 1946 — “Equipped for Every Good Work” published `b9-0004` · Individual publication or magazine detail
+- 1946 — Over 470 Witnesses taken before courts in Greece `b9-0005` · Local persecution event; context
+- 1946 — “Let God Be True” published `b9-0006` · Individual publication or magazine detail
+- 1946 — Over 4,000 Witnesses in the U.S. and 1,593 in Britain imprisoned for neutrality (1939-1946) `b9-0007` · Neutrality imprisonment figure; context
+- 1946, January — Postwar relief shipments to Witnesses in Europe and Asia `b9-0009` · Organizational or preaching detail; context
+- 1946 — Quebec’s Burning Hate tract campaign `b9-0010` · Quebec campaign; Boucher ruling holds T2
+- 1947 — Aimé Boucher and daughters tried for sedition `b9-0011` · Individual legal case or step; not a kr landmark
+- 1947 — Understanding clarified: polygamy `b9-0012` · Publications Index one-line entry
+- 1947 — 1947: “All Nations Expansion” Assemblies `b9-0014` · Publications Index one-line entry
+- 1947 — 1,700 court cases pending in Quebec `b9-0015` · Individual legal case or step; not a kr landmark
+- December 2, 1947–March 13, 1960 — Translation of the New World Translation by the committee `b12-0091` · NWT translation work; releases hold the tier
+- 1947, December 2 — New World Bible Translation Committee begins work `b9-0016` · NWT committee start; releases hold the tier
+- 1948 — 1948: District Assemblies `b9-0017` · Publications Index one-line entry
+- 1949 — 1949: District Assemblies `b9-0019` · Publications Index one-line entry
+- 1949 — Gilead missionaries arrive in Japan `b9-0020` · Organizational or preaching detail; context
+- 1950 — Understanding clarified: princes (Ps. 45:16) `b9-0021` · Publications Index one-line entry
+- 1950 — Understanding clarified: term “religion” `b9-0022` · Publications Index one-line entry
+- 1950 — Anthony Sicurella applies for conscientious objector status `b9-0023` · Individual legal case or step; not a kr landmark
+- 1950 — Theocracy’s Increase Assembly `b9-0025` · Individual convention or assembly detail
+- 1950, June — Supreme Court of Canada hears Boucher case `b9-0026` · Individual legal case or step; not a kr landmark
+- August 2, 1950–June 18, 1960 — Release of the New World Translation in volumes `b12-0092` · NWT volumes 1950-60; 1950 and 1961 releases hold T1
+- 1951 — Questions and answers on blood published `b9-0029` · Doctrinal or practice refinement detail
+- 1951 — 1951: “Clean Worship” Assemblies `b9-0030` · Publications Index one-line entry
+- 1951-1991 — West Berlin radio broadcasts Bible discourses `b9-0031` · Organizational or preaching detail; context
+- 1952 — 1952: “Press On to Maturity” District Assemblies `b9-0032` · Publications Index one-line entry
+- 1952 — Bible-based procedure for judicial matters published `b9-0033` · Doctrinal or practice refinement detail
+- 1952, November 19 — Branch servant summoned in Nicaragua; ban follows `b9-0034` · Individual legal case or step; not a kr landmark
+- 1953 — Understanding clarified: desirable things of the nations (Hag. 2:7) `b9-0035` · Publications Index one-line entry
+- 1953 — Understanding clarified: Gog of Magog (Ezek. 38, 39) `b9-0036` · Publications Index one-line entry
+- 1953 — Understanding clarified: nucleus of new earth `b9-0037` · Publications Index one-line entry
+- 1953 — 1953: New World Society Assemblies `b9-0038` · Publications Index one-line entry
+- 1953, March 17 — Netherlands Supreme Court: Havenaar case `b9-0039` · Individual legal case or step; not a kr landmark
+- 1953, June 19 — Nicaragua Supreme Court rules for the Witnesses `b9-0040` · Individual legal case or step; not a kr landmark
+- 1953, September 1 — Program of training in house-to-house preaching begins `b9-0041` · Training arrangement detail
+- 1953, October 6 — Supreme Court of Canada: Saumur case `b9-0042` · Saumur: second Quebec ruling; Boucher holds T2
+- 1954 — 1954: District Assemblies `b9-0043` · Publications Index one-line entry
+- 1954 — Motion pictures begin to be used in preaching `b9-0044` · Organizational or preaching detail; context
+- 1955 — 1955: “Triumphant Kingdom” Assemblies `b9-0045` · Publications Index one-line entry
+- 1956 — Understanding clarified: sanctity of marriage `b9-0046` · Publications Index one-line entry
+- 1956 — 1956: District Assemblies `b9-0047` · Publications Index one-line entry
+- 1956, May 15 — Watchtower urges regular family Bible study `b9-0048` · Organizational or preaching detail; context
+- 1957 — 1957: “Life-Giving Wisdom” District Assemblies `b9-0050` · Publications Index one-line entry
+- 1957 — WBBR, last Witness radio station, shut down `b9-0051` · End of WBBR radio bar (T2)
+- 1958 — Divine Will International Assembly in New York `b9-0052` · Individual convention; large but not a kr turning point
+- 1959 — 1959: “Awake Ministers” District Assemblies `b9-0053` · Publications Index one-line entry
+- 1959 — Sisters invited to enroll in Theocratic Ministry School `b9-0054` · School enrolment change
+- March 9, 1959– — Kingdom Ministry School `b12-0093` · Secondary school; Gilead and TMS hold school tier
+- 1959, March 9 — First Kingdom Ministry School class begins at South Lansing `b9-0055` · Secondary school; Gilead and TMS hold school tier
+- 1960 — 1960: Peace-Pursuing District Assemblies `b9-0056` · Publications Index one-line entry
+- 1960, March 13 — Final text of New World Translation completed `b9-0057` · Final text completed; 1961 one-volume NWT holds T1
+- 1960, June 18 — Final volume of NWT released at Manchester, England `b9-0058` · Last volume; 1961 one-volume NWT holds T1
+- 1961 — Branch overseers attend ten-month training course in Brooklyn `b9-0059` · Branch overseer course; secondary school
+- 1961 — Understanding clarified: sanctity of blood `b9-0060` · Publications Index one-line entry
+- 1961 — Weekly radio program begins in Suriname `b9-0062` · Organizational or preaching detail; context
+- 1962 — 1962: Courageous Ministers District Assemblies `b9-0063` · Publications Index one-line entry
+- 1962 — Watchtower clarifies “superior authorities” of Romans 13 `b9-0064` · Doctrinal or practice refinement detail
+- 1963 — Babylon the Great identified as world empire of false religion `b9-0065` · Doctrinal clarification; context
+- 1963 — Understanding clarified: Revelation `b9-0066` · Publications Index one-line entry
+- 1963 — 1963: “Everlasting Good News” Assemblies `b9-0067` · Publications Index one-line entry
+- 1964-1971 — Governing body supervises study of first-century congregation `b9-0070` · Context leading to 1971 changes
+- 1964 — 1964: “Fruitage of the Spirit” Assemblies `b9-0071` · Publications Index one-line entry
+- 1965 — Understanding clarified: earthly resurrection `b9-0072` · Publications Index one-line entry
+- 1965 — 1965: “Word of Truth” Assemblies `b9-0073` · Publications Index one-line entry
+- 1965 — First Assembly Hall put to use in New York `b9-0074` · Construction or printing detail
+- 1966 — Understanding clarified: denarius paid to vineyard workers (Matt. 20) `b9-0075` · Publications Index one-line entry
+- 1966 — 1966: “God’s Sons of Liberty” District Assemblies `b9-0076` · Publications Index one-line entry
+- 1966 — Updated Kingdom Ministry School begins `b9-0077` · School update
+- 1966 — Swedish Parliament ruling relieves Witness objectors `b9-0079` · Individual legal case or step; not a kr landmark
+- 1967 — 1967: “Disciple-Making” District Assemblies `b9-0080` · Publications Index one-line entry
+- 1967 — Waves of persecution begin in Malawi `b9-0081` · Local persecution event; context
+- 1968 — 1968: “Good News for All Nations” District Assemblies `b9-0082` · Publications Index one-line entry
+- 1969-1977 — Radio series “All Scripture Is Beneficial” produced `b9-0084` · Organizational or preaching detail; context
+- 1969 — Understanding clarified: great tribulation `b9-0086` · Publications Index one-line entry
+- 1969 — Understanding clarified: Revelation `b9-0087` · Publications Index one-line entry
+- 1969 — 1969: “Peace on Earth” International Assemblies `b9-0088` · Publications Index one-line entry
+- 1970 — 1970: “Men of Goodwill” District Assemblies `b9-0089` · Publications Index one-line entry
+- 1971 — Understanding clarified: elder arrangement `b9-0090` · Publications Index one-line entry
+- 1971 — 1971: “Divine Name” District Assemblies `b9-0091` · Publications Index one-line entry
+- 1971, October 1 — Governing Body chairmanship begins to rotate annually `b9-0093` · Chairmanship rotation; administrative
+- 1972 — Understanding clarified: appointment of elders and ministerial servants `b9-0094` · Publications Index one-line entry
+- 1972 — Understanding clarified: Jehovah’s great spiritual temple `b9-0095` · Publications Index one-line entry
+- 1972 — 1972: “Divine Rulership” District Assemblies `b9-0096` · Publications Index one-line entry
+- 1973 — 1973: “Divine Victory” International Assemblies `b9-0098` · Publications Index one-line entry
+- late 1974–June 9, 2010 — Theodore Jaracz serves on the Governing Body `b12-0095` · individual tenure (Kingdom over persons)
+- 1974 — 1974: “Divine Purpose” District Assemblies `b9-0100` · Publications Index one-line entry
+- November 1974–April 18, 2006 — Daniel Sydlik serves on the Governing Body `b12-0096` · individual tenure (Kingdom over persons)
+- November 28 [1974] — Governing Body enlarged to 18 members `b9-0102` · GB enlargement step; 1971 and 1975 records hold tier
+- 1975 — 1975: “Divine Sovereignty” District Assemblies `b9-0103` · Publications Index one-line entry
+- 1976 — Barros brothers expelled from school in Argentina `b9-0105` · Local persecution event; context
+- 1976 — Understanding clarified: employment involving gambling `b9-0106` · Publications Index one-line entry
+- 1976 — 1976: “Sacred Service” District Assemblies `b9-0107` · Publications Index one-line entry
+- 1976, February 1 — Branch Committees replace single branch overseers `b9-0109` · Branch committees; part of 1975-76 reorganization
+- 1977 — 1977: “Joyful Workers” District Assemblies `b9-0110` · Publications Index one-line entry
+- 1977 — Pioneer Service School begins `b9-0111` · Secondary school; Gilead and TMS hold school tier
+- June 22, 1977–December 22, 1992 — F. W. Franz, fourth president of the Watch Tower Society `b12-0097` · individual tenure (Kingdom over persons)
+- September 1977–June 16, 1988 — Martin Poetzinger serves on the Governing Body `b12-0098` · individual tenure (Kingdom over persons)
+- 1978 — 1978: “Victorious Faith” International Conventions `b9-0114` · Publications Index one-line entry
+- 1978 — Making Your Family Life Happy published `b9-0115` · Individual publication or magazine detail
+- 1979 — Argentine court reverses expulsion of Witness children `b9-0116` · Individual legal case or step; not a kr landmark
+- 1979 — Understanding clarified: “keys of the kingdom” (Matt. 16:19) `b9-0117` · Publications Index one-line entry
+- 1979 — 1979: “Living Hope” District Conventions `b9-0118` · Publications Index one-line entry
+- 1979 — Elders begin visiting hospitals about blood `b9-0119` · Organizational or preaching detail; context
+- 1980 — 1980: “Divine Love” District Conventions `b9-0120` · Publications Index one-line entry
+- 1981 — 1981: “Kingdom Loyalty” District Conventions `b9-0121` · Publications Index one-line entry
+- 1981 — All public talks to be based on outlines `b9-0122` · Meeting-format adjustment
+- 1982 — 1982: “Kingdom Truth” District Conventions `b9-0124` · Publications Index one-line entry
+- 1982 — You Can Live Forever in Paradise on Earth published `b9-0125` · Study book; Truth and Bible Teach hold the tier
+- 1982 — Awake! series “Young People Ask” begins `b9-0126` · Individual publication or magazine detail
+- 1983 — About 200 quick-built Kingdom Halls in U.S. and Canada `b9-0127` · Quick-build Kingdom Halls; context for construction
+- 1983 — Understanding clarified: use of firearms `b9-0128` · Publications Index one-line entry
+- 1983 — 1983: “Kingdom Unity” District Conventions `b9-0129` · Publications Index one-line entry
+- 1983 — Titos Manoussakis rents meeting room in Crete `b9-0130` · Individual legal case or step; not a kr landmark
+- 1983 — Iakovos Thlimmenos convicted in Greece `b9-0131` · Local persecution event; context
+- 1983, July 13 — Supreme Court in Serbia upholds literature distribution `b9-0132` · Individual legal case or step; not a kr landmark
+- 1984 — Understanding clarified: sheepfolds of “fine shepherd” (John 10) `b9-0134` · Publications Index one-line entry
+- 1984 — 1984: “Kingdom Increase” District Conventions `b9-0135` · Publications Index one-line entry
+- 1984 — Ministerial servants begin attending Kingdom Ministry School `b9-0136` · School enrolment change
+- 1985 — Understanding clarified: “other sheep” declared righteous as friends of God `b9-0138` · Publications Index one-line entry
+- 1985 — 1985: “Integrity Keepers” District Conventions `b9-0139` · Publications Index one-line entry
+- 1985 — International volunteer arrangement for construction initiated `b9-0140` · International volunteers; construction context
+- 1985, December — International convention in Kinshasa, Zaire `b9-0142` · Individual convention or assembly detail
+- 1986 — Understanding clarified: “great crowd” figuratively partake of Jesus’ flesh and blood (John 6:51-56) `b9-0143` · Publications Index one-line entry
+- 1986 — Understanding clarified: “ten virgins” (Matt. 25) `b9-0144` · Publications Index one-line entry
+- 1986 — 1986: “Divine Peace” District Conventions `b9-0145` · Publications Index one-line entry
+- 1986–January 8, 1993 — Ban on Jehovah’s Witnesses in Zaire `b12-0099` · Zaire ban: shorter national ban
+- 1986, March 12 — Witnesses declared illegal in Zaire `b9-0147` · Zaire ban: shorter national ban
+- 1986, May 26 — Turkey Supreme Court annuls convictions of Witnesses `b9-0148` · Individual legal case or step; not a kr landmark
+- 1987 — Understanding clarified: Christian Jubilee `b9-0151` · Publications Index one-line entry
+- 1987 — Understanding clarified: Declaration Pledging Faithfulness `b9-0152` · Publications Index one-line entry
+- 1987 — 1987: “Trust in Jehovah” District Conventions `b9-0153` · Publications Index one-line entry
+- 1987, October 1 — Ministerial Training School begins `b9-0154` · Secondary school; Gilead and TMS hold school tier
+- 1988 — Understanding clarified: 144,000 sing new song before 24 elders (Rev. 14:3) `b9-0155` · Publications Index one-line entry
+- 1988 — Understanding clarified: approved associates `b9-0156` · Publications Index one-line entry
+- 1988 — Understanding clarified: figurative heart `b9-0157` · Publications Index one-line entry
+- 1988 — Understanding clarified: no resurrection for dead in Sodom and Gomorrah `b9-0158` · Publications Index one-line entry
+- 1988 — Understanding clarified: parents may study with minor child who has been removed from the congregation `b9-0159` · Publications Index one-line entry
+- 1988 — Understanding clarified: Revelation `b9-0160` · Publications Index one-line entry
+- 1988 — Understanding clarified: unbaptized publishers `b9-0161` · Publications Index one-line entry
+- 1988 — 1988: “Divine Justice” District Conventions `b9-0162` · Publications Index one-line entry
+- 1988, October 12 — Zaire government seizes branch property `b9-0164` · Local persecution event; context
+- 1989 — NWT published in 11 languages `b9-0165` · NWT language count statistic
+- 1989 — 1989: “Godly Devotion” District Conventions `b9-0166` · Publications Index one-line entry
+- 1989 — Three international conventions held in Poland `b9-0167` · Individual convention or assembly detail
+- 1990 — 1990: “Pure Language” District Conventions `b9-0168` · Publications Index one-line entry
+- 1990 — Witness students expelled in the Philippines over flag salute `b9-0169` · Local persecution event; context
+- 1990 — Public discourses delivered only as talks `b9-0171` · Meeting-format adjustment
+- 1990 — Videos begin to be used in preaching `b9-0174` · Organizational or preaching detail; context
+- 1991 — Understanding clarified: meaning of Proverbs 27:23 `b9-0176` · Publications Index one-line entry
+- 1991 — 1991: “Lovers of Freedom” District Conventions `b9-0177` · Publications Index one-line entry
+- 1991 — Witnesses registered in the Soviet Union `b9-0178` · Individual legal case or step; not a kr landmark
+- 1991 — The Soviet Union collapses; God’s people there enjoy “a little help” `b14-0013` · Soviet collapse; freedom covered by 1991 bans-lifted record
+- a. 1991– — Russia and its allies as “the king of the north” `b14-0014` · King of north identity; Daniel 11 context
+- 1992 — Understanding clarified: Nethinim and sons of the servants of Solomon after exile `b9-0179` · Publications Index one-line entry
+- 1992 — “Light Bearers” Convention in St. Petersburg `b9-0181` · Individual convention or assembly detail
+- 1992 — Ohio Supreme Court considers custody case `b9-0183` · Individual legal case or step; not a kr landmark
+- 1992 — Legal recognition in the Russian Federation `b9-0184` · Individual legal case or step; not a kr landmark
+- December 30, 1992–(end not dated) — M. G. Henschel, fifth president of the Watch Tower Society `b12-0100` · individual tenure (Kingdom over persons)
+- 1993 — Understanding clarified: kings of north and south during time of the end (Dan. 11, 12) `b9-0187` · Publications Index one-line entry
+- 1993 — Understanding clarified: start and end of 1,260 days (Rev. 11:3) and time, times, and a half (Da 7:25; 12:7) `b9-0188` · Publications Index one-line entry
+- 1993 — “Divine Teaching” Convention in Kyiv; 7,402 baptized `b9-0189` · Individual convention or assembly detail
+- 1993, January 8 — Zaire Supreme Court lifts ban `b9-0190` · Zaire ban lifted; shorter national ban
+- 1993, June — Misae Takeda sues over unauthorized transfusion `b9-0192` · Individual legal case or step; not a kr landmark
+- 1994 — Understanding clarified: tribulation and celestial phenomena (Matt. 24:29-31; Mark 13:24-27; Luke 21:25-28) `b9-0193` · Publications Index one-line entry
+- 1994 — 1994: “Godly Fear” District Conventions `b9-0194` · Publications Index one-line entry
+- 1994 — Relief for Witnesses after Rwanda genocide `b9-0195` · Organizational or preaching detail; context
+- 1994 — Ivailo Stefanov drafted in Bulgaria `b9-0196` · Individual legal case or step; not a kr landmark
+- July 1, 1994– — Gerrit Lösch serves on the Governing Body `b12-0101` · individual tenure (Kingdom over persons)
+- 1995 — 1995: “Joyful Praisers” District Conventions `b9-0200` · Publications Index one-line entry
+- 1995 — Knowledge That Leads to Everlasting Life published `b9-0201` · Study book; Truth and Bible Teach hold the tier
+- 1996 — Understanding clarified: acceptability of customary (tribal) marriage `b9-0202` · Publications Index one-line entry
+- 1996 — Understanding clarified: civilian service in lieu of military service `b9-0203` · Publications Index one-line entry
+- 1996 — Understanding clarified: “flesh” saved through great tribulation (Matt. 24:22) `b9-0204` · Publications Index one-line entry
+- 1996 — Understanding clarified: great tribulation “cut short” (Matt. 24:22) `b9-0205` · Publications Index one-line entry
+- 1996 — 1996: “Messengers of Godly Peace” District Conventions `b9-0206` · Publications Index one-line entry
+- 1996 — ECHR rules for Manoussakis (Greece) `b9-0207` · Individual legal case or step; not a kr landmark
+- 1996 — Weekly radio program in Apia, Samoa `b9-0208` · Organizational or preaching detail; context
+- 1997 — Understanding clarified: transfiguration vision (Matt. 17; Mark 9; Luke 9) `b9-0209` · Publications Index one-line entry
+- 1997 — 1997: “Faith in God’s Word” District Conventions `b9-0210` · Publications Index one-line entry
+- 1997 — Witnesses begin using the Internet `b9-0211` · Organizational or preaching detail; context
+- 1998 — Understanding clarified: duration of new covenant (Heb. 13:20) `b9-0212` · Publications Index one-line entry
+- 1998 — Understanding clarified: nations blessed through Abraham’s seed (offspring) (Ge 22:18) `b9-0213` · Publications Index one-line entry
+- 1998 — 1998: “God’s Way of Life” District Conventions `b9-0214` · Publications Index one-line entry
+- 1998 — Opposers file civil complaint in Moscow `b9-0215` · Individual legal case or step; not a kr landmark
+- 1999 — Understanding clarified: ‘disgusting thing standing in a holy place’ (Matt. 24:15; Mark 13:14) `b9-0216` · Publications Index one-line entry
+- 1999 — 1999: “God’s Prophetic Word” District Conventions `b9-0217` · Publications Index one-line entry
+- 1999, March 1 — Watchtower explains Ezekiel’s temple vision `b9-0219` · Doctrinal or practice refinement detail
+- 1999, July 2 — Death of Governing Body member Lloyd Barry `b9-0220` · Individual person's event or talk (C4)
+- October 2, 1999–March 18, 2014 — Guy H. Pierce serves on the Governing Body `b12-0102` · individual tenure (Kingdom over persons)
+- October 2, 1999– — Samuel F. Herd serves on the Governing Body `b12-0103` · individual tenure (Kingdom over persons)
+- October 2, 1999– — M. Stephen Lett serves on the Governing Body `b12-0104` · individual tenure (Kingdom over persons)
+- October 2, 1999– — David H. Splane serves on the Governing Body `b12-0105` · individual tenure (Kingdom over persons)
+- 2000 — Understanding clarified: blood fractions `b9-0222` · Publications Index one-line entry
+- 2000 — Understanding clarified: use of one’s own blood `b9-0223` · Publications Index one-line entry
+- 2000 — 2000: “Doers of God’s Word” District Conventions `b9-0224` · Publications Index one-line entry
+- 2000 — ECHR Grand Chamber rules for Thlimmenos `b9-0225` · Individual legal case or step; not a kr landmark
+- 2000 — Training program for all translation teams authorized `b9-0226` · Training arrangement detail
+- 2000, February 29 — Japan Supreme Court upholds right to refuse blood `b9-0227` · Individual legal case or step; not a kr landmark
+- 2001 — Understanding clarified: “divorce certificate” for Judah (Isa. 50:1) `b9-0229` · Publications Index one-line entry
+- 2001 — Understanding clarified: ‘doves to birdhouse holes’ (Isa. 60:8, 9) `b9-0230` · Publications Index one-line entry
+- 2001 — Understanding clarified: worshipping Jehovah “with spirit” (John 4:24) `b9-0231` · Publications Index one-line entry
+- 2001 — 2001: “Teachers of God’s Word” District Conventions `b9-0232` · Publications Index one-line entry
+- 2001 — Friendly settlement reached in Stefanov case `b9-0234` · Individual legal case or step; not a kr landmark
+- 2001, May — Moscow Witnesses lose on appeal; retrial ordered `b9-0235` · Individual legal case or step; not a kr landmark
+- 2002 — Understanding clarified: courtyard in which “great crowd” serve (Rev. 7:15) `b9-0236` · Publications Index one-line entry
+- 2002 — 2002: “Zealous Kingdom Proclaimers” District Conventions `b9-0237` · Publications Index one-line entry
+- 2002, September — Vahan Bayatyan begins prison sentence in Armenia `b9-0239` · Local persecution event; context
+- 2003 — Understanding clarified: meaning of baptism of Jewish believers at Pentecost 33 C.E. `b9-0240` · Publications Index one-line entry
+- 2003 — Understanding clarified: why some early Christians observed features of the Law `b9-0241` · Publications Index one-line entry
+- 2003 — 2003: “Give God Glory” District Conventions `b9-0242` · Publications Index one-line entry
+- 2004 — NWT available in over 50 languages `b9-0243` · NWT language count statistic
+- 2004 — 2004: “Walk With God” District Conventions `b9-0244` · Publications Index one-line entry
+- 2004 — Moscow court liquidates Witnesses’ legal entity `b9-0245` · Individual legal case or step; not a kr landmark
+- 2005 — 2005: “Godly Obedience” District Conventions `b9-0247` · Publications Index one-line entry
+- September 1, 2005–(end not dated) — Anthony Morris III serves on the Governing Body `b12-0106` · individual tenure (Kingdom over persons)
+- September 1, 2005– — Geoffrey W. Jackson serves on the Governing Body `b12-0107` · individual tenure (Kingdom over persons)
+- 2005 (“currently,” w05 10/1) — Over six million Witnesses preach in 235 lands `b15-0007` · Preaching report; last-days-sign context
+- 2006 — Understanding clarified: abhorrent forms of pornography `b9-0249` · Publications Index one-line entry
+- 2006 — 2006: “Deliverance at Hand!” District Conventions `b9-0250` · Publications Index one-line entry
+- 2007 — Understanding clarified: start of heavenly resurrection `b9-0252` · Publications Index one-line entry
+- 2007 — Understanding clarified: when calling to heavenly hope ceases `b9-0253` · Publications Index one-line entry
+- 2007 — 2007: “Follow the Christ!” District Conventions `b9-0254` · Publications Index one-line entry
+- 2008 — Understanding clarified: illustration of dragnet (Matt. 13) `b9-0255` · Publications Index one-line entry
+- 2008 — Understanding clarified: illustration of foundation of house (Luke 6:46-49) `b9-0256` · Publications Index one-line entry
+- 2008 — Understanding clarified: illustration of leaven hidden in flour (Matt. 13; Luke 13) `b9-0257` · Publications Index one-line entry
+- 2008 — Understanding clarified: illustration of man casting seed (Mark 4:26-29) `b9-0258` · Publications Index one-line entry
+- 2008 — Understanding clarified: illustration of mustard grain (Matt. 13; Mark 4; Luke 13) `b9-0259` · Publications Index one-line entry
+- 2008 — Understanding clarified: Mary’s pain during Jesus’ birth `b9-0260` · Publications Index one-line entry
+- 2008 — Understanding clarified: “this generation” (Matt. 24:34; Mark 13:30; Luke 21:32) `b9-0261` · Publications Index one-line entry
+- 2008 — 2008: “Guided by God’s Spirit” District Conventions `b9-0262` · Publications Index one-line entry
+- 2008, January — Public talks reduced to 30 minutes `b9-0263` · Meeting-format adjustment
+- 2008 — Relief after floods in Santa Catarina, Brazil `b9-0264` · Organizational or preaching detail; context
+- 2009 — Understanding clarified: “all creation under heaven” (Col. 1:23) `b9-0265` · Publications Index one-line entry
+- 2009 — Understanding clarified: head covering for female interpreters for the deaf at meetings `b9-0266` · Publications Index one-line entry
+- 2009 — Understanding clarified: resurrection hope for baby dying in womb `b9-0267` · Publications Index one-line entry
+- 2009 — 2009: “Keep on the Watch!” District Conventions `b9-0268` · Publications Index one-line entry
+- 2009, October 27 — ECHR chamber rules against Bayatyan `b9-0270` · Individual legal case or step; not a kr landmark
+- 2010 — Understanding clarified: illustration of wheat and weeds (sowing of seed) (Mt 13:24, 38) `b9-0271` · Publications Index one-line entry
+- 2010 — Understanding clarified: illustration of wheat and weeds (wheat brought into storehouse) (Mt 13:30) `b9-0272` · Publications Index one-line entry
+- 2010 — 2010: “Remain Close to Jehovah!” District Conventions `b9-0273` · Publications Index one-line entry
+- 2010 — ECHR rules on Moscow liquidation case `b9-0274` · Individual legal case or step; not a kr landmark
+- 2010, December 4 — Death of Governing Body member John E. Barr `b9-0277` · Individual person's event or talk (C4)
+- 2011 — Understanding clarified: entering Jehovah’s rest (Heb. 4) `b9-0278` · Publications Index one-line entry
+- 2011 — Understanding clarified: Jesus “a corresponding ransom” (1 Tim. 2:6) `b9-0279` · Publications Index one-line entry
+- 2011 — Understanding clarified: olive tree (Rom. 11) `b9-0280` · Publications Index one-line entry
+- 2011 — Understanding clarified: Peter in Rome `b9-0281` · Publications Index one-line entry
+- 2011 — Relief and Kingdom Hall rebuilding after Japan tsunami `b9-0282` · Organizational or preaching detail; context
+- 2011 — “Let God’s Kingdom Come!” Convention; Daniel 2 image refined `b9-0283` · Individual convention or assembly detail
+- 2011, June 30 — ECHR judgment in French tax case `b9-0285` · Individual legal case or step; not a kr landmark
+- 2011, October — Gilead enrollment limited to special full-time servants `b9-0287` · School enrolment change
+- 2012 — Understanding clarified: abhorrent forms of pornography `b9-0288` · Publications Index one-line entry
+- 2012 — Understanding clarified: “all these kingdoms” (Dan. 2:44) `b9-0289` · Publications Index one-line entry
+- 2012 — Understanding clarified: Mordecai and Esther “divide spoil” in fulfillment of Genesis 49:27 `b9-0290` · Publications Index one-line entry
+- 2012 — Understanding clarified: ruin caused by “king fierce in countenance” (Dan. 8:23, 24) `b9-0291` · Publications Index one-line entry
+- 2012 — Understanding clarified: toes of Nebuchadnezzar’s dream image (Dan. 2) `b9-0292` · Publications Index one-line entry
+- 2012 — Understanding clarified: when seventh world power emerged `b9-0293` · Publications Index one-line entry
+- 2012 — 2012: “Safeguard Your Heart!” District Conventions `b9-0294` · Publications Index one-line entry
+- 2012 — Kassandreia (Greece) case settled `b9-0295` · Individual legal case or step; not a kr landmark
+- September 1, 2012– — Mark Sanderson serves on the Governing Body `b12-0108` · individual tenure (Kingdom over persons)
+- 2012 (Awake!, October 2012) — More than seven million Witnesses teach about God’s Kingdom in more than 230 lands `b15-0008` · Preaching report; last-days-sign context
+- 2013 — Understanding clarified: anointed not to survive Armageddon on earth `b9-0298` · Publications Index one-line entry
+- 2013 — Understanding clarified: ‘Assyrian invades our land’ (Mic. 5:5) `b9-0299` · Publications Index one-line entry
+- 2013 — Understanding clarified: chosen ones gathered (Matt. 24:31; Mark 13:27) `b9-0300` · Publications Index one-line entry
+- 2013 — Understanding clarified: “evil slave” (Matt. 24:48-51) `b9-0301` · Publications Index one-line entry
+- 2013 — Understanding clarified: great tribulation `b9-0303` · Publications Index one-line entry
+- 2013 — Understanding clarified: illustration of wheat and weeds (Matt. 13) `b9-0304` · Publications Index one-line entry
+- 2013 — Understanding clarified: Jesus comes, arrives (Matt. 24, 25) `b9-0305` · Publications Index one-line entry
+- 2013 — Understanding clarified: Jesus inspects spiritual temple 1914-1919 (Mal. 3:1-4) `b9-0306` · Publications Index one-line entry
+- 2013 — Understanding clarified: meaning of name Jehovah `b9-0307` · Publications Index one-line entry
+- 2013 — 2013: “God’s Word Is Truth!” District Conventions `b9-0308` · Publications Index one-line entry
+- 2013 — School for Kingdom Evangelizers approved `b9-0311` · Secondary school; Gilead and TMS hold school tier
+- 2013–January 2017 — Construction of the world headquarters at Warwick, New York `b12-0109` · Warwick construction; HQ bar holds T2
+- 2013, November — Last imprisoned objectors released in Armenia `b9-0315` · Individual legal case or step; not a kr landmark
+- 2013, November 19 — Kyrgyzstan court rules alternative service law unconstitutional `b9-0316` · Individual legal case or step; not a kr landmark
+- 2014 — Understanding clarified: appointment of elders and ministerial servants `b9-0317` · Publications Index one-line entry
+- 2014 — Understanding clarified: basis first-century Jews had for being “in expectation” of Messiah (Luke 3:15) `b9-0318` · Publications Index one-line entry
+- 2014 — Understanding clarified: drinking an alcoholic beverage before engaging in sacred service `b9-0319` · Publications Index one-line entry
+- 2014 — Understanding clarified: duration of cleansing of spiritual temple (Mal. 3:1-4) `b9-0320` · Publications Index one-line entry
+- 2014 — Understanding clarified: marriage in resurrection (Luke 20:34-36) `b9-0321` · Publications Index one-line entry
+- 2014 — Understanding clarified: “solid foundation of God” (2 Tim. 2:19) `b9-0322` · Publications Index one-line entry
+- 2014 — Understanding clarified: two witnesses (Rev. 11) `b9-0323` · Publications Index one-line entry
+- 2014 — “Keep Seeking First God’s Kingdom!” Convention `b9-0324` · Individual convention or assembly detail
+- 2014, June 3 — ECHR rules for four Turkish conscientious objectors `b9-0328` · Individual legal case or step; not a kr landmark
+- 2014, October 4 — 130th annual meeting marks 100 years of Kingdom rule `b9-0329` · Organizational or preaching detail; context
+- 2015 — Understanding clarified: Gog of Magog (Ezek. 38, 39) `b9-0331` · Publications Index one-line entry
+- 2015 — Understanding clarified: head covering for sister conducting Bible study `b9-0332` · Publications Index one-line entry
+- 2015 — Understanding clarified: illustration of talents (Matt. 25) `b9-0333` · Publications Index one-line entry
+- 2015 — Understanding clarified: illustration of ten virgins (Matt. 25) `b9-0334` · Publications Index one-line entry
+- 2015 — Understanding clarified: paradise Paul saw in vision (2 Cor. 12:1-4) `b9-0335` · Publications Index one-line entry
+- 2015 — Understanding clarified: types and antitypes `b9-0336` · Doctrinal clarification; context
+- 2015 — 2015: “Imitate Jesus!” Conventions `b9-0337` · Publications Index one-line entry
+- 2015, May 27 — New Local Religious Organization registered in Moscow `b9-0341` · Individual legal case or step; not a kr landmark
+- 2015, June 24 — Namibia Supreme Court upholds patient’s right to refuse blood `b9-0342` · Individual legal case or step; not a kr landmark
+- 2015, September 23 — Organizational changes announced to worldwide Bethel family `b9-0343` · Organizational or preaching detail; context
+- 2015, December 21 — Bremen grants Witnesses higher legal status `b9-0345` · Individual legal case or step; not a kr landmark
+- 2016 — Understanding clarified: anointed zealously active during World War I `b9-0346` · Publications Index one-line entry
+- 2016 — Understanding clarified: captivity of anointed to Babylon the Great `b9-0347` · Publications Index one-line entry
+- 2016 — Understanding clarified: congregational expression of joy over reinstatement of someone `b9-0348` · Publications Index one-line entry
+- 2016 — Understanding clarified: Jesus taken by Satan to battlement of temple (Matt. 4:5; Luke 4:9) `b9-0349` · Publications Index one-line entry
+- 2016 — Understanding clarified: man with secretary’s inkhorn (Ezek. 9) `b9-0350` · Publications Index one-line entry
+- 2016 — Understanding clarified: meaning of two sticks (Ezek. 37:15-28) `b9-0351` · Publications Index one-line entry
+- 2016 — Understanding clarified: valley of dry bones (Ezek. 37:1-14) `b9-0352` · Publications Index one-line entry
+- 2016 — 2016: “Remain Loyal to Jehovah!” Conventions `b9-0353` · Publications Index one-line entry
+- 2016, February 1 — Wallkill expansion completed; U.S. branch transfers `b9-0354` · Construction or printing detail
+- 2016, April 15 — Russia Supreme Court reverses Tyumen liquidation `b9-0355` · Individual legal case or step; not a kr landmark
+- 2017 — Understanding clarified: intrauterine device (IUD) as birth control `b9-0357` · Publications Index one-line entry
+- 2017 — Understanding clarified: Jehovah “will not let you be tempted beyond what you can bear”—how? (1 Cor. 10:13) `b9-0358` · Publications Index one-line entry
+- 2017 — Understanding clarified: line of descent of Messiah not tied to firstborn `b9-0359` · Publications Index one-line entry
+- 2017 — Understanding clarified: vindication of Jehovah’s name `b9-0360` · Publications Index one-line entry
+- 2017 — 2017: “Don’t Give Up!” Conventions `b9-0361` · Publications Index one-line entry
+- 2017, April 3 — World headquarters at Warwick opens for tours `b9-0362` · Start of Warwick HQ bar (T2)
+- April 20, 2017– — Ban on Jehovah’s Witnesses in Russia `b12-0111` · Russia ban bar; ban point holds T1
+- 2017, July 17 — Russia’s Supreme Court upholds ban on appeal `b9-0366` · Appeal upholds ban; ban itself is T1
+- 2018 — Understanding clarified: chieftain of Ezekiel’s temple vision (Eze 44-46, 48) `b9-0367` · Publications Index one-line entry
+- 2018 — Understanding clarified: Ezekiel’s temple vision (Eze 40-48) `b9-0368` · Publications Index one-line entry
+- 2018 — Understanding clarified: four faces of living creatures (Ezek. 1, 10) `b9-0369` · Publications Index one-line entry
+- 2018 — Understanding clarified: meaning of term “new world” `b9-0370` · Publications Index one-line entry
+- 2018 — Understanding clarified: Oholah and Oholibah (Ezek. 23) `b9-0371` · Publications Index one-line entry
+- 2018 — Understanding clarified: Paul caught away to “third heaven” and “paradise” (2 Cor. 12:2-4) `b9-0372` · Publications Index one-line entry
+- 2018 — Understanding clarified: “river” embraces worship in addition to rulership (Ps. 46:4) `b9-0373` · Publications Index one-line entry
+- 2018 — Understanding clarified: to whom Psalm 144:12-15 applies `b9-0374` · Publications Index one-line entry
+- 2018 — Understanding clarified: whether Christendom is antitypical Jerusalem `b9-0375` · Publications Index one-line entry
+- 2018 — 2018: “Be Courageous!” Conventions `b9-0376` · Publications Index one-line entry
+- January 24, 2018– — Kenneth Cook, Jr. serves on the Governing Body `b12-0112` · individual tenure (Kingdom over persons)
+- 2018 — Governing Body identifies Russia and its allies as “the king of the north” `b14-0015` · Prophetic clarification detail
+- 2018, November 1 — South Korea Supreme Court: conscientious objection not a crime `b9-0378` · National court ruling; not in kr landmark set
+- 2019 — 2019: “Love Never Fails!” Conventions `b9-0379` · Publications Index one-line entry
+- 2019, February 28 — Last imprisoned Korean conscientious objector released `b9-0380` · Individual legal case or step; not a kr landmark
+- 2019, October 5 — Ramapo media production facility announced `b9-0381` · Construction or printing detail
+- 2020 — Understanding clarified: fishermen and hunters (Jer. 16:16, 18) `b9-0382` · Publications Index one-line entry
+- 2020 — Understanding clarified: fruitage of God’s spirit (Gal. 5:22, 23) `b9-0383` · Publications Index one-line entry
+- 2020 — Understanding clarified: how righteous may “fall” (Prov. 24:16) `b9-0384` · Publications Index one-line entry
+- 2020 — Understanding clarified: kings of north and south (Dan. 11, 12) `b9-0385` · Publications Index one-line entry
+- 2020 — Understanding clarified: locust plague (Joel 1, 2) `b9-0386` · Publications Index one-line entry
+- 2020 — Understanding clarified: sanctification of Jehovah’s name `b9-0387` · Publications Index one-line entry
+- 2020 — Understanding clarified: validation and inauguration of new covenant `b9-0388` · Publications Index one-line entry
+- 2020 — 2020: “Always Rejoice!” Conventions `b9-0389` · Publications Index one-line entry
+- 2020, March — Congregations begin meeting by videoconference `b9-0390` · Start of videoconference bar (T2)
+- 2020, March 18 — First Governing Body Update on the pandemic `b9-0392` · Video update with a notable adjustment
+- 2021 — Understanding clarified: King Ahab not repentant (1 Ki. 21:19-29; 2 Chron. 19:1, 2) `b9-0393` · Publications Index one-line entry
+- 2021 — Understanding clarified: Paul’s statement, “through law I died toward law” (Gal. 2:19) `b9-0394` · Publications Index one-line entry
+- 2021 — Understanding clarified: ‘shaking of the nations’ causes ‘precious things to come in’ (Hag. 2:7) `b9-0395` · Publications Index one-line entry
+- 2021 — 2021: “Powerful by Faith!” Conventions `b9-0396` · Publications Index one-line entry
+- 2021, October — Pilot program to resume some in-person meetings `b9-0398` · Organizational or preaching detail; context
+- 2022 — Understanding clarified: “bringing the many to righteousness” (Dan. 12:3) `b9-0400` · Publications Index one-line entry
+- 2022 — Understanding clarified: effect of remarriage after unscriptural divorce `b9-0401` · Publications Index one-line entry
+- 2022 — Understanding clarified: Paul “born prematurely” (1 Cor. 15:8) `b9-0402` · Publications Index one-line entry
+- 2022 — Understanding clarified: resurrection of “those asleep in the dust of the earth” (Dan. 12:2) `b9-0403` · Publications Index one-line entry
+- 2022 — Understanding clarified: resurrection to life, judgment (John 5:29) `b9-0404` · Publications Index one-line entry
+- 2022 — Understanding clarified: two-horned beast makes “fire come down out of heaven” (Rev. 13:13) `b9-0405` · Publications Index one-line entry
+- 2022 — 2022: “Pursue Peace!” Conventions `b9-0406` · Publications Index one-line entry
+- 2022, April 1 — In-person congregation meetings resume `b9-0407` · End of videoconference bar (T2)
+- 2022, May 31 — Public witnessing resumes (except door-to-door) `b9-0408` · Ministry resumes after pandemic; context
+- 2022, September 1 — House-to-house ministry resumes worldwide `b9-0411` · Ministry resumes after pandemic; context
+- 2023, January — In-person circuit assemblies and theocratic schools resume `b9-0413` · Individual convention or assembly detail
+- 2023 — 2023: “Exercise Patience!” Conventions `b9-0414` · Publications Index one-line entry
+- 2023, January 6 — Governing Body Update: Ramapo and pioneer announcements `b9-0416` · Video update with a notable adjustment
+- January 18, 2023– — Gage Fleegle serves on the Governing Body `b12-0114` · individual tenure (Kingdom over persons)
+- January 18, 2023– — Jeffrey Winder serves on the Governing Body `b12-0115` · individual tenure (Kingdom over persons)
+- 2023, October 7 — 2023 annual meeting: clarifications and reporting change `b9-0419` · Organizational or preaching detail; context
+- 2023, October 20 — New publication Scriptures for Christian Living; 2024 yeartext `b9-0420` · Video update with a notable adjustment
+- 2023, November — Publishers no longer report all ministry activity `b9-0421` · Organizational or preaching detail; context
+- 2023, December 15 — Governing Body Update on dress and grooming of brothers `b9-0422` · Video update with a notable adjustment
+- 2024 — Understanding clarified: application of 2 John 9-11 `b9-0423` · Publications Index one-line entry
+- 2024 — Understanding clarified: Christian can become spiritually immature `b9-0424` · Publications Index one-line entry
+- 2024 — Understanding clarified: denarius paid to 11th-hour workers (Matt. 20:1-16) `b9-0425` · Publications Index one-line entry
+- 2024 — Understanding clarified: height of the porch of Solomon’s temple `b9-0427` · Publications Index one-line entry
+- 2024 — Understanding clarified: help for ones removed from the congregation `b9-0428` · Publications Index one-line entry
+- 2024 — Understanding clarified: Jehovah’s foreknowledge `b9-0429` · Publications Index one-line entry
+- 2024 — Understanding clarified: ‘marking’ an individual (2 Thess. 3:14) `b9-0430` · Publications Index one-line entry
+- 2024 — Understanding clarified: ones taken along, ones abandoned (Matt. 24:40, 41) `b9-0431` · Publications Index one-line entry
+- 2024 — Understanding clarified: resurrection of individuals from Sodom and Gomorrah `b9-0432` · Publications Index one-line entry
+- 2024 — Understanding clarified: resurrection of individuals who died in the Flood, from seven Canaanite nations, among 185,000 Assyrian soldiers `b9-0433` · Publications Index one-line entry
+- 2024 — Understanding clarified: resurrection of Solomon `b9-0434` · Publications Index one-line entry
+- 2024 — Understanding clarified: resurrection of unrighteous (Acts 24:15) `b9-0435` · Publications Index one-line entry
+- 2024 — Understanding clarified: status of individuals during great tribulation `b9-0436` · Publications Index one-line entry
+- 2024 — 2024: “Declare the Good News!” Conventions `b9-0437` · Publications Index one-line entry
+- October 5, 2024– — Jody Jedele serves on the Governing Body `b12-0116` · individual tenure (Kingdom over persons)
+- October 5, 2024– — Jacob Rumph serves on the Governing Body `b12-0117` · individual tenure (Kingdom over persons)
+- November 6, 2024– — Construction of the Ramapo media production facility `b12-0118` · Ramapo construction; not a headquarters move
+- 2024, November 6 — Ramapo final site plan signed; major construction may begin `b9-0441` · Start of Ramapo construction bar
+- 2025 — Understanding clarified: marital intimacies `b9-0443` · Publications Index one-line entry
+- 2025 — Understanding clarified: relationship between hailstonelike message (Rev. 16:21) and preaching good news of Kingdom (Mt 24:14) `b9-0444` · Publications Index one-line entry
+- 2025 — Understanding clarified: “thought” that God puts into hearts of nations (Rev. 17:16, 17) `b9-0445` · Publications Index one-line entry
+- 2025 — Understanding clarified: “way of a man with a young woman” (Prov. 30:18, 19) `b9-0446` · Publications Index one-line entry
+- 2025 — Understanding clarified: when preaching “good news of the Kingdom” will end (Matt. 24:14) `b9-0447` · Publications Index one-line entry
+- 2025 — 2025: “Pure Worship” Conventions `b9-0448` · Publications Index one-line entry
+- 2025, January 31 — “Truths We Love to Teach” in Love People—Make Disciples `b9-0450` · Video update with a notable adjustment
+- 2025, August 1 — NWT Christian Greek Scriptures marks 75 years; in over 320 languages `b9-0453` · NWT anniversary; languages milestone given to 1963 record
+- 2025, December 19 — Impact of video series The Good News According to Jesus `b9-0457` · Video update with a notable adjustment
+- 2026 — Understanding clarified: additional education `b9-0458` · Publications Index one-line entry
+- 2026 — Understanding clarified: declaration of “peace and security” (1 Thess. 5:3) may come before or after destruction of false religion `b9-0459` · Publications Index one-line entry
+- 2026 — Understanding clarified: Psalm 91 promises spiritual, physical, and emotional protection `b9-0460` · Publications Index one-line entry
+- 2026 — Understanding clarified: two covenants (Gal. 4:24) were Law covenant and Abrahamic covenant `b9-0461` · Publications Index one-line entry
+- 2026, January 30 — Updated direction for Bible studies with Enjoy Life Forever! `b9-0463` · Video update with a notable adjustment
+- 2026, March 20 — Position clarified on use of a patient’s own blood `b9-0464` · Video update with a notable adjustment
+- 2026, May 1 — Nine years since Russia ban; new Good News According to Jesus episodes `b9-0465` · Video update with a notable adjustment
+- 2026, June 9 — ECHR judgments for Witnesses in Bulgaria and Italy `b9-0466` · Individual legal case or step; not a kr landmark
+- 2026, June 12 — Legal developments in Norway and Sweden `b9-0467` · Video update with a notable adjustment
+- 2026, June 19 — “Eternal Happiness” International Conventions begin `b9-0468` · Individual convention or assembly detail
+- 2026, June 26 — Blue Lake property purchased near Warwick `b9-0469` · Construction or printing detail
+- 2026, July 9 — ECHR rules in Barsuk and Gyl v. Ukraine `b9-0470` · Individual legal case or step; not a kr landmark
+- 2026, August 8-26 — First special preaching campaign in Moldova `b9-0473` · Organizational or preaching detail; context
+- 2026, September 18 — Adjustment to position on blood components `b9-0474` · Video update with a notable adjustment
 
-- 1946 — Understanding clarified: New Year’s Day `b9-0002`
-- 1946 — 1946: Glad Nations Theocratic Assemblies `b9-0003`
-- 1947 — Understanding clarified: polygamy `b9-0012`
-- 1947 — 1947: “All Nations Expansion” Assemblies `b9-0014`
-- 1948 — 1948: District Assemblies `b9-0017`
-- 1949 — 1949: District Assemblies `b9-0019`
-- 1950 — Understanding clarified: princes (Ps. 45:16) `b9-0021`
-- 1950 — Understanding clarified: term “religion” `b9-0022`
-- 1951 — 1951: “Clean Worship” Assemblies `b9-0030`
-- 1952 — 1952: “Press On to Maturity” District Assemblies `b9-0032`
-- 1953 — Understanding clarified: desirable things of the nations (Hag. 2:7) `b9-0035`
-- 1953 — Understanding clarified: Gog of Magog (Ezek. 38, 39) `b9-0036`
-- 1953 — Understanding clarified: nucleus of new earth `b9-0037`
-- 1953 — 1953: New World Society Assemblies `b9-0038`
-- 1954 — 1954: District Assemblies `b9-0043`
-- 1955 — 1955: “Triumphant Kingdom” Assemblies `b9-0045`
-- 1956 — Understanding clarified: sanctity of marriage `b9-0046`
-- 1956 — 1956: District Assemblies `b9-0047`
-- 1957 — 1957: “Life-Giving Wisdom” District Assemblies `b9-0050`
-- 1959 — 1959: “Awake Ministers” District Assemblies `b9-0053`
-- 1960 — 1960: Peace-Pursuing District Assemblies `b9-0056`
-- 1961 — Understanding clarified: sanctity of blood `b9-0060`
-- 1962 — 1962: Courageous Ministers District Assemblies `b9-0063`
-- 1963 — Understanding clarified: Revelation `b9-0066`
-- 1963 — 1963: “Everlasting Good News” Assemblies `b9-0067`
-- 1964 — 1964: “Fruitage of the Spirit” Assemblies `b9-0071`
-- 1965 — Understanding clarified: earthly resurrection `b9-0072`
-- 1965 — 1965: “Word of Truth” Assemblies `b9-0073`
-- 1966 — Understanding clarified: denarius paid to vineyard workers (Matt. 20) `b9-0075`
-- 1966 — 1966: “God’s Sons of Liberty” District Assemblies `b9-0076`
-- 1967 — 1967: “Disciple-Making” District Assemblies `b9-0080`
-- 1968 — 1968: “Good News for All Nations” District Assemblies `b9-0082`
-- 1969 — Understanding clarified: great tribulation `b9-0086`
-- 1969 — Understanding clarified: Revelation `b9-0087`
-- 1969 — 1969: “Peace on Earth” International Assemblies `b9-0088`
-- 1970 — 1970: “Men of Goodwill” District Assemblies `b9-0089`
-- 1971 — Understanding clarified: elder arrangement `b9-0090`
-- 1971 — 1971: “Divine Name” District Assemblies `b9-0091`
-- 1972 — Understanding clarified: appointment of elders and ministerial servants `b9-0094`
-- 1972 — Understanding clarified: Jehovah’s great spiritual temple `b9-0095`
-- 1972 — 1972: “Divine Rulership” District Assemblies `b9-0096`
-- 1973 — 1973: “Divine Victory” International Assemblies `b9-0098`
-- 1974 — 1974: “Divine Purpose” District Assemblies `b9-0100`
-- 1975 — 1975: “Divine Sovereignty” District Assemblies `b9-0103`
-- 1976 — Understanding clarified: employment involving gambling `b9-0106`
-- 1976 — 1976: “Sacred Service” District Assemblies `b9-0107`
-- 1977 — 1977: “Joyful Workers” District Assemblies `b9-0110`
-- 1978 — 1978: “Victorious Faith” International Conventions `b9-0114`
-- 1979 — Understanding clarified: “keys of the kingdom” (Matt. 16:19) `b9-0117`
-- 1979 — 1979: “Living Hope” District Conventions `b9-0118`
-- 1980 — 1980: “Divine Love” District Conventions `b9-0120`
-- 1981 — 1981: “Kingdom Loyalty” District Conventions `b9-0121`
-- 1982 — 1982: “Kingdom Truth” District Conventions `b9-0124`
-- 1983 — Understanding clarified: use of firearms `b9-0128`
-- 1983 — 1983: “Kingdom Unity” District Conventions `b9-0129`
-- 1984 — Understanding clarified: sheepfolds of “fine shepherd” (John 10) `b9-0134`
-- 1984 — 1984: “Kingdom Increase” District Conventions `b9-0135`
-- 1985 — Understanding clarified: “other sheep” declared righteous as friends of God `b9-0138`
-- 1985 — 1985: “Integrity Keepers” District Conventions `b9-0139`
-- 1986 — Understanding clarified: “great crowd” figuratively partake of Jesus’ flesh and blood (John 6:51-56) `b9-0143`
-- 1986 — Understanding clarified: “ten virgins” (Matt. 25) `b9-0144`
-- 1986 — 1986: “Divine Peace” District Conventions `b9-0145`
-- 1987 — Understanding clarified: Christian Jubilee `b9-0151`
-- 1987 — Understanding clarified: Declaration Pledging Faithfulness `b9-0152`
-- 1987 — 1987: “Trust in Jehovah” District Conventions `b9-0153`
-- 1988 — Understanding clarified: 144,000 sing new song before 24 elders (Rev. 14:3) `b9-0155`
-- 1988 — Understanding clarified: approved associates `b9-0156`
-- 1988 — Understanding clarified: figurative heart `b9-0157`
-- 1988 — Understanding clarified: no resurrection for dead in Sodom and Gomorrah `b9-0158`
-- 1988 — Understanding clarified: parents may study with minor child who has been removed from the congregation `b9-0159`
-- 1988 — Understanding clarified: Revelation `b9-0160`
-- 1988 — Understanding clarified: unbaptized publishers `b9-0161`
-- 1988 — 1988: “Divine Justice” District Conventions `b9-0162`
-- 1989 — 1989: “Godly Devotion” District Conventions `b9-0166`
-- 1990 — 1990: “Pure Language” District Conventions `b9-0168`
-- 1991 — Understanding clarified: meaning of Proverbs 27:23 `b9-0176`
-- 1991 — 1991: “Lovers of Freedom” District Conventions `b9-0177`
-- 1992 — Understanding clarified: Nethinim and sons of the servants of Solomon after exile `b9-0179`
-- 1993 — Understanding clarified: kings of north and south during time of the end (Dan. 11, 12) `b9-0187`
-- 1993 — Understanding clarified: start and end of 1,260 days (Rev. 11:3) and time, times, and a half (Da 7:25; 12:7) `b9-0188`
-- 1994 — Understanding clarified: tribulation and celestial phenomena (Matt. 24:29-31; Mark 13:24-27; Luke 21:25-28) `b9-0193`
-- 1994 — 1994: “Godly Fear” District Conventions `b9-0194`
-- 1995 — Understanding clarified: “sheep” and “goats” (Matt. 25) `b9-0198`
-- 1995 — Understanding clarified: “this generation” (Matt. 24:34; Mark 13:30; Luke 21:32) `b9-0199`
-- 1995 — 1995: “Joyful Praisers” District Conventions `b9-0200`
-- 1996 — Understanding clarified: acceptability of customary (tribal) marriage `b9-0202`
-- 1996 — Understanding clarified: civilian service in lieu of military service `b9-0203`
-- 1996 — Understanding clarified: “flesh” saved through great tribulation (Matt. 24:22) `b9-0204`
-- 1996 — Understanding clarified: great tribulation “cut short” (Matt. 24:22) `b9-0205`
-- 1996 — 1996: “Messengers of Godly Peace” District Conventions `b9-0206`
-- 1997 — Understanding clarified: transfiguration vision (Matt. 17; Mark 9; Luke 9) `b9-0209`
-- 1997 — 1997: “Faith in God’s Word” District Conventions `b9-0210`
-- 1998 — Understanding clarified: nations blessed through Abraham’s seed (offspring) (Ge 22:18) `b9-0213`
-- 1998 — 1998: “God’s Way of Life” District Conventions `b9-0214`
-- 1999 — Understanding clarified: ‘disgusting thing standing in a holy place’ (Matt. 24:15; Mark 13:14) `b9-0216`
-- 1999 — 1999: “God’s Prophetic Word” District Conventions `b9-0217`
-- 2000 — Understanding clarified: blood fractions `b9-0222`
-- 2000 — Understanding clarified: use of one’s own blood `b9-0223`
-- 2000 — 2000: “Doers of God’s Word” District Conventions `b9-0224`
-- 2001 — Understanding clarified: “divorce certificate” for Judah (Isa. 50:1) `b9-0229`
-- 2001 — Understanding clarified: ‘doves to birdhouse holes’ (Isa. 60:8, 9) `b9-0230`
-- 2001 — Understanding clarified: worshipping Jehovah “with spirit” (John 4:24) `b9-0231`
-- 2001 — 2001: “Teachers of God’s Word” District Conventions `b9-0232`
-- 2002 — Understanding clarified: courtyard in which “great crowd” serve (Rev. 7:15) `b9-0236`
-- 2002 — 2002: “Zealous Kingdom Proclaimers” District Conventions `b9-0237`
-- 2003 — Understanding clarified: meaning of baptism of Jewish believers at Pentecost 33 C.E. `b9-0240`
-- 2003 — Understanding clarified: why some early Christians observed features of the Law `b9-0241`
-- 2003 — 2003: “Give God Glory” District Conventions `b9-0242`
-- 2004 — 2004: “Walk With God” District Conventions `b9-0244`
-- 2005 — 2005: “Godly Obedience” District Conventions `b9-0247`
-- 2006 — Understanding clarified: abhorrent forms of pornography `b9-0249`
-- 2006 — 2006: “Deliverance at Hand!” District Conventions `b9-0250`
-- 2007 — Understanding clarified: start of heavenly resurrection `b9-0252`
-- 2007 — Understanding clarified: when calling to heavenly hope ceases `b9-0253`
-- 2007 — 2007: “Follow the Christ!” District Conventions `b9-0254`
-- 2008 — Understanding clarified: illustration of dragnet (Matt. 13) `b9-0255`
-- 2008 — Understanding clarified: illustration of foundation of house (Luke 6:46-49) `b9-0256`
-- 2008 — Understanding clarified: illustration of leaven hidden in flour (Matt. 13; Luke 13) `b9-0257`
-- 2008 — Understanding clarified: illustration of man casting seed (Mark 4:26-29) `b9-0258`
-- 2008 — Understanding clarified: illustration of mustard grain (Matt. 13; Mark 4; Luke 13) `b9-0259`
-- 2008 — Understanding clarified: Mary’s pain during Jesus’ birth `b9-0260`
-- 2008 — Understanding clarified: “this generation” (Matt. 24:34; Mark 13:30; Luke 21:32) `b9-0261`
-- 2008 — 2008: “Guided by God’s Spirit” District Conventions `b9-0262`
-- 2009 — Understanding clarified: “all creation under heaven” (Col. 1:23) `b9-0265`
-- 2009 — Understanding clarified: head covering for female interpreters for the deaf at meetings `b9-0266`
-- 2009 — Understanding clarified: resurrection hope for baby dying in womb `b9-0267`
-- 2009 — 2009: “Keep on the Watch!” District Conventions `b9-0268`
-- 2010 — Understanding clarified: illustration of wheat and weeds (sowing of seed) (Mt 13:24, 38) `b9-0271`
-- 2010 — Understanding clarified: illustration of wheat and weeds (wheat brought into storehouse) (Mt 13:30) `b9-0272`
-- 2010 — 2010: “Remain Close to Jehovah!” District Conventions `b9-0273`
-- 2011 — Understanding clarified: entering Jehovah’s rest (Heb. 4) `b9-0278`
-- 2011 — Understanding clarified: Jesus “a corresponding ransom” (1 Tim. 2:6) `b9-0279`
-- 2011 — Understanding clarified: olive tree (Rom. 11) `b9-0280`
-- 2011 — Understanding clarified: Peter in Rome `b9-0281`
-- 2012 — Understanding clarified: abhorrent forms of pornography `b9-0288`
-- 2012 — Understanding clarified: “all these kingdoms” (Dan. 2:44) `b9-0289`
-- 2012 — Understanding clarified: Mordecai and Esther “divide spoil” in fulfillment of Genesis 49:27 `b9-0290`
-- 2012 — Understanding clarified: ruin caused by “king fierce in countenance” (Dan. 8:23, 24) `b9-0291`
-- 2012 — Understanding clarified: toes of Nebuchadnezzar’s dream image (Dan. 2) `b9-0292`
-- 2012 — Understanding clarified: when seventh world power emerged `b9-0293`
-- 2012 — 2012: “Safeguard Your Heart!” District Conventions `b9-0294`
-- 2013 — Understanding clarified: anointed not to survive Armageddon on earth `b9-0298`
-- 2013 — Understanding clarified: ‘Assyrian invades our land’ (Mic. 5:5) `b9-0299`
-- 2013 — Understanding clarified: chosen ones gathered (Matt. 24:31; Mark 13:27) `b9-0300`
-- 2013 — Understanding clarified: “evil slave” (Matt. 24:48-51) `b9-0301`
-- 2013 — Understanding clarified: great tribulation `b9-0303`
-- 2013 — Understanding clarified: illustration of wheat and weeds (Matt. 13) `b9-0304`
-- 2013 — Understanding clarified: Jesus comes, arrives (Matt. 24, 25) `b9-0305`
-- 2013 — Understanding clarified: Jesus inspects spiritual temple 1914-1919 (Mal. 3:1-4) `b9-0306`
-- 2013 — Understanding clarified: meaning of name Jehovah `b9-0307`
-- 2013 — 2013: “God’s Word Is Truth!” District Conventions `b9-0308`
-- 2014 — Understanding clarified: appointment of elders and ministerial servants `b9-0317`
-- 2014 — Understanding clarified: basis first-century Jews had for being “in expectation” of Messiah (Luke 3:15) `b9-0318`
-- 2014 — Understanding clarified: drinking an alcoholic beverage before engaging in sacred service `b9-0319`
-- 2014 — Understanding clarified: duration of cleansing of spiritual temple (Mal. 3:1-4) `b9-0320`
-- 2014 — Understanding clarified: marriage in resurrection (Luke 20:34-36) `b9-0321`
-- 2014 — Understanding clarified: “solid foundation of God” (2 Tim. 2:19) `b9-0322`
-- 2014 — Understanding clarified: two witnesses (Rev. 11) `b9-0323`
-- 2015 — Understanding clarified: Gog of Magog (Ezek. 38, 39) `b9-0331`
-- 2015 — Understanding clarified: head covering for sister conducting Bible study `b9-0332`
-- 2015 — Understanding clarified: illustration of talents (Matt. 25) `b9-0333`
-- 2015 — Understanding clarified: illustration of ten virgins (Matt. 25) `b9-0334`
-- 2015 — Understanding clarified: paradise Paul saw in vision (2 Cor. 12:1-4) `b9-0335`
-- 2015 — 2015: “Imitate Jesus!” Conventions `b9-0337`
-- 2016 — Understanding clarified: anointed zealously active during World War I `b9-0346`
-- 2016 — Understanding clarified: captivity of anointed to Babylon the Great `b9-0347`
-- 2016 — Understanding clarified: congregational expression of joy over reinstatement of someone `b9-0348`
-- 2016 — Understanding clarified: Jesus taken by Satan to battlement of temple (Matt. 4:5; Luke 4:9) `b9-0349`
-- 2016 — Understanding clarified: man with secretary’s inkhorn (Ezek. 9) `b9-0350`
-- 2016 — Understanding clarified: meaning of two sticks (Ezek. 37:15-28) `b9-0351`
-- 2016 — Understanding clarified: valley of dry bones (Ezek. 37:1-14) `b9-0352`
-- 2016 — 2016: “Remain Loyal to Jehovah!” Conventions `b9-0353`
-- 2017 — Understanding clarified: intrauterine device (IUD) as birth control `b9-0357`
-- 2017 — Understanding clarified: Jehovah “will not let you be tempted beyond what you can bear”—how? (1 Cor. 10:13) `b9-0358`
-- 2017 — Understanding clarified: line of descent of Messiah not tied to firstborn `b9-0359`
-- 2017 — Understanding clarified: vindication of Jehovah’s name `b9-0360`
-- 2017 — 2017: “Don’t Give Up!” Conventions `b9-0361`
-- 2018 — Understanding clarified: chieftain of Ezekiel’s temple vision (Eze 44-46, 48) `b9-0367`
-- 2018 — Understanding clarified: Ezekiel’s temple vision (Eze 40-48) `b9-0368`
-- 2018 — Understanding clarified: four faces of living creatures (Ezek. 1, 10) `b9-0369`
-- 2018 — Understanding clarified: meaning of term “new world” `b9-0370`
-- 2018 — Understanding clarified: Oholah and Oholibah (Ezek. 23) `b9-0371`
-- 2018 — Understanding clarified: Paul caught away to “third heaven” and “paradise” (2 Cor. 12:2-4) `b9-0372`
-- 2018 — Understanding clarified: “river” embraces worship in addition to rulership (Ps. 46:4) `b9-0373`
-- 2018 — Understanding clarified: to whom Psalm 144:12-15 applies `b9-0374`
-- 2018 — Understanding clarified: whether Christendom is antitypical Jerusalem `b9-0375`
-- 2018 — 2018: “Be Courageous!” Conventions `b9-0376`
-- 2019 — 2019: “Love Never Fails!” Conventions `b9-0379`
-- 2020 — Understanding clarified: fishermen and hunters (Jer. 16:16, 18) `b9-0382`
-- 2020 — Understanding clarified: fruitage of God’s spirit (Gal. 5:22, 23) `b9-0383`
-- 2020 — Understanding clarified: how righteous may “fall” (Prov. 24:16) `b9-0384`
-- 2020 — Understanding clarified: locust plague (Joel 1, 2) `b9-0386`
-- 2020 — Understanding clarified: sanctification of Jehovah’s name `b9-0387`
-- 2020 — 2020: “Always Rejoice!” Conventions `b9-0389`
-- 2021 — Understanding clarified: King Ahab not repentant (1 Ki. 21:19-29; 2 Chron. 19:1, 2) `b9-0393`
-- 2021 — Understanding clarified: Paul’s statement, “through law I died toward law” (Gal. 2:19) `b9-0394`
-- 2021 — Understanding clarified: ‘shaking of the nations’ causes ‘precious things to come in’ (Hag. 2:7) `b9-0395`
-- 2021 — 2021: “Powerful by Faith!” Conventions `b9-0396`
-- 2022 — Understanding clarified: “bringing the many to righteousness” (Dan. 12:3) `b9-0400`
-- 2022 — Understanding clarified: effect of remarriage after unscriptural divorce `b9-0401`
-- 2022 — Understanding clarified: Paul “born prematurely” (1 Cor. 15:8) `b9-0402`
-- 2022 — Understanding clarified: resurrection of “those asleep in the dust of the earth” (Dan. 12:2) `b9-0403`
-- 2022 — Understanding clarified: resurrection to life, judgment (John 5:29) `b9-0404`
-- 2022 — Understanding clarified: two-horned beast makes “fire come down out of heaven” (Rev. 13:13) `b9-0405`
-- 2022 — 2022: “Pursue Peace!” Conventions `b9-0406`
-- 2023 — 2023: “Exercise Patience!” Conventions `b9-0414`
-- 2024 — Understanding clarified: application of 2 John 9-11 `b9-0423`
-- 2024 — Understanding clarified: Christian can become spiritually immature `b9-0424`
-- 2024 — Understanding clarified: denarius paid to 11th-hour workers (Matt. 20:1-16) `b9-0425`
-- 2024 — Understanding clarified: disfellowshipping to be referred to as removal from the congregation (1 Cor. 5:13) `b9-0426`
-- 2024 — Understanding clarified: height of the porch of Solomon’s temple `b9-0427`
-- 2024 — Understanding clarified: help for ones removed from the congregation `b9-0428`
-- 2024 — Understanding clarified: Jehovah’s foreknowledge `b9-0429`
-- 2024 — Understanding clarified: ‘marking’ an individual (2 Thess. 3:14) `b9-0430`
-- 2024 — Understanding clarified: ones taken along, ones abandoned (Matt. 24:40, 41) `b9-0431`
-- 2024 — Understanding clarified: resurrection of individuals from Sodom and Gomorrah `b9-0432`
-- 2024 — Understanding clarified: resurrection of individuals who died in the Flood, from seven Canaanite nations, among 185,000 Assyrian soldiers `b9-0433`
-- 2024 — Understanding clarified: resurrection of Solomon `b9-0434`
-- 2024 — Understanding clarified: resurrection of unrighteous (Acts 24:15) `b9-0435`
-- 2024 — Understanding clarified: status of individuals during great tribulation `b9-0436`
-- 2024 — 2024: “Declare the Good News!” Conventions `b9-0437`
-- 2025 — Understanding clarified: marital intimacies `b9-0443`
-- 2025 — Understanding clarified: relationship between hailstonelike message (Rev. 16:21) and preaching good news of Kingdom (Mt 24:14) `b9-0444`
-- 2025 — Understanding clarified: “thought” that God puts into hearts of nations (Rev. 17:16, 17) `b9-0445`
-- 2025 — Understanding clarified: “way of a man with a young woman” (Prov. 30:18, 19) `b9-0446`
-- 2025 — Understanding clarified: when preaching “good news of the Kingdom” will end (Matt. 24:14) `b9-0447`
-- 2025 — 2025: “Pure Worship” Conventions `b9-0448`
-- 2026 — Understanding clarified: additional education `b9-0458`
-- 2026 — Understanding clarified: declaration of “peace and security” (1 Thess. 5:3) may come before or after destruction of false religion `b9-0459`
-- 2026 — Understanding clarified: Psalm 91 promises spiritual, physical, and emotional protection `b9-0460`
+## Tier 4 — Fine detail / redundant (app) (259)
 
+### Row 1 · 4026–1000 B.C.E. (50)
 
-## Secular or political history detail — app only (32)
+- 3896 B.C.E. — Birth of Seth `b1-0004` · shown by its life/reign/office bar
+- 3566 B.C.E. — Birth of Jared `b1-0005` · shown by its life/reign/office bar
+- 3404 B.C.E. — Birth of righteous Enoch `b1-0006` · shown by its life/reign/office bar
+- 3339 B.C.E. — Birth of Methuselah `b1-0007` · shown by its life/reign/office bar
+- 3096 B.C.E. — Death of Adam `b1-0009` · shown by its life/reign/office bar
+- 3039 B.C.E. — Transference of Enoch; end of his prophesying `b1-0010` · shown by its life/reign/office bar
+- 2984 B.C.E. — Death of Seth `b1-0011` · shown by its life/reign/office bar
+- 2970 B.C.E. — Birth of Noah `b1-0012` · shown by its life/reign/office bar
+- 2604 B.C.E. — Death of Jared `b1-0013` · shown by its life/reign/office bar
+- 2468 B.C.E. — Birth of Shem `b1-0017` · shown by its life/reign/office bar
+- 2370 B.C.E. — Death of Methuselah `b1-0018` · shown by its life/reign/office bar
+- 2370–2369 B.C.E. — The Deluge: the global Flood of Noah’s day `b12-0001` · One-year bar duplicates T1 Flood begin/end points
+- 2333 B.C.E. — Birth of Shelah `b1-0023` · shown by its life/reign/office bar
+- 2269 B.C.E. — Birth of Peleg `b1-0024` · shown by its life/reign/office bar
+- 2239 B.C.E. — Birth of Reu `b1-0026` · shown by its life/reign/office bar
+- 2207 B.C.E. — Birth of Serug `b1-0027` · shown by its life/reign/office bar
+- 2177 B.C.E. — Birth of Nahor (grandfather of Abraham) `b1-0028` · shown by its life/reign/office bar
+- 2030 B.C.E. — Death of Peleg `b1-0029` · shown by its life/reign/office bar
+- 2029 B.C.E. — Death of Nahor (grandfather of Abraham) `b1-0030` · shown by its life/reign/office bar
+- 2020 B.C.E. — Death of Noah `b1-0031` · shown by its life/reign/office bar
+- 2018 B.C.E. — Birth of Abraham (Abram) `b1-0032` · shown by its life/reign/office bar
+- 2000 B.C.E. — Death of Reu `b1-0033` · shown by its life/reign/office bar
+- 1977 B.C.E. — Death of Serug `b1-0034` · shown by its life/reign/office bar
+- 1932 B.C.E. — Birth of Ishmael `b1-0040` · shown by its life/reign/office bar
+- 1918 B.C.E. — Birth of Isaac, the true heir `b1-0043` · shown by its life/reign/office bar
+- 1918 B.C.E. — Beginning of the 'about 450 years' `b1-0044` · Start point of 450-year bar; same date as Isaac's birth
+- 1913 B.C.E. — Beginning of the 400-year affliction of Abraham's seed `b1-0047` · Start point of fixed T1 400-year bar
+- 1900 B.C.E. — Death of Shelah `b1-0048` · shown by its life/reign/office bar
+- 1868 B.C.E. — Death of Shem `b1-0051` · shown by its life/reign/office bar
+- 1843 B.C.E. — Death of Abraham `b1-0053` · shown by its life/reign/office bar
+- 1795 B.C.E. — Death of Ishmael `b1-0055` · shown by its life/reign/office bar
+- 1767 B.C.E. — Birth of Joseph `b1-0059` · shown by its life/reign/office bar
+- 1738 B.C.E. — Death of Isaac `b2-0003` · shown by its life/reign/office bar
+- 1657 B.C.E. — Death of Joseph `b2-0007` · Endpoint of Joseph's T1 lifespan bar
+- 1597 B.C.E. — Birth of Aaron `b2-0010` · shown by its life/reign/office bar
+- 1593 B.C.E. — Birth of Moses `b2-0011` · shown by its life/reign/office bar
+- c. 1560 B.C.E. — Birth of Joshua (approximate) `b2-0012` · shown by its life/reign/office bar
+- 1552 B.C.E. — Birth of Caleb `b2-0014` · shown by its life/reign/office bar
+- 1513 B.C.E., Nisan 15 — Israel departs from Rameses `b2-0018` · Departure from Rameses duplicates Exodus record
+- c. 1500 B.C.E. — Birth of Rahab (approximate) `b2-0032` · shown by its life/reign/office bar
+- 1474 B.C.E., Ab 1 — Death of Aaron on Mount Hor `b2-0034` · Endpoint of Aaron's lifespan bar (Ab 1)
+- 1473 B.C.E., Adar — Moses dies on Mount Nebo in Moab `b2-0043` · Endpoint of Moses' lifespan bar
+- 1467 B.C.E. — Major conquest of the land completed `b2-0051` · Endpoint of conquest bar
+- c. 1450 B.C.E. — Death of Joshua `b2-0054` · shown by its life/reign/office bar
+- c. 1450 B.C.E. — Death of Caleb (approximate) `b2-0056` · shown by its life/reign/office bar
+- c. 1400 B.C.E. — Death of Rahab (approximate) `b2-0061` · shown by its life/reign/office bar
+- 1107 B.C.E. — Birth of David at Bethlehem `b3-0002` · shown by its life/reign/office bar
+- 1077 B.C.E. — David becomes king of Judah at Hebron `b3-0006` · Accession shown by Hebron reign bar
+- 1037 B.C.E. — Solomon succeeds David as king of Israel `b3-0011` · shown by its life/reign/office bar
+- spring 1034 B.C.E.–fall 1027 B.C.E. — Construction of Solomon’s temple `b12-0014` · Bar duplicates T1 begun/completed points, like Flood bar
 
-**Row 2 · 1000–1 B.C.E.** (25)
+### Row 2 · 1000–1 B.C.E. (56)
 
-- 431-404 B.C.E. — Peloponnesian War between Athens and Sparta `b4-0076`
-- c. 371 B.C.E. — Spartan dominance ends; Thebes gains superiority `b4-0079`
-- 338 B.C.E. — Philip II of Macedonia conquers Greece `b4-0081`
-- 333 B.C.E. — Alexander defeats the Persians at Issus `b4-0084`
-- 328 B.C.E. — Alexander's conquest complete `b4-0088`
-- 326 B.C.E. (June) — Alexander's fourth and final major battle `b4-0089`
-- c. 320 B.C.E. — Ptolemy I draws Jews to Egypt as colonists `b4-0091`
-- 285 B.C.E. — Lysimachus takes the European part of the empire `b4-0096`
-- 276 B.C.E. — Antigonus II Gonatas becomes king of Macedonia `b4-0099`
-- 197 B.C.E. — Macedonia and Greece fall to the Romans `b4-0105`
-- 175 B.C.E. — High priest Onias deposed by Antiochus Epiphanes `b4-0110`
-- c. 160 B.C.E. — Maccabean Jews appeal to Rome `b4-0115`
-- 146 B.C.E. — Rome destroys Corinth; Achaia and Macedonia become provinces `b4-0117`
-- c. 142 B.C.E. — Simon Maccabaeus makes Jerusalem capital of a free region `b4-0118`
-- 104 B.C.E. — Aristobulus I takes the title of king `b4-0120`
-- 64 B.C.E. — Pompey makes Syria a Roman province `b4-0121`
-- 55 B.C.E. — Julius Caesar invades Britannia `b4-0123`
-- 48 B.C.E. — Lex Julia majestatis enacted `b4-0124`
-- c. 47 B.C.E. — Herod made governor of Galilee `b4-0125`
-- 46 B.C.E. — Julius Caesar appointed dictator `b4-0126`
-- 44 B.C.E. — Julius Caesar assassinated `b4-0127`
-- 27 B.C.E., January 16 — Octavian given the title Augustus `b4-0132`
-- 27 B.C.E. — Province of Achaia includes all southern and central Greece `b4-0133`
-- 12 B.C.E. — Augustus becomes Pontifex Maximus `b4-0135`
-- 2 B.C.E. — Augustus given the title 'Father of His Country' `b4-0137`
+- 997 B.C.E. — Rehoboam becomes king of Judah (17 years) `b3-0017` · shown by its life/reign/office bar
+- 997 B.C.E. — Jeroboam becomes king of Israel (22 years) `b3-0018` · shown by its life/reign/office bar
+- 980 B.C.E. — Abijah (Abijam) becomes king of Judah (3 years) `b3-0021` · shown by its life/reign/office bar
+- 978 B.C.E. — Asa becomes king of Judah (41 years) `b3-0022` · shown by its life/reign/office bar
+- c. 976 B.C.E. — Nadab becomes king of Israel (2 years) `b3-0023` · shown by its life/reign/office bar
+- c. 975 B.C.E. — Baasha becomes king of Israel (24 years) `b3-0024` · shown by its life/reign/office bar
+- c. 952 B.C.E. — Elah becomes king of Israel (2 years) `b3-0027` · shown by its life/reign/office bar
+- c. 951 B.C.E. — Zimri becomes king of Israel (7 days) `b3-0028` · shown by its life/reign/office bar
+- c. 951 B.C.E. — Omri and Tibni become rival kings of Israel (4 years) `b3-0029` · shown by its life/reign/office bar
+- c. 940 B.C.E. — Ahab becomes king of Israel (22 years) `b3-0033` · shown by its life/reign/office bar
+- 937 B.C.E. — Jehoshaphat becomes king of Judah (25 years) `b3-0034` · shown by its life/reign/office bar
+- c. 920 B.C.E. — Ahaziah (of Israel) becomes king of Israel (2 years) `b3-0036` · shown by its life/reign/office bar
+- c. 919 B.C.E. — Jehoram becomes associated with Jehoshaphat in the government `b3-0037` · Coregency technicality; reign bars carry chronology
+- c. 917 B.C.E. — Jehoram (of Israel) becomes king of Israel (12 years) `b3-0039` · shown by its life/reign/office bar
+- 913 B.C.E. — Jehoram (of Judah) becomes king of Judah (8 years) `b3-0040` · shown by its life/reign/office bar
+- c. 911 B.C.E. — Jehoshaphat dies; Jehoram becomes sole ruler of Judah `b3-0041` · Death/succession shown by reign bars
+- c. 906 B.C.E. — Ahaziah (of Judah) becomes king of Judah (1 year) `b3-0042` · shown by its life/reign/office bar
+- c. 905 B.C.E. — Jehu becomes king of Israel (28 years) `b3-0043` · shown by its life/reign/office bar
+- c. 905 B.C.E. — Queen Athaliah usurps the throne of Judah (6 years) `b3-0044` · shown by its life/reign/office bar
+- 898 B.C.E. — Jehoash (of Judah) becomes king of Judah (40 years) `b3-0045` · shown by its life/reign/office bar
+- 876 B.C.E. — Jehoahaz (of Israel) becomes king of Israel (14 years) `b3-0046` · shown by its life/reign/office bar
+- c. 859 B.C.E. — Jehoash becomes sole king of Israel (16 years) `b3-0048` · shown by its life/reign/office bar
+- 858 B.C.E. — Amaziah becomes king of Judah (29 years) `b3-0049` · shown by its life/reign/office bar
+- c. 844 B.C.E. — Jeroboam II becomes king of Israel (41 years) `b3-0052` · shown by its life/reign/office bar
+- 829 B.C.E. — Uzziah (Azariah) becomes king of Judah (52 years) `b3-0055` · shown by its life/reign/office bar
+- c. 818 B.C.E. — Uzziah ‘becomes king’ in a special sense `b3-0058` · Regnal-count technicality; Uzziah reign bar covers it
+- c. 803 B.C.E. — Zechariah (of Israel) becomes king of Israel (recorded reign of only 6 months) `b3-0061` · shown by its life/reign/office bar
+- c. 791 B.C.E. — Shallum becomes king of Israel (1 month) `b3-0062` · shown by its life/reign/office bar
+- c. 791 B.C.E. — Menahem becomes king of Israel (10 years) `b3-0063` · shown by its life/reign/office bar
+- c. 780 B.C.E. — Pekahiah becomes king of Israel (2 years) `b3-0064` · shown by its life/reign/office bar
+- c. 778 B.C.E. — Pekah becomes king of Israel (20 years) `b3-0065` · shown by its life/reign/office bar
+- 777 B.C.E. — Jotham becomes king of Judah (16 years) `b3-0067` · shown by its life/reign/office bar
+- 762 B.C.E. — Ahaz becomes king of Judah (16 years) `b3-0069` · shown by its life/reign/office bar
+- c. 758 B.C.E. — Hoshea becomes king of Israel (9 years from c. 748) `b3-0071` · shown by its life/reign/office bar
+- 746 B.C.E. — Hezekiah becomes king of Judah (29 years) `b3-0073` · shown by its life/reign/office bar
+- 716 B.C.E. — Manasseh becomes king of Judah (55 years) `b3-0081` · shown by its life/reign/office bar
+- 661 B.C.E. — Amon becomes king of Judah (2 years) `b3-0082` · shown by its life/reign/office bar
+- 659 B.C.E. — Josiah becomes king of Judah (31 years) `b3-0083` · shown by its life/reign/office bar
+- 628 B.C.E. — Jehoahaz (of Judah) becomes king of Judah (3 months) `b3-0095` · shown by its life/reign/office bar
+- 628 B.C.E. — Jehoiakim becomes king of Judah (11 years) `b3-0096` · shown by its life/reign/office bar
+- 625 B.C.E. — Nebuchadnezzar becomes king of Babylon `b3-0100` · shown by its life/reign/office bar
+- 618 B.C.E. — Jehoiachin becomes king of Judah (3 months, 10 days) `b3-0104` · shown by its life/reign/office bar
+- 617 B.C.E. — Zedekiah becomes king of Judah (11 years) `b3-0108` · shown by its life/reign/office bar
+- 607 B.C.E., Tammuz 9 — Babylonians breach Jerusalem's wall `b4-0006` · Duplicates b3-0111 wall breach
+- 582 B.C.E. (October) — Death of Nebuchadnezzar II `b4-0013` · shown by its life/reign/office bar
+- 560/559 B.C.E. — Cyrus begins his reign `b4-0018` · shown by its life/reign/office bar
+- 530 B.C.E., Nisan 1 — Cambyses II made 'King of Babylon' as coregent `b4-0034` · Coregency title from cuneiform texts
+- 530 B.C.E. — Cyrus dies on a military campaign `b4-0035` · shown by its life/reign/office bar
+- 522 B.C.E. (December) — Darius I establishes himself in Babylon `b4-0038` · shown by its life/reign/office bar
+- 496 B.C.E. — Xerxes becomes coregent with Darius `b4-0052` · Coregency chronology; Xerxes bar covers it
+- 486 B.C.E. — Death of Darius I `b4-0057` · shown by its life/reign/office bar
+- 475 B.C.E. (latter part) — Xerxes dies; Artaxerxes I's accession year `b4-0063` · shown by its life/reign/office bar
+- 424 B.C.E. — End of Artaxerxes I's reign; Darius II succeeds `b4-0077` · shown by its life/reign/office bar
+- 356 B.C.E. — Birth of Alexander the Great `b4-0080` · shown by its life/reign/office bar
+- 336 B.C.E. — Alexander becomes king of Macedonia `b4-0082` · Accession shown by Alexander's lifespan bar
+- c. 39 B.C.E. — Herod appointed king of Judea by the Roman Senate `b4-0128` · shown by its life/reign/office bar
 
-**P5 Bible survives / wheat & weeds** (3)
+### P2 Kings & prophets (4)
 
-- 361-363 C.E. — Emperor Julian attempts to restore paganism `b7-0027`
-- 1558-1603 — Church of England becomes Protestant in practice under Elizabeth I `b7-0150`
-- 1618-1648 — Thirty Years' War between Catholic and Protestant states `b7-0164`
+- c. 947 B.C.E. — Omri becomes sole king of Israel (8 years) `b3-0030` · Accession shown by Omri's reign bar
+- c. 862 B.C.E. — Jehoahaz and Jehoash rule Israel jointly (3 years) `b3-0047` · Joint-rule chronology shown by reign bars
+- c. 792 B.C.E. — Zechariah’s kingship over Israel evidently fully confirmed `b16-0001` · Regnal-count technicality; reign bar covers it
+- c. 748 B.C.E. — Hoshea’s rule becomes fully established `b3-0072` · Regnal-count technicality; Hoshea reign bar covers it
 
-**P6 Modern by decade** (4)
+### S Bible books strip (8)
 
-- 1905-1907 — “To Hell and Back!” one-day conventions `b8-0078`
-- 1951-1991 — West Berlin radio broadcasts Bible discourses `b9-0031`
-- 1964-1971 — Governing body supervises study of first-century congregation `b9-0070`
-- 1969-1977 — Radio series “All Scripture Is Beneficial” produced `b9-0084`
+- 1513 B.C.E. — Book of Genesis completed `b2-0024` · Duplicates fixed b11-0002 Genesis writing record
+- c. 41 C.E. — Gospel of Matthew written `b6-0014` · Duplicates b11 'Writing of Matthew completed'
+- c. 60-65 C.E. — Gospel of Mark written `b6-0072` · Duplicates b11 'Writing of Mark completed'
+- c. 61 C.E. — Book of Acts completed `b6-0074` · Duplicates b11 'Writing of Acts completed'
+- c. 65 C.E. — Jude written `b6-0088` · Duplicates b11 'Writing of Jude completed'
+- c. 98 C.E. — 1 John written `b6-0103` · Duplicates b11 'Writing of 1 John completed'
+- c. 98 C.E. — 2 John written `b6-0104` · Duplicates b11 'Writing of 2 John completed'
+- c. 98 C.E. — 3 John written `b6-0105` · Duplicates b11 'Writing of 3 John completed'
 
+### P4 Jesus 2 B.C.E.–33 C.E. (14)
 
-## Church/Christendom detail — app only (poster keeps Bible milestones + a few weeds) (110)
+- 2 B.C.E. — John the Baptist born and named `b5-0004` · John's birth shown by his lifespan bar
+- 1 B.C.E. — Death of Herod the Great `b4-0138` · shown by its life/reign/office bar
+- 29 C.E., spring — John the Baptist begins his ministry `b5-0016` · Start shown by John's ministry bar
+- 30 C.E., Passover — John imprisoned `b5-0027` · Imprisonment ends John's ministry bar
+- 32 C.E., near Passover (Joh 6:4) — Jesus heals many `b5-0072` · Summary 'heals many'; generic detail
+- 32 C.E., after Passover — Gives no sign but sign of Jonah `b5-0077` · Second 'sign of Jonah'; repeats earlier record
+- 32 C.E., after Passover — Again foretells his death `b5-0084` · Second foretelling of death; repeats earlier record
+- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus teaches model prayer again `b5-0095` · Model prayer repeated; first given in Sermon on the Mount
+- 32 C.E., Festival of Tabernacles (or, Booths) — Expels demons by God’s finger; again gives only sign of Jonah `b5-0097` · Repeats demon expulsion and sign of Jonah
+- 32 C.E., Festival of Tabernacles (or, Booths) — Mustard grain and leaven illustrations `b5-0101` · Mustard grain and leaven repeated from Kingdom illustrations
+- 32 C.E., after Festival of Dedication — Foretells his death a third time `b5-0124` · Third foretelling of death; repeats earlier record
+- 33 C.E., Nisan 10 — Jesus spends the night in Bethany `b16-0002` · Overnight lodging; logistical detail
+- 33 C.E., Nisan 13 (late afternoon) — Jesus and the other apostles arrive in late afternoon for the Passover `b16-0004` · Arrival time; logistical detail
+- 33 C.E., Nisan 16 (after sunset) — Additional burial spices are purchased `b16-0006` · Spices purchased; detail
 
-**P5 Bible survives / wheat & weeds** (110)
+### Row 3 · 33–100 C.E. (5)
 
-- July 64 C.E. — Great fire ravages Rome `b6-0083`
-- 64 C.E. — Nero’s persecution of Christians `b6-0084`
-- 81-96 C.E. — Persecution under Emperor Domitian peaks `b6-0098`
-- c. 100 C.E. — Apostle John, the last of the apostles, dies `b6-0107`
-- c. 100 C.E. — Herod Agrippa II dies childless `b6-0108`
-- 2nd century C.E. — Monarchical "bishop" office begins to develop `b7-0003`
-- mid-2nd century C.E. — Greek philosophy begins to merge with "Christianity" `b7-0005`
-- c. 187 C.E. — Irenaeus lists twenty varieties of "Christianity" `b7-0007`
-- c. 200 C.E. — Symmachus' Greek version of the Hebrew Scriptures `b7-0009`
-- 3rd century C.E. — Bishop of Rome first called "Pope" `b7-0013`
-- c. 252 C.E. — Council of Carthage confirms infant baptism `b7-0016`
-- c. 258 C.E. — Clergy-laity distinction becomes prominent (death of Cyprian) `b7-0017`
-- 306 C.E. — Constantine succeeds his father as emperor `b7-0019`
-- 312 C.E. — Constantine's victory at the Milvian Bridge under a "Christian" sign `b7-0020`
-- 321 C.E. — Constantine decrees Sunday a day of rest `b7-0022`
-- 330 C.E. — Constantine moves capital to Byzantium (Constantinople) `b7-0024`
-- 379 C.E. — Theodosius I becomes emperor (379-395 C.E.) `b7-0029`
-- 380 C.E. — Theodosius' edict requires all to profess the faith of Pope Damasus `b7-0030`
-- 382 C.E. — Synod in Constantinople affirms full divinity of the holy spirit `b7-0034`
-- 382 C.E. — Pope Damasus presents the Tome of Damasus supporting the Trinity `b7-0035`
-- c. 384 C.E. — Epiphanius counts eighty varieties of "Christianity" `b7-0038`
-- 395 C.E. — Roman Empire divided into East and West at Theodosius' death `b7-0040`
-- 397 C.E. — Council of Carthage includes Apocryphal books in the canon `b7-0041`
-- 410 C.E. — "Christianized" Goths sack Rome `b7-0043`
-- early 5th century C.E. — Augustine's "The City of God" teaches the Church is the Kingdom `b7-0044`
-- 440-461 C.E. — Pope Leo I asserts primacy and takes title Pontifex Maximus `b7-0046`
-- 451 C.E. — Council of Chalcedon defines Christ's "natures" `b7-0047`
-- 476 C.E. — Western Roman Empire ends; Roman Church fills the vacuum `b7-0049`
-- c. 636 C.E. — Isidore of Seville: only Hebrew, Greek, and Latin are sacred languages `b7-0052`
-- 724 C.E. — Earliest recorded Arabic Bible version, made in Spain `b7-0053`
-- 8th century C.E. — Eastern bishops' iconoclastic period `b7-0054`
-- 800 C.E. — Pope Leo III crowns Charlemagne emperor `b7-0055`
-- 862 C.E. — Prince Rostislav of Moravia requests teachers of the Scriptures `b7-0056`
-- 870 C.E. — Methodius arrested and imprisoned by Frankish opponents `b7-0060`
-- 876 C.E. — Synod at Constantinople condemns the pope over the filioque clause `b7-0061`
-- 1054 C.E. — Final break between Eastern and Western churches `b7-0067`
-- 1095 C.E., November 27 — Pope Urban II launches the Crusade appeal at Clermont `b7-0069`
-- 1096–July 15, 1099 — The First Crusade `b12-0059`
-- 1096 C.E. — First Crusade sets out `b7-0070`
-- 1099 C.E., July 15 — Jerusalem falls to the crusaders amid massacre `b7-0071`
-- 1179 C.E. — Vaudès seeks papal authorization to preach; lay preaching forbidden `b7-0073`
-- 1184 C.E. — Pope Lucius III establishes the Inquisition at Verona `b7-0074`
-- 1199 C.E. — Pope Innocent III condemns lay translation and discussion of the Bible `b7-0075`
-- 1209-1229 C.E. — Albigensian Crusade against the Cathari of southern France `b7-0076`
-- 1215 C.E. — Fourth Lateran Council anathematizes the Waldenses `b7-0077`
-- 1217 C.E. — Vaudès dies; Waldenses dispersed by persecution `b7-0078`
-- 1230 C.E. — Waldenses stop preaching in public `b7-0080`
-- 1234 C.E. — Assembly at Tarragona under James I of Aragon bans vernacular Bibles `b7-0082`
-- 1291 C.E. — Acre, last crusader stronghold, falls `b7-0083`
-- 1382 — Anne of Bohemia, reader of Wycliffe's Gospels, marries Richard II `b7-0085`
-- 1403 — Authorities order Jan Hus to stop preaching Wycliffe's ideas `b7-0088`
-- 1410 — Jan Hus condemned and excommunicated `b7-0089`
-- 1412 — Archbishop Arundel denounces Wycliffe for translating the Scriptures `b7-0090`
-- 1414 — Hus summoned to the Council of Constance under false safe-conduct `b7-0091`
-- 1415 — Council of Constance orders Wycliffe's bones exhumed and burned `b7-0093`
-- 1428 — Wycliffe's bones exhumed and burned at papal demand `b7-0094`
-- 1478 — Spanish Inquisition established `b7-0097`
-- 1497 — Savonarola excommunicated `b7-0101`
-- 1498 — Savonarola arrested, tortured, and hanged `b7-0102`
-- 1501 — Luther enters University of Erfurt and first reads the Bible `b7-0103`
-- 1518 — Erasmus: "The shamelessness of the Roman Curia has reached its climax" `b7-0107`
-- c. 1519 — Zwingli begins preaching reform in Zurich `b7-0108`
-- 1520, June 15 — Pope Leo X's bull against books containing "heresies" `b7-0109`
-- 1520 — Papal bull against Luther; Luther burns it publicly `b7-0110`
-- 1521 — Luther excommunicated; outlawed at the Diet of Worms `b7-0111`
-- 1522 — Zwingli charged with heresy; resigns as Catholic priest `b7-0112`
-- 1525 — Luther marries Katharina von Bora `b7-0117`
-- 1528 — Miles Coverdale preaches against Catholic practices and flees England `b7-0120`
-- 1529 — German princes protest — origin of the name "Protestant" `b7-0121`
-- 1530 — Augsburg Confession rejected; Protestant-Catholic rift irreconcilable `b7-0124`
-- 1531 — Zurich Bible (German) produced by Zwingli's group `b7-0125`
-- 1531 — Zwingli killed at the battle of Kappel `b7-0126`
-- 1534 — Henry VIII's Act of Supremacy breaks England from Rome `b7-0127`
-- 1534 — Anabaptist band seizes Münster `b7-0129`
-- 1535 — Olivétan Bible — first French Bible from the original languages `b7-0131`
-- 1536 — Calvin publishes "Institutes of the Christian Religion" `b7-0132`
-- 1539 — The Great Bible licensed and put in churches `b7-0136`
-- 1542 — Pope Paul III establishes the Roman Inquisition (Holy Office) `b7-0137`
-- 1544 — Francisco de Enzinas seeks permission to distribute his Spanish "New Testament" `b7-0138`
-- 1545 — Massacre of the Waldenses in Provence `b7-0139`
-- 1546 — Council of Trent canonizes the Apocrypha and declares the Vulgate "authentic" `b7-0142`
-- 1550 — Stephanus' third Greek edition becomes the "Received Text" `b7-0143`
-- 1550, November — Estienne flees to Geneva `b7-0144`
-- 1551 — Coverdale appointed bishop of Exeter; flees under Queen Mary (1553) `b7-0146`
-- 1553 — Michael Servetus, critic of the Trinity, put to death `b7-0148`
-- 1559, October — Auto-da-fé at Valladolid `b7-0152`
-- 1564 — John Calvin dies in Geneva `b7-0154`
-- 1582 — Catholic Rheims "New Testament" published `b7-0158`
-- 1603 — James I ascends the English throne and endorses a new translation `b7-0161`
-- 1637 — Dutch Statenvertaling published `b7-0166`
-- 1640 — Bay Psalm Book uses "Iehovah" `b7-0167`
-- 1648 — Peace of Westphalia ends the Thirty Years' War `b7-0168`
-- 1661 — Inquisition at Goa sentences Almeida to death in absentia `b7-0169`
-- 1737 — Alexander Cruden's Bible concordance `b7-0179`
-- 1782 — Spanish Inquisition permits Bibles with annotations `b7-0181`
-- by 1800 — Bible available in about 70 languages `b7-0190`
-- 1812 — Fire at Serampore destroys unpublished translations `b7-0196`
-- 1815 — Scriptures in Oriya published `b7-0199`
-- 1818 — Bibles in Sanskrit and Hindi issued `b7-0202`
-- 1819 — Marathi version published `b7-0203`
-- 1821 — Robert Moffat begins mission among the Tswana `b7-0205`
-- 1824 — Judson imprisoned in Burma; manuscript saved in a pillow `b7-0208`
-- 1844, October 22 — Millerites' "Great Disappointment" `b7-0214`
-- 1847 — Tulu Bible published `b7-0215`
-- 1848 — Communist Manifesto promotes atheism `b7-0216`
-- 1855 — German Elberfelder version (1855) uses "Jehova" `b7-0220`
-- 1856 — Joseph Seiss writes of an invisible presence of Christ `b7-0221`
-- 1857, January 29 — James White coins the "investigative judgment" teaching `b7-0222`
-- 1859 — Darby's French Bible published `b7-0225`
-- 1859 — Darwin's "Origin of Species" undermines faith in the Bible `b7-0226`
+- 41 C.E. — Claudius becomes Roman emperor after Caligula’s assassination `b6-0012` · shown by its life/reign/office bar
+- c. 52 C.E. (summer) — Paul returns to Syrian Antioch, ending his second journey `b6-0045` · End of second journey shown by journey bar
+- 54 C.E. — Nero becomes Roman emperor `b6-0048` · shown by its life/reign/office bar
+- c. 65 C.E. — Titus leaves for Dalmatia `b6-0086` · Titus to Dalmatia; one-line travel detail
+- 68 C.E. — Nero commits suicide `b6-0094` · shown by its life/reign/office bar
 
+### P5 Bible survives / wheat & weeds (26)
 
-## Modern-history detail (minor case, report, update) — app only (109)
+- c. 100 C.E. — Apostle John, the last of the apostles, dies `b6-0107` · Duplicates b7-0001 (John dies, apostasy unrestrained)
+- 382 C.E. — Synod in Constantinople affirms full divinity of the holy spirit `b7-0034` · Minor synod; doctrinal detail
+- 382 C.E. — Pope Damasus presents the Tome of Damasus supporting the Trinity `b7-0035` · Papal doctrinal document
+- 382 C.E.–405 C.E. — Jerome’s work on the Latin Vulgate `b12-0058` · Short span duplicates Vulgate marker b7-0042
+- 383 or 384 C.E. — Jerome's revised Latin Gospels published `b7-0037` · Interim Vulgate stage
+- 862 C.E. — Prince Rostislav of Moravia requests teachers of the Scriptures `b7-0056` · Request preceding the Slavonic mission
+- 1096–July 15, 1099 — The First Crusade `b12-0059` · First Crusade sits within the Crusades span
+- 1096 C.E. — First Crusade sets out `b7-0070` · Endpoint of Crusade spans
+- 1099 C.E., July 15 — Jerusalem falls to the crusaders amid massacre `b7-0071` · Endpoint of First Crusade span
+- 1230 C.E. — Waldenses stop preaching in public `b7-0080` · Minor Waldensian detail
+- 1291 C.E. — Acre, last crusader stronghold, falls `b7-0083` · Endpoint of Crusades span
+- c. 1330 — John Wycliffe born `b7-0084` · shown by its life/reign/office bar
+- 1384, December 31 — John Wycliffe dies `b7-0087` · shown by its life/reign/office bar
+- 1428 — Wycliffe's bones exhumed and burned at papal demand `b7-0094` · Carrying out of b7-0093 decree
+- 1478 — Spanish Inquisition established `b7-0097` · Start point of Spanish Inquisition span
+- 1483, November — Martin Luther born `b7-0098` · shown by its life/reign/office bar
+- 1518 — Erasmus: "The shamelessness of the Roman Curia has reached its climax" `b7-0107` · Quotation, not an event
+- 1525 — Luther marries Katharina von Bora `b7-0117` · Reformer's marriage
+- 1526 — Robert Estienne takes over his father's Paris press `b7-0119` · Printer administrative detail
+- 1546, February — Martin Luther dies `b7-0141` · shown by its life/reign/office bar
+- 1576 — Geneva Bible printed in England `b7-0157` · Printing-location detail
+- 1628 — João Ferreira de Almeida, Portuguese Bible translator, born `b7-0165` · shown by its life/reign/office bar
+- 1691 — Almeida dies while translating Ezekiel `b7-0172` · shown by its life/reign/office bar
+- 1711 — Third edition of Almeida's New Testament financed for Tranquebar missionaries `b7-0174` · Reprint financing detail
+- 1796, December 13 — George Storrs born `b7-0186` · shown by its life/reign/office bar
+- by 1800 — Bible available in about 70 languages `b7-0190` · Statistic
 
-**P6 Modern by decade** (109)
+### P6 Kingdom activity 1870–2026 (96)
 
-- 1877 — The book Three Worlds is published `b8-0010`
-- 1877 — Booklet The Object and Manner of Our Lord’s Return published `b8-0011`
-- 1880 — Russell tours the northeastern United States `b8-0021`
-- 1880 — Scores of congregations spread into nearby states `b8-0022`
-- 1881 — First tracts published for free public distribution `b8-0025`
-- September 1881 — Food for Thinking Christians distributed; 300,000 copies in Britain `b8-0031`
-- 1883 — Watch Tower reaches China `b8-0035`
-- 1884 — Food for Thinking Christians reaches Liberia `b8-0037`
-- December 15, 1884 — Zion’s Watch Tower Tract Society legally chartered in Pennsylvania `b8-0038`
-- 1885 — Watch Tower publications read on five continents `b8-0039`
-- 1889 — Volume II The Time Is at Hand published `b8-0043`
-- 1890 — Bible Students build a meeting place at Mount Lookout, West Virginia `b8-0045`
-- 1891 — Volume III Thy Kingdom Come published `b8-0047`
-- 1896 — Corporation renamed Watch Tower Bible and Tract Society `b8-0059`
-- 1897 — Volume IV The Day of Vengeance published `b8-0062`
-- 1899 — Volume V The At-one-ment Between God and Man published `b8-0065`
-- 1903 — Russell–Eaton debates at Carnegie Hall, Allegheny `b8-0073`
-- 1904 — Volume VI The New Creation published `b8-0075`
-- March 4, 1909 — Peoples Pulpit Association incorporated in New York `b8-0085`
-- 1910 — Society literature reproduced in Braille `b8-0088`
-- 1911 — Congregations send speakers to give public lecture series `b8-0090`
-- June 30, 1914 — International Bible Students Association incorporated in London `b8-0096`
-- December 15, 1916 — Newspaper sermon feature discontinued `b8-0103`
-- July 17, 1917 — The Finished Mystery released to the Bethel family `b8-0106`
-- March 15, 1918 — Tract Kingdom News No. 1 released `b8-0112`
-- June 5, 1918 — Trial of the Society’s officers begins `b8-0115`
-- June 20, 1918 — Jury finds Rutherford and associates guilty `b8-0116`
-- 1919 — The Bulletin published to stimulate field service `b8-0119`
-- May 4, 1919 — Public lecture “The Hope for Distressed Humanity” in Los Angeles `b8-0124`
-- May 14, 1919 — Court of appeals reverses the convictions `b8-0125`
-- May 5, 1920 — Government withdraws the case against the Society’s officers `b8-0131`
-- 1922 — Small printing plant set up in Korea `b8-0137`
-- April 16, 1922 — Broadcast from Metropolitan Opera House, Philadelphia `b8-0140`
-- 1926 — Legal department established at Magdeburg, Germany `b8-0155`
-- December 1926 — Society prints The Emphatic Diaglott on its own presses `b8-0156`
-- 1928 — Bible Students arrested in New Jersey for house-to-house preaching `b8-0163`
-- 1930 — Two-volume Light on Revelation published `b8-0172`
-- 1930 — German Interior Ministry halts peddling prosecutions `b8-0173`
-- 1931 — Vindication, Book 1, published `b8-0174`
-- December 19, 1932 — Danish trial court rules preaching is not peddling (Lehmann case) `b8-0182`
-- 1933 — Arrests mount in the U.S.; legal department set up in Brooklyn `b8-0187`
-- 1935 — Flag-salute issue first reaches American courts `b8-0194`
-- July 9, 1935 — Romania’s High Court rules for Witnesses’ freedom of expression `b8-0198`
-- September 18, 1937 — Book Enemies released at Columbus convention `b8-0208`
-- April 26, 1938 — Cantwell family arrested in New Haven `b8-0214`
-- October 2, 1938 — Lecture “Fascism or Freedom” `b8-0217`
-- 1939 — New York corporation renamed Watchtower Bible and Tract Society, Inc. `b8-0220`
-- February 1, 1940 — Street distribution of magazines becomes a regular feature `b8-0225`
-- May 20, 1940 — Cantwell v. Connecticut decided unanimously for the Witnesses `b8-0227`
-- June 3, 1940 — Gobitis decision upholds compulsory flag salute; mob violence follows `b8-0228`
-- 1942 — Society prints the complete King James Version on its own press `b8-0235`
-- 1942 — Publications cease to name individual writers `b8-0236`
-- May 3, 1943 — Murdock v. Pennsylvania: Witnesses are ministers, not salesmen `b8-0248`
-- June 14, 1943 — Barnette decision overturns Gobitis on flag salute `b8-0249`
-- 1944 — Society obtains rights to print the American Standard Version `b8-0251`
-- 1944 — Kingdom Service Song Book released; congregation singing revived `b8-0252`
-- 1945 — Theocratic Aid to Kingdom Publishers released `b8-0258`
-- September 1945 — Knorr announces relief campaign for brothers in Europe `b8-0262`
-- 1946 — “Equipped for Every Good Work” published `b9-0004`
-- 1946, January — Postwar relief shipments to Witnesses in Europe and Asia `b9-0009`
-- 1946 — Quebec’s Burning Hate tract campaign `b9-0010`
-- 1947 — Aimé Boucher and daughters tried for sedition `b9-0011`
-- 1947 — 1,700 court cases pending in Quebec `b9-0015`
-- 1948, August — Postwar relief effort concluded `b9-0018`
-- 1949 — Gilead missionaries arrive in Japan `b9-0020`
-- 1950 — Anthony Sicurella applies for conscientious objector status `b9-0023`
-- 1966 — Swedish Parliament ruling relieves Witness objectors `b9-0079`
-- 1978 — Making Your Family Life Happy published `b9-0115`
-- 1979 — Argentine court reverses expulsion of Witness children `b9-0116`
-- 1983 — Titos Manoussakis rents meeting room in Crete `b9-0130`
-- 1985 — International volunteer arrangement for construction initiated `b9-0140`
-- 1986 — Regional Building Committees appointed `b9-0146`
-- 1990 — Restrictions lifted in lands in Africa and Eastern Europe `b9-0173`
-- 1993, June — Misae Takeda sues over unauthorized transfusion `b9-0192`
-- 1994 — Relief for Witnesses after Rwanda genocide `b9-0195`
-- 1994 — Ivailo Stefanov drafted in Bulgaria `b9-0196`
-- 1995 — Knowledge That Leads to Everlasting Life published `b9-0201`
-- 1998 — Opposers file civil complaint in Moscow `b9-0215`
-- 2001 — Benefit From Theocratic Ministry School Education published `b9-0228`
-- 2001 — Friendly settlement reached in Stefanov case `b9-0234`
-- 2001, May — Moscow Witnesses lose on appeal; retrial ordered `b9-0235`
-- 2004 — Moscow court liquidates Witnesses’ legal entity `b9-0245`
-- 2008 — Relief after floods in Santa Catarina, Brazil `b9-0264`
-- 2011 — Relief and Kingdom Hall rebuilding after Japan tsunami `b9-0282`
-- 2012 — Kassandreia (Greece) case settled `b9-0295`
-- 2013, June — Brochure Jehovah’s Witnesses and Disaster Relief released `b9-0312`
-- 2013, November — Last imprisoned objectors released in Armenia `b9-0315`
-- 2013, November 19 — Kyrgyzstan court rules alternative service law unconstitutional `b9-0316`
-- 2015, December 21 — Bremen grants Witnesses higher legal status `b9-0345`
-- 2019, February 28 — Last imprisoned Korean conscientious objector released `b9-0380`
-- 2020, March 18 — First Governing Body Update on the pandemic `b9-0392`
-- 2021, October 1 — Governing Body Update announces 2022 yeartext `b9-0397`
-- 2021, November 12 — Governing Body Update reports pilot in-person meetings `b9-0399`
-- 2022, August 26 — Governing Body Update announces 2023 yeartext `b9-0410`
-- 2023, January 6 — Governing Body Update: Ramapo and pioneer announcements `b9-0416`
-- 2023, October 20 — New publication Scriptures for Christian Living; 2024 yeartext `b9-0420`
-- 2023, December 15 — Governing Body Update on dress and grooming of brothers `b9-0422`
-- 2024, March 15 — Adjustments to dress standard at theocratic events `b9-0438`
-- 2024, May 3 — Bible principles for decisions on dress and grooming `b9-0439`
-- 2024, December 27 — Balanced view of those who appear in videos `b9-0442`
-- 2025, January 31 — “Truths We Love to Teach” in Love People—Make Disciples `b9-0450`
-- 2025, March 21 — Literacy efforts and new convention song announced `b9-0451`
-- 2025, July 4 — Bible principles on symbols and customs `b9-0452`
-- 2025, August 22 — Bible principles on additional secular education `b9-0454`
-- 2025, September 26 — Governing Body Update announces 2026 yeartext `b9-0455`
-- 2025, December 19 — Impact of video series The Good News According to Jesus `b9-0457`
-- 2026, May 1 — Nine years since Russia ban; new Good News According to Jesus episodes `b9-0465`
-- 2026, June 12 — Legal developments in Norway and Sweden `b9-0467`
-- 2026, July 31 — Feeding ourselves spiritually every day `b9-0471`
-
-
-## Yearly statistic (one per decade kept) (22)
-
-**P6 Modern by decade** (22)
-
-- 1913 — Russell’s sermons reach millions through newspapers `b8-0092`
-- 1914 — 1914 report: 5,155 preaching in 43 lands `b8-0094`
-- 1940 — Over 90 recorded talks and a million records produced `b8-0224`
-- 1941 — Active Witnesses pass 100,000 `b8-0232`
-- 1942 — Watchtower printing for the year: 11,325,143 `b8-0234`
-- 1943 — U.S. Supreme Court rules favorably in 20 of 24 Witness cases `b8-0244`
-- 1945 — Home Bible studies average 104,814 a month `b8-0259`
-- 1946 — Over 4,000 Witnesses in the U.S. and 1,593 in Britain imprisoned for neutrality (1939-1946) `b9-0007`
-- 1946 — 6,504 pioneers in first year after World War II `b9-0008`
-- 1963 — Witnesses exceed one million in 198 lands `b9-0069`
-- 1982 — Truth book exceeds 100 million copies `b9-0123`
-- 1983 — About 200 quick-built Kingdom Halls in U.S. and Canada `b9-0127`
-- 1984 — Home Bible studies average over two million `b9-0133`
-- 1985 — Over three million share in preaching in 222 lands `b9-0141`
-- 1987 — 60 Regional Building Committees in the United States `b9-0149`
-- 1987 — Bible studies with over three million individuals `b9-0150`
-- 1990 — Kingdom publishers reach peak of 4,017,213 `b9-0172`
-- 1992 — Watchtower printed in 111 languages, Awake! in 67 `b9-0182`
-- 2001 — Report: 18,300 Kingdom Halls needed in 88 lands `b9-0233`
-- 2013 — jw.org available in some 300 languages `b9-0309`
-- 2013 — Peak of 7,965,954 publishers; 19.2 million at Memorial `b9-0310`
-- 2023 — 2023 Service Year Report: 118,177 congregations `b9-0415`
-
-
-## Other detail — app only (8)
-
-**S Bible books strip** (8)
-
-- 1513 B.C.E. — Book of Genesis completed `b2-0024`
-- c. 41 C.E. — Gospel of Matthew written `b6-0014`
-- c. 60-65 C.E. — Gospel of Mark written `b6-0072`
-- c. 61 C.E. — Book of Acts completed `b6-0074`
-- c. 65 C.E. — Jude written `b6-0088`
-- c. 98 C.E. — 1 John written `b6-0103`
-- c. 98 C.E. — 2 John written `b6-0104`
-- c. 98 C.E. — 3 John written `b6-0105`
-
-
-## Lower priority in its poster zone (zone budget full) — app only (578)
-
-**Row 1 · 4026–1000 B.C.E.** (38)
-
-- b. 3896 B.C.E. — Cain slays Abel `b1-0003`
-- 2470 B.C.E. — Birth of Japheth `b1-0015`
-- after 2470 B.C.E. — Birth of Ham `b1-0016`
-- b. 1933 B.C.E. — Abraham rescues Lot `b1-0038`
-- 1913 B.C.E. — Weaning of Isaac; Ishmael pokes fun at him `b1-0045`
-- 1913 B.C.E. — Ishmael and Hagar sent away `b1-0046`
-- 1881 B.C.E. — Death of Sarah `b1-0049`
-- 1878 B.C.E. — Marriage of Isaac and Rebekah `b1-0050`
-- 1818 B.C.E. — Esau marries his first two wives `b1-0054`
-- 1774 B.C.E. — Jacob marries Leah and Rachel `b1-0058`
-- 1761 B.C.E. — Jacob returns to Canaan from Haran `b1-0060`
-- c. 1761 B.C.E. — Jacob wrestles an angel and is named Israel `b1-0061`
-- 1739 B.C.E. — Joseph interprets the dreams of the cupbearer and the baker `b2-0002`
-- c. 1613 B.C.E. — Job’s trial `b2-0008`
-- 1553 B.C.E. — Moses offers himself as a deliverer; flees to Midian `b2-0013`
-- c. 1514 B.C.E. — Moses at the burning thornbush `b2-0015`
-- 1513 B.C.E. (before Nisan 15) — Ten Plagues on Egypt `b2-0016`
-- 1513 B.C.E., Nisan 15 — Israel departs from Rameses `b2-0018`
-- 1513 B.C.E. — Joshua defeats the Amalekites at Rephidim `b2-0020`
-- 1512 B.C.E., Nisan 14 — Passover observed in the wilderness at Sinai `b2-0027`
-- 1512 B.C.E. — Twelve spies sent into Canaan `b2-0028`
-- 1512 B.C.E. — Israel sentenced to wander 40 years `b2-0029`
-- c. 1474 B.C.E. — Amorite kingdoms east of the Jordan conquered `b2-0035`
-- c. 1473 B.C.E. — Balaam attempts to curse Israel `b2-0036`
-- 1473 B.C.E. — Census of Israel on the Plains of Moab `b2-0037`
-- 1473 B.C.E., spring — Two spies lodge with Rahab in Jericho `b2-0044`
-- 1473 B.C.E., Nisan 14 — Passover celebrated at Gilgal `b2-0047`
-- 1473 B.C.E., Nisan — Israel eats the produce of the land; manna stops `b2-0048`
-- 1473 B.C.E. — Defeat at Ai, then Ai captured `b2-0050`
-- c. 1467 B.C.E. — Ark of the covenant moved to Shiloh `b2-0053`
-- 1424 B.C.E., Tishri — First Jubilee year begins `b2-0059`
-- Period of the Judges (c. 1450–c. 1120 B.C.E.; date not stated) — Abimelech rules for three years `b2-0066`
-- c. 1180 B.C.E. — Birth of Samuel (approximate) `b2-0069`
-- More than 60 years before Saul’s reign (1117 B.C.E.) — Eli serves as high priest and judges Israel 40 years `b2-0070`
-- Before 1117 B.C.E. (ark then 20 years at Kiriath-jearim before Samuel’s victory) — Ark captured by the Philistines; Eli dies `b2-0076`
-- Before 1117 B.C.E. (20 years) — Ark returned; kept at Kiriath-jearim 20 years `b2-0077`
-- Before 1117 B.C.E. — Samuel judges Israel; victory over the Philistines at Mizpah (Ebenezer) `b2-0078`
-- a. 1070 B.C.E. — The Ark is brought into Jerusalem `b3-0008`
-
-**Row 2 · 1000–1 B.C.E.** (67)
-
-- 997 to 740 B.C.E. — Northern ten-tribe kingdom of Israel `b12-0016`
-- 997 to 607 B.C.E. — Southern kingdom of Judah `b12-0017`
-- 993 B.C.E. — Shishak of Egypt invades Judah and plunders the temple `b3-0020`
-- 967 B.C.E. — Zerah the Ethiopian comes against Judah `b3-0025`
-- 962 B.C.E. — Baasha comes up to build Ramah `b3-0026`
-- c. 945 B.C.E. — Omri buys the mountain of Samaria and builds his capital `b3-0031`
-- 934 B.C.E. — Priests begin teaching the Law in Judah `b3-0035`
-- c. 919 B.C.E. — Jehoram becomes associated with Jehoshaphat in the government `b3-0037`
-- c. 911 B.C.E. — Jehoshaphat dies; Jehoram becomes sole ruler of Judah `b3-0041`
-- a. 858 B.C.E. — Jehoash of Israel captures Amaziah and breaches Jerusalem’s wall `b3-0050`
-- c. 818 B.C.E. — Uzziah ‘becomes king’ in a special sense `b3-0058`
-- c. 759 B.C.E. — Ahaz becomes tributary to Tiglath-pileser III `b3-0070`
-- 742 B.C.E. — Assyrian siege of Samaria begins `b3-0075`
-- 652 B.C.E. — Josiah begins to search for Jehovah `b3-0085`
-- 648 B.C.E. — Josiah begins his campaign against idolatry `b3-0086`
-- 642 B.C.E. — Book of the Law found in the temple; Huldah consulted `b3-0089`
-- 642 B.C.E., Nisan 14 — Josiah’s great Passover `b3-0090`
-- c. 629 B.C.E. — Josiah dies in battle against Pharaoh Necho `b3-0094`
-- 625 B.C.E. — Nebuchadnezzar defeats Egypt at Carchemish `b3-0099`
-- 620 B.C.E. — Nebuchadnezzar makes Jehoiakim a tributary king `b3-0101`
-- 618 B.C.E. — Jehoiakim rebels; Nebuchadnezzar comes against Jerusalem `b3-0102`
-- 617 B.C.E.–580 B.C.E. — Jehoiachin’s captivity in Babylon `b12-0021`
-- 617 B.C.E. — Daniel taken captive to Babylon `b3-0106`
-- 617 B.C.E. — Ezekiel taken captive to Babylon `b3-0107`
-- 609 B.C.E., Tebeth 10 — Nebuchadnezzar begins the final siege of Jerusalem `b3-0110`
-- 607 B.C.E. — Gedaliah appointed governor of Judah `b3-0114`
-- 607 B.C.E., Tammuz 9 — Babylonians breach Jerusalem's wall `b4-0006`
-- 607 B.C.E., seventh month — Gedaliah murdered `b3-0115`
-- 607 B.C.E., tenth month, 5th day — Ezekiel told that Jerusalem has been struck down `b4-0007`
-- 593 B.C.E. — Ezekiel's vision of a great temple `b4-0009`
-- 581 B.C.E. — Evil-merodach succeeds Nebuchadnezzar `b4-0014`
-- 580 B.C.E. — Jehoiachin released from prison by Evil-merodach `b4-0015`
-- 556 B.C.E. — Nabonidus begins to rule Babylon `b4-0019`
-- 539 B.C.E., Tishri — Cyrus defeats Babylonian forces at Opis `b4-0022`
-- 539 B.C.E., Marchesvan 3 — Cyrus enters Babylon `b4-0025`
-- 537 B.C.E., Tishri 1 (Sept. 29) — Altar set up and sacrifices resumed at Jerusalem `b4-0029`
-- 537 B.C.E., Tishri — Festival of Booths celebrated by the returned exiles `b4-0030`
-- 530 B.C.E., Nisan 1 — Cambyses II made 'King of Babylon' as coregent `b4-0034`
-- 522 B.C.E. — Cambyses II dies; usurper rules seven months `b4-0036`
-- 522 B.C.E.–486 B.C.E. — Reign of Darius I (the Great) of Persia `b12-0030`
-- 520 B.C.E. (second year of Darius) — Haggai's messages move the Jews to resume temple building `b4-0039`
-- 520 B.C.E. — Darius I confirms Cyrus' decree and lifts the ban `b4-0040`
-- 520 B.C.E., eighth month (Oct./Nov.) — Zechariah begins to prophesy `b4-0041`
-- c. Feb. 9, 519 B.C.E. — Zechariah's night visions begin `b4-0043`
-- c. 519-518 B.C.E. — Darius I reconquers Egypt `b4-0044`
-- c. Dec. 1, 518 B.C.E. (Chislev 4) — Question about fasting brought to Zechariah `b4-0045`
-- 515 B.C.E. — Rebuilt temple inaugurated; Passover held `b4-0048`
-- 513 B.C.E. — Darius I invades Thrace `b4-0049`
-- 508 B.C.E. — Darius I subdues Thrace `b4-0050`
-- 496 B.C.E. — Xerxes becomes coregent with Darius `b4-0052`
-- 496 B.C.E. — Darius I conquers Macedonia `b4-0053`
-- 493 B.C.E. (third year of Ahasuerus) — Ahasuerus' banquet; Queen Vashti deposed `b4-0054`
-- 492 B.C.E. — Persian invasion fleet wrecked by storm `b4-0055`
-- 486 to 475 B.C.E. — Reign of Xerxes I (Ahasuerus) as sole king `b12-0031`
-- Adar 13-15, after 484 B.C.E. — Jews defeat their enemies; Festival of Purim instituted `b4-0058`
-- 484 B.C.E., Nisan 13 (12th year of Ahasuerus) — Haman's extermination decree issued `b4-0059`
-- 479 B.C.E. — Greek victory at Plataea `b4-0061`
-- 456 B.C.E., Chislev — Nehemiah hears of Jerusalem's distress `b4-0068`
-- 455 B.C.E., about Ab 4 — Repair of Jerusalem's wall begins `b4-0070`
-- 455 B.C.E., Elul 25 — Jerusalem's wall completed in 52 days `b4-0071`
-- 443 B.C.E. (32nd year of Artaxerxes) — Nehemiah returns to Artaxerxes' court `b4-0072`
-- a. 443 B.C.E. — Nehemiah's second visit to Jerusalem and reforms `b4-0073`
-- 336 B.C.E.–June 13, 323 B.C.E. — Reign of Alexander the Great `b12-0036`
-- 332 B.C.E. — Greece, fifth world power, rules Judea `b4-0086`
-- 168 B.C.E., Chislev 25 — Antiochus IV desecrates the temple `b4-0112`
-- c. 39 B.C.E.–1 B.C.E. — Reign of Herod the Great over Judea `b12-0038`
-- c. 37 B.C.E. — Herod takes Jerusalem by storm `b4-0129`
-
-**S Bible books strip** (1)
-
-- c. 62 C.E. — James, Jesus' brother and writer of James, stoned (per Josephus) `b11-0062`
-
-**P4 Jesus 29–33** (93)
-
-- 3 B.C.E. — Angel Gabriel foretells the birth of John the Baptist to Zechariah `b5-0001`
-- c. 2 B.C.E. — Mary visits her relative Elizabeth `b5-0003`
-- 2 B.C.E. — Zechariah prophesies; John to be in desert `b5-0005`
-- 2 B.C.E., c. Oct. 1 — Angel announces good news to shepherds; angels praise God; shepherds visit infant `b5-0007`
-- 2 B.C.E., c. Oct. 1 — Jesus circumcised (8th day) `b5-0008`
-- 2 B.C.E., c. Oct. 1 — Jesus presented in temple by parents (after 40th day) `b5-0009`
-- 1 B.C.E. or 1 C.E. — Astrologers visit `b5-0010`
-- 29 C.E., fall — John the Baptist identifies Jesus as the Lamb of God `b5-0019`
-- 29 C.E., fall — First disciples join Jesus `b5-0020`
-- 29 C.E., fall — Jesus visits Capernaum `b5-0022`
-- 30 C.E., Passover — Jesus goes to Judean countryside; his disciples baptize `b5-0025`
-- 30 C.E., Passover — John’s final witness about Jesus `b5-0026`
-- 30 C.E., Passover — John imprisoned `b5-0027`
-- 30 C.E., Passover — Jesus leaves for Galilee `b5-0028`
-- 30 C.E., Passover — En route to Galilee, teaches the Samaritans `b5-0029`
-- 30 C.E. — Jesus first announces that “the Kingdom of the heavens has drawn near” `b5-0030`
-- 30 C.E. — Calls four disciples: Simon and Andrew, James and John `b5-0034`
-- 30 C.E. — First tour of Galilee, with the four `b5-0036`
-- 30 C.E. — Jesus calls Matthew `b5-0039`
-- 30 C.E. — Jesus dines with tax collectors; fasting question `b5-0040`
-- 30 C.E. — Preaches in synagogues `b5-0041`
-- 31 C.E., Passover — Jews seek to kill Jesus `b5-0043`
-- 31 C.E., Passover — Disciples pluck grain on the Sabbath; Jesus “Lord of the Sabbath” `b5-0044`
-- 31 C.E., Passover — John sends disciples to Jesus `b5-0050`
-- 31 C.E., Passover — Truth revealed to young children; yoke kindly `b5-0051`
-- 31 C.E., Passover — Debtors illustration `b5-0053`
-- 31 C.E., Passover — Second preaching tour, with the 12 `b5-0054`
-- 31 C.E., Passover — Gives no sign but sign of Jonah `b5-0056`
-- 31 C.E., Passover — His mother and brothers come; says disciples are his relatives `b5-0057`
-- 31 or 32 C.E. — Sends demons into swine `b5-0060`
-- 31 or 32 C.E. — Jesus heals woman’s flow of blood `b5-0061`
-- 31 or 32 C.E. — Heals the blind and speechless `b5-0063`
-- 31 or 32 C.E. — Rejected again in his hometown `b5-0064`
-- 31 or 32 C.E. — Third tour of Galilee; expands work by sending out apostles `b5-0065`
-- 31 or 32 C.E. — Herod perplexed by Jesus `b5-0067`
-- 32 C.E., near Passover (Joh 6:4) — Apostles return from preaching tour `b5-0068`
-- 32 C.E., near Passover (Joh 6:4) — People try to make Jesus king `b5-0070`
-- 32 C.E., near Passover (Joh 6:4) — Jesus heals many `b5-0072`
-- 32 C.E., near Passover (Joh 6:4) — Says he is “the bread of life”; many are stumbled and leave `b5-0073`
-- 32 C.E., after Passover — Exposes human traditions `b5-0074`
-- 32 C.E., after Passover — Jesus heals Syrophoenician woman’s daughter `b5-0075`
-- 32 C.E., after Passover — Gives no sign but sign of Jonah `b5-0077`
-- 32 C.E., after Passover — On boat to Bethsaida, Jesus warns against leaven of Pharisees `b5-0078`
-- 32 C.E., after Passover — Jesus heals blind man `b5-0079`
-- 32 C.E., after Passover — Keys of the Kingdom `b5-0080`
-- 32 C.E., after Passover — Heals demon-possessed boy `b5-0083`
-- 32 C.E., after Passover — Pays tax with coin from fish’s mouth `b5-0085`
-- 32 C.E., after Passover — Greatest in the Kingdom `b5-0086`
-- 32 C.E., after Passover — Lost sheep and unforgiving slave illustrations `b5-0087`
-- 32 C.E., after Passover — On way to Jerusalem, tells disciples to set aside all for Kingdom `b5-0088`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Teaches at the Festival; officers sent to arrest him `b5-0089`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus says “I am the light of the world” `b5-0090`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Sends out the 70; they return joyful `b5-0092`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Neighborly Samaritan illustration `b5-0093`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus visits Mary and Martha’s home `b5-0094`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Jesus teaches model prayer again `b5-0095`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Persistent friend illustration `b5-0096`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Dines with Pharisee; condemns hypocrisy of Pharisees `b5-0098`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Illustrations: unreasonable rich man and the faithful steward `b5-0099`
-- 32 C.E., Festival of Tabernacles (or, Booths) — Mustard grain and leaven illustrations `b5-0101`
-- 32 C.E., Festival of Dedication — Fine shepherd and sheepfold illustration `b5-0102`
-- 32 C.E., Festival of Dedication — Jews try to stone Jesus `b5-0103`
-- 32 C.E., Festival of Dedication — Jesus leaves for Bethany across Jordan `b5-0104`
-- 32 C.E., after Festival of Dedication — Goes to where John was baptizing; many put faith in Jesus `b5-0105`
-- 32 C.E., after Festival of Dedication — Teaches in cities and villages, traveling toward Jerusalem `b5-0106`
-- 32 C.E., after Festival of Dedication — Jesus urges to enter narrow door `b5-0107`
-- 32 C.E., after Festival of Dedication — Jesus laments over Jerusalem `b5-0108`
-- 32 C.E., after Festival of Dedication — Teaches humility; illustrations: most prominent place and guests who made excuses `b5-0109`
-- 32 C.E., after Festival of Dedication — Count cost of discipleship `b5-0110`
-- 32 C.E., after Festival of Dedication — Illustrations: lost sheep, lost coin, lost son `b5-0111`
-- 32 C.E., after Festival of Dedication — Teaches on stumbling, forgiveness, and faith `b5-0113`
-- 32 C.E., after Festival of Dedication — Plot to kill Jesus `b5-0115`
-- 32 C.E., after Festival of Dedication — Jesus leaves for Ephraim `b5-0116`
-- 32 C.E., after Festival of Dedication — Jesus tells how God’s Kingdom will come `b5-0118`
-- 32 C.E., after Festival of Dedication — Illustrations: persistent widow, Pharisee and tax collector `b5-0119`
-- 32 C.E., after Festival of Dedication — Teaches on marriage and divorce `b5-0120`
-- 32 C.E., after Festival of Dedication — Blesses the children `b5-0121`
-- 32 C.E., after Festival of Dedication — Rich man’s question `b5-0122`
-- 32 C.E., after Festival of Dedication — Illustration of vineyard workers and equal pay `b5-0123`
-- 32 C.E., after Festival of Dedication — Request for James’ and John’s position in the Kingdom `b5-0125`
-- 32 C.E., after Festival of Dedication — Passing through Jericho, Jesus heals two blind men `b5-0126`
-- 32 C.E., after Festival of Dedication — Ten minas illustration `b5-0128`
-- 33 C.E., Nisan 10 — Jesus spends the night in Bethany `b16-0002`
-- 33 C.E., Nisan 12 — Jesus spends a quiet day with his disciples `b16-0003`
-- 33 C.E., Nisan 13 (late afternoon) — Jesus and the other apostles arrive in late afternoon for the Passover `b16-0004`
-- 33 C.E., Nisan 15 — Priests and Pharisees get guard for tomb and seal it `b5-0165`
-- 33 C.E., Nisan 16 (after sunset) — Additional burial spices are purchased `b16-0006`
-- Nisan 16–Iyyar 25, 33 C.E. — Jesus’ 40 days of appearances after his resurrection `b12-0046`
-- 33 C.E., Nisan 16 — Jesus appears five times to disciples `b5-0167`
-- 33 C.E., After Nisan 16 — Makes more appearances to disciples; instructs; commissions disciple-making `b5-0168`
-- 33 C.E. — Christian congregation founded `b6-0002`
-- 33 C.E. (Pentecost) — About 3,000 baptized on the day of Pentecost `b6-0003`
-- c. 33-34 C.E. — Ethiopian eunuch baptized by Philip `b6-0005`
-
-**Row 3 · 1–100 C.E.** (49)
-
-- c. 36 C.E. — Paul first visits Jerusalem as a Christian and spends 15 days with Peter `b6-0008`
-- c. 36 C.E. — Caiaphas’ term as high priest ends `b6-0009`
-- 41-54 C.E. — Reign of Claudius, Roman emperor `b12-0048`
-- c. 41 C.E. — Paul’s vision of “the third heaven” `b6-0013`
-- c. 44 C.E. — Agabus prophesies a great famine `b6-0015`
-- possibly 44 C.E. — Disciples first called Christians at Antioch `b6-0016`
-- c. 44 C.E. — Apostle James (son of Zebedee) executed by Herod Agrippa I `b6-0017`
-- c. 46 C.E. — Foretold great famine strikes `b6-0020`
-- c. 46 C.E. — Paul and Barnabas carry famine relief from Antioch to Jerusalem `b6-0021`
-- c. 49 C.E. — Circumcision issue raised at Antioch `b6-0023`
-- c. 49 C.E. — Paul corrects Peter at Antioch `b6-0025`
-- c. 49-52 C.E. — Barnabas and Mark preach in Cyprus `b6-0027`
-- c. 49-50 C.E. — Claudius expels the Jews from Rome `b6-0028`
-- late 49 or early 50 C.E. — Timothy joins Paul at Lystra `b6-0029`
-- c. 50 C.E. (probably spring) — Paul’s vision of the Macedonian man; Paul crosses into Europe `b6-0030`
-- c. 50 C.E. — Luke joins Paul at Troas `b6-0031`
-- c. 50 C.E. — Paul visits Philippi `b6-0032`
-- c. 50 C.E. — Lydia and her household become Christians in Philippi `b6-0033`
-- c. 50 C.E. — Philippian congregation founded `b6-0034`
-- c. 50 C.E. — Paul preaches in Athens `b6-0036`
-- 52 C.E. (per most scholars) — Felix becomes procurator of Judea `b6-0043`
-- c. 52 C.E. — Apollos taught by Aquila and Priscilla in Ephesus `b6-0044`
-- c. 52 C.E. (summer) — Paul returns to Syrian Antioch, ending his second journey `b6-0045`
-- 54-68 C.E. — Reign of Nero, Roman emperor `b12-0049`
-- c. 55 C.E. — Titus sent to Corinth `b6-0050`
-- c. 55 C.E. (after Pentecost) — Paul leaves Ephesus for Macedonia and Greece `b6-0051`
-- c. 56 C.E. — Paul resurrects Eutychus in Troas `b6-0054`
-- c. 56 C.E. — Paul and Luke stay with Philip the evangelizer in Caesarea `b6-0055`
-- c. 56 C.E. — Agabus foretells Paul’s arrest `b6-0056`
-- c. 56 C.E. (by Pentecost) — Paul arrives in Jerusalem and meets James and the elders `b6-0057`
-- c. 56 C.E. — Paul arrested at the temple in Jerusalem `b6-0058`
-- c. 58 C.E. — Porcius Festus succeeds Felix as governor of Judea `b6-0061`
-- c. 58 C.E. — Paul appeals to Caesar before Festus `b6-0062`
-- 58 C.E. — King Herod Agrippa II hears Paul’s defense `b6-0063`
-- c. 59 C.E. — Paul arrives at Puteoli and Rome `b6-0066`
-- c. 61 C.E. — Paul released from house arrest in Rome `b6-0075`
-- c. 61-64 C.E. — Titus left in Crete to organize the congregations `b6-0077`
-- c. 65 C.E. — Paul’s second imprisonment in Rome `b6-0085`
-- c. 65 C.E. — Titus leaves for Dalmatia `b6-0086`
-- c. 65 C.E. — Paul executed in Rome `b6-0089`
-- 66 C.E.–70 C.E. — Jewish revolt against Rome `b12-0050`
-- 66 C.E. — Sicarii (“dagger men”) seize Masada and massacre the Roman garrison `b6-0091`
-- 68-69 C.E. — Reign of Galba, Roman emperor `b12-0051`
-- 69-79 C.E. — Reign of Vespasian, Roman emperor `b12-0052`
-- 70 C.E., April 3 — Roman armies under Titus lay siege to Jerusalem `b6-0095`
-- 79-81 C.E. — Reign of Titus, Roman emperor `b12-0054`
-- 96-98 C.E. — Reign of Nerva, Roman emperor `b12-0056`
-- c. 96 C.E. — Apostle John exiled on Patmos receives the Revelation `b6-0099`
-- 98-117 C.E. — Reign of Trajan, Roman emperor `b12-0057`
-
-**P5 Bible survives / wheat & weeds** (55)
-
-- end of 2nd century C.E. — Canon of the Christian Greek Scriptures recognized as closed `b7-0008`
-- c. 245 C.E. — Origen completes the Hexapla `b7-0012`
-- 367 C.E. — Council of Laodicea acknowledges the Bible canon `b7-0028`
-- 382 C.E.–405 C.E. — Jerome’s work on the Latin Vulgate `b12-0058`
-- 383 or 384 C.E. — Jerome's revised Latin Gospels published `b7-0037`
-- 386 C.E. — Jerome moves to Bethlehem to study Hebrew `b7-0039`
-- first half of 5th century C.E. — Codex Alexandrinus produced `b7-0045`
-- c. 508 C.E. — Philoxenian revision adds missing books to the Syriac Bible `b7-0051`
-- 867 C.E. — Cyril and Methodius go to Rome to defend use of Slavonic `b7-0058`
-- 869 C.E. — Cyril dies `b7-0059`
-- 885 C.E. — Methodius dies; disciples expelled from Moravia `b7-0062`
-- c. 895 C.E. — Cairo Karaite Codex of the Prophets completed by Moses ben Asher `b7-0063`
-- 916 C.E. — Petersburg Codex of the Latter Prophets `b7-0064`
-- c. 1170 C.E. — Vaudès (Peter Waldo) starts the Waldensian preaching movement `b7-0072`
-- 1517, October 31 — Luther posts his 95 theses — start of the Protestant Reformation `b7-0106`
-- 1523 — Tyndale seeks Bishop Tunstall's support, then leaves England `b7-0114`
-- 1524 — Tyndale begins translating from Hebrew and Greek in Germany `b7-0115`
-- 1525 — Tyndale's "New Testament" completed; Cologne printing raided `b7-0116`
-- 1526 — Robert Estienne takes over his father's Paris press `b7-0119`
-- 1530 — Antonio Brucioli's Italian translation from Erasmus' text `b7-0123`
-- 1535 — Coverdale Bible — first complete printed English Bible `b7-0130`
-- 1537 — Coverdale's Bible printed in England; Matthew's Bible approved `b7-0134`
-- 1553 — Stephanus' French Bible — first complete Bible with present verse divisions `b7-0147`
-- 1557 — Estienne's two-version Latin Bible uses "Jehova" `b7-0149`
-- 1560 — Geneva Bible — first English Bible with numbered verses `b7-0153`
-- 1568 — Bishops' Bible published `b7-0155`
-- 1576 — Geneva Bible printed in England `b7-0157`
-- 1592 — Sixtine Clementine Vulgate becomes Catholic standard `b7-0159`
-- 1602 — Cipriano de Valera revises Reina's Spanish Bible `b7-0160`
-- 1607 — Diodati Italian Bible published `b7-0162`
-- 1681 — Almeida's Portuguese "New Testament" printed `b7-0171`
-- 1711 — Third edition of Almeida's New Testament financed for Tranquebar missionaries `b7-0174`
-- 1719 — Ziegenbalg dies, having translated the Hebrew Scriptures up to Ruth `b7-0176`
-- by 1732 — Benjamin Schultze finishes a Telugu rendering (never printed) `b7-0178`
-- 1776-1780 — Kennicott publishes readings of over 600 Hebrew manuscripts `b7-0180`
-- 1784-1798 — De Rossi publishes comparisons of Hebrew manuscripts at Parma `b7-0182`
-- 1790 — Bishop Scio's Spanish Bible from the Vulgate `b7-0183`
-- 1798 — Carey sets up a printing press at Calcutta `b7-0187`
-- 1800 — Carey moves his press to Serampore `b7-0188`
-- 1805 — Christian Greek Scriptures in Chinese printed at Serampore `b7-0192`
-- 1807 — Robert Morrison arrives in China to translate the Bible `b7-0193`
-- 1809 — Entire Bible in Bengali issued `b7-0194`
-- 1812, February — Adoniram and Ann Judson embark; settle in Burma (1813) `b7-0195`
-- 1814 — Morrison has the Christian Greek Scriptures in Chinese ready for printing `b7-0198`
-- 1817 — Judson begins translating the Bible into Burmese `b7-0201`
-- 1823, June — Judson completes Burmese Christian Greek Scriptures `b7-0206`
-- 1823 — Torres Amat Spanish Bible from the Vulgate `b7-0207`
-- 1830 — Moffat prints Gospel of Luke in Tswana `b7-0209`
-- 1840 — Sharpe's English translation based on Griesbach `b7-0211`
-- 1841 — Malayalam Bible published, using "Jehovah" `b7-0212`
-- 1844 — Tischendorf discovers first portion of Codex Sinaiticus `b7-0213`
-- 1853 — George Storrs publishes "Bible Vs. Tradition" in the United States `b7-0218`
-- 1854 — First complete Telugu Bible `b7-0219`
-- 1857 — Moffat completes the entire Bible in Tswana `b7-0223`
-- 1862 — Young's translation (1862-98) uses "Jehovah" `b7-0227`
-
-**P6 Modern by decade** (275)
-
-- 1868 or 1869 — Russell’s wavering faith is reestablished after hearing Jonas Wendell `b8-0002`
-- January 1876 — Russell receives a copy of Herald of the Morning `b8-0007`
-- Summer 1876 — Russell meets N. H. Barbour in Philadelphia `b8-0008`
-- August 1878 — Barbour’s article denies the substitutionary value of Christ’s death `b8-0012`
-- September 1878 — Russell defends the ransom in “The Atonement” `b8-0013`
-- 1879 — C. T. Russell marries Maria Frances Ackley `b8-0015`
-- 1879 — Babylon the Great associated with Christendom’s churches `b8-0016`
-- May 1879 — Russell withdraws all support from Herald of the Morning `b8-0017`
-- 1880 — Bible Students’ Tracts begin to be produced `b8-0023`
-- 1880 — Watch Tower clarifies the identity of the 144,000 `b8-0024`
-- 1881 — “Wanted 1,000 Preachers”: colporteur work begins `b8-0026`
-- 1881 — Watch Tower readers invited to observe the Memorial in Allegheny `b8-0028`
-- 1881 — Readers urged to hold regular meetings and report meeting places `b8-0029`
-- February 16, 1881 — Zion’s Watch Tower Tract Society is formed `b8-0030`
-- October 1881 — Faithful and wise servant explained as a collective servant `b8-0032`
-- 1882 — Watch Tower article refutes the Trinity doctrine `b8-0033`
-- 1882 — Pittsburgh congregation votes Russell its pastor `b8-0034`
-- 1883 — Watch Tower reasons Jesus was born about October `b8-0036`
-- April 18, 1886 — Three-day “general meeting” after the Memorial begins annual conventions `b8-0041`
-- 1889 — First recorded Memorial convention attendance: 225 `b8-0044`
-- 1891 — Cross-and-crown symbol appears on Watch Tower cover `b8-0048`
-- 1891 — Russell begins extensive tours outside the United States `b8-0049`
-- 1892 — Watch Tower speaks of disfellowshipping those who deny the ransom `b8-0051`
-- 1893 — Major convention held in Chicago `b8-0053`
-- 1894 — Traveling representatives (pilgrims) sent to visit congregations `b8-0054`
-- January 1895 — Zion’s Watch Tower appears with a new cover design `b8-0055`
-- 1895 — “Dawn Circles” for Bible study recommended `b8-0056`
-- August 1, 1895 — Russell comments against tobacco use `b8-0057`
-- November 15, 1895 — Congregations instructed to choose elders `b8-0058`
-- 1896 — Watch Tower Society publishes Rotherham’s New Testament `b8-0061`
-- 1897 — Joseph L. Russell, Charles’ father, dies `b8-0063`
-- 1898 — Local assemblies begin to be arranged `b8-0064`
-- March 26, 1899 — Memorial observed at 339 meetings `b8-0066`
-- 1900 — Witnessing done in 28 countries `b8-0067`
-- 1902 — Branch office established in Germany `b8-0070`
-- 1902 — Holman Linear Parallel Bible with Berean Bible Study Helps `b8-0071`
-- 1903 — House-to-house tract distribution on Sundays `b8-0072`
-- 1904 — Branch office established in Australia `b8-0076`
-- c. October 1904 — Name Studies in the Scriptures adopted for the series `b8-0077`
-- 1907 — Bible Students Edition of the King James Version published `b8-0081`
-- June 15, 1908 — Watch Tower publishes the “vow” on moral conduct `b8-0082`
-- January 1, 1909 — Magazine renamed The Watch Tower and Herald of Christ’s Presence `b8-0083`
-- May 1909 — J. F. Rutherford admitted to the bar of the U.S. Supreme Court `b8-0086`
-- 1912 — Work begins on the “Photo-Drama of Creation” `b8-0091`
-- 1914 — Local groups adopt the name Associated Bible Students `b8-0093`
-- September 1, 1915 — Watch Tower begins to refine understanding of neutrality `b8-0099`
-- October 16, 1916 — Russell departs on his final lecture tour `b8-0100`
-- December 1, 1916 — Watch Tower lists an editorial committee instead of one editor `b8-0102`
-- March 1, 1917 — Society begins assigning preaching territory `b8-0105`
-- 1918 — Congregations encouraged to arrange juvenile Bible classes `b8-0108`
-- January 5, 1918 — Annual meeting confirms Rutherford’s leadership `b8-0109`
-- February 12, 1918 — Canada bans The Finished Mystery `b8-0110`
-- February 24, 1918 — “The World Has Ended—Millions Now Living May Never Die” first delivered `b8-0111`
-- March 31, 1918 — Boston talk titled “Millions Now Living Will Never Die” `b8-0113`
-- May 7, 1918 — Federal arrest warrants issued for Rutherford and associates `b8-0114`
-- August 26, 1918 — Brooklyn headquarters closed; operations moved to Pittsburgh `b8-0118`
-- 1919 — Service director appointed in each congregation `b8-0120`
-- 1919 — 1919 report: 5,793 preaching in 43 lands `b8-0121`
-- January 4, 1919 — Rutherford reelected while in prison `b8-0122`
-- early 1919 — Faithful Bible Students revived after the 1918 test `b10-0006`
-- By October 1, 1919 — Headquarters activity resumes in Brooklyn `b8-0127`
-- 1920 — Booklet Millions Now Living Will Never Die points to 1925 `b8-0130`
-- July 1, 1920 — Watch Tower article “Gospel of the Kingdom” `b8-0132`
-- 1921 — The Harp of God published `b8-0133`
-- 1922 — Convention resolution “A Challenge to World Leaders” `b8-0134`
-- 1922 — Clergy in Germany agitate for arrests of Bible Students `b8-0135`
-- 1922 — Watch Tower points to two organizations, Jehovah’s and Satan’s `b8-0136`
-- March 1, 1922 — Printing moves to 18 Concord Street, Brooklyn `b8-0139`
-- May 15, 1922 — Study questions become a regular Watch Tower feature `b8-0141`
-- 1923 — Watch Tower draws attention to a class with earthly hope `b8-0143`
-- 1923 — First broadcast of a convention session `b8-0144`
-- 1923 — Monthly field-service testimonies (forerunner of Service Meeting) `b8-0145`
-- July 4, 1923 — Nathan H. Knorr baptized `b8-0146`
-- 1924 — Resolution “Ecclesiastics Indicted” distributed `b8-0147`
-- March 1, 1925 — Watch Tower article “Birth of the Nation” `b8-0150`
-- January 1, 1926 — Watch Tower article “Who Will Honor Jehovah?” `b8-0151`
-- 1926 — House-to-house preaching with books on Sunday encouraged `b8-0152`
-- 1926 — Bible Students own six radio stations `b8-0153`
-- 1926 — Pilgrims become supervisors of field service `b8-0154`
-- 1926 — Last Christmas celebrated at Brooklyn Bethel `b8-0157`
-- February 15, 1927 — Faithful and wise servant reaffirmed as collective `b8-0159`
-- July 24, 1927 — Toronto convention talk carried by unparalleled radio network `b8-0160`
-- November 11, 1927 — Swiss Federal Supreme Court rules confiscating tracts violates freedom of belief `b8-0161`
-- December 14, 1927 — The Golden Age notes Christmas is a pagan celebration `b8-0162`
-- 1928 — Cross-and-crown emblems shown to be objectionable (Detroit) `b8-0164`
-- 1928 — Watch Tower stresses the Kingdom above personal salvation `b8-0165`
-- 1928 — Bible Students’ radio stations in Canada lose licenses `b8-0167`
-- 1928 — Congregations urged to hold Service Meeting weekly `b8-0168`
-- December 12, 1928 — Exposé “Christmas, Its Origin and Purpose” `b8-0169`
-- 1929 — Superior authorities explained as Jehovah and Jesus `b8-0171`
-- October 15, 1931 — Jehovah’s name on every Watchtower cover; title becomes The Watchtower `b8-0177`
-- 1932 — Booklet Home and Happiness urges family Bible study `b8-0179`
-- August 1, 1932 — Jonadab pictures a class with earthly hope `b8-0180`
-- August 15, 1932 — Arrangement for elective elders terminated `b8-0181`
-- 1933 — Transcription machines and sound cars used to broadcast lectures `b8-0184`
-- 1933 — Testimony cards introduced for door-to-door ministry `b8-0185`
-- 1933 — Kingdom message carried by over 400 radio stations `b8-0186`
-- October 3, 1933 — Supreme Court of Denmark upholds right to preach `b8-0189`
-- 1934 — Portable phonographs used to play recorded Bible discourses `b8-0190`
-- August 15, 1934 — Watchtower: Jonadabs should dedicate themselves and be baptized `b8-0191`
-- October 7, 1934 — German congregations send protest letters to the government `b8-0192`
-- 1935 — Meeting place first called Kingdom Hall, in Honolulu `b8-0193`
-- March 1, 1935 — Watchtower addresses moral problems and drunkenness `b8-0195`
-- April 1, 1935 — General ban of Jehovah’s Witnesses throughout Germany `b8-0196`
-- 1936 — Book Riches published; Bible studies encouraged `b8-0200`
-- 1936 — Jesus shown to have died on a stake, not a cross `b8-0201`
-- May 6, 1936 — Golden Age notes no birthday celebrations among God’s people in the Bible `b8-0202`
-- July 1936 — Traveling overseers called regional servants `b8-0203`
-- December 12, 1936 — Witnesses in Germany distribute the Lucerne resolution `b8-0204`
-- 1937 — Phonographs played on the doorstep; special pioneers outlined `b8-0205`
-- 1937 — The Golden Age renamed Consolation `b8-0206`
-- 1937 — Great crowd brothers may serve on service committees `b8-0207`
-- Late 1937 — Witnesses withdraw from commercial radio `b8-0209`
-- 1938 — Zone assemblies (forerunner of circuit assemblies) arranged `b8-0210`
-- 1938 — Congregation singing largely dispensed with `b8-0211`
-- February 15, 1938 — Prospective great multitude invited to attend the Memorial `b8-0212`
-- September 11, 1938 — “Face the Facts” lecture from Royal Albert Hall, London `b8-0216`
-- 1939 — Mob attempts to break up assembly at Madison Square Garden `b8-0219`
-- September 15, 1939 — August Dickmann publicly shot at Sachsenhausen `b8-0222`
-- November 1, 1939 — Landmark Watchtower article “Neutrality” `b8-0223`
-- March 30, 1940 — Young Witness Gerhard Steinacher executed `b8-0226`
-- June 10, 1940 — N. H. Knorr becomes vice president of the Society `b8-0229`
-- June 16, 1940 — U.S. solicitor general condemns attacks on Witnesses `b8-0230`
-- February 16, 1942 — Advanced Course in Theocratic Ministry inaugurated at headquarters `b8-0239`
-- September 24, 1942 — Boards approve a school to train missionaries `b8-0241`
-- October 1942 — Servants to the brethren begin visiting congregations `b8-0242`
-- October 1, 1942 — Watchtower Study restructured `b8-0243`
-- 1943 — Book “The Truth Shall Make You Free” clarifies chronology `b8-0245`
-- February 1, 1943 — First class of the Watchtower Bible School of Gilead begins `b8-0246`
-- 1944 — Watchtower indicates transfusion is a way of eating blood `b8-0253`
-- 1944 — Judicial matters to be handled by responsible brothers `b8-0254`
-- 1944 — Persecution of Witnesses in the U.S. abates `b8-0255`
-- 1945 — Global Public Meeting campaign announced `b8-0257`
-- April-May 1945 — Concentration camps liberated; Witnesses survive death marches `b8-0260`
-- August 5, 1945 — Convention in Amsterdam after release from camps `b8-0261`
-- October 1, 1945 — Board of directors no longer chosen by donor-voters `b8-0263`
-- October 5, 1945 — F. W. Franz selected vice president `b8-0264`
-- November 1945 — Knorr and Henschel begin tour of postwar Europe `b8-0265`
-- 1946 — Over 470 Witnesses taken before courts in Greece `b9-0005`
-- 1946 — “Let God Be True” published `b9-0006`
-- 1947 — Congregations worldwide exceed 10,000 `b9-0013`
-- 1950 — Theocracy’s Increase Assembly `b9-0025`
-- 1950, June — Supreme Court of Canada hears Boucher case `b9-0026`
-- 1950, December 18 — Supreme Court of Canada rules for Boucher `b9-0028`
-- 1951 — Questions and answers on blood published `b9-0029`
-- 1952 — Bible-based procedure for judicial matters published `b9-0033`
-- 1952, November 19 — Branch servant summoned in Nicaragua; ban follows `b9-0034`
-- 1953, March 17 — Netherlands Supreme Court: Havenaar case `b9-0039`
-- 1953, June 19 — Nicaragua Supreme Court rules for the Witnesses `b9-0040`
-- 1953, September 1 — Program of training in house-to-house preaching begins `b9-0041`
-- 1953, October 6 — Supreme Court of Canada: Saumur case `b9-0042`
-- 1954 — Motion pictures begin to be used in preaching `b9-0044`
-- 1956, May 15 — Watchtower urges regular family Bible study `b9-0048`
-- 1957 — Over 100 million hours spent preaching in 169 lands `b9-0049`
-- 1957 — WBBR, last Witness radio station, shut down `b9-0051`
-- 1958 — Divine Will International Assembly in New York `b9-0052`
-- 1959 — Sisters invited to enroll in Theocratic Ministry School `b9-0054`
-- 1959, March 9 — First Kingdom Ministry School class begins at South Lansing `b9-0055`
-- 1960, March 13 — Final text of New World Translation completed `b9-0057`
-- 1961 — Branch overseers attend ten-month training course in Brooklyn `b9-0059`
-- 1961 — Weekly radio program begins in Suriname `b9-0062`
-- 1962 — Watchtower clarifies “superior authorities” of Romans 13 `b9-0064`
-- 1963 — NWT Christian Greek Scriptures released in six more languages `b9-0068`
-- 1965 — First Assembly Hall put to use in New York `b9-0074`
-- 1966 — Updated Kingdom Ministry School begins `b9-0077`
-- 1967 — Waves of persecution begin in Malawi `b9-0081`
-- 1968 — The Truth That Leads to Eternal Life published `b9-0083`
-- 1969 — Home Bible studies exceed one million `b9-0085`
-- 1971 — Governing Body enlarged and separated from board of directors `b9-0092`
-- 1971, October 1 — Governing Body chairmanship begins to rotate annually `b9-0093`
-- 1972, October 1 — Congregations come under oversight of bodies of elders `b9-0097`
-- 1973 — Use of tobacco made a disfellowshipping offense `b9-0099`
-- 1974 — Peak publishers exceed two million `b9-0101`
-- November 28 [1974] — Governing Body enlarged to 18 members `b9-0102`
-- 1975, December 4 — Governing Body reorganized into six committees `b9-0104`
-- 1976 — Barros brothers expelled from school in Argentina `b9-0105`
-- 1976, January 1 — Governing Body committees begin to function `b9-0108`
-- 1976, February 1 — Branch Committees replace single branch overseers `b9-0109`
-- 1977 — Pioneer Service School begins `b9-0111`
-- 1979 — Elders begin visiting hospitals about blood `b9-0119`
-- 1981 — All public talks to be based on outlines `b9-0122`
-- 1982 — You Can Live Forever in Paradise on Earth published `b9-0125`
-- 1982 — Awake! series “Young People Ask” begins `b9-0126`
-- 1983 — Iakovos Thlimmenos convicted in Greece `b9-0131`
-- 1983, July 13 — Supreme Court in Serbia upholds literature distribution `b9-0132`
-- 1984 — Ministerial servants begin attending Kingdom Ministry School `b9-0136`
-- 1985, December — International convention in Kinshasa, Zaire `b9-0142`
-- 1986, March 12 — Witnesses declared illegal in Zaire `b9-0147`
-- 1986, May 26 — Turkey Supreme Court annuls convictions of Witnesses `b9-0148`
-- 1987, October 1 — Ministerial Training School begins `b9-0154`
-- 1988, October 12 — Zaire government seizes branch property `b9-0164`
-- 1989 — NWT published in 11 languages `b9-0165`
-- 1989 — Three international conventions held in Poland `b9-0167`
-- 1990 — Witness students expelled in the Philippines over flag salute `b9-0169`
-- 1990 — Literature offered on voluntary donation basis `b9-0170`
-- 1990 — Public discourses delivered only as talks `b9-0171`
-- 1990 — Videos begin to be used in preaching `b9-0174`
-- 1991 — Bans lifted in Eastern Europe and Africa `b9-0175`
-- 1992 — 4,472,787 share in Kingdom proclamation in 229 lands `b9-0180`
-- 1992 — “Light Bearers” Convention in St. Petersburg `b9-0181`
-- 1992 — Ohio Supreme Court considers custody case `b9-0183`
-- 1992 — Legal recognition in the Russian Federation `b9-0184`
-- 1993 — “Divine Teaching” Convention in Kyiv; 7,402 baptized `b9-0189`
-- 1993, May 25 — ECHR rules for Minos Kokkinakis (Greece) `b9-0191`
-- 1996 — ECHR rules for Manoussakis (Greece) `b9-0207`
-- 1996 — Weekly radio program in Apia, Samoa `b9-0208`
-- 1999 — Program to build Kingdom Halls in developing lands `b9-0218`
-- 1999, March 1 — Watchtower explains Ezekiel’s temple vision `b9-0219`
-- 1999, July 2 — Death of Governing Body member Lloyd Barry `b9-0220`
-- 2000 — Training program for all translation teams authorized `b9-0226`
-- 2000, February 29 — Japan Supreme Court upholds right to refuse blood `b9-0227`
-- 2002, September — Vahan Bayatyan begins prison sentence in Armenia `b9-0239`
-- 2004 — NWT available in over 50 languages `b9-0243`
-- 2005 — What Does the Bible Really Teach? released `b9-0246`
-- 2005 (“currently,” w05 10/1) — Over six million Witnesses preach in 235 lands `b15-0007`
-- 2008, January — Public talks reduced to 30 minutes `b9-0263`
-- 2009 — Midweek meetings combined; Family Worship evening `b9-0269`
-- 2009, October 27 — ECHR chamber rules against Bayatyan `b9-0270`
-- 2010 — ECHR rules on Moscow liquidation case `b9-0274`
-- 2010, December 4 — Death of Governing Body member John E. Barr `b9-0277`
-- 2011 — “Let God’s Kingdom Come!” Convention; Daniel 2 image refined `b9-0283`
-- 2011 — Metropolitan public witnessing begins `b9-0284`
-- 2011, June 30 — ECHR judgment in French tax case `b9-0285`
-- 2011, October — Gilead enrollment limited to special full-time servants `b9-0287`
-- 2012, August 27 — Redesigned jw.org released `b9-0296`
-- 2012 (Awake!, October 2012) — More than seven million Witnesses teach about God’s Kingdom in more than 230 lands `b15-0008`
-- 2013 — Understanding clarified: “faithful and discreet slave” (Matt. 24:45-47) `b9-0302`
-- 2013 — School for Kingdom Evangelizers approved `b9-0311`
-- 2013, August 10 — Printing of revised NWT begins `b9-0313`
-- 2014 — “Keep Seeking First God’s Kingdom!” Convention `b9-0324`
-- 2014 — Over 44 million Awake! and 46 million Watchtower copies monthly `b9-0325`
-- 2014, January 11 — Sri Lanka branch facilities dedicated `b9-0326`
-- 2014, June 3 — ECHR rules for four Turkish conscientious objectors `b9-0328`
-- 2014, October 4 — 130th annual meeting marks 100 years of Kingdom rule `b9-0329`
-- 2014, October 6 — JW Broadcasting launched `b9-0330`
-- 2015 — Understanding clarified: types and antitypes `b9-0336`
-- 2015, January 24 — Madagascar branch dedicated `b9-0338`
-- 2015, February 14 — New branch facilities in Jakarta dedicated `b9-0339`
-- 2015, May — JW Broadcasting approved for translation `b9-0340`
-- 2015, May 27 — New Local Religious Organization registered in Moscow `b9-0341`
-- 2015, June 24 — Namibia Supreme Court upholds patient’s right to refuse blood `b9-0342`
-- 2015, September 23 — Organizational changes announced to worldwide Bethel family `b9-0343`
-- 2015, October 3 — New midweek meeting “Our Christian Life and Ministry” announced `b9-0344`
-- 2016, February 1 — Wallkill expansion completed; U.S. branch transfers `b9-0354`
-- 2016, April 15 — Russia Supreme Court reverses Tyumen liquidation `b9-0355`
-- 2016, May 14 — Armenia branch office dedicated `b9-0356`
-- 2017, April 3 — World headquarters at Warwick opens for tours `b9-0362`
-- 2017, April 22 — First open house at Warwick headquarters `b9-0364`
-- 2017, April 29 — Second open house at Warwick headquarters `b9-0365`
-- 2017, July 17 — Russia’s Supreme Court upholds ban on appeal `b9-0366`
-- 2018, November 1 — South Korea Supreme Court: conscientious objection not a crime `b9-0378`
-- 2019, October 5 — Ramapo media production facility announced `b9-0381`
-- 2020, March — Congregations begin meeting by videoconference `b9-0390`
-- 2020, March 3 — Headquarters issues coronavirus guidance `b9-0391`
-- 2021, October — Pilot program to resume some in-person meetings `b9-0398`
-- 2022, April 1 — In-person congregation meetings resume `b9-0407`
-- 2022, May 31 — Public witnessing resumes (except door-to-door) `b9-0408`
-- 2022, September 1 — House-to-house ministry resumes worldwide `b9-0411`
-- 2022, December 28 — Ramapo Town Board approves special permit `b9-0412`
-- 2023, January — In-person circuit assemblies and theocratic schools resume `b9-0413`
-- 2023, June 28 — Ramapo Planning Board approves site plan `b9-0418`
-- 2023, October 7 — 2023 annual meeting: clarifications and reporting change `b9-0419`
-- 2023, November — Publishers no longer report all ministry activity `b9-0421`
-- 2024, November 6 — Ramapo final site plan signed; major construction may begin `b9-0441`
-- 2025 — 2025 Service Year Report: Memorial attendance 20,635,015 `b9-0449`
-- 2025, August 1 — NWT Christian Greek Scriptures marks 75 years; in over 320 languages `b9-0453`
-- 2025, November 21 — Ramapo: foundations of first permanent structure poured `b9-0456`
-- 2026, January 12 — First family Watchtower Study at Ramapo site `b9-0462`
-- 2026, March 20 — Position clarified on use of a patient’s own blood `b9-0464`
-- 2026, June 9 — ECHR judgments for Witnesses in Bulgaria and Italy `b9-0466`
-- 2026, June 19 — “Eternal Happiness” International Conventions begin `b9-0468`
-- 2026, June 26 — Blue Lake property purchased near Warwick `b9-0469`
-- 2026, July 9 — ECHR rules in Barsuk and Gyl v. Ukraine `b9-0470`
-- 2026, August — Ramapo project reaches 1,000 daily workers `b9-0472`
-- 2026, September 18 — Adjustment to position on blood components `b9-0474`
+- February 16, 1852 — Charles Taze Russell is born `b8-0001` · shown by its life/reign/office bar
+- November 8, 1869 — Joseph F. Rutherford is born `b8-0003` · shown by its life/reign/office bar
+- 1879 — Songbook Songs of the Bride published `b8-0014` · Songbook release; minor publication
+- December 28, 1879 — George Storrs dies `b8-0020` · shown by its life/reign/office bar
+- 1881 — “Wanted 1,000 Preachers”: colporteur work begins `b8-0026` · Same 1881 colporteur start as b8-0027
+- 1889 — First recorded Memorial convention attendance: 225 `b8-0044` · Yearly or numeric statistic
+- 1890 — Poems and Hymns of Millennial Dawn published `b8-0046` · Songbook release; minor publication
+- January 1895 — Zion’s Watch Tower appears with a new cover design `b8-0055` · Magazine cover redesign
+- March 26, 1899 — Memorial observed at 339 meetings `b8-0066` · Yearly or numeric statistic
+- 1900 — Witnessing done in 28 countries `b8-0067` · Yearly or numeric statistic
+- 1900 — Songbook Zion’s Glad Songs published `b8-0068` · Songbook release; minor publication
+- 1905 — Hymns of the Millennial Dawn published `b8-0079` · Songbook release; minor publication
+- April 23, 1905 — Nathan H. Knorr is born `b8-0080` · shown by its life/reign/office bar
+- January 1, 1909 — Magazine renamed The Watch Tower and Herald of Christ’s Presence `b8-0083` · Magazine renamed; minor title change
+- 1913 — Russell’s sermons reach millions through newspapers `b8-0092` · Yearly or numeric statistic
+- 1914 — 1914 report: 5,155 preaching in 43 lands `b8-0094` · Yearly or numeric statistic
+- January 6, 1917 — J. F. Rutherford elected president of the Society `b8-0104` · shown by its life/reign/office bar
+- 1919 — 1919 report: 5,793 preaching in 43 lands `b8-0121` · Yearly or numeric statistic
+- 1925 — Songbook Kingdom Hymns published `b8-0149` · Songbook release; minor publication
+- 1926 — Bible Students own six radio stations `b8-0153` · Yearly or numeric statistic
+- 1928 — Songbook Songs of Praise to Jehovah published `b8-0166` · Songbook release; minor publication
+- July 24-30, 1931 — Columbus, Ohio, convention broadcast over vast radio network `b8-0175` · Same 1931 convention as name adoption b8-0176
+- 1933 — Kingdom message carried by over 400 radio stations `b8-0186` · Yearly or numeric statistic
+- May 31, 1935 — Great multitude identified as an earthly class (Washington, D.C.) `b8-0197` · Same 1935 great-crowd talk as b10-0008
+- 1940 — Over 90 recorded talks and a million records produced `b8-0224` · Yearly or numeric statistic
+- 1941 — Active Witnesses pass 100,000 `b8-0232` · Yearly or numeric statistic
+- 1942 — Watchtower printing for the year: 11,325,143 `b8-0234` · Yearly or numeric statistic
+- January 8, 1942 — J. F. Rutherford dies in San Diego `b8-0237` · shown by its life/reign/office bar
+- January 13, 1942 — N. H. Knorr becomes third president of the Society `b8-0238` · shown by its life/reign/office bar
+- 1945 — Home Bible studies average 104,814 a month `b8-0259` · Yearly or numeric statistic
+- 1946 — 6,504 pioneers in first year after World War II `b9-0008` · Yearly or numeric statistic
+- 1947 — Congregations worldwide exceed 10,000 `b9-0013` · Yearly or numeric statistic
+- 1948, August — Postwar relief effort concluded `b9-0018` · End of relief effort; campaign start holds tier
+- 1950 — Songbook Songs to Jehovah’s Praise released `b9-0024` · Songbook release; minor publication
+- 1957 — Over 100 million hours spent preaching in 169 lands `b9-0049` · Yearly or numeric statistic
+- 1966 — Songbook “Singing and Accompanying Yourselves With Music” released `b9-0078` · Songbook release; minor publication
+- 1969 — Home Bible studies exceed one million `b9-0085` · Yearly or numeric statistic
+- 1974 — Peak publishers exceed two million `b9-0101` · Yearly or numeric statistic
+- 1976, January 1 — Governing Body committees begin to function `b9-0108` · Committees functioning; same reorganization as b9-0104
+- 1977, June 8 — Death of Nathan H. Knorr `b9-0112` · shown by its life/reign/office bar
+- 1977, June 22 — Frederick W. Franz elected president `b9-0113` · shown by its life/reign/office bar
+- 1982 — Truth book exceeds 100 million copies `b9-0123` · Yearly or numeric statistic
+- 1984 — Home Bible studies average over two million `b9-0133` · Yearly or numeric statistic
+- 1984 — Songbook Sing Praises to Jehovah released `b9-0137` · Songbook release; minor publication
+- 1985 — Over three million share in preaching in 222 lands `b9-0141` · Yearly or numeric statistic
+- 1987 — 60 Regional Building Committees in the United States `b9-0149` · Yearly or numeric statistic
+- 1987 — Bible studies with over three million individuals `b9-0150` · Yearly or numeric statistic
+- 1988, June 16 — Death of Governing Body member Martin Poetzinger `b9-0163` · shown by its life/reign/office bar
+- 1990 — Kingdom publishers reach peak of 4,017,213 `b9-0172` · Yearly or numeric statistic
+- 1990 — Restrictions lifted in lands in Africa and Eastern Europe `b9-0173` · Same lifting of restrictions as b9-0175
+- 1992 — 4,472,787 share in Kingdom proclamation in 229 lands `b9-0180` · Yearly or numeric statistic
+- 1992, December 22 — Death of Frederick W. Franz `b9-0185` · shown by its life/reign/office bar
+- 1992, December 30 — Milton G. Henschel chosen fifth president `b9-0186` · shown by its life/reign/office bar
+- 1994, July 1 — Gerrit Lösch added to the Governing Body `b9-0197` · shown by its life/reign/office bar
+- 1999, October 2 — Guy H. Pierce appointed to the Governing Body `b9-0221` · shown by its life/reign/office bar
+- 2001 — Benefit From Theocratic Ministry School Education published `b9-0228` · School textbook release
+- 2001 — Report: 18,300 Kingdom Halls needed in 88 lands `b9-0233` · Yearly or numeric statistic
+- 2005, September 1 — Geoffrey Jackson and Anthony Morris added to Governing Body `b9-0248` · shown by its life/reign/office bar
+- 2006, April 18 — Death of Governing Body member Daniel Sydlik `b9-0251` · shown by its life/reign/office bar
+- 2010 — Bethel buildings in Papua New Guinea dedicated `b9-0275` · Single branch dedication
+- 2010, June 9 — Death of Governing Body member Theodore Jaracz `b9-0276` · shown by its life/reign/office bar
+- 2012, September 1 — Mark Sanderson added to the Governing Body `b9-0297` · shown by its life/reign/office bar
+- 2013 — jw.org available in some 300 languages `b9-0309` · Yearly or numeric statistic
+- 2013 — Peak of 7,965,954 publishers; 19.2 million at Memorial `b9-0310` · Yearly or numeric statistic
+- 2013, June — Brochure Jehovah’s Witnesses and Disaster Relief released `b9-0312` · Single brochure release
+- 2013, August 10 — Printing of revised NWT begins `b9-0313` · Printing start; revised NWT release is the event
+- 2014 — Over 44 million Awake! and 46 million Watchtower copies monthly `b9-0325` · Yearly or numeric statistic
+- 2014, January 11 — Sri Lanka branch facilities dedicated `b9-0326` · Single branch dedication
+- 2014, March 18 — Death of Governing Body member Guy H. Pierce `b9-0327` · shown by its life/reign/office bar
+- 2015, January 24 — Madagascar branch dedicated `b9-0338` · Single branch dedication
+- 2015, February 14 — New branch facilities in Jakarta dedicated `b9-0339` · Single branch dedication
+- 2015, May — JW Broadcasting approved for translation `b9-0340` · Administrative step for JW Broadcasting
+- 2016, May 14 — Armenia branch office dedicated `b9-0356` · Single branch dedication
+- 2017, April 22 — First open house at Warwick headquarters `b9-0364` · Open house detail
+- 2017, April 29 — Second open house at Warwick headquarters `b9-0365` · Open house detail
+- 2018, January 24 — Kenneth Cook, Jr., appointed to the Governing Body `b9-0377` · shown by its life/reign/office bar
+- 2020, March 3 — Headquarters issues coronavirus guidance `b9-0391` · Administrative pandemic guidance
+- 2021, October 1 — Governing Body Update announces 2022 yeartext `b9-0397` · Routine video update
+- 2021, November 12 — Governing Body Update reports pilot in-person meetings `b9-0399` · Routine video update
+- 2022, August 26 — Governing Body Update announces 2023 yeartext `b9-0410` · Routine video update
+- 2022, December 28 — Ramapo Town Board approves special permit `b9-0412` · Ramapo permit step
+- 2023 — 2023 Service Year Report: 118,177 congregations `b9-0415` · Yearly or numeric statistic
+- 2023, January 18 — Gage Fleegle and Jeffrey Winder appointed to Governing Body `b9-0417` · shown by its life/reign/office bar
+- 2023, June 28 — Ramapo Planning Board approves site plan `b9-0418` · Ramapo permit step
+- 2024, March 15 — Adjustments to dress standard at theocratic events `b9-0438` · Routine video update
+- 2024, May 3 — Bible principles for decisions on dress and grooming `b9-0439` · Routine video update
+- 2024, October 5 — Jody Jedele and Jacob Rumph appointed to Governing Body `b9-0440` · shown by its life/reign/office bar
+- 2024, December 27 — Balanced view of those who appear in videos `b9-0442` · Routine video update
+- 2025, March 21 — Literacy efforts and new convention song announced `b9-0451` · Routine video update
+- 2025, July 4 — Bible principles on symbols and customs `b9-0452` · Routine video update
+- 2025, August 22 — Bible principles on additional secular education `b9-0454` · Routine video update
+- 2025, September 26 — Governing Body Update announces 2026 yeartext `b9-0455` · Routine video update
+- 2025, November 21 — Ramapo: foundations of first permanent structure poured `b9-0456` · Ramapo construction progress
+- 2026, January 12 — First family Watchtower Study at Ramapo site `b9-0462` · Ramapo site detail
+- 2026, July 31 — Feeding ourselves spiritually every day `b9-0471` · Routine video update
+- 2026, August — Ramapo project reaches 1,000 daily workers `b9-0472` · Ramapo construction progress
 

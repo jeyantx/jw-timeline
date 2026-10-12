@@ -1,0 +1,451 @@
+{
+ "era": "33–100 C.E.",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b6-0004": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Stephen's martyrdom; listed T1 anchor"
+  },
+  "b6-0005": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ethiopian eunuch baptized; well-known Acts account"
+  },
+  "b6-0006": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Saul's conversion; listed T1 anchor"
+  },
+  "b6-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Saul preaches in Damascus; context"
+  },
+  "b6-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Paul's first Jerusalem visit; minor travel leg"
+  },
+  "b6-0009": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "High priest's term ends; official's term"
+  },
+  "b6-0010": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Cornelius, first Gentile convert; listed T1 anchor"
+  },
+  "b6-0011": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "End of the 70 weeks; C5 core step"
+  },
+  "b12-0047": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Caligula not named in Bible; emperor context"
+  },
+  "b12-0048": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Claudius named in Acts (11:28; 18:2); Bible-linked emperor"
+  },
+  "b6-0013": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Paul's vision of third heaven; context"
+  },
+  "b6-0014": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of Matthew completed'"
+  },
+  "b6-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Agabus foretells famine; famine relief is the T2 record"
+  },
+  "b6-0016": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Disciples first called Christians at Antioch"
+  },
+  "b6-0017": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Apostle James executed; first apostle martyred"
+  },
+  "b6-0018": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Peter freed by angel; rubric T2"
+  },
+  "b6-0019": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Herod Agrippa I struck by angel; well-known Acts 12 account"
+  },
+  "b6-0020": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Famine strikes; relief record carries it"
+  },
+  "b6-0021": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famine relief to Jerusalem; rubric T2"
+  },
+  "b6-0022": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Paul's first missionary journey; rubric: three journeys T1"
+  },
+  "b6-0023": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Dispute that led to the council; council is T1"
+  },
+  "b6-0024": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Governing body circumcision ruling; listed T1 anchor"
+  },
+  "b6-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Paul corrects Peter; context"
+  },
+  "b6-0026": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Paul's second missionary journey; rubric: three journeys T1"
+  },
+  "b6-0027": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Barnabas and Mark in Cyprus; minor travel leg"
+  },
+  "b6-0028": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Claudius expels Jews; political context"
+  },
+  "b6-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Timothy joins Paul; major companion, two Bible books"
+  },
+  "b6-0030": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Macedonian call; good news enters Europe"
+  },
+  "b6-0031": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Luke joins Paul; companion detail"
+  },
+  "b6-0032": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Philippi visit; congregation-founded record carries it"
+  },
+  "b6-0033": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lydia baptized; detail of Philippi account"
+  },
+  "b6-0034": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Philippian congregation founded; rubric 'congregations founded'"
+  },
+  "b6-0035": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Thessalonian congregation founded; rubric 'congregations founded'"
+  },
+  "b6-0036": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Paul at Athens (Areopagus); rubric T2"
+  },
+  "b6-0037": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "18 months in Corinth; rubric T2"
+  },
+  "b6-0040": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Gallio's proconsulship; official's term"
+  },
+  "b6-0042": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Gallio dismisses case; detail of Corinth stay"
+  },
+  "b6-0043": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Felix appointed; official's term"
+  },
+  "b6-0044": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Apollos taught; individual detail"
+  },
+  "b6-0045": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "End of second journey shown by journey bar"
+  },
+  "b6-0046": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Paul's third missionary journey; rubric: three journeys T1"
+  },
+  "b6-0047": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Three years in Ephesus; major base like Corinth"
+  },
+  "b12-0049": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Nero: Caesar of Paul's appeal and persecution"
+  },
+  "b6-0050": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Titus sent to Corinth; minor mission"
+  },
+  "b6-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Leaves Ephesus; minor travel leg"
+  },
+  "b6-0054": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Eutychus resurrected; only resurrection by Paul"
+  },
+  "b6-0055": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Stay with Philip; minor travel leg"
+  },
+  "b6-0056": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Agabus foretells arrest; context"
+  },
+  "b6-0057": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Arrives in Jerusalem; travel leg before arrest"
+  },
+  "b6-0058": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Paul arrested at temple; rubric T2"
+  },
+  "b6-0059": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Two years' custody in Caesarea; rubric T2"
+  },
+  "b6-0061": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Festus succeeds Felix; official's term"
+  },
+  "b6-0062": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Paul appeals to Caesar; leads to Rome"
+  },
+  "b6-0063": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Defense before Agrippa II; well-known Acts 26"
+  },
+  "b6-0064": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Departure by ship; covered by Rome-trip bar"
+  },
+  "b16-0007": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Trip to Rome and imprisonment; rubric 'Rome' T2"
+  },
+  "b6-0065": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Shipwreck on Malta; well-known Acts 27-28"
+  },
+  "b6-0066": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Arrival at Rome; covered by Rome-trip bar"
+  },
+  "b6-0067": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "House arrest; covered by Rome-trip bar"
+  },
+  "b6-0072": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of Mark completed'"
+  },
+  "b6-0074": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of Acts completed'"
+  },
+  "b6-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Release from house arrest; end of Rome-trip bar"
+  },
+  "b6-0076": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Later travels; minor travel legs"
+  },
+  "b6-0077": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Titus in Crete; assignment detail"
+  },
+  "b11-0062": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Death of James per Josephus; extra-biblical person detail"
+  },
+  "b6-0085": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Second Roman imprisonment; context for 2 Timothy"
+  },
+  "b6-0086": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Titus to Dalmatia; one-line travel detail"
+  },
+  "b6-0088": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of Jude completed'"
+  },
+  "b6-0089": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Paul executed in Rome; end of his ministry"
+  },
+  "b6-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Revolt start shown by revolt bar"
+  },
+  "b12-0050": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jewish revolt 66-70; context of Jerusalem's fall"
+  },
+  "b6-0091": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Sicarii take Masada; not narrated in Bible"
+  },
+  "b6-0092": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Cestius withdraws (Luke 21:20); rubric T2"
+  },
+  "b6-0093": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Christians flee to Pella; rubric T2"
+  },
+  "b12-0051": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Galba not in Bible; emperor context"
+  },
+  "b12-0052": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Vespasian not named in Bible; emperor context"
+  },
+  "b6-0095": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Siege start shown by siege bar"
+  },
+  "b12-0053": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Siege of Jerusalem 70; part of landmark destruction"
+  },
+  "b6-0096": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Jerusalem and temple destroyed 70; listed T1 anchor"
+  },
+  "b6-0097": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Masada falls; not narrated in Bible"
+  },
+  "b12-0054": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Titus' reign; emperor not named in Bible"
+  },
+  "b12-0055": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Domitian not named in Bible; emperor context"
+  },
+  "b12-0056": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Nerva not in Bible; emperor context"
+  },
+  "b6-0099": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "John on Patmos receives Revelation; listed T1 anchor"
+  },
+  "b6-0101": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "John released from Patmos; follow-on detail"
+  },
+  "b12-0057": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Trajan not in Bible; emperor context"
+  },
+  "b6-0103": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of 1 John completed'"
+  },
+  "b6-0104": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of 2 John completed'"
+  },
+  "b6-0105": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b11 'Writing of 3 John completed'"
+  }
+ }
+}

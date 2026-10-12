@@ -1,0 +1,2741 @@
+{
+ "era": "e6_modern",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b8-0002": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0004": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1870 Bible study begins: start of modern Kingdom history"
+  },
+  "b8-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Foundational understanding; covered by 1870 study and 1879 magazine"
+  },
+  "b14-0002": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of south identity; Daniel 11 context"
+  },
+  "b14-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of north identity; Daniel 11 context"
+  },
+  "b14-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of north identity; Daniel 11 context"
+  },
+  "b8-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0007": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0008": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0009": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1876 article points to 1914 decades in advance"
+  },
+  "b8-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0012": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0013": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0014": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0015": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0016": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0017": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0018": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1879 Zion's Watch Tower launched; listed anchor"
+  },
+  "b12-0062": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Magazine bar; launch point b8-0018 holds T1"
+  },
+  "b8-0019": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0021": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0022": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0023": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0024": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b17-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Master text; scholarly context"
+  },
+  "b8-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0026": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Same 1881 colporteur start as b8-0027"
+  },
+  "b8-0027": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Colporteur (pioneer) work begins 1881; listed T2 example"
+  },
+  "b8-0028": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0029": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0030": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Society formed; 1884 charter holds T2"
+  },
+  "b8-0031": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0032": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0033": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0034": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0035": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0036": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0038": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Watch Tower Society legally chartered 1884"
+  },
+  "b8-0039": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0040": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Divine Plan of the Ages: first Studies in the Scriptures volume"
+  },
+  "b8-0041": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0042": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Allegheny HQ bar (T2)"
+  },
+  "b8-0043": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0044": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b12-0064": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First headquarters, Bible House 1889-1909 (HQ bar, like Brooklyn)"
+  },
+  "b8-0045": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b8-0046": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0047": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0048": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0049": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0050": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0052": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0053": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0054": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0055": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Magazine cover redesign"
+  },
+  "b8-0056": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0057": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0058": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0059": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0060": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0061": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0062": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0063": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0064": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0065": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0066": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0067": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0068": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0069": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First branch office, London 1900; listed T2 example"
+  },
+  "b8-0070": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0071": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0072": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0073": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0076": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0077": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0079": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0078": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b17-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Master text; scholarly context"
+  },
+  "b8-0081": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0082": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0083": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Magazine renamed; minor title change"
+  },
+  "b8-0084": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Brooklyn HQ bar (T2)"
+  },
+  "b12-0065": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Brooklyn headquarters 1909-2017; listed T2 example (HQ bar)"
+  },
+  "b8-0085": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0086": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0087": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0088": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0089": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0091": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Preparation; Photo-Drama premiere holds T2"
+  },
+  "b8-0092": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0093": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0094": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0095": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Photo-Drama of Creation premieres 1914; listed T2 example"
+  },
+  "b8-0096": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0097": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b10-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Gentile Times / seven times end in 1914; listed anchor"
+  },
+  "b8-0098": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b10-0002": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "God's Kingdom born in heaven 1914; central event of the era"
+  },
+  "b13-0001": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 App. B1 step: Satan hurled from heaven"
+  },
+  "b10-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Shown by T1 last-days span and T2 WWI span"
+  },
+  "b12-0068": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "World War I: start of last-days sign"
+  },
+  "b10-0004": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 wheat-and-weeds stage: harvest begins 1914 (span already T1)"
+  },
+  "b8-0099": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0100": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0101": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Person's death (C4)"
+  },
+  "b8-0102": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0103": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0105": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0106": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0107": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0108": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Training arrangement detail"
+  },
+  "b8-0109": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0110": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0111": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0112": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0113": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0114": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0115": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b15-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Last-days sign or prophecy detail; context"
+  },
+  "b8-0116": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0117": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of imprisonment bar (T2)"
+  },
+  "b12-0073": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1918-19 imprisonment of Society officers (bar: sentence to release)"
+  },
+  "b8-0118": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Temporary 14-month move; HQ moves to permanent sites hold T2"
+  },
+  "b12-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Temporary 14-month HQ relocation"
+  },
+  "b17-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Wheat-and-weeds member, not a core stage; 1919 covered elsewhere"
+  },
+  "b8-0119": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0120": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0121": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0122": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Election of a person"
+  },
+  "b14-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "League proposal; League bar holds T2"
+  },
+  "b10-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Restoration covered by T1 1919 gathering and slave records"
+  },
+  "b10-0007": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1919 faithful and discreet slave appointed; listed anchor"
+  },
+  "b8-0123": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of imprisonment bar (T2)"
+  },
+  "b8-0124": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0125": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b17-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "House-to-house exhortation; context"
+  },
+  "b8-0126": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0127": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Return from temporary Pittsburgh move"
+  },
+  "b8-0128": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Golden Age launched 1919, forerunner of Awake!; magazine launch"
+  },
+  "b12-0076": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Golden Age bar; launch point holds T2"
+  },
+  "b12-0077": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0129": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Society begins own printing 1920; kr literature milestone"
+  },
+  "b8-0130": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b14-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of League bar (T2)"
+  },
+  "b14-0007": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "League of Nations: image of the wild beast (Rev. 17)"
+  },
+  "b8-0131": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0132": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b15-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Last-days sign or prophecy detail; context"
+  },
+  "b8-0133": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Study book; Divine Plan holds the tier"
+  },
+  "b8-0134": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0135": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0136": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0137": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b8-0138": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "First radio talk; radio era shown by WBBR bar"
+  },
+  "b8-0139": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b8-0140": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0141": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0142": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1922 Cedar Point \"Advertise the King\" — kr landmark of preaching"
+  },
+  "b8-0143": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0144": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0145": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0146": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0147": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0148": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of WBBR radio bar (T2)"
+  },
+  "b12-0079": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "WBBR radio bar 1924-1957 stands for the radio era"
+  },
+  "b8-0149": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0150": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1925 \"Birth of the Nation\": Kingdom born 1914 understood"
+  },
+  "b8-0151": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0152": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "House-to-house emphasis; context for kr methods"
+  },
+  "b8-0153": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0154": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0155": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b14-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "1926 convention; 1,335-days span is T1"
+  },
+  "b8-0156": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0157": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0158": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b8-0159": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0160": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0161": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0162": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0163": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0164": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0165": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0166": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b8-0167": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0168": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0169": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0170": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0171": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0172": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0173": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0174": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0175": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Same 1931 convention as name adoption b8-0176"
+  },
+  "b8-0176": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1931 name Jehovah's Witnesses adopted; listed anchor"
+  },
+  "b8-0177": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0178": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0179": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0180": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0181": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0182": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b15-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Last-days sign or prophecy detail; context"
+  },
+  "b8-0183": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Nazi ban bar (T2)"
+  },
+  "b8-0184": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0185": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0186": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0187": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b12-0080": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Nazi ban and persecution 1933-45; listed T2 example (ban bar)"
+  },
+  "b8-0188": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0189": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0190": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Portable phonographs at the door; listed T2 method"
+  },
+  "b8-0191": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0192": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0193": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1935 name Kingdom Hall first used"
+  },
+  "b8-0194": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0195": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0196": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Detail within Nazi ban bar"
+  },
+  "b8-0197": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Same 1935 great-crowd talk as b10-0008"
+  },
+  "b10-0008": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1935 great crowd identified; listed anchor"
+  },
+  "b8-0198": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0199": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0200": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Training arrangement detail"
+  },
+  "b8-0201": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0202": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0203": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0204": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0205": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0206": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Magazine rename; Golden Age/Awake! launches hold tier"
+  },
+  "b8-0207": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b12-0081": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Interim magazine title between Golden Age and Awake!"
+  },
+  "b8-0208": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0209": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0210": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0211": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0212": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0213": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Lovell v. Griffin 1938: first U.S. Supreme Court victory"
+  },
+  "b8-0214": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0215": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1938 theocratic appointment of servants; listed T2 example"
+  },
+  "b8-0216": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0217": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0219": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0220": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b8-0218": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Wartime Commonwealth bans; context of WWII persecution"
+  },
+  "b12-0084": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "World War II: last-days sign; neutrality and persecution backdrop"
+  },
+  "b8-0221": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0222": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0223": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1939 Neutrality article; kr neutrality landmark"
+  },
+  "b8-0224": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0225": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Street work method; context"
+  },
+  "b8-0226": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0227": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Cantwell v. Connecticut 1940: U.S. Supreme Court landmark"
+  },
+  "b8-0228": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Gobitis loss; Barnette reversal holds T2"
+  },
+  "b8-0229": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0230": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0231": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Canada ban: shorter national ban than Nazi/Malawi/Russia"
+  },
+  "b12-0085": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Canada ban: shorter national ban than Nazi/Malawi/Russia"
+  },
+  "b8-0232": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b12-0086": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Australia ban: shorter national ban"
+  },
+  "b8-0233": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0234": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0235": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0236": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0239": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Precursor course; Gilead holds tier"
+  },
+  "b8-0240": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0241": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Decision; Gilead start holds T1"
+  },
+  "b8-0242": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0243": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b15-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Last-days sign or prophecy detail; context"
+  },
+  "b8-0244": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Summary of 1943 rulings; key rulings hold T2"
+  },
+  "b8-0245": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b8-0246": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1943 Gilead first class; listed anchor (school start holds tier)"
+  },
+  "b12-0088": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Gilead bar; first-class point holds T1"
+  },
+  "b8-0247": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1943 Theocratic Ministry School begins; listed anchor"
+  },
+  "b12-0089": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "TMS bar; 1943 start point holds T1"
+  },
+  "b8-0248": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Murdock 1943: ministers, not salesmen; Supreme Court landmark"
+  },
+  "b8-0249": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Barnette 1943 overturns Gobitis; Supreme Court landmark"
+  },
+  "b8-0250": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Australia ban lifted; shorter national ban"
+  },
+  "b8-0251": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0252": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0253": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Blood stand 1944/45; well-known refinement"
+  },
+  "b8-0254": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0255": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b8-0256": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Charter change; administrative"
+  },
+  "b8-0257": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b8-0258": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b8-0259": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b8-0260": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of Nazi ban bar; covered by span"
+  },
+  "b14-0009": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of UN bar (T2)"
+  },
+  "b14-0010": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "United Nations: the eighth king (Rev. 17)"
+  },
+  "b8-0261": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b8-0262": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1945 postwar relief campaign; first major kr relief work"
+  },
+  "b14-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of north identity; Daniel 11 context"
+  },
+  "b14-0012": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of north identity; Daniel 11 context"
+  },
+  "b8-0263": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Charter change; administrative"
+  },
+  "b8-0264": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b8-0265": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b9-0001": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Awake! begins 1946; companion magazine launch"
+  },
+  "b9-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b9-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b9-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Neutrality imprisonment figure; context"
+  },
+  "b9-0008": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0009": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Quebec campaign; Boucher ruling holds T2"
+  },
+  "b12-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Awake! bar; launch point holds T2"
+  },
+  "b17-0010": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Dead Sea Scrolls discovered 1947; rubric T2 example"
+  },
+  "b9-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0013": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0016": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT committee start; releases hold the tier"
+  },
+  "b12-0091": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT translation work; releases hold the tier"
+  },
+  "b9-0018": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "End of relief effort; campaign start holds tier"
+  },
+  "b9-0020": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0023": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0024": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b9-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0026": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0027": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1950 NWT Christian Greek Scriptures; listed anchor"
+  },
+  "b12-0092": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT volumes 1950-60; 1950 and 1961 releases hold T1"
+  },
+  "b9-0028": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Boucher 1950: Canadian Supreme Court ends sedition charges; kr landmark"
+  },
+  "b9-0029": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b9-0031": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0033": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b9-0034": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0039": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0040": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0041": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Training arrangement detail"
+  },
+  "b9-0042": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Saumur: second Quebec ruling; Boucher holds T2"
+  },
+  "b9-0044": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0048": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0049": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of WBBR radio bar (T2)"
+  },
+  "b9-0052": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention; large but not a kr turning point"
+  },
+  "b9-0054": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "School enrolment change"
+  },
+  "b9-0055": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary school; Gilead and TMS hold school tier"
+  },
+  "b12-0093": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary school; Gilead and TMS hold school tier"
+  },
+  "b9-0057": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Final text completed; 1961 one-volume NWT holds T1"
+  },
+  "b9-0058": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Last volume; 1961 one-volume NWT holds T1"
+  },
+  "b9-0059": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Branch overseer course; secondary school"
+  },
+  "b9-0061": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1961 complete NWT in one volume; listed anchor"
+  },
+  "b9-0062": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0064": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b9-0065": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal clarification; context"
+  },
+  "b9-0068": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "NWT starts appearing in other languages (1963); listed T2 example"
+  },
+  "b9-0069": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Milestone figure: one million Witnesses (1963)"
+  },
+  "b9-0070": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Context leading to 1971 changes"
+  },
+  "b9-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b9-0077": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "School update"
+  },
+  "b9-0078": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b9-0079": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0081": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b12-0094": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Malawi ban 1967-93: longest, most violent nationwide ban"
+  },
+  "b9-0083": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Truth book 1968: most-circulated study aid of its era"
+  },
+  "b9-0085": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0084": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0092": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1971 Governing Body enlarged, separated from board; org change"
+  },
+  "b9-0093": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Chairmanship rotation; administrative"
+  },
+  "b9-0097": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1972 bodies of elders; listed T2 example"
+  },
+  "b9-0099": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Tobacco a disfellowshipping offense 1973; kr moral refinement"
+  },
+  "b9-0101": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0102": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "GB enlargement step; 1971 and 1975 records hold tier"
+  },
+  "b9-0104": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "1975-76 Governing Body set up in committees; listed anchor"
+  },
+  "b9-0105": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0108": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Committees functioning; same reorganization as b9-0104"
+  },
+  "b9-0109": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Branch committees; part of 1975-76 reorganization"
+  },
+  "b9-0111": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary school; Gilead and TMS hold school tier"
+  },
+  "b9-0115": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b9-0116": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0119": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0122": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Meeting-format adjustment"
+  },
+  "b9-0123": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0125": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Study book; Truth and Bible Teach hold the tier"
+  },
+  "b9-0126": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication or magazine detail"
+  },
+  "b9-0127": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Quick-build Kingdom Halls; context for construction"
+  },
+  "b9-0130": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0131": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0132": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0133": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0136": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "School enrolment change"
+  },
+  "b9-0137": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Songbook release; minor publication"
+  },
+  "b17-0011": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "NWT Reference Edition 1984; NWT edition, below 1950/1961/2013"
+  },
+  "b9-0140": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "International volunteers; construction context"
+  },
+  "b9-0141": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0142": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0146": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Regional Building Committees 1986; kr construction milestone"
+  },
+  "b9-0147": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Zaire ban: shorter national ban"
+  },
+  "b12-0099": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Zaire ban: shorter national ban"
+  },
+  "b9-0148": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0149": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0150": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0154": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary school; Gilead and TMS hold school tier"
+  },
+  "b9-0164": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0165": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT language count statistic"
+  },
+  "b9-0167": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0169": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0170": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Voluntary donation arrangement 1990; kr finances milestone"
+  },
+  "b9-0171": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Meeting-format adjustment"
+  },
+  "b9-0172": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0173": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Same lifting of restrictions as b9-0175"
+  },
+  "b9-0174": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0175": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1991 bans lifted across Eastern Europe and Africa"
+  },
+  "b9-0178": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b14-0013": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Soviet collapse; freedom covered by 1991 bans-lifted record"
+  },
+  "b14-0014": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King of north identity; Daniel 11 context"
+  },
+  "b9-0180": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0181": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0182": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Watchtower in 111 languages; listed T2 example"
+  },
+  "b9-0183": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0184": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0189": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0190": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Zaire ban lifted; shorter national ban"
+  },
+  "b9-0191": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Kokkinakis 1993: first ECHR landmark for the Witnesses"
+  },
+  "b9-0192": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0195": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0196": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0198": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1995 sheep and goats: judgment at great tribulation; outstanding clarification"
+  },
+  "b9-0199": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "1995 \"this generation\" clarified; widely known landmark adjustment"
+  },
+  "b9-0201": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Study book; Truth and Bible Teach hold the tier"
+  },
+  "b9-0207": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0208": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0211": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0215": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0218": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Kingdom Halls in developing lands 1999; 26,849 halls built"
+  },
+  "b9-0219": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal or practice refinement detail"
+  },
+  "b9-0220": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b9-0225": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0226": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Training arrangement detail"
+  },
+  "b9-0227": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0228": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "School textbook release"
+  },
+  "b9-0233": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0234": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0235": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0238": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Watchtower v. Stratton 2002; U.S. Supreme Court landmark in kr"
+  },
+  "b9-0239": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local persecution event; context"
+  },
+  "b9-0243": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT language count statistic"
+  },
+  "b9-0245": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0246": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Bible Teach book 2005: major study aid, hundreds of languages"
+  },
+  "b15-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Preaching report; last-days-sign context"
+  },
+  "b9-0263": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Meeting-format adjustment"
+  },
+  "b9-0264": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0269": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "2009 midweek meetings combined, Family Worship evening"
+  },
+  "b9-0270": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0274": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0275": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single branch dedication"
+  },
+  "b9-0277": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual person's event or talk (C4)"
+  },
+  "b9-0282": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0283": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0284": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Public witnessing with carts begins 2011; major kr method"
+  },
+  "b9-0285": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0286": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Bayatyan 2011: ECHR Grand Chamber upholds conscientious objection"
+  },
+  "b9-0287": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "School enrolment change"
+  },
+  "b9-0295": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0296": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "jw.org (2012); listed T2 example"
+  },
+  "b15-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Preaching report; last-days-sign context"
+  },
+  "b9-0302": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "2013 faithful slave understanding; rubric's outstanding clarification"
+  },
+  "b9-0309": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0310": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0311": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary school; Gilead and TMS hold school tier"
+  },
+  "b9-0312": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single brochure release"
+  },
+  "b12-0109": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Warwick construction; HQ bar holds T2"
+  },
+  "b9-0313": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Printing start; revised NWT release is the event"
+  },
+  "b9-0314": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "2013 revised NWT released; listed anchor"
+  },
+  "b9-0315": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0316": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0324": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0325": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0326": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single branch dedication"
+  },
+  "b9-0328": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0329": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0330": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "JW Broadcasting launched 2014; listed T2 example"
+  },
+  "b9-0336": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal clarification; context"
+  },
+  "b9-0338": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single branch dedication"
+  },
+  "b9-0339": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single branch dedication"
+  },
+  "b9-0340": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Administrative step for JW Broadcasting"
+  },
+  "b9-0341": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0342": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0343": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0344": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "2015 Our Christian Life and Ministry meeting introduced"
+  },
+  "b9-0345": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0354": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b9-0355": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0356": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Single branch dedication"
+  },
+  "b12-0110": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Warwick headquarters 2017-; listed T2 example (HQ bar)"
+  },
+  "b9-0362": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Warwick HQ bar (T2)"
+  },
+  "b9-0363": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "2017 Russia ban; listed anchor"
+  },
+  "b12-0111": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Russia ban bar; ban point holds T1"
+  },
+  "b9-0364": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Open house detail"
+  },
+  "b9-0365": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Open house detail"
+  },
+  "b9-0366": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Appeal upholds ban; ban itself is T1"
+  },
+  "b14-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prophetic clarification detail"
+  },
+  "b9-0378": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "National court ruling; not in kr landmark set"
+  },
+  "b9-0380": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0381": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b9-0390": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of videoconference bar (T2)"
+  },
+  "b12-0113": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Pandemic videoconference meetings 2020-22; listed T2 example"
+  },
+  "b9-0391": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Administrative pandemic guidance"
+  },
+  "b9-0392": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0397": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0398": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0399": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0407": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of videoconference bar (T2)"
+  },
+  "b9-0408": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ministry resumes after pandemic; context"
+  },
+  "b9-0409": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "ECHR 2022: Russia's ban ruled unlawful"
+  },
+  "b9-0410": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0411": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ministry resumes after pandemic; context"
+  },
+  "b9-0412": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Ramapo permit step"
+  },
+  "b9-0413": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0415": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Yearly or numeric statistic"
+  },
+  "b9-0416": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0418": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Ramapo permit step"
+  },
+  "b9-0419": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0420": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0421": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0422": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0426": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "2024 disfellowshipping renamed removal; major congregation change"
+  },
+  "b9-0438": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0439": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0441": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Ramapo construction bar"
+  },
+  "b12-0118": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ramapo construction; not a headquarters move"
+  },
+  "b9-0442": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0449": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Milestone figure: latest report, 20.6 million at Memorial"
+  },
+  "b9-0450": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0451": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0452": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0453": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT anniversary; languages milestone given to 1963 record"
+  },
+  "b9-0454": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0455": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0456": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Ramapo construction progress"
+  },
+  "b9-0457": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0462": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Ramapo site detail"
+  },
+  "b9-0463": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0464": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0465": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0466": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0467": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  },
+  "b9-0468": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention or assembly detail"
+  },
+  "b9-0469": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Construction or printing detail"
+  },
+  "b9-0470": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual legal case or step; not a kr landmark"
+  },
+  "b9-0471": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Routine video update"
+  },
+  "b9-0472": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Ramapo construction progress"
+  },
+  "b9-0473": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational or preaching detail; context"
+  },
+  "b9-0474": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Video update with a notable adjustment"
+  }
+ }
+}

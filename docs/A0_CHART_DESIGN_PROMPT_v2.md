@@ -9,12 +9,14 @@ Thank you for the four concepts. **Decision: go with the hybrid of 1b (Serpentin
 ## 1. What changed in the brief
 
 1. **Church history is reframed.** Do not chart Christendom's politics. The 100–1869 period becomes **"The Bible survives"**:
-   - **Positive Bible milestones** (about 45), drawn as the main content. They follow NWT Appendix A3 "How the Bible Came to Us" and the 1997 Watchtower series of the same name. These include copying and manuscripts, the Septuagint and early versions, the Vulgate, the Masoretes, codices, the printing press (Gutenberg), Erasmus' Greek text, translations into the common language (Wycliffe, Tyndale, Luther, King James, the **Tamil Bible by Ziegenbalg in 1714**, Chinese), Bible societies, and the divine name.
-   - **A thin "weeds" thread** (களைகள்) of about 15 negative markers. Examples are Constantine and the Council of Nicaea, the Trinity becoming state religion, the Crusades, the Inquisition, the bans on Bibles in the common language (Toulouse 1229, Trent, the Index), Bibles burned, and Hus and Tyndale executed.
+   - **Positive Bible milestones** (about 20), drawn as the main content. They follow NWT Appendix A3 "How the Bible Came to Us" and the 1997 Watchtower series of the same name. These include copying and manuscripts, the Septuagint and early versions, the Vulgate, the Masoretes, codices, the printing press (Gutenberg), Erasmus' Greek text, translations into the common language (Wycliffe, Tyndale, Luther, King James, the **Tamil Bible by Ziegenbalg in 1714**, Chinese), Bible societies, and the divine name.
+   - **A thin "weeds" thread** (களைகள்) of about 9 negative markers. Examples are Constantine and the Council of Nicaea, the Trinity becoming state religion, the Crusades, the Inquisition, the bans on Bibles in the common language (Toulouse 1229, Trent, the Index), Bibles burned, and Hus and Tyndale executed.
    - This follows the jw.org chart **"The Wheat and the Weeds"** (The Watchtower, July 15, 2013, Matt. 13:24-43). Sowing begins at Pentecost 33 C.E., weeds appear in the 2nd century and outnumber the wheat by the 4th, the harvest season starts in 1914, the wheat is gathered in 1919, and then comes the future.
    - Draw it as a **new highlight series**: a pair of lines, a bright wheat line and a dark, thorny weeds line, that grow apart through this era and are separated at the harvest.
 2. **Maps are added**, so date and place can be read together (§4).
-3. **The content is now budgeted.** About **650–700 labelled records** will be on the poster, chosen from about 1,900. The rest stay in the companion app. The budget for each zone is in §3.
+3. **The content is now chosen by priority tier.** Each of about 1,970 records has a tier: **1 Landmark**, **2 Major**, 3 Notable detail or 4 Fine detail. The poster shows **every tier 1 and tier 2 record (about 620) and nothing below**, in every era. The rest stay in the companion app. **Tier 1 labels should be visibly larger or bolder than tier 2.** The count per zone is in §3.
+   - **The emphasis has moved to the Bible era:** about 280 records from 4026 to 1 B.C.E., about 90 for Jesus and about 45 for the apostles. That includes about 60 newly added well-known accounts with "Lessons You Can Learn From the Bible" illustrations, such as Noah building the ark, David and Goliath, Elijah on Carmel, the fiery furnace and Daniel in the lions' pit.
+   - **Modern history is reduced** to about 85 **Kingdom and organization milestones**, following *God's Kingdom Rules!*. There are **no individual persons**: no presidents' or Governing Body ribbons, and no births or deaths.
 4. **Two audiences, one sheet.** It must work for an ordinary visitor (story, images, big shapes) and for a deep researcher (exact dates as printed, scriptures, references, uncertainty). See §5.
 5. **Periods must read as periods.** How long things lasted should be visible at a glance (§6).
 
@@ -46,7 +48,7 @@ A0 landscape, 1189 × 841 mm. Portrait is acceptable if you can show it works be
 | P3 World powers & Daniel | Rows 2–4 (tall column) | the 7 world powers as blocks to scale, plus the **Daniel 2 image** graphic. Its metals link to the blocks, with the Daniel 7 beasts and Daniel 8 symbols as small icons, and the stone (God's Kingdom) at the end |
 | P4 Jesus' ministry 29–33 C.E. | Row 3 | by Passover (four ministry years), plus the final week Nisan 8–16 (NWT App. B12) as a day strip |
 | P5 The Bible survives & the wheat and weeds | Row 3 | §1 point 1 |
-| P6 Modern history by decade | Row 4 | 1870s … 2020s, one row per decade (from 1c), with ribbons for presidents and Governing Body, bans, headquarters, magazines |
+| P6 Kingdom activity by decade | Row 4 | 1870s … 2020s, one row per decade (from 1c). Kingdom and organization milestones only: preaching methods, publications and NWT, schools, conventions, legal victories, bans, headquarters bars, magazines. No individual persons |
 | P7 Future | end of Row 4 | an ordered sequence with no dates; consider your "future lake" styling from 1a here |
 
 **D. Bottom band:**
@@ -59,27 +61,29 @@ A0 landscape, 1189 × 841 mm. Portrait is acceptable if you can show it works be
 
 Feel free to move things if the composition improves, but keep the logic: **overview strip → metro rows → docked magnifiers → maps.**
 
-## 3. Content budget per zone
+## 3. Content per zone (tier 1 + tier 2)
 
-Size the label slots to these counts at ≥ 9 pt. "Spans" are bars; the rest are points with labels.
+Size the label slots to these counts at ≥ 9 pt. Tier 1 is about 28 % of records and gets a larger label. "Spans" are bars; the rest are points with labels.
 
-| zone | labelled records | notes |
-|---|---|---|
-| Overview strip | about 40 anchors | ticks for everything else |
-| Row 1 · 4026–1000 B.C.E. | 80 | Flood, patriarchs, Israel in Egypt, Exodus and Law, conquest, judges (most judges' years are not stated: order only) |
-| P1 Lives overlap | 16 lifespans (+ 15 later lives elsewhere) | Adam 930 yrs, Methuselah 969 … Joseph 110 |
-| Row 2 · 1000–1 B.C.E. | 70 | exile, return, temple rebuilt, walls 455, Maccabees, Herod |
-| P2 Kings & prophets | about 66 | 20 Judah + 19 Israel reigns, Saul, David, Solomon, 15 prophets, a few key events |
-| P3 World powers & Daniel | about 8 blocks plus symbols | the series members appear on the rows too |
-| P4 Jesus 29–33 | about 95 | plus the B12 day strip |
-| Row 3 · 1–100 C.E. (apostles) | 30 | Pentecost, Paul's journeys as bars, Jerusalem destroyed 70 C.E., books written |
-| P5 Bible survives & weeds | about 70 | about 45 Bible milestones (NWT App. A3 "How the Bible Came to Us" thread), about 15 weeds markers, plus the wheat-and-weeds stages |
-| P6 Modern by decade | about 170 | about 10–15 per decade, more in the 1910s, 1930s and 2010s |
-| P7 Future | 20 | 17 events + 3 spans |
-| Bible books strip | 66 | abbreviation only, e.g. "Gen. 1513" |
-| **Total** | **≈ 690** | |
+| zone | records | of which tier 1 | notes |
+|---|---|---|---|
+| Overview strip | about 40 anchors (tier 1 picks) | — | ticks for everything else |
+| Row 1 · 4026–1000 B.C.E. | 107 | 42 | Flood, Babel, Abraham, Sodom, Job's trial, Joseph, the ten plagues, Exodus and Red Sea, Law, Jericho, judges, Samuel, David anointed, Goliath. Judges' years are not stated: order only |
+| P1 Lives overlap | 17 lifespans | all | Adam 930 yrs … Jacob 147, Joseph 110 |
+| Row 2 · 1000–1 B.C.E. | 85 | 21 | temple, kingdom divided, Elijah on Carmel, Jonah, 740, 732, 607, fiery furnace, lions' pit, 539, 537, Esther, 455, Septuagint, Maccabees, Herod |
+| P2 Kings & prophets | 62 | — | Judah and Israel reign bars, Saul, David, Solomon, 15 prophets |
+| P3 World powers & Daniel | 7 blocks plus symbols | all | the series members appear on the rows too |
+| P4 Jesus 2 B.C.E.–33 C.E. | 91 | 23 | plus the B12 final-week day strip |
+| Row 3 · 33–100 C.E. | 46 | 10 | Pentecost, Stephen, Saul's conversion, Cornelius, the council, Paul's journeys as bars, Areopagus, Jerusalem destroyed 70 C.E. |
+| P5 Bible survives & weeds | 31 | 10 | about 20 Bible milestones, including the **Tamil New Testament (1714)** at tier 1; about 9 weeds; the wheat-and-weeds stages |
+| P6 Kingdom activity by decade | 87 | 23 | about 5–10 per decade |
+| P7 Future | 20 | all | 17 events + 3 spans |
+| Bible books strip | 66 | — | abbreviation only, e.g. "Gen. 1513" |
+| **Total** | **619** | **174** | |
 
-Spans on the poster: about 240, including 32 lifespans, 50 reigns, 23 offices, 20 prophetic periods, 7 world powers, 11 prophets' activity bars (4 prophets are dated as single points), 11 judgeships, journeys, bans and headquarters. Lengths run from 7 days (a convention) to 2,520 years (the "seven times", 607 B.C.E.–1914).
+Spans on the poster: about 175, including 17 patriarch lifespans plus later Bible lives, about 50 reigns, 20 prophetic periods, 7 world powers, 11 prophets' activity bars, 11 judgeships, journeys, bans and headquarters. Lengths run from 7 days to 2,520 years (the "seven times", 607 B.C.E.–1914).
+
+**Images:** 193 poster records have jw.org artwork, many from "Lessons You Can Learn From the Bible" for the Bible accounts. Plan 30–40 medallions, weighted toward the Bible era.
 
 ## 4. Maps: date and place together
 
@@ -155,7 +159,7 @@ Please show both layers in the true-size crops (§7).
 | Fulfilled prophecies about nations | arcs from the prophet or book to the event |
 | **Wheat and the weeds (new)** | a wheat line and a dark thorny line diverging through 100–1869, separated at 1914–1919 |
 
-Other series appear as structure, not threads: kings of Judah and Israel, Persian kings, Roman emperors, Watch Tower presidents, Governing Body, the 66 books, and the Messiah's family line (which could be a faint line through P1 and P2).
+Other series appear as structure, not threads: kings of Judah and Israel, Persian kings, the Roman emperors named in the Bible, the 66 books, and the Messiah's family line (which could be a faint line through P1 and P2). Individual leaders' tenures are not shown on the poster.
 
 ## 9. Unchanged from round 1
 

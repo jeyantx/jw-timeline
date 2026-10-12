@@ -8,7 +8,7 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 - `schema/event.schema.json` — the record contract (v2: points and spans)
 - `docs/DATA_SCHEMA.md` — field-by-field explanation with real examples
 - `docs/UI_DESIGN_BRIEF.md` — app design brief · `docs/A0_CHART_DESIGN_BRIEF.md` — A0 poster brief (round 1) · `docs/A0_CHART_DESIGN_PROMPT_v2.md` — round 2 prompt (1b+1c hybrid)
-- `data/curation/` — poster selection (suggested) and owner overrides; `docs/POSTER_DROP_LIST.md` lists everything left off the poster
+- `data/curation/` — priority tiers (`tiers/*.json`, rubric `docs/POSTER_TIER_RUBRIC.md`), owner `tier_overrides.json`, poster selection and consistency report; `docs/POSTER_DROP_LIST.md` lists everything not on the poster
 - `docs/AGENT_BRIEF.md` — rules given to research agents (sources, Tamil, images, precision)
 - `data/raw/b1..b12.json` — one file per research batch (see below)
 - `data/raw/book_names.json` — 66 Bible books EN/TA names + abbreviations
@@ -41,7 +41,8 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 | b15 | dated fulfilments: Josiah's acts, Edom, last-days features | Insight, w, g |
 | b16 | NWT App. A6 / B12 / B13 audit additions | NWT Study Edition appendices |
 | b17 | wheat & weeds stages, Dead Sea Scrolls, Westcott-Hort, NWT 1984 Reference | w13 7/15, NWT App. A3, w97 |
-| d1 | 71 **derived spans**: 31 lifespans + 40 reigns (Judah, Israel) built from sourced points | scripts/derive_spans.py |
+| b18 | 63 well-known Bible accounts placed in their period (Noah's ark, Goliath, Carmel, lions' pit…) | lfb, bt, Insight |
+| d1 | 72 **derived spans**: 31 lifespans + 40 reigns (Judah, Israel) built from sourced points | scripts/derive_spans.py |
 
 ## Workflow
 ```
@@ -50,6 +51,7 @@ python3 scripts/build_series.py      # → data/series/auto-*.json (successions)
 python3 scripts/validate.py          # all raw + derived files
 python3 scripts/merge.py             # → data/merged/timeline.json + duplicates report
 python3 scripts/export_review.py     # → exports/timeline_review.xlsx + exports/timeline.csv
-python3 scripts/select_poster.py     # → A0 poster selection: exports/poster_selection.xlsx, docs/POSTER_DROP_LIST.md
+python3 scripts/tier_fixed.py        # → rule-decided tiers (data/curation/tiers/_fixed.json)
+python3 scripts/select_poster.py     # → poster = tier 1-2: exports/poster_selection.xlsx, docs/POSTER_DROP_LIST.md, consistency report
 ```
 `importance` is intentionally null everywhere — owner assigns tiers later.

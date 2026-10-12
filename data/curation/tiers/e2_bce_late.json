@@ -1,0 +1,836 @@
+{
+ "era": "e2_bce_late",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b3-0019": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Kingdom divided (997) — listed T1 anchor"
+  },
+  "b12-0016": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Israel kingdom bar frames the era, like world-power spans"
+  },
+  "b12-0017": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Judah kingdom bar frames the era, like world-power spans"
+  },
+  "b3-0020": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Shishak's invasion — listed T2 example"
+  },
+  "b3-0025": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Asa relies on Jehovah against Zerah's huge army; well-known account"
+  },
+  "b3-0026": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Border war detail between Asa and Baasha"
+  },
+  "b3-0030": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Accession shown by Omri's reign bar"
+  },
+  "b3-0031": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Samaria founded as Israel's capital; frames its 740 fall"
+  },
+  "b3-0035": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jehoshaphat's teachers — listed T2 example"
+  },
+  "b3-0037": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Coregency technicality; reign bars carry chronology"
+  },
+  "b3-0041": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Death/succession shown by reign bars"
+  },
+  "b3-0047": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Joint-rule chronology shown by reign bars"
+  },
+  "b3-0050": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Israel–Judah war detail under Amaziah"
+  },
+  "b3-0056": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Prophet's activity; like all prophets' bars (C1/C6)"
+  },
+  "b3-0058": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Regnal-count technicality; Uzziah reign bar covers it"
+  },
+  "b16-0001": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Regnal-count technicality; reign bar covers it"
+  },
+  "b3-0070": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ahaz's vassalage to Assyria; background to Isaiah 7"
+  },
+  "b3-0072": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Regnal-count technicality; Hoshea reign bar covers it"
+  },
+  "b3-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Siege start; the 740 fall carries the event"
+  },
+  "b3-0076": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Samaria falls (740) — listed T1 anchor"
+  },
+  "b3-0077": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Sennacherib; Jerusalem delivered (732) — listed T1 anchor"
+  },
+  "b3-0085": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Josiah's personal start; campaign and Law find carry story"
+  },
+  "b3-0086": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Josiah's purge of idolatry; major reform like Hezekiah's"
+  },
+  "b3-0089": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Josiah finds the Law — listed T1 anchor"
+  },
+  "b3-0090": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Greatest Passover since Samuel; like Hezekiah's Passover (T2)"
+  },
+  "b15-0001": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Bethel altar razed; prophecy naming Josiah fulfilled"
+  },
+  "b3-0091": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5: B9 fall of Assyria, Nahum fulfilled"
+  },
+  "b3-0092": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Prophet's activity; like all prophets' bars (C1/C6)"
+  },
+  "b3-0094": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Last faithful king killed at Megiddo; well-known turning point"
+  },
+  "b3-0097": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Prophet's activity; like all prophets' bars (C1/C6)"
+  },
+  "b3-0099": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Carchemish: Babylon's rise, dated in Jeremiah 46:2"
+  },
+  "b12-0020": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Foreign ruler bar of Bible narrative; all such bars T2"
+  },
+  "b3-0101": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Step toward exile; deportations carry the story"
+  },
+  "b3-0102": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Step toward exile; deportations carry the story"
+  },
+  "b3-0105": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First deportation (617) with Jehoiachin"
+  },
+  "b12-0021": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Captivity bar; deportation point and release carry it"
+  },
+  "b3-0106": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Daniel taken to Babylon — listed T1 anchor"
+  },
+  "b3-0107": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ezekiel exiled; begins his book's setting"
+  },
+  "b3-0110": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Siege start (Tebeth 10); siege bar shows it"
+  },
+  "b12-0022": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Final 18-month siege of Jerusalem; bar on poster"
+  },
+  "b3-0111": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Siege end; destruction record carries the event"
+  },
+  "b3-0112": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "End of Davidic kings in Jerusalem (Ezek 21:27)"
+  },
+  "b3-0113": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Jerusalem destroyed (607) — listed T1 anchor"
+  },
+  "b3-0114": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Governor appointment; administrative aftermath"
+  },
+  "b4-0006": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b3-0111 wall breach"
+  },
+  "b3-0115": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Aftermath; desolation start carries the outcome"
+  },
+  "b3-0116": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Start of 70-year desolation; span is T1"
+  },
+  "b3-0117": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "C5: start of the seven times (Gentile Times)"
+  },
+  "b3-0120": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Prophet's activity; like all prophets' bars (C1/C6)"
+  },
+  "b4-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Report reaching Ezekiel; detail"
+  },
+  "b4-0008": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Nebuchadnezzar's dream image — listed T2 example"
+  },
+  "b4-0009": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ezekiel's temple vision; major well-known vision"
+  },
+  "b4-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Minor prophecy detail on Egypt"
+  },
+  "b4-0012": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Fragmentary secular text; possible fulfilment"
+  },
+  "b4-0014": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Foreign accession; no bar, minor"
+  },
+  "b4-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Jehoiachin's release; closing note of Kings"
+  },
+  "b12-0026": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Foreign ruler bar of Bible narrative; all such bars T2"
+  },
+  "b4-0019": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Foreign accession; context for Belshazzar"
+  },
+  "b4-0020": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Daniel 7 four beasts; key world-power prophecy"
+  },
+  "b15-0002": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Secondary fulfilment against Edom"
+  },
+  "b4-0021": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian conquest not narrated in the Bible"
+  },
+  "b4-0022": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Battle known from Nabonidus Chronicle only"
+  },
+  "b4-0023": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Belshazzar's feast — listed T2 example"
+  },
+  "b4-0024": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Babylon falls (539) — listed T1 anchor"
+  },
+  "b4-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Follow-up detail to Babylon's fall"
+  },
+  "b4-0026": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "70 weeks prophecy given; key Daniel prophecy"
+  },
+  "b4-0027": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Cyrus' decree — listed T1 anchor"
+  },
+  "b4-0028": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Return 537, 70 years end — listed T1 anchor"
+  },
+  "b4-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "True worship resumed, 70 years to the month"
+  },
+  "b4-0030": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Festival accompanying the return"
+  },
+  "b4-0031": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Second temple foundation laid amid joy and weeping"
+  },
+  "b4-0032": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Daniel 10–12 vision; key prophecy like Dan 7 and 9"
+  },
+  "b12-0028": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Bar duplicates foundation (T2) and completion (T1) points"
+  },
+  "b4-0034": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Coregency title from cuneiform texts"
+  },
+  "b4-0036": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Persian succession; identifies Ezra 4:7 'Artaxerxes'"
+  },
+  "b4-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ban start; ban bar carries it"
+  },
+  "b12-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Temple work halted 522–520 (Ezra 4); bar on poster"
+  },
+  "b12-0030": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Foreign ruler bar of Bible narrative; all such bars T2"
+  },
+  "b4-0039": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Haggai's prophesying; equals a prophet's activity record (C1)"
+  },
+  "b4-0040": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ban end; ban bar carries it"
+  },
+  "b4-0041": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Zechariah's prophesying; equals a prophet's activity record (C1)"
+  },
+  "b4-0043": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sub-date within Zechariah's ministry"
+  },
+  "b4-0044": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian campaign not narrated in the Bible"
+  },
+  "b4-0045": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sub-date within Zechariah's ministry"
+  },
+  "b4-0047": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Temple rebuilt (515) — listed T1 anchor"
+  },
+  "b4-0048": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Same moment as completion (T1)"
+  },
+  "b4-0049": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian campaign not narrated in the Bible"
+  },
+  "b4-0050": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian campaign not narrated in the Bible"
+  },
+  "b4-0051": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Dan 11:2 background; secular campaign"
+  },
+  "b4-0052": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Coregency chronology; Xerxes bar covers it"
+  },
+  "b4-0053": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian campaign not narrated in the Bible"
+  },
+  "b4-0054": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Vashti deposed; opens Esther's account"
+  },
+  "b4-0055": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Persian–Greek war detail"
+  },
+  "b4-0056": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Marathon; Greek battle the Bible does not narrate"
+  },
+  "b12-0031": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Foreign ruler bar (Ahasuerus of Esther); all such bars T2"
+  },
+  "b4-0058": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Esther and Purim — listed T1 anchor"
+  },
+  "b4-0059": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Haman's decree; central to Esther's account"
+  },
+  "b4-0060": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Dan 11:2 fulfilment; secondary Daniel 11 detail"
+  },
+  "b4-0061": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Greek battle the Bible does not narrate"
+  },
+  "b12-0032": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Foreign ruler bar (Ezra/Nehemiah's king); all such bars T2"
+  },
+  "b4-0064": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ezra's return — listed T2 example"
+  },
+  "b4-0068": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude to Nehemiah's commission"
+  },
+  "b4-0069": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Walls commission; 70 weeks start — listed T1 anchor (C5)"
+  },
+  "b12-0033": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Nehemiah's governorship — listed T2 example"
+  },
+  "b4-0070": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Wall start; commission (T1) and completion carry it"
+  },
+  "b4-0071": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Wall completed in 52 days; famous account"
+  },
+  "b4-0072": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of governorship bar"
+  },
+  "b4-0073": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Nehemiah's later reforms; secondary"
+  },
+  "b4-0076": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Greek war the Bible does not narrate"
+  },
+  "b4-0078": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of first 'seven weeks'; secondary series step"
+  },
+  "b4-0079": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Greek politics the Bible does not narrate"
+  },
+  "b4-0081": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Greek politics the Bible does not narrate"
+  },
+  "b4-0082": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Accession shown by Alexander's lifespan bar"
+  },
+  "b12-0036": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Largely duplicates Alexander lifespan bar (T2)"
+  },
+  "b4-0083": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Alexander battle; Gaugamela carries the conquest"
+  },
+  "b4-0084": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Alexander battle; Gaugamela carries the conquest"
+  },
+  "b4-0085": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Island Tyre destroyed; Ezekiel's prophecy fulfilled"
+  },
+  "b4-0086": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Duplicates Greece's rise; Gaugamela carries it"
+  },
+  "b4-0087": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 B9: Persia falls, Greece rises; Alexander's conquest"
+  },
+  "b4-0088": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Alexander campaign detail"
+  },
+  "b4-0089": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Alexander campaign detail"
+  },
+  "b4-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "End of Alexander lifespan bar; division record carries prophecy"
+  },
+  "b4-0091": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Jewish colonists in Egypt; background"
+  },
+  "b4-0092": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0093": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0094": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0095": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Empire divided into four, as Daniel foretold"
+  },
+  "b4-0096": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Hellenistic politics detail"
+  },
+  "b4-0097": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0099": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Hellenistic politics detail"
+  },
+  "b4-0100": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0101": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0102": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0103": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0104": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail; Judea changes overlord"
+  },
+  "b4-0105": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman conquest the Bible does not narrate"
+  },
+  "b4-0106": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0107": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0108": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0109": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0110": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "High-priest politics under Antiochus IV"
+  },
+  "b4-0111": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Daniel 11 detail beyond the key fulfilments"
+  },
+  "b4-0112": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Antiochus IV desecrates temple — listed T2 example"
+  },
+  "b4-0113": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Temple rededicated; Festival of Dedication (John 10:22)"
+  },
+  "b4-0114": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Antiochus IV carried by the desecration record"
+  },
+  "b4-0115": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Maccabean diplomacy detail"
+  },
+  "b4-0117": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman politics the Bible does not narrate"
+  },
+  "b4-0118": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Maccabean politics detail"
+  },
+  "b4-0119": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Background to Herod's Idumean family"
+  },
+  "b4-0120": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Maccabean politics detail"
+  },
+  "b4-0121": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman provincial politics"
+  },
+  "b4-0122": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Pompey takes Jerusalem (63) — listed T1 anchor"
+  },
+  "b4-0123": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman history the Bible does not narrate"
+  },
+  "b4-0124": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman law; background only"
+  },
+  "b4-0125": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Herod's early appointment; reign bar carries Herod"
+  },
+  "b4-0126": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman political title"
+  },
+  "b4-0127": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman politics the Bible does not narrate"
+  },
+  "b12-0038": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Herod king — listed T2 example; foreign ruler bar"
+  },
+  "b4-0129": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Start of Herod's effective rule; reign bar carries it"
+  },
+  "b4-0130": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Actium; Egypt's fall (30) carries the B9 step"
+  },
+  "b4-0131": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 B9: Greece's last kingdom falls; Rome world power"
+  },
+  "b4-0132": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman political title"
+  },
+  "b4-0133": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman provincial detail"
+  },
+  "b4-0134": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Herod begins rebuilding the temple — listed T2 example"
+  },
+  "b12-0041": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Bar duplicates Herod's rebuilding start (T2)"
+  },
+  "b4-0135": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman political title"
+  }
+ }
+}

@@ -1,0 +1,926 @@
+{
+ "era": "Jesus 2 B.C.E.–33 C.E. (App. A7)",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b12-0039": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Augustus' reign frames Jesus' birth; registration decree (Luke 2:1)"
+  },
+  "b5-0001": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Gabriel foretells John's birth; opens the Gospel narrative"
+  },
+  "b4-0137": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Roman political title; context only"
+  },
+  "b5-0002": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Birth of Jesus foretold to Mary; listed T1 anchor"
+  },
+  "b5-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Mary visits Elizabeth; supporting detail of the birth narratives"
+  },
+  "b5-0004": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "John's birth shown by his lifespan bar"
+  },
+  "b5-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Zechariah's prophecy; detail of John's birth account"
+  },
+  "b14-0001": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Registration decree brings Jesus' birth at Bethlehem (Mic 5:2)"
+  },
+  "b5-0006": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Jesus born; listed T1 anchor"
+  },
+  "b5-0007": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Angels and shepherds; best-known part of the birth account"
+  },
+  "b5-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Circumcision on eighth day; Law-keeping detail"
+  },
+  "b5-0009": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Presented in temple; Simeon and Anna recognize the Christ"
+  },
+  "b5-0010": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Astrologers' visit; widely known birth-narrative event"
+  },
+  "b5-0011": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Flight to Egypt; fulfils Hos 11:1, well known"
+  },
+  "b5-0012": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Herod's massacre of boys; well-known, fulfils Jer 31:15"
+  },
+  "b5-0013": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Settling in Nazareth; follow-on travel detail"
+  },
+  "b5-0014": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Passover of 12 C.E.: boy Jesus in temple; Passover marker"
+  },
+  "b5-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Youth in Nazareth, carpentry, siblings; background detail"
+  },
+  "b12-0042": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Tiberius' reign dates John's and Jesus' ministry (Luke 3:1)"
+  },
+  "b5-0016": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Start shown by John's ministry bar"
+  },
+  "b12-0043": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "John's ministry bar; like prophets' activity bars"
+  },
+  "b5-0017": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Baptism and anointing 29 C.E.; B1 step, 70th week begins"
+  },
+  "b12-0044": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Jesus' ministry bar defines the period"
+  },
+  "b5-0018": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Temptation by the Devil; listed T1 anchor"
+  },
+  "b5-0019": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "John identifies the Lamb of God; well-known witness"
+  },
+  "b5-0020": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First disciples join Jesus; start of discipleship"
+  },
+  "b5-0021": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Water into wine at Cana; first miracle, listed anchor"
+  },
+  "b5-0022": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Brief visit to Capernaum; minor travel leg"
+  },
+  "b5-0023": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First temple cleansing, Passover 30 C.E.; rubric T2"
+  },
+  "b5-0024": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Nicodemus; rubric T2"
+  },
+  "b5-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Disciples baptize in Judea; context detail"
+  },
+  "b5-0026": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "John's final witness; context detail"
+  },
+  "b5-0027": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Imprisonment ends John's ministry bar"
+  },
+  "b5-0028": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Departure for Galilee; minor travel leg"
+  },
+  "b5-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Samaritan woman at the well; rubric T2"
+  },
+  "b5-0030": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First announces Kingdom has drawn near; theme of ministry"
+  },
+  "b5-0031": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Official's son healed; lesser-known healing"
+  },
+  "b5-0032": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Reads Isaiah 61 in Nazareth; announces his commission"
+  },
+  "b5-0033": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Moves to Capernaum; travel detail"
+  },
+  "b5-0034": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Calls four fishermen as 'fishers of men'; well known"
+  },
+  "b5-0035": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Healing Peter's mother-in-law; other healing"
+  },
+  "b5-0036": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "First Galilee tour; tours 1-2 context, tour 3 sends apostles"
+  },
+  "b5-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Healing a leper; other healing"
+  },
+  "b5-0038": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Paralytic lowered through roof; among best-known miracles"
+  },
+  "b5-0039": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single disciple's call; less defining than calling the four"
+  },
+  "b5-0040": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Dining with tax collectors; fasting question; other teaching"
+  },
+  "b5-0041": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "General synagogue preaching; summary detail"
+  },
+  "b5-0042": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Bethzatha healing marks the Passover visit of 31 C.E."
+  },
+  "b5-0043": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Opposition grows; context"
+  },
+  "b5-0044": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "'Lord of the Sabbath'; other teaching"
+  },
+  "b5-0045": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Withered hand healed on Sabbath; other healing"
+  },
+  "b5-0046": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Twelve apostles chosen; listed T1 anchor"
+  },
+  "b5-0047": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Sermon on the Mount; listed T1 anchor"
+  },
+  "b5-0048": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Army officer's faith; among best-known healings"
+  },
+  "b5-0049": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Widow's son at Nain resurrected; rubric T2 miracle"
+  },
+  "b5-0050": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "John's disciples' question; other teaching"
+  },
+  "b5-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "'My yoke is kindly'; other teaching"
+  },
+  "b5-0052": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sinful woman anoints feet; lesser account"
+  },
+  "b5-0053": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Two debtors; minor illustration"
+  },
+  "b5-0054": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Second Galilee tour; tours 1-2 context"
+  },
+  "b5-0055": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Expels demons; unforgivable sin; other teaching"
+  },
+  "b5-0056": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "First 'sign of Jonah'; other teaching"
+  },
+  "b5-0057": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Mother and brothers; other teaching"
+  },
+  "b5-0058": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Kingdom illustrations incl. sower, wheat and weeds; main parables"
+  },
+  "b5-0059": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Calms storm; rubric T2 miracle"
+  },
+  "b5-0060": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Legion into swine; among best-known miracles"
+  },
+  "b5-0061": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Woman's flow of blood; best-known, paired with Jairus account"
+  },
+  "b5-0062": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jairus' daughter resurrected; rubric T2 miracle"
+  },
+  "b5-0063": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Blind and speechless healed; other healing"
+  },
+  "b5-0064": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Second rejection at Nazareth; repeated item"
+  },
+  "b5-0065": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Third tour; sends out the 12 to preach, expanding the work"
+  },
+  "b5-0066": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "John the Baptist beheaded; rubric T2"
+  },
+  "b5-0067": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Herod perplexed; context"
+  },
+  "b5-0068": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Apostles report back; follow-on detail"
+  },
+  "b5-0069": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Feeds 5,000; rubric T2 miracle"
+  },
+  "b5-0070": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Refuses to be made king; well-known stand"
+  },
+  "b5-0071": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Walks on the sea; rubric T2 miracle"
+  },
+  "b5-0072": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Summary 'heals many'; generic detail"
+  },
+  "b5-0073": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "'Bread of life'; many leave; other teaching"
+  },
+  "b5-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Exposes traditions; other teaching"
+  },
+  "b5-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Syrophoenician woman's daughter; other healing"
+  },
+  "b5-0076": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Feeds 4,000; repeat of the 5,000 feeding"
+  },
+  "b5-0077": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Second 'sign of Jonah'; repeats earlier record"
+  },
+  "b5-0078": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Leaven of Pharisees; other teaching"
+  },
+  "b5-0079": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Blind man at Bethsaida; other healing"
+  },
+  "b5-0080": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Peter confesses Jesus as the Christ; keys of the Kingdom"
+  },
+  "b5-0081": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First foretelling of death; 'Get behind me, Satan'"
+  },
+  "b5-0082": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Transfiguration; listed T1 anchor"
+  },
+  "b5-0083": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Demon-possessed boy; other healing"
+  },
+  "b5-0084": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Second foretelling of death; repeats earlier record"
+  },
+  "b5-0085": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Coin from fish's mouth; lesser-known miracle"
+  },
+  "b5-0086": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Greatest in Kingdom; other teaching"
+  },
+  "b5-0087": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lost sheep (Matt 18), unforgiving slave; secondary parables"
+  },
+  "b5-0088": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Teaching en route; context"
+  },
+  "b5-0089": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Teaching at Tabernacles; context"
+  },
+  "b5-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "'Light of the world'; other teaching"
+  },
+  "b5-0091": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Man born blind healed; rubric T2 miracle"
+  },
+  "b5-0092": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Sends out the 70 preachers; expansion of the work"
+  },
+  "b5-0093": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Neighborly Samaritan; rubric T2 parable"
+  },
+  "b5-0094": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Mary and Martha; widely known account"
+  },
+  "b5-0095": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Model prayer repeated; first given in Sermon on the Mount"
+  },
+  "b5-0096": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Persistent friend; secondary parable"
+  },
+  "b5-0097": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Repeats demon expulsion and sign of Jonah"
+  },
+  "b5-0098": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Condemns Pharisees at meal; other teaching"
+  },
+  "b5-0099": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Rich man, faithful steward; secondary parables"
+  },
+  "b5-0100": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Crippled woman; other healing"
+  },
+  "b5-0101": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Mustard grain and leaven repeated from Kingdom illustrations"
+  },
+  "b5-0102": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Fine shepherd and 'other sheep'; main teaching"
+  },
+  "b5-0103": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Attempt to stone Jesus; context"
+  },
+  "b5-0104": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Withdraws across Jordan; travel leg"
+  },
+  "b5-0105": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Where John baptized; travel leg"
+  },
+  "b5-0106": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "General teaching tour; summary detail"
+  },
+  "b5-0107": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Narrow door; other teaching"
+  },
+  "b5-0108": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Laments over Jerusalem; other teaching"
+  },
+  "b5-0109": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Humility, excuses; secondary parables"
+  },
+  "b5-0110": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Count the cost; other teaching"
+  },
+  "b5-0111": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Lost son (prodigal); rubric T2 parable"
+  },
+  "b5-0112": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rich man and Lazarus; main parable"
+  },
+  "b5-0113": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Stumbling, forgiveness, faith; other teaching"
+  },
+  "b5-0114": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Lazarus resurrected; listed T1 anchor"
+  },
+  "b5-0115": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sanhedrin plots death; context"
+  },
+  "b5-0116": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Retreat to Ephraim; travel leg"
+  },
+  "b5-0117": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ten lepers; rubric T2 miracle"
+  },
+  "b5-0118": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "How the Kingdom comes; other teaching"
+  },
+  "b5-0119": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Persistent widow, Pharisee and tax collector; secondary parables"
+  },
+  "b5-0120": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Marriage and divorce; other teaching"
+  },
+  "b5-0121": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Blesses children; other teaching"
+  },
+  "b5-0122": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rich young ruler; camel through needle's eye, widely known"
+  },
+  "b5-0123": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Vineyard workers; secondary parable"
+  },
+  "b5-0124": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Third foretelling of death; repeats earlier record"
+  },
+  "b5-0125": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "James and John's request; other teaching"
+  },
+  "b5-0126": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Two blind men at Jericho; other healing"
+  },
+  "b5-0127": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Zacchaeus; well-known account, like Nicodemus"
+  },
+  "b5-0128": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ten minas; secondary parable"
+  },
+  "b5-0129": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Nisan 8 arrival; B12 final-week day"
+  },
+  "b5-0130": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Nisan 9 Mary anoints Jesus; B12 day, well known"
+  },
+  "b5-0131": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Triumphal entry; listed T1 anchor"
+  },
+  "b16-0002": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Overnight lodging; logistical detail"
+  },
+  "b5-0132": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Curses fig tree; B12 Nisan 10 item, well known"
+  },
+  "b5-0133": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Second temple cleansing, Nisan 10; rubric 'both times'"
+  },
+  "b5-0134": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Leaders scheme; context"
+  },
+  "b5-0135": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jehovah speaks from heaven a third time; rare event"
+  },
+  "b5-0136": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Withered fig tree lesson; follow-on detail"
+  },
+  "b5-0137": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Authority challenged; context"
+  },
+  "b5-0138": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Two sons; secondary parable"
+  },
+  "b5-0139": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Cultivators, marriage feast; secondary parables"
+  },
+  "b5-0140": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Caesar's things to Caesar; greatest commandment; famous answers"
+  },
+  "b5-0141": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "David's son question; other teaching"
+  },
+  "b5-0142": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Woes to Pharisees; other teaching"
+  },
+  "b5-0143": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Widow's two small coins; widely known"
+  },
+  "b5-0144": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Sign of his presence; rubric T2 teaching"
+  },
+  "b5-0145": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ten virgins, talents, sheep and goats; main parables"
+  },
+  "b16-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Quiet Nisan 12; B12 day marker without event"
+  },
+  "b5-0146": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Leaders plot; repeats earlier plots"
+  },
+  "b5-0147": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Judas arranges betrayal, Nisan 12; B12 day, prophecy fulfilled"
+  },
+  "b5-0148": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Passover preparations; detail"
+  },
+  "b16-0004": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Arrival time; logistical detail"
+  },
+  "b5-0149": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Last Passover, Nisan 14 33 C.E.; Passover marker"
+  },
+  "b5-0150": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Washes apostles' feet; widely known"
+  },
+  "b5-0151": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Judas dismissed; detail of last supper"
+  },
+  "b5-0152": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Lord's Evening Meal; listed T1 anchor, new covenant"
+  },
+  "b5-0153": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Foretells denials; detail"
+  },
+  "b5-0154": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Helper promised, true vine, love command, John 17 prayer"
+  },
+  "b5-0155": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Agony in Gethsemane; widely known"
+  },
+  "b5-0156": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Betrayal and arrest; rubric 'arrest and trials'"
+  },
+  "b5-0157": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Trial before Caiaphas and Sanhedrin; rubric 'arrest and trials'"
+  },
+  "b5-0158": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Peter's denials; widely known"
+  },
+  "b16-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Second Sanhedrin session; repeats trial record"
+  },
+  "b5-0159": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Judas hangs himself; widely known, fulfils prophecy"
+  },
+  "b5-0160": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Trial before Pilate and Herod; rubric 'arrest and trials'"
+  },
+  "b5-0161": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Barabbas chosen over Jesus; widely known"
+  },
+  "b5-0162": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Sentenced to death; B12 item"
+  },
+  "b5-0163": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Death on Nisan 14; listed T1 anchor"
+  },
+  "b5-0164": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Burial in tomb; B12 item, fulfils Isa 53:9"
+  },
+  "b5-0165": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tomb guarded and sealed; detail"
+  },
+  "b16-0006": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Spices purchased; detail"
+  },
+  "b5-0166": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Resurrection; listed T1 anchor"
+  },
+  "b12-0046": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "40-day span duplicates appearance and ascension points"
+  },
+  "b5-0167": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Resurrection-day appearances; B12 Nisan 16 item"
+  },
+  "b5-0168": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Commissions disciple-making (Matt 28:19, 20)"
+  },
+  "b6-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Pentecost; listed T1 anchor, wheat sowing begins"
+  },
+  "b6-0002": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Congregation founded at Pentecost; part of landmark row"
+  },
+  "b6-0003": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "3,000 baptized at Pentecost; listed in T1 anchor"
+  },
+  "b5-0169": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Ascension; listed T1 anchor"
+  }
+ }
+}

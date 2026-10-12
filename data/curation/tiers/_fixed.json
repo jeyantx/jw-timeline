@@ -1,0 +1,2931 @@
+{
+"era": "_fixed",
+"graded_by": "rule C6",
+"tiers": {
+"d1-0001": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0004": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0002": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0005": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0003": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0006": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0004": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0007": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0005": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0009": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0010": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0011": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0012": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0006": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0013": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0017": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0007": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0018": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0023": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0008": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0024": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0009": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0026": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0010": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0027": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0011": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0028": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0012": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0029": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0030": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0031": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0032": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0013": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0033": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0034": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0040": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0014": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0043": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0015": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b12-0004": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b1-0048": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0051": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0072": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b1-0053": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0055": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b1-0059": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0016": {
+"tier": 1,
+"rule": "fixed",
+"why": "patriarch lifespan"
+},
+"b2-0003": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0006": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b2-0010": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0017": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b2-0011": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0018": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b2-0012": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0019": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b2-0014": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0020": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b11-0002": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0003": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0004": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b2-0032": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0021": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b11-0005": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0006": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0007": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b2-0054": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0009": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b2-0056": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b2-0058": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0060": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0061": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b2-0062": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0063": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0065": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0067": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0068": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0072": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0073": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0074": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b2-0075": {
+"tier": 2,
+"rule": "fixed",
+"why": "judgeship span"
+},
+"b12-0009": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0002": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0011": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b11-0011": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0012": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0013": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"d1-0071": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b12-0012": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b11-0014": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0011": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0013": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b11-0015": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0016": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0017": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0032": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0018": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0052": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b12-0018": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b3-0021": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0033": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0022": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0034": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0023": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0053": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0024": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0054": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0027": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0055": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0028": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0056": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0029": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0057": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0032": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0033": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0058": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0034": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0035": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0036": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0059": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0038": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0039": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0060": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0040": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0036": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0042": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0037": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0043": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0061": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0044": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0038": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0045": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0039": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0046": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0062": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0048": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0063": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0049": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0040": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0051": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b11-0017": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0052": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0064": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0054": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0055": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0041": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b11-0018": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0059": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b11-0019": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0061": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0065": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0062": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0066": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0063": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0067": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0064": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0068": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0065": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0069": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0066": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0067": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0042": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0068": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0069": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0043": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b12-0019": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b3-0071": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0070": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0073": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0044": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b11-0020": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0021": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0022": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0023": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0081": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0045": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0082": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0046": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0083": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0047": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0084": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b11-0024": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0088": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b11-0025": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0026": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b3-0095": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0048": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0096": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0049": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0100": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b3-0103": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b3-0104": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0050": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0108": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0051": {
+"tier": 2,
+"rule": "fixed",
+"why": "reign of a king of Israel/Judah"
+},
+"b3-0109": {
+"tier": 2,
+"rule": "fixed",
+"why": "prophetic activity span"
+},
+"b11-0027": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0028": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b12-0023": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b12-0024": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0025": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b11-0029": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0013": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0030": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0031": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0032": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0018": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0027": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b11-0033": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0035": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b4-0038": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0034": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0035": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0057": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0036": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0063": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0037": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0038": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0039": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0040": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b12-0034": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0035": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b11-0041": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0042": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b4-0077": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b4-0080": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0022": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b12-0037": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b4-0128": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0040": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"d1-0023": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"d1-0024": {
+"tier": 2,
+"rule": "fixed",
+"why": "lifespan of a Bible person"
+},
+"b4-0138": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0045": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b17-0002": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b11-0043": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b6-0012": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0044": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0045": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0046": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b6-0048": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0047": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0048": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0049": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0050": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0051": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0052": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0053": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0054": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0055": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0056": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0057": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0058": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0059": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0060": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0061": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0063": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0064": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0065": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b6-0094": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b11-0067": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0068": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0069": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0070": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b11-0071": {
+"tier": 2,
+"rule": "fixed",
+"why": "Bible books strip"
+},
+"b7-0084": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0025": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b7-0087": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b7-0098": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0026": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b7-0141": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b7-0165": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0027": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b7-0172": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b7-0186": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0028": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b8-0001": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0029": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b8-0003": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0030": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b8-0020": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0063": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b8-0080": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"d1-0031": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual's lifespan (after Bible times)"
+},
+"b12-0066": {
+"tier": 1,
+"rule": "fixed",
+"why": "world power span"
+},
+"b12-0067": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0069": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0070": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b10-0005": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0071": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b8-0104": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0072": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0075": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b17-0009": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0078": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b12-0082": {
+"tier": 1,
+"rule": "fixed",
+"why": "prophetic period span"
+},
+"b8-0237": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b8-0238": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0087": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0002": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0003": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0012": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0014": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0017": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0019": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0021": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0022": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0030": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0032": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0035": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0036": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0037": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0038": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0043": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0045": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0046": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0047": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0050": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0053": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0056": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0060": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0063": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0066": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0067": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0071": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0072": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0073": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0075": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0076": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0080": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0082": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0086": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0087": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0088": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0089": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0090": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0091": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0094": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0095": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0096": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0098": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0100": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b12-0095": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0096": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0103": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0106": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0107": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0110": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0112": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0113": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0097": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0098": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0114": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0117": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0118": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0120": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0121": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0124": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0128": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0129": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0134": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0135": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0138": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0139": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0143": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0144": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0145": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0151": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0152": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0153": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0155": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0156": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0157": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0158": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0159": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0160": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0161": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0162": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0163": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0166": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0168": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0176": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0177": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0179": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0185": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0186": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0100": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0187": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0188": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0193": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0194": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0197": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0101": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0198": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0199": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0200": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0202": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0203": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0204": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0205": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0206": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0209": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0210": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0212": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0213": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0214": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0216": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0217": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0221": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0102": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0103": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0104": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0105": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0222": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0223": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0224": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0229": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0230": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0231": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0232": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0236": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0237": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0240": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0241": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0242": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0244": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0247": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0248": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0106": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0107": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0249": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0250": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0251": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0252": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0253": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0254": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0255": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0256": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0257": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0258": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0259": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0260": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0261": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0262": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0265": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0266": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0267": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0268": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0271": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0272": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0273": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0276": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0278": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0279": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0280": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0281": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0288": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0289": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0290": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0291": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0292": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0293": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0294": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0297": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0108": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0298": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0299": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0300": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0301": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0303": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0304": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0305": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0306": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0307": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0308": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0317": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0318": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0319": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0320": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0321": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0322": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0323": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0327": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b9-0331": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0332": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0333": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0334": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0335": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0337": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0346": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0347": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0348": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0349": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0350": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0351": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0352": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0353": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0357": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0358": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0359": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0360": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0361": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0367": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0368": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0369": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0370": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0371": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0372": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0373": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0374": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0375": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0376": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0377": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0112": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0379": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0382": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0383": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0384": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0385": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0386": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0387": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0388": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0389": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0393": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0394": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0395": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0396": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0400": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0401": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0402": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0403": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0404": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0405": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0406": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0414": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0417": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0114": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0115": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0423": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0424": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0425": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0426": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0427": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0428": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0429": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0430": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0431": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0432": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0433": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0434": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0435": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0436": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0437": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0440": {
+"tier": 4,
+"rule": "fixed",
+"why": "shown by its life/reign/office bar"
+},
+"b12-0116": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b12-0117": {
+"tier": 3,
+"rule": "fixed",
+"why": "individual tenure (Kingdom over persons)"
+},
+"b9-0443": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0444": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0445": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0446": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0447": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0448": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0458": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0459": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0460": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b9-0461": {
+"tier": 3,
+"rule": "fixed",
+"why": "Publications Index one-line entry"
+},
+"b10-0009": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0010": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0011": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b12-0119": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0012": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0013": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0014": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0015": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0016": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0017": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0018": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0019": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b12-0120": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0020": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b12-0121": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0021": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0022": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0023": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0024": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+},
+"b10-0025": {
+"tier": 1,
+"rule": "fixed",
+"why": "future record"
+}
+}
+}

@@ -47,6 +47,7 @@ NOT_DUPLICATES = {  # reviewed pairs that look alike but are different records
     frozenset({"b8-0247", "b12-0089"}),  # 1943 course introduced vs. the school's 1943-2015 run
     frozenset({"b5-0157", "b16-0005"}),  # night trial vs. the Sanhedrin's second (morning) session, App. B12
     frozenset({"b5-0160", "b16-0005"}),  # before Pilate and Herod vs. second Sanhedrin session
+    frozenset({"b6-0032", "b18-0059"}),  # Paul visits Philippi vs. the jailer's household baptized (lfb lesson)
 }
 
 

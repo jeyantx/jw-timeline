@@ -1,0 +1,321 @@
+{
+ "era": "b18",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b18-0001": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous account (Matt 24:37); Flood records carry the T1 anchor"
+  },
+  "b18-0002": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric T2 example 'Isaac offered'"
+  },
+  "b18-0003": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known patriarchal account; the promised line passes to Jacob"
+  },
+  "b18-0004": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous account; leads to Israel's move into Egypt"
+  },
+  "b18-0005": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous rescue account; birth record is hidden by the lifespan bar"
+  },
+  "b18-0006": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known rebellion right after the Law covenant"
+  },
+  "b18-0007": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known rebellion; Jude 11 warning"
+  },
+  "b18-0008": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Why Moses did not enter the Promised Land"
+  },
+  "b18-0009": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric T2 example 'the bronze serpent'"
+  },
+  "b18-0010": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric T2 example 'the sun stands still'"
+  },
+  "b18-0011": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; Hannah's prayer and Samuel's start"
+  },
+  "b18-0012": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known call of the prophet Samuel"
+  },
+  "b18-0013": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Turning point from Saul to David"
+  },
+  "b18-0014": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Rubric T1 anchor 'David anointed'"
+  },
+  "b18-0015": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous account; same fame as fiery furnace and lions' pit (C1)"
+  },
+  "b18-0016": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known friendship; lfb lesson"
+  },
+  "b18-0017": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; lfb lesson"
+  },
+  "b18-0018": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude to Saul's death; context"
+  },
+  "b18-0019": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "End of Israel's first king; opens David's reign"
+  },
+  "b18-0020": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; Psalm 51"
+  },
+  "b18-0021": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Major crisis of David's reign"
+  },
+  "b18-0022": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account defining Solomon's reign"
+  },
+  "b18-0023": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known visit; cited by Jesus (Matt 12:42)"
+  },
+  "b18-0024": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Defining sin of the northern kingdom"
+  },
+  "b18-0025": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Opening of Elijah's well-known ministry"
+  },
+  "b18-0026": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Resurrection account; same tier as Shunammite's son (C1)"
+  },
+  "b18-0027": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Rubric T1 anchor 'Elijah vs Baal'"
+  },
+  "b18-0028": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; lfb lesson"
+  },
+  "b18-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; sets up Jezebel's judgment"
+  },
+  "b18-0030": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known deliverance; lfb lesson"
+  },
+  "b18-0031": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known handover from Elijah to Elisha"
+  },
+  "b18-0032": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lesser-known Elisha miracle"
+  },
+  "b18-0033": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Resurrection account; same tier as Zarephath (C1)"
+  },
+  "b18-0034": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Best-known Elisha miracle; cited by Jesus (Luke 4:27)"
+  },
+  "b18-0035": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account of angelic protection"
+  },
+  "b18-0036": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "End of Ahab's house and of Baal worship in Israel"
+  },
+  "b18-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Temple restoration; context within reign"
+  },
+  "b18-0038": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric T2 example 'Jonah to Nineveh'"
+  },
+  "b18-0039": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Notable judgment; context within reign"
+  },
+  "b18-0040": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric T2 example 'Hezekiah's Passover and reforms'"
+  },
+  "b18-0041": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known answered prayer and sign"
+  },
+  "b18-0042": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Notable repentance; context within reign"
+  },
+  "b18-0043": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known integrity account; lfb lesson"
+  },
+  "b18-0044": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account of Jeremiah's endurance"
+  },
+  "b18-0045": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous account; rubric gives Daniel accounts T2"
+  },
+  "b18-0046": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Basis of the seven-times prophecy; Daniel account"
+  },
+  "b18-0047": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous account; rubric gives Daniel accounts T2"
+  },
+  "b18-0048": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Opening of the Esther account; Purim record is the anchor"
+  },
+  "b18-0049": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Climax of the Esther account"
+  },
+  "b18-0050": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known public reading of the Law"
+  },
+  "b18-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Restores the Twelve before Pentecost; context"
+  },
+  "b18-0052": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known miracle opening the persecution in Acts"
+  },
+  "b18-0053": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known lesson on honesty in the early congregation"
+  },
+  "b18-0054": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Key statement of Acts 5:29; persecution in Jerusalem"
+  },
+  "b18-0055": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Organizational detail before Stephen's martyrdom"
+  },
+  "b18-0056": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Second key of the Kingdom opened to Samaritans"
+  },
+  "b18-0057": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known resurrection by an apostle"
+  },
+  "b18-0058": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Episode within the first journey bar"
+  },
+  "b18-0059": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account; lfb lesson"
+  },
+  "b18-0060": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Model of careful Bible examination (Acts 17:11)"
+  },
+  "b18-0061": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rubric-era major event of the third journey"
+  },
+  "b18-0062": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known counsel to elders (Acts 20:20, 28)"
+  },
+  "b18-0063": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Episode between arrest and Caesarea custody"
+  }
+ }
+}

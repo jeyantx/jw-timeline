@@ -10136,6 +10136,166 @@
     "b3-0007"
    ],
    "notes": null
+  },
+  {
+   "id": "d1-0072",
+   "slug": "life-jacob",
+   "timing": "span",
+   "span_kind": "lifespan",
+   "date_label_en": "1858 B.C.E. – 1711 B.C.E.",
+   "date_label_ta": "பொ.ச.மு. 1858 – பொ.ச.மு. 1711",
+   "start": {
+    "display_en": "1858 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1858",
+    "year": 1858,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": -1858
+   },
+   "end": {
+    "display_en": "1711 B.C.E.",
+    "display_ta": "பொ.ச.மு. 1711",
+    "year": 1711,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": -1711
+   },
+   "duration": {
+    "years": 147,
+    "months": null,
+    "days": null,
+    "display_en": "147 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b1-0052",
+   "end_event_id": "b2-0006",
+   "parent_id": null,
+   "derived": {
+    "method": "paired_events",
+    "fields": [
+     "start",
+     "end",
+     "duration"
+    ],
+    "note": "Built from b1-0052 (start) and b2-0006 (end)."
+   },
+   "title_en": "Life of Jacob",
+   "title_ta": null,
+   "description_en": "Jacob: from Birth of Esau and Jacob (1858 B.C.E.) to Death of Jacob (1711 B.C.E.). Dates as given in the cited jw.org publications.",
+   "description_ta": null,
+   "category": "bible.patriarch",
+   "event_kind": "lifespan",
+   "tags": [
+    "lifespan"
+   ],
+   "people": [
+    "Jacob"
+   ],
+   "places": [
+    "Egypt"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 25:26",
+     "ref_ta": "ஆதி. 25:26",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 25,
+     "verses": "26"
+    },
+    {
+     "ref_en": "Gen. 47:28",
+     "ref_ta": "ஆதி. 47:28",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 47,
+     "verses": "28"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101990130",
+     "publication": "All Scripture Is Inspired (si)",
+     "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+     "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+     "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+     "par": "Chart of Outstanding Historical Dates",
+     "quote_en": "1858 B.C.E. Birth of Esau and Jacob Gen. 25:26",
+     "supports": "whole"
+    },
+    {
+     "docid": "1200002203",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Isaac",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002203",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002203&wtlocale=E",
+     "par": null,
+     "quote_en": "Finally, in 1858 B.C.E., when Isaac was 60 years old, he was given the double blessing of twins, Esau and Jacob.",
+     "supports": "start"
+    },
+    {
+     "docid": "1200001417",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Esau",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001417",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001417&wtlocale=E",
+     "par": null,
+     "quote_en": "Even before the birth of the twins in 1858 B.C.E., when Isaac was 60 years of age",
+     "supports": "start"
+    },
+    {
+     "docid": "1200002279",
+     "publication": "Insight on the Scriptures (it-1)",
+     "title_en": "Jacob",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002279",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002279&wtlocale=E",
+     "par": null,
+     "quote_en": "Jacob’s parents had been married for 20 years before the birth of these twins, their only children, in 1858 B.C.E.",
+     "supports": "whole"
+    },
+    {
+     "docid": "1102025962",
+     "publication": "wcg (2025)",
+     "title_en": "Section 1 Timeline",
+     "title_ta": "பகுதி 1 காலவரிசை",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102025962",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102025962",
+     "finder_url": "https://www.jw.org/finder?docid=1102025962&wtlocale=E",
+     "par": null,
+     "quote_en": "Jacob 1858-1711 B.C.E.",
+     "supports": "end"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0052",
+    "b2-0006"
+   ],
+   "notes": null
   }
  ]
 }

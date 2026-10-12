@@ -1,5 +1,15 @@
 # Data collection status
 
+## Update 2026-10-12 (b) — priority tiers and poster selection
+**1,966 records.** Every record now has a priority tier from one rubric ([POSTER_TIER_RUBRIC.md](POSTER_TIER_RUBRIC.md)): 174 Landmark (T1), 445 Major (T2), 1,088 Notable detail (T3), 259 Fine detail or redundant (T4). The **A0 poster = all T1 + T2 = 619 records**, the same rule in every era. The owner overrides any tier in `data/curation/tier_overrides.json` or the workbook.
+
+- Emphasis: B.C.E. about 280, Jesus 91, 33–100 C.E. 46, "Bible survives" 31, Kingdom activity 1870–2026 87 (organization, not individuals).
+- b18 adds 63 well-known Bible accounts that had no exact year. Each is placed inside its reign or period (`between` + `parent_id`), with lfb/bt illustrations.
+- Jacob's lifespan added. Lifespans after Bible times (reformers, Watch Tower presidents) are T3.
+- Data gaps found while grading: release of *Enjoy Life Forever!* (2021), the 2010 "overlapping generations" clarification, Operation North (1951), the JW Library app, NWT sign-language editions, and Gilead's move to Patterson.
+
+---
+
 ## Update 2026-10-12 — series and chart hints
 **1,891 records (1,619 points, 272 spans) and 32 series (702 memberships).**
 

@@ -1,0 +1,511 @@
+{
+ "era": "e1_bce_early",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b1-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Creation of Adam; listed T1 anchor"
+  },
+  "b1-0002": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Gen 3:15 first prophecy; B1 step 1 and covenant (C5)"
+  },
+  "b1-0003": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Cain kills Abel; listed T1 anchor"
+  },
+  "b1-0008": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Minor genealogy birth; Lamech has no bar"
+  },
+  "b1-0014": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Gen 6:3 120-year countdown to the Flood"
+  },
+  "b1-0015": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Minor genealogy birth"
+  },
+  "b1-0016": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Minor genealogy birth"
+  },
+  "b1-0019": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Flood begins; listed T1 anchor"
+  },
+  "b12-0001": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "One-year bar duplicates T1 Flood begin/end points"
+  },
+  "b1-0020": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Flood ends, Noah leaves ark; listed T1 anchor"
+  },
+  "b1-0021": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Rainbow covenant made; Flood covenant anchor (C5)"
+  },
+  "b1-0022": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Genealogy birth; chronology detail only"
+  },
+  "b1-0025": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Babel; listed T1 anchor"
+  },
+  "b1-0035": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Terah's death at Haran; context for Abraham's move"
+  },
+  "b1-0036": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Abraham crosses Euphrates 1943; listed T1 anchor"
+  },
+  "b1-0037": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Abrahamic covenant; B1 step and covenant made (C5)"
+  },
+  "b12-0002": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "430 years (Gal 3:17); like fixed 400-year span (C1)"
+  },
+  "b1-0038": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Rescue of Lot; setting for Melchizedek meeting"
+  },
+  "b1-0039": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Melchizedek, type of Christ's priesthood (Heb 7)"
+  },
+  "b1-0041": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Covenant of circumcision made (C5); rubric T2 example"
+  },
+  "b1-0042": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Sodom and Gomorrah; listed T1 anchor"
+  },
+  "b1-0044": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Start point of 450-year bar; same date as Isaac's birth"
+  },
+  "b12-0003": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Acts 13 chronology bar; computed period, not prophecy"
+  },
+  "b1-0045": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ishmael's mocking; 400-year bar start already marks it"
+  },
+  "b1-0046": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Hagar and Ishmael sent away; well-known account (Gal 4)"
+  },
+  "b1-0047": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Start point of fixed T1 400-year bar"
+  },
+  "b1-0049": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Sarah's death; person detail, no bar"
+  },
+  "b1-0050": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Rebekah found for Isaac; well-known account (Gen 24)"
+  },
+  "b1-0052": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Jacob's birth; no Jacob lifespan bar exists, patriarch rule"
+  },
+  "b1-0054": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Esau's marriages; rubric T3 example"
+  },
+  "b1-0056": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Flight to Haran; Bethel vision same year carries it"
+  },
+  "b1-0057": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jacob at Bethel; rubric T2 example"
+  },
+  "b1-0058": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jacob marries Leah and Rachel; tribes' mothers; like Isaac's marriage"
+  },
+  "b1-0060": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Return journey; wrestling/naming record carries it"
+  },
+  "b1-0061": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jacob named Israel; nation's name"
+  },
+  "b2-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Joseph sold; listed T1 anchor"
+  },
+  "b2-0002": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lead-in to Joseph's rise; ruler record carries it"
+  },
+  "b2-0004": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Joseph made ruler; rubric T2 example"
+  },
+  "b2-0005": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Jacob's family enters Egypt; listed T1 anchor"
+  },
+  "b12-0005": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Era-frame bar: Israel in Egypt (C1 with period frames)"
+  },
+  "b2-0006": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Jacob's death and Gen 49 prophecy; no Jacob bar exists"
+  },
+  "b2-0007": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Endpoint of Joseph's T1 lifespan bar"
+  },
+  "b2-0008": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Job's trial; listed T1 anchor"
+  },
+  "b2-0009": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "B9 rise of Egypt (C5); T1 world-power bar shows it"
+  },
+  "b2-0013": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Moses flees to Midian; listed T1 anchor"
+  },
+  "b2-0015": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Burning bush; listed T1 anchor"
+  },
+  "b2-0016": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Ten plagues; listed T1 anchor"
+  },
+  "b2-0017": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Passover and Exodus; listed T1 anchor"
+  },
+  "b12-0007": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Era-frame bar: 40 years in wilderness"
+  },
+  "b2-0018": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Departure from Rameses duplicates Exodus record"
+  },
+  "b2-0019": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Red Sea; listed T1 anchor"
+  },
+  "b2-0020": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Moses' raised hands vs Amalek; well-known account"
+  },
+  "b2-0021": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Manna; rubric T2 example"
+  },
+  "b2-0022": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Law covenant at Sinai; listed T1 anchor"
+  },
+  "b2-0023": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ark of the covenant made; central sacred object"
+  },
+  "b2-0024": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates fixed b11-0002 Genesis writing record"
+  },
+  "b2-0025": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Tabernacle set up; listed T1 anchor"
+  },
+  "b2-0026": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Aaronic priesthood installed; rubric T2 example"
+  },
+  "b2-0027": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Repeat Passover observance; like Gilgal Passover"
+  },
+  "b2-0028": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Twelve spies; anchor '12 spies, 40 years'"
+  },
+  "b2-0029": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "40-year sentence; same anchor as twelve spies"
+  },
+  "b2-0033": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Miriam's death; person detail, no bar"
+  },
+  "b2-0034": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Endpoint of Aaron's lifespan bar (Ab 1)"
+  },
+  "b2-0035": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Sihon and Og defeated; often recalled (Ps 136)"
+  },
+  "b2-0036": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Balaam; rubric T2 example"
+  },
+  "b2-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Census figures; rubric T3 example"
+  },
+  "b2-0040": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Covenant made at Moab (C5 covenant step)"
+  },
+  "b2-0042": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Moses-to-Joshua handover; not shown by any bar"
+  },
+  "b2-0043": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Endpoint of Moses' lifespan bar"
+  },
+  "b2-0044": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Rubric T3 example; Rahab bar and Jericho kept"
+  },
+  "b2-0045": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Crossing the Jordan; listed T1 anchor"
+  },
+  "b12-0008": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Era-frame bar: conquest of Canaan"
+  },
+  "b2-0046": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Gilgal circumcision; detail of entry"
+  },
+  "b2-0047": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Repeat Passover observance; like Sinai Passover"
+  },
+  "b2-0048": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Manna ceases; minor detail versus its start"
+  },
+  "b2-0049": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Fall of Jericho; listed T1 anchor"
+  },
+  "b2-0050": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Achan's sin and Ai; rubric T2 example"
+  },
+  "b2-0051": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Endpoint of conquest bar"
+  },
+  "b2-0052": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Land divided among tribes by lot"
+  },
+  "b2-0053": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tabernacle/ark location detail"
+  },
+  "b2-0057": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Era-frame bar: period of the Judges"
+  },
+  "b2-0059": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "First Jubilee; calendar detail"
+  },
+  "b2-0064": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ruth; rubric T2 example"
+  },
+  "b2-0066": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Usurper Abimelech; not a judgeship"
+  },
+  "b2-0069": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Samuel anchor; no Samuel bar, birth carries it"
+  },
+  "b2-0070": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Eli's judgeship; like fixed judgeships (C1)"
+  },
+  "b2-0071": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jephthah's judgeship; like fixed judgeships (C1)"
+  },
+  "b2-0076": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ark captured, Eli dies; rubric T2 example"
+  },
+  "b2-0077": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ark's return; aftermath detail"
+  },
+  "b2-0078": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Samuel's judgeship, Ebenezer; like judgeships (C1)"
+  },
+  "b3-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Saul anointed; listed T1 anchor"
+  },
+  "b12-0010": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Era-frame bar: united kingdom"
+  },
+  "b3-0006": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Accession shown by Hebron reign bar"
+  },
+  "b3-0007": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "David king of all Israel, Jerusalem capital; anchor"
+  },
+  "b3-0008": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Ark to Jerusalem; listed T1 anchor"
+  },
+  "b3-0009": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Davidic covenant; B1 step and anchor"
+  },
+  "b3-0012": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Temple begun; listed T1 anchor (1000-1 row)"
+  },
+  "b12-0014": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Bar duplicates T1 begun/completed points, like Flood bar"
+  },
+  "b3-0013": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Temple completed; listed T1 anchor (1000-1 row)"
+  },
+  "b12-0015": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Temple-in-service bar 1027-607; institution, not era frame"
+  },
+  "b3-0014": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Temple dedicated; listed T1 anchor (1000-1 row)"
+  }
+ }
+}

@@ -1,0 +1,1176 @@
+{
+ "era": "e5_church",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b4-0098": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Septuagint begun: rubric T1 anchor (1000-1 B.C.E. era)"
+  },
+  "b4-0116": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Completion of Septuagint; the start marker represents it"
+  },
+  "b17-0001": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Copying date; the 1947 discovery is the poster marker"
+  },
+  "b6-0083": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Roman fire; context for Nero's persecution"
+  },
+  "b6-0084": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Nero's persecution: rubric T2 example for 33-100 C.E."
+  },
+  "b6-0098": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Persecution detail; Patmos exile covered in apostolic era"
+  },
+  "b7-0001": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: apostasy develops after the apostles die"
+  },
+  "b6-0107": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Duplicates b7-0001 (John dies, apostasy unrestrained)"
+  },
+  "b6-0108": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Herodian person's death; not Bible milestone"
+  },
+  "b17-0003": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 wheat-and-weeds stage: the weeds appear"
+  },
+  "b7-0002": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Oldest Christian Greek Scripture fragment; key manuscript evidence"
+  },
+  "b7-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Clergy development; church structure detail"
+  },
+  "b7-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Gospel harmony; supporting canon evidence only"
+  },
+  "b7-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal drift detail; apostasy marker covers it"
+  },
+  "b7-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Canon-list evidence; researcher detail"
+  },
+  "b7-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Schism count; apostasy context"
+  },
+  "b7-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Canon recognition; context, not a copying/translation milestone"
+  },
+  "b7-0009": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Minor Greek version"
+  },
+  "b7-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Papyrus; P52 and the great codices represent manuscripts"
+  },
+  "b7-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Papyrus; P52 and the great codices represent manuscripts"
+  },
+  "b7-0012": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Scholarly edition; divine name shown via Tyndale 1530 instead"
+  },
+  "b7-0013": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Papal title; church politics"
+  },
+  "b7-0014": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Early Latin evidence; Vulgate is the Latin marker"
+  },
+  "b7-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Early regional version; ancient versions kept at T3"
+  },
+  "b7-0016": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal council detail"
+  },
+  "b7-0017": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Clergy-laity detail; apostasy marker covers it"
+  },
+  "b17-0004": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "C5 wheat-and-weeds stage: weeds outnumber wheat"
+  },
+  "b7-0018": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Empire-wide burning of Scriptures; key weeds/Bible-ban marker"
+  },
+  "b7-0019": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Imperial accession"
+  },
+  "b7-0020": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Battle; Constantine politics"
+  },
+  "b7-0021": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Christendom begins: church-state union; key weeds marker"
+  },
+  "b7-0022": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Imperial decree; doctrine detail"
+  },
+  "b7-0023": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Constantine / Nicaea (325)"
+  },
+  "b7-0024": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Capital moved; politics"
+  },
+  "b7-0025": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Major codex; rubric T2 'major codices'"
+  },
+  "b7-0026": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Major codex; rubric T2 'major codices'"
+  },
+  "b7-0027": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Imperial reign; politics"
+  },
+  "b7-0028": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Council acknowledges canon; council detail"
+  },
+  "b7-0029": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Imperial accession"
+  },
+  "b7-0030": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Imperial edict; politics"
+  },
+  "b7-0031": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ancient version; Gothic now extinct; peers at T3"
+  },
+  "b7-0032": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal council detail"
+  },
+  "b7-0033": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "State religion; 313 Christendom marker covers it"
+  },
+  "b7-0034": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Minor synod; doctrinal detail"
+  },
+  "b7-0035": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Papal doctrinal document"
+  },
+  "b7-0036": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Commission; Vulgate completion (405) is the marker"
+  },
+  "b12-0058": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Short span duplicates Vulgate marker b7-0042"
+  },
+  "b7-0037": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Interim Vulgate stage"
+  },
+  "b7-0038": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Schism count; peer of Irenaeus record"
+  },
+  "b7-0039": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Jerome's personal move"
+  },
+  "b7-0040": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Empire divided; politics"
+  },
+  "b7-0041": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Canon council detail"
+  },
+  "b7-0042": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Jerome's Vulgate completed"
+  },
+  "b7-0043": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Sack of Rome; war"
+  },
+  "b7-0044": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Theology writing; doctrinal context"
+  },
+  "b7-0045": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lesser codex; Vaticanus and Sinaiticus represent codices"
+  },
+  "b7-0046": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Papal primacy; politics"
+  },
+  "b7-0047": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Doctrinal council detail"
+  },
+  "b7-0048": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Syriac manuscripts; ancient versions at T3"
+  },
+  "b7-0049": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Fall of Western empire; politics"
+  },
+  "b7-0050": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Masoretes preserve Hebrew text"
+  },
+  "b7-0051": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Syriac revision detail"
+  },
+  "b7-0052": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Background to later Bible bans"
+  },
+  "b7-0053": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Regional version; national translations mostly T3"
+  },
+  "b7-0054": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Iconoclasm; church controversy"
+  },
+  "b7-0055": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Coronation; papal politics"
+  },
+  "b7-0056": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Request preceding the Slavonic mission"
+  },
+  "b7-0057": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Slavonic Bible for all Slavic peoples; medieval vernacular landmark"
+  },
+  "b7-0058": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translators' journey"
+  },
+  "b7-0059": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's death"
+  },
+  "b7-0060": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's arrest"
+  },
+  "b7-0061": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Synod over filioque; doctrine/politics"
+  },
+  "b7-0062": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's death"
+  },
+  "b7-0063": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Masoretic codex; Leningrad Codex is the marker"
+  },
+  "b7-0064": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Masoretic codex; Leningrad Codex is the marker"
+  },
+  "b7-0065": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Masoretic codex; Leningrad Codex is the marker"
+  },
+  "b7-0066": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Oldest complete Hebrew Bible; base text of NWT"
+  },
+  "b7-0067": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "East-West schism; church politics"
+  },
+  "b7-0068": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Early vernacular ban; Toulouse/Trent are the ban markers"
+  },
+  "b7-0069": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Crusade appeal; war"
+  },
+  "b7-0070": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Endpoint of Crusade spans"
+  },
+  "b12-0059": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "First Crusade sits within the Crusades span"
+  },
+  "b12-0060": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Crusades; wars not wanted on poster"
+  },
+  "b7-0071": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Endpoint of First Crusade span"
+  },
+  "b7-0072": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Waldenses movement; context"
+  },
+  "b7-0073": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Waldensian detail"
+  },
+  "b7-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Inquisition founded; church institution"
+  },
+  "b7-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Papal letter; Toulouse ban is the marker"
+  },
+  "b7-0076": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Crusade; war"
+  },
+  "b7-0077": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Council anathema; church detail"
+  },
+  "b7-0078": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Leader's death"
+  },
+  "b7-0079": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Toulouse ban on vernacular Bibles; rubric T2 example"
+  },
+  "b7-0080": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Minor Waldensian detail"
+  },
+  "b7-0081": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Inquisition; church institution"
+  },
+  "b7-0082": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Repeats Toulouse ban; Toulouse represents"
+  },
+  "b7-0083": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Endpoint of Crusades span"
+  },
+  "b7-0085": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Royal marriage; person"
+  },
+  "b7-0086": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First complete English Bible; rubric T2 example"
+  },
+  "b7-0088": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Hus ordered silent; reformer detail"
+  },
+  "b7-0089": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Excommunication of a reformer"
+  },
+  "b7-0090": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Denunciation of Wycliffe; context"
+  },
+  "b7-0091": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's trial"
+  },
+  "b7-0092": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Hus not a translator; Tyndale represents executions"
+  },
+  "b7-0093": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Posthumous decree against Wycliffe"
+  },
+  "b7-0094": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Carrying out of b7-0093 decree"
+  },
+  "b7-0095": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Printing begins; Gutenberg Bible is the marker"
+  },
+  "b7-0096": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Gutenberg Bible, first printed Bible"
+  },
+  "b7-0097": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Start point of Spanish Inquisition span"
+  },
+  "b12-0061": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Inquisition span; church institution"
+  },
+  "b7-0099": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Local Bible burning; Diocletian/Trent are markers"
+  },
+  "b7-0100": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Printing spread summary"
+  },
+  "b7-0101": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's excommunication"
+  },
+  "b7-0102": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's execution; not a translator"
+  },
+  "b7-0103": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Luther's personal life"
+  },
+  "b7-0104": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Polyglot; Erasmus is the Greek-text marker"
+  },
+  "b7-0105": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "First complete printed Greek text; rubric T2 example"
+  },
+  "b7-0106": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Reformation start; church politics, not Bible milestone"
+  },
+  "b7-0107": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Quotation, not an event"
+  },
+  "b7-0108": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's activity"
+  },
+  "b7-0109": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Book ban; Trent is the ban marker"
+  },
+  "b7-0110": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Luther's personal conflict"
+  },
+  "b7-0111": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Luther's excommunication"
+  },
+  "b7-0112": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's resignation"
+  },
+  "b7-0113": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Luther's Bible: German NT in the people's language"
+  },
+  "b7-0114": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Tyndale's personal journey"
+  },
+  "b7-0115": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tyndale starts; 1526 NT is the marker"
+  },
+  "b7-0116": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Completion step; 1526 printed NT is the marker"
+  },
+  "b7-0117": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Reformer's marriage"
+  },
+  "b7-0118": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Tyndale's English NT reaches the people"
+  },
+  "b7-0119": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Printer administrative detail"
+  },
+  "b7-0120": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Coverdale's flight"
+  },
+  "b7-0121": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Origin of 'Protestant'; politics"
+  },
+  "b7-0122": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Divine name: first English Bible using 'Jehovah'"
+  },
+  "b7-0123": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Italian version; national translations mostly T3"
+  },
+  "b7-0124": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Diet of Augsburg; church politics"
+  },
+  "b7-0125": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Regional German version"
+  },
+  "b7-0126": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer killed in battle"
+  },
+  "b7-0127": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Act of Supremacy; politics"
+  },
+  "b7-0128": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Complete German Bible; 1522 NT is the Luther marker"
+  },
+  "b7-0129": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Uprising; politics"
+  },
+  "b7-0130": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "English lineage already shown (Wycliffe, Tyndale, KJV)"
+  },
+  "b7-0131": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "French version; national translations mostly T3"
+  },
+  "b7-0132": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's theology book"
+  },
+  "b7-0133": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Translator executed; rubric T2 example"
+  },
+  "b7-0134": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "English edition detail"
+  },
+  "b7-0135": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Bibles in churches; English lineage already shown"
+  },
+  "b7-0136": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Great Bible; English lineage already shown"
+  },
+  "b7-0137": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Inquisition institution"
+  },
+  "b7-0138": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's petition"
+  },
+  "b7-0139": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Massacre; persecution context"
+  },
+  "b7-0140": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Trent condemns vernacular Bibles; rubric T2 example"
+  },
+  "b7-0142": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Trent doctrinal decisions; b7-0140 is the marker"
+  },
+  "b7-0143": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Received Text; scholarly context"
+  },
+  "b7-0144": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Printer's flight"
+  },
+  "b7-0145": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Numbered verses introduced; unique lasting Bible milestone"
+  },
+  "b7-0146": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Appointment and flight"
+  },
+  "b7-0147": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Follow-on to b7-0145 verse system"
+  },
+  "b7-0148": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Individual's death; doctrine dispute"
+  },
+  "b7-0149": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Divine name; Tyndale 1530 is the marker"
+  },
+  "b7-0150": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Reign; church politics"
+  },
+  "b7-0151": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Index ban; Trent is the ban marker"
+  },
+  "b7-0152": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Execution spectacle; persecution context"
+  },
+  "b7-0153": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "English version; lineage already shown"
+  },
+  "b7-0154": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's death"
+  },
+  "b7-0155": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "English version; lineage already shown"
+  },
+  "b7-0156": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Spanish Bible; national translations mostly T3"
+  },
+  "b7-0157": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Printing-location detail"
+  },
+  "b7-0158": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Catholic English NT"
+  },
+  "b7-0159": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Vulgate revision"
+  },
+  "b7-0160": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Spanish revision; national translations mostly T3"
+  },
+  "b7-0161": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "KJV commission; 1611 release is the marker"
+  },
+  "b7-0162": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Italian version"
+  },
+  "b7-0163": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: King James Version (1611)"
+  },
+  "b7-0164": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "War"
+  },
+  "b7-0166": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Dutch version"
+  },
+  "b7-0167": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Divine name; Tyndale 1530 is the marker"
+  },
+  "b7-0168": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Treaty; politics"
+  },
+  "b7-0169": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator sentenced in absentia"
+  },
+  "b7-0170": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Early Tamil Gospel, handwritten; Ziegenbalg 1714 is the marker"
+  },
+  "b7-0171": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Portuguese NT; Almeida lifespan already on poster"
+  },
+  "b7-0173": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Arrival of Tamil translators; 1714 is the marker"
+  },
+  "b7-0174": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Reprint financing detail"
+  },
+  "b7-0175": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Tamil Bible (Ziegenbalg 1714)"
+  },
+  "b7-0176": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's death"
+  },
+  "b7-0177": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Complete Tamil Bible; owner's Tamil focus"
+  },
+  "b7-0178": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Unprinted Telugu manuscript"
+  },
+  "b7-0179": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Concordance; study-aid detail"
+  },
+  "b7-0180": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Textual scholarship"
+  },
+  "b7-0181": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Inquisition relaxation detail"
+  },
+  "b7-0182": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Textual scholarship"
+  },
+  "b7-0183": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Catholic Spanish version"
+  },
+  "b7-0184": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Starts modern Bible translation into dozens of Indian languages"
+  },
+  "b7-0185": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Greek master text; Diaglott is the marker"
+  },
+  "b7-0187": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Carey's press; Carey 1793 is the marker"
+  },
+  "b7-0188": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Serampore press; Carey 1793 is the marker"
+  },
+  "b7-0189": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Anecdote leading to Bible society; 1804 is the marker"
+  },
+  "b7-0190": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Statistic"
+  },
+  "b7-0191": {
+   "tier": 1,
+   "rule": "T1-anchor",
+   "why": "Anchor: Bible societies (1804)"
+  },
+  "b7-0192": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single-language Serampore printing"
+  },
+  "b7-0193": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator's arrival"
+  },
+  "b7-0194": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single-language Serampore printing"
+  },
+  "b7-0195": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Missionaries' journey"
+  },
+  "b7-0196": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Press fire"
+  },
+  "b7-0197": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Bible-society spread; 1804 is the marker"
+  },
+  "b7-0198": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Chinese NT ready; translation step"
+  },
+  "b7-0199": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single-language Serampore printing"
+  },
+  "b7-0200": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Bible society; 1804 is the marker"
+  },
+  "b7-0201": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Burmese translation begun"
+  },
+  "b7-0202": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single-language Serampore printing"
+  },
+  "b7-0203": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Single-language Serampore printing"
+  },
+  "b7-0204": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Chinese Bible; national translations mostly T3"
+  },
+  "b7-0205": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Mission begun"
+  },
+  "b7-0206": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Burmese NT step"
+  },
+  "b7-0207": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Catholic Spanish version"
+  },
+  "b7-0208": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Translator imprisoned"
+  },
+  "b7-0209": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tswana Gospel"
+  },
+  "b7-0210": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Burmese Bible; national translations mostly T3"
+  },
+  "b7-0211": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "English version based on Griesbach"
+  },
+  "b7-0212": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Malayalam Bible; divine name marker is Tyndale 1530"
+  },
+  "b7-0213": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Partial discovery; codex itself is on poster"
+  },
+  "b7-0214": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Adventist prelude to the modern era"
+  },
+  "b7-0215": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tulu Bible"
+  },
+  "b7-0216": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Attack on Bible; ideology context"
+  },
+  "b7-0218": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude publication to Bible Students"
+  },
+  "b7-0219": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Telugu Bible; national translations mostly T3"
+  },
+  "b7-0220": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Divine name version; Tyndale 1530 is the marker"
+  },
+  "b7-0221": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude teaching on invisible presence"
+  },
+  "b7-0222": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Adventist doctrine"
+  },
+  "b7-0223": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Tswana Bible"
+  },
+  "b7-0224": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Discovery of codex already shown at T2"
+  },
+  "b7-0225": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "French version"
+  },
+  "b7-0226": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Evolution theory; ideology context"
+  },
+  "b7-0227": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Divine name version; Tyndale 1530 is the marker"
+  },
+  "b7-0228": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Diaglott: 'presence' rendering; used by Bible Students"
+  }
+ }
+}
