@@ -1,0 +1,934 @@
+{
+ "id": "how-the-bible-came-to-us",
+ "title_en": "How the Bible came to us",
+ "title_ta": "பைபிள் நமக்குக் கிடைத்த விதம்",
+ "kind": "chart_reproduction",
+ "description_en": "The Bible’s survival through the centuries as NWT Study Edition Appendix A3 “How the Bible Came to Us” and the Watchtower series of the same name (w97 8/15, 9/15, 10/15) present it: scribes and Masoretes copy the Hebrew Scriptures; early Christians copy and translate the Christian Greek Scriptures despite attempts like Diocletian’s to destroy them; Jerome’s Vulgate, Slavonic and vernacular Bibles; printing from Gutenberg and Erasmus’ Greek text; Tyndale, the King James Version and the divine name in English; Bible societies and missionary translations; manuscript discoveries such as Codex Sinaiticus and the Dead Sea Scrolls; and the New World Translation, 1950 to the 2013 revision.",
+ "description_ta": "பைபிளின் நூலாசிரியராகிய கடவுள், பைபிளைக் கொடுத்தது மட்டுமல்லாமல் அதைப் பாதுகாத்தும் வந்திருக்கிறார்.",
+ "highlight": true,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070203",
+   "publication": "NWT Study Edition (nwtsty) App. A3",
+   "title_en": "A3 How the Bible Came to Us",
+   "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+   "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+   "par": null,
+   "quote_en": "The Author and Originator of the Bible is also its Preserver.",
+   "supports": null
+  },
+  {
+   "docid": "1997603",
+   "publication": "The Watchtower, August 15, 1997 (w97 8/15 pp. 8-11)",
+   "title_en": "Part One—How the Bible Came to Us",
+   "title_ta": "பைபிள் நம்மிடம் எவ்வாறு வந்தது—பகுதி ஒன்று",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997603",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997603",
+   "finder_url": "https://www.jw.org/finder?docid=1997603&wtlocale=E",
+   "par": null,
+   "quote_en": "Throughout the nearly 1,900 years since the completion of the writing of the Bible, many men and women have risked everything to translate and distribute the Word of God.",
+   "supports": null
+  },
+  {
+   "docid": "1997685",
+   "publication": "The Watchtower, September 15, 1997 (w97 9/15 pp. 25-29)",
+   "title_en": "Part Two—How the Bible Came to Us",
+   "title_ta": "பைபிள் நம்மிடம் எவ்வாறு வந்தது—பகுதி இரண்டு",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997685",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997685",
+   "finder_url": "https://www.jw.org/finder?docid=1997685&wtlocale=E",
+   "par": null,
+   "quote_en": "Now we come to the dawn of a new era when the message and authority of God’s Word were about to have a profound impact on society.",
+   "supports": null
+  },
+  {
+   "docid": "1997763",
+   "publication": "The Watchtower, October 15, 1997 (w97 10/15 pp. 8-12)",
+   "title_en": "Part Three—How the Bible Came to Us",
+   "title_ta": "பைபிள் நம்மிடம் எவ்வாறு வந்தது—பாகம் மூன்று",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997763",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997763",
+   "finder_url": "https://www.jw.org/finder?docid=1997763&wtlocale=E",
+   "par": null,
+   "quote_en": "How has the Bible fared from then to the present?",
+   "supports": null
+  },
+  {
+   "docid": "1001070204",
+   "publication": "NWT Study Edition (nwtsty) App. A4",
+   "title_en": "A4 The Divine Name in the Hebrew Scriptures",
+   "title_ta": "A4 எபிரெய வேதாகமத்தில் கடவுளுடைய பெயர்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070204",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070204",
+   "finder_url": "https://www.jw.org/finder?docid=1001070204&wtlocale=E",
+   "par": 12,
+   "quote_en": "The first rendering of God’s personal name in an English Bible appeared in 1530 in William Tyndale’s translation of the Pentateuch.",
+   "supports": null
+  },
+  {
+   "docid": "1001070205",
+   "publication": "NWT Study Edition (nwtsty) App. A5",
+   "title_en": "A5 The Divine Name in the Christian Greek Scriptures",
+   "title_ta": "A5 கிறிஸ்தவ கிரேக்க வேதாகமத்தில் கடவுளுடைய பெயர்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070205",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070205",
+   "finder_url": "https://www.jw.org/finder?docid=1001070205&wtlocale=E",
+   "par": 4,
+   "quote_en": "It uses the name Jehovah a total of 237 times in the Christian Greek Scriptures.",
+   "supports": null
+  },
+  {
+   "docid": "102007409",
+   "publication": "Awake!, November 2007 (g 11/07 pp. 12-14)",
+   "title_en": "How the Bible Came to Us",
+   "title_ta": "இன்றுவரை பைபிள் எவ்வாறு நிலைத்திருக்கிறது?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/102007409",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/102007409",
+   "finder_url": "https://www.jw.org/finder?docid=102007409&wtlocale=E",
+   "par": null,
+   "quote_en": "That the Bible has survived untarnished down to our day is nothing less than miraculous.",
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/4",
+   "caption_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.) (small: /nwtsty/2026/5)",
+   "caption_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/6",
+   "caption_en": "Chapter 40 of Isaiah’s book in the Aleppo Codex, an important Hebrew Masoretic manuscript from about 930 C.E. (small: /nwtsty/2026/7)",
+   "caption_ta": "சுமார் கி.பி. 930-ஐச் சேர்ந்த முக்கியமான எபிரெய மசோரெட்டிக் கையெழுத்துப் பிரதியான அலெப்போ கோடெக்சில் இருக்கும் ஏசாயா 40-வது அதிகாரம்",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/8",
+   "caption_en": "A papyrus manuscript of 2 Corinthians 4:13–5:4 from about 200 C.E. (small: /nwtsty/2026/9)",
+   "caption_ta": "2 கொரிந்தியர் 4:13–5:4 வசனங்கள் காணப்படும் நாணல் கையெழுத்துப் பிரதி, இது சுமார் கி.பி. 200-ஐச் சேர்ந்தது",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/4",
+   "caption_en": "Tamil A3: Isaiah 40 in the Dead Sea Scrolls (small: /ta/…/nwtsty/2018/5)",
+   "caption_ta": "சவக்கடல் சுருள்களில் காணப்படும் எபிரெய எழுத்துக்கள்",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/6",
+   "caption_en": "Tamil A3: Isaiah 40 in the Aleppo Codex (small: /ta/…/nwtsty/2018/7)",
+   "caption_ta": "அலெப்போ கோடெக்சில் காணப்படும் எபிரெய எழுத்துக்கள்",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/8",
+   "caption_en": "Tamil A3: papyrus manuscript of 2 Cor. 4:13–5:4 (small: /ta/…/nwtsty/2018/9)",
+   "caption_ta": "நாணல் கையெழுத்துப் பிரதி",
+   "source_docid": "1001070203",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/16",
+   "caption_en": "God’s name at Genesis 15:2 in William Tyndale’s translation of the Pentateuch, 1530 (small: /nwtsty/2026/17; Tamil: /ta/wol/mp/r122/lp-tl/nwtsty/2018/16)",
+   "caption_ta": "ஆதியாகமம் 15:2-ல் காணப்படும் கடவுளுடைய பெயர்; 1530-ல் வில்லியம் டின்டேல் மொழிபெயர்த்த ஐந்தாகமம்",
+   "source_docid": "1001070204",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/14",
+   "caption_en": "Excerpts from the Psalms in a Dead Sea Scroll dated to the first half of the first century C.E.; the Tetragrammaton appears repeatedly in distinctive ancient Hebrew letters (small: /nwtsty/2026/15; Tamil: /ta/wol/mp/r122/lp-tl/nwtsty/2018/14)",
+   "caption_ta": "கி.பி. முதல் நூற்றாண்டின் முதல் பகுதியைச் சேர்ந்த சவக்கடல் சுருளில் இருந்த சங்கீத புத்தகத்தின் சில பகுதிகள் இவை.",
+   "source_docid": "1001070204",
+   "kind": "photo"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/24",
+   "caption_en": "God’s name at Acts 2:34 in The Emphatic Diaglott, by Benjamin Wilson (1864) (small: /nwtsty/2026/25; Tamil: /ta/wol/mp/r122/lp-tl/nwtsty/2018/24)",
+   "caption_ta": "அப்போஸ்தலர் 2:34-ல் கடவுளுடைய பெயர், பென்ஜமின் வில்சன் என்பவரின் த எம்ஃபடிக் டயக்லாட் (1864)",
+   "source_docid": "1001070205",
+   "kind": "photo"
+  }
+ ],
+ "groups": [
+  {
+   "id": "hebrew",
+   "order": 1,
+   "label_en": "Copying the Hebrew Scriptures",
+   "label_ta": "நகல் எடுப்பவர்கள் பைபிளைப் பாதுகாத்தார்கள்",
+   "span_id": null,
+   "symbols": [],
+   "attributes": {
+    "source": "A3 'Copyists Preserve God’s Word'; w97 8/15 'The Hebrew Bible Survives'"
+   },
+   "note": "label_ta is the Tamil A3 heading 'Copyists preserve God's Word', which covers both groups of copying."
+  },
+  {
+   "id": "greek",
+   "order": 2,
+   "label_en": "Copying the Christian Greek Scriptures",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [],
+   "attributes": {
+    "source": "A3; w97 8/15 'The First Christian Book Publishers'"
+   },
+   "note": null
+  },
+  {
+   "id": "translations",
+   "order": 3,
+   "label_en": "Translations",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [],
+   "attributes": {
+    "source": "w97 8/15 'Latin and Slavonic Bibles'; w97 9/15; w97 10/15 'Growth in Bible Translation'; A4-A5 (divine name)"
+   },
+   "note": null
+  },
+  {
+   "id": "printing",
+   "order": 4,
+   "label_en": "Printing",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [],
+   "attributes": {
+    "source": "w97 9/15 'The Impact of Printing'"
+   },
+   "note": null
+  },
+  {
+   "id": "modern",
+   "order": 5,
+   "label_en": "Bible societies, discoveries and the New World Translation",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [],
+   "attributes": {
+    "source": "w97 10/15; A3 'Establishing the Hebrew and Greek Texts for Translation'"
+   },
+   "note": null
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b4-0064",
+   "order": 1,
+   "role": "context",
+   "group": "hebrew",
+   "label_en": "After the exile of the Jews to Babylon, a class of copyists, or scribes (Sopherim), developed (Ezra 7:6)",
+   "label_ta": "யூதர்கள் பாபிலோனுக்குச் சிறைபிடிக்கப்பட்டுப் போன பிறகு, நகலெடுப்பவர்கள் அல்லது எழுத்தர்களின் (சோஃபெரிம்) ஒரு வகுப்பு உருவானது.",
+   "pairs_with": [],
+   "scriptures": [
+    "Ezra 7:6",
+    "Deut. 17:18"
+   ],
+   "source_docid": "1001070203",
+   "note": "A3 gives no date for the Sopherim; anchored to Ezra's return to Jerusalem (468 B.C.E.). Ezra was 'a skilled copyist in the law of Moses' (Ezra 7:6; g 11/07, w97 8/15)."
+  },
+  {
+   "event_id": "b11-0042",
+   "order": 2,
+   "role": "step",
+   "group": "hebrew",
+   "label_en": "Hebrew Scriptures completed c. 443 B.C.E.",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 chart 'Key Dates in the Transmission of the Bible'. Anchored to the 'writing of Malachi completed' record (a. 443 B.C.E.); Nehemiah (b11-0041) has the same date."
+  },
+  {
+   "event_id": "b4-0098",
+   "order": 3,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Septuagint begun c. 280 B.C.E.: Hebrew scholars at Alexandria translate the Hebrew Bible into the popular Koine",
+   "label_ta": "செப்டுவஜின்ட் ஆரம்பம் சுமார் பொ.ச.மு. 280",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 9 and chart; w97 10/15 chart: 1 language."
+  },
+  {
+   "event_id": "b4-0116",
+   "order": 4,
+   "role": "step",
+   "group": "translations",
+   "label_en": "The Septuagint was finished about 150 B.C.E.",
+   "label_ta": "இது பொ.ச.மு. சுமார் 150-ல் எழுதி முடிக்கப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": null
+  },
+  {
+   "event_id": "b17-0001",
+   "order": 5,
+   "role": "item",
+   "group": "hebrew",
+   "label_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+   "label_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+   "pairs_with": [],
+   "scriptures": [
+    "Isa. 40"
+   ],
+   "source_docid": "1001070203",
+   "note": "A3 image caption. Compared with manuscripts about a thousand years later, only minor differences, mostly in spelling."
+  },
+  {
+   "event_id": "b11-0068",
+   "order": 6,
+   "role": "step",
+   "group": "greek",
+   "label_en": "Greek Scriptures completed 98 C.E., with the books of the last surviving apostle, John",
+   "label_ta": "கிரேக்க வேதாகமம் எழுதி முடிக்கப்பட்டது பொ.ச. 98",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 14 and chart. Anchored to 'writing of John completed' (c. 98 C.E.); 1-3 John (b11-0069…0071) share the date."
+  },
+  {
+   "event_id": "b7-0002",
+   "order": 7,
+   "role": "item",
+   "group": "greek",
+   "label_en": "Rylands Papyrus of John (b. 125 C.E.)",
+   "label_ta": "யோவானின் ரைலன் பப்பைரஸ் (பொ.ச. 125-க்கு முன்)",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 chart; g 11/07: a fragment of John's Gospel made less than 50 years after he wrote, found in Egypt."
+  },
+  {
+   "event_id": "b7-0004",
+   "order": 8,
+   "role": "item",
+   "group": "greek",
+   "label_en": "As early as 150 to 170 C.E., Tatian produced the Diatessaron, a composite account of Jesus’ life from the same four Gospels",
+   "label_ta": "பொ.ச. 150 முதல் 170 வரையான காலப்பகுதியிலேயே ஜஸ்டின் மார்டரின் ஒரு மாணவரான டேஷன், டையட்டெஸரான்-ஐ, அதாவது நம்முடைய நவீன பைபிள்களில் காணப்படும் அதே நான்கு சுவிசேஷங்களிலிருந்து சேகரித்த இயேசுவின் வாழ்க்கையைத் தொகுத்து எழுதினார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 14."
+  },
+  {
+   "event_id": "b7-0006",
+   "order": 9,
+   "role": "item",
+   "group": "greek",
+   "label_en": "About 170 C.E., the earliest known catalog of “New Testament” books, the Muratorian Fragment",
+   "label_ta": "சுமார் பொ.ச. 170-ல், பழமையானதாக அறியப்பட்டிருந்த முயூரட்டோரியன் துண்டு என்றழைக்கப்பட்ட “புதிய ஏற்பாட்டு” புத்தகங்களின் ஒரு பட்டியல் பிரசுரிக்கப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 14."
+  },
+  {
+   "event_id": "b7-0010",
+   "order": 10,
+   "role": "item",
+   "group": "greek",
+   "label_en": "Early papyri, thought to date back to the second and third centuries C.E.",
+   "label_ta": "அதோடு, கி.பி. இரண்டாம், மூன்றாம் நூற்றாண்டுகளைச் சேர்ந்த நாணல் சுருள்களும் ஆராய்ச்சிக்கு எடுத்துக்கொள்ளப்பட்டன.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 (Greek text) says such papyri were used by the NWT committee and shows a papyrus of 2 Cor. 4:13–5:4 from about 200 C.E. without naming it; P46 (b7-0010) is the c. 200 C.E. Chester Beatty codex of Paul's letters in Insight."
+  },
+  {
+   "event_id": "b7-0011",
+   "order": 11,
+   "role": "item",
+   "group": "greek",
+   "label_en": "Bodmer Papyri P66 and P75 (c. 200 C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "Further early papyri of the kind A3 mentions; names and date from the b7 record (Insight, si Study 6)."
+  },
+  {
+   "event_id": "b7-0015",
+   "order": 12,
+   "role": "item",
+   "group": "translations",
+   "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Coptic)",
+   "label_ta": "ஆரம்பக் காலத்தில், அர்மீனியன், எத்தியோபிக், ஜார்ஜியன், காப்டிக், லத்தீன், சிரியாக் போன்ற பழங்கால மொழிகளில் பைபிள் மொழிபெயர்க்கப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 lists the early translation languages without dates; the b7 record dates the first Coptic version 'by 3rd century C.E.'"
+  },
+  {
+   "event_id": "b7-0014",
+   "order": 13,
+   "role": "item",
+   "group": "translations",
+   "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Latin)",
+   "label_ta": "ஆரம்பக் காலத்தில், அர்மீனியன், எத்தியோபிக், ஜார்ஜியன், காப்டிக், லத்தீன், சிரியாக் போன்ற பழங்கால மொழிகளில் பைபிள் மொழிபெயர்க்கப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "Earliest evidence of the Latin Bible, by 250 C.E. (b7)."
+  },
+  {
+   "event_id": "b7-0018",
+   "order": 14,
+   "role": "context",
+   "group": "greek",
+   "label_en": "Despite attempts by Roman Emperor Diocletian and others to destroy all early Christian literature, thousands of ancient fragments and manuscripts have been preserved",
+   "label_ta": "ரோமப் பேரரசர் டயக்லீஷியனும் மற்றவர்களும் ஆரம்பக் கால கிறிஸ்தவ புத்தகங்கள் எல்லாவற்றையும் அழிப்பதற்கு முயற்சி செய்தபோதிலும், இன்றுவரை ஆயிரக்கணக்கான பழங்கால கையெழுத்துப் பிரதிகளும் அவற்றின் துண்டுகளும் பாதுகாக்கப்பட்டிருக்கின்றன.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "g 11/07 dates Diocletian's decree to February 23-24, 303 C.E."
+  },
+  {
+   "event_id": "b7-0025",
+   "order": 15,
+   "role": "item",
+   "group": "greek",
+   "label_en": "Two copies of the Bible in Greek made not long after Diocletian’s persecution survive: one is in Rome (Codex Vaticanus)",
+   "label_ta": "ஒன்று ரோமிலும், மற்றொன்று இங்கிலாந்திலுள்ள லண்டனிலிருக்கும் பிரிட்டிஷ் நூலகத்திலும் காணப்படுகின்றன",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "102007409",
+   "note": "g 11/07 does not name the two codices; the b7 records identify them as Vaticanus (Rome) and Sinaiticus (British Library)."
+  },
+  {
+   "event_id": "b7-0026",
+   "order": 16,
+   "role": "item",
+   "group": "greek",
+   "label_en": "…the other, in the British Library in London (Codex Sinaiticus)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "102007409",
+   "note": "w97 10/15: probably produced about 50 years before Jerome completed the Vulgate."
+  },
+  {
+   "event_id": "b7-0031",
+   "order": 17,
+   "role": "item",
+   "group": "translations",
+   "label_en": "Ulfilas, a fourth-century bishop, is said to have invented Gothic script to translate the Bible",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 15."
+  },
+  {
+   "event_id": "b7-0036",
+   "order": 18,
+   "role": "step",
+   "group": "translations",
+   "label_en": "In 382 C.E., Pope Damasus commissioned his secretary, Jerome, to prepare an authoritative Latin Bible",
+   "label_ta": "ஆகவே பொ.ச. 382-ல் போப் டெமாசிஸ் தன்னுடைய செயலர் ஜெரோமை ஒரு நம்பத்தகுந்த லத்தீன் பைபிளை தயார்செய்யும்படியாக பணித்தார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 17."
+  },
+  {
+   "event_id": "b7-0042",
+   "order": 19,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Jerome’s Latin Vulgate c. 400 C.E.",
+   "label_ta": "ஜெரோமின் லத்தீன் வல்கேட் சுமார் பொ.ச. 400",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 chart and par. 18 'about 400 C.E.'; the b7 record (Insight) dates completion 405 C.E. See the span b12-0058 (382–405 C.E.). w97 10/15 chart: 12 languages."
+  },
+  {
+   "event_id": "b7-0048",
+   "order": 20,
+   "role": "item",
+   "group": "translations",
+   "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Syriac: the Syriac Peshitta)",
+   "label_ta": "சிரியாக் பெஷிட்டா",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 lists Syriac among early translations and the Syriac Peshitta among sources in the Hebrew text's footnotes; dated copies 459-464 C.E. (b7)."
+  },
+  {
+   "event_id": "b7-0050",
+   "order": 21,
+   "role": "step",
+   "group": "hebrew",
+   "label_en": "During the Middle Ages, a group of Jewish scribes known as the Masoretes carried on that tradition — Masoretic Text prepared",
+   "label_ta": "இடைக்காலத்தில் (கி.பி. 500–1500-ல்), யூத எழுத்தர்களின் ஒரு தொகுதியாகிய மசோரெட்டுகள் அந்த நகலெடுக்கும் வேலையைத் தொடர்ந்தார்கள்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 par. 2; w97 8/15: from about the sixth to the tenth centuries C.E. The Tamil A3 adds '(500–1500 C.E.)' for the Middle Ages."
+  },
+  {
+   "event_id": "b7-0057",
+   "order": 22,
+   "role": "step",
+   "group": "translations",
+   "label_en": "In 863 C.E., Cyril and Methodius went to Moravia and began to translate the Bible into Old Slavonic",
+   "label_ta": "பொ.ச. 863-ல், கிரேக்க மொழிபேசும் சிரில் மற்றும் மெத்தோடியஸ் என்ற இரு கிரேக்க சகோதரர்கள் இப்பொழுது செக் குடியரசாக இருக்கும் மொராவியாவுக்குச் சென்றார்கள்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997603",
+   "note": "w97 8/15 par. 19 and chart 'Cyril in Moravia 863 C.E.'"
+  },
+  {
+   "event_id": "b7-0065",
+   "order": 23,
+   "role": "item",
+   "group": "hebrew",
+   "label_en": "Chapter 40 of Isaiah’s book in the Aleppo Codex, an important Hebrew Masoretic manuscript from about 930 C.E.",
+   "label_ta": "சுமார் கி.பி. 930-ஐச் சேர்ந்த முக்கியமான எபிரெய மசோரெட்டிக் கையெழுத்துப் பிரதியான அலெப்போ கோடெக்சில் இருக்கும் ஏசாயா 40-வது அதிகாரம்",
+   "pairs_with": [],
+   "scriptures": [
+    "Isa. 40"
+   ],
+   "source_docid": "1001070203",
+   "note": "A3 image caption."
+  },
+  {
+   "event_id": "b7-0066",
+   "order": 24,
+   "role": "item",
+   "group": "hebrew",
+   "label_en": "The oldest complete Masoretic manuscript is the Leningrad Codex, which dates from 1008/1009 C.E.",
+   "label_ta": "மிகவும் பழமையான, முழுமையான மசோரெட் கையெழுத்துப் பிரதி, லெனின்கிரேட் கோடெக்ஸ் என்று அழைக்கப்படுகிறது. இது கி.பி. 1008/1009-ஆம் வருஷத்தைச் சேர்ந்தது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3: modern master texts (Biblia Hebraica Stuttgartensia and Quinta) reproduce the Leningrad Codex in the main text."
+  },
+  {
+   "event_id": "b7-0086",
+   "order": 25,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Wycliffe Bible begun (b. 1384): before he died in 1384, Wycliffe initiated the translation of the Bible from Latin into English",
+   "label_ta": "வைக்கிளிப்பின் பைபிளின் துவக்கம் (1384-க்கு முன்)",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 5 and chart."
+  },
+  {
+   "event_id": "b7-0095",
+   "order": 26,
+   "role": "step",
+   "group": "printing",
+   "label_en": "By 1450 Johannes Gutenberg began printing with movable type in Germany",
+   "label_ta": "1450-க்குள் ஹஸ் மரித்து 35 ஆண்டுகளே ஆனபின்பு, ஜோஹானஸ் குட்டன்பர்க் அச்சுக்கோர்த்து அச்சடிக்க ஜெர்மனியில் அச்சுவேலையை ஆரம்பித்தார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 14."
+  },
+  {
+   "event_id": "b7-0096",
+   "order": 27,
+   "role": "step",
+   "group": "printing",
+   "label_en": "Gutenberg—first printed Bible c. 1455 (the Latin Vulgate)",
+   "label_ta": "குட்டன்பர்க்—முதலாவது அச்சிடப்பட்ட பைபிள் சுமார் 1455",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 chart; w97 10/15 chart: 35 languages."
+  },
+  {
+   "event_id": "b7-0100",
+   "order": 28,
+   "role": "item",
+   "group": "printing",
+   "label_en": "By 1495 all or part of the Bible had been printed in twelve languages",
+   "label_ta": "1495-க்குள் முழு பைபிளோ அல்லது பைபிளின் ஒரு பகுதியோ ஜெர்மன், இத்தாலி, பிரெஞ்சு, செக், டச்சு, எபிரெயு, காடலோனி, கிரேக்கு, ஸ்பானிஷ், ஸ்லாவிக், போர்ச்சுகீஷ் மற்றும் செர்பிய மொழி என்ற வரிசையில் அச்சடிக்கப்பட்டுவிட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 14 ('Early Printed Vernaculars' on the chart)."
+  },
+  {
+   "event_id": "b7-0105",
+   "order": 29,
+   "role": "step",
+   "group": "printing",
+   "label_en": "Erasmus’ Greek text 1516: the first complete printed edition of the Greek text",
+   "label_ta": "இராஸ்மஸ் கிரேக்க வாசகம் 1516",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 15 and chart."
+  },
+  {
+   "event_id": "b7-0113",
+   "order": 30,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Luther’s German “New Testament” (September Bible), 1522",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "Not in A3 or the w97 series; b7 record (si Study 6-7, 2003686)."
+  },
+  {
+   "event_id": "b7-0118",
+   "order": 31,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Tyndale’s “New Testament” 1526: copies printed at Worms began to be distributed in England early in 1526",
+   "label_ta": "இவை இங்கிலாந்துக்கு அனுப்பி வைக்கப்பட்டு 1526 ஆரம்பத்தில் அங்கே விநியோகிக்கப்பட்டன.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 19 and chart."
+  },
+  {
+   "event_id": "b7-0122",
+   "order": 32,
+   "role": "step",
+   "group": "translations",
+   "label_en": "The first rendering of God’s personal name in an English Bible appeared in 1530 in William Tyndale’s translation of the Pentateuch",
+   "label_ta": "உதாரணத்துக்கு, 1530-ல் வில்லியம் டின்டேல் மொழிபெயர்த்த ஐந்தாகமப் புத்தகத்தில், கடவுளுடைய பெயர் முதன்முதலாக ஆங்கிலத்தில் இருந்தது.",
+   "pairs_with": [],
+   "scriptures": [
+    "Gen. 15:2"
+   ],
+   "source_docid": "1001070204",
+   "note": "A4 par. 12 and image (Gen. 15:2, form 'Iehouah'); w97 9/15 par. 25: first to translate from Hebrew directly into English and first English translator to use the name Jehovah."
+  },
+  {
+   "event_id": "b7-0128",
+   "order": 33,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Luther completes the Hebrew Scriptures — complete German Bible, 1534",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "Not in A3 or the w97 series; b7 record (2003686)."
+  },
+  {
+   "event_id": "b7-0133",
+   "order": 34,
+   "role": "context",
+   "group": "translations",
+   "label_en": "Tyndale executed 1536",
+   "label_ta": "டின்டேலுக்கு 1536-ல் மரண தண்டனை நிறைவேற்றப்பட்டது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 30 and chart."
+  },
+  {
+   "event_id": "b7-0135",
+   "order": 35,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Henry VIII orders Bibles put in churches 1538 — essentially Tyndale’s translation",
+   "label_ta": "எட்டாம் ஹென்றி 1538-ல் சர்ச்சுகளில் பைபிள்கள் வைக்கப்பட வேண்டும் என்று உத்தரவிடுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 31 and chart."
+  },
+  {
+   "event_id": "b7-0145",
+   "order": 36,
+   "role": "item",
+   "group": "printing",
+   "label_en": "The verse division generally accepted in Bible translations was already established in the 16th century",
+   "label_ta": "வசனங்களைப் பிரிக்கும் முறை 16-ஆம் நூற்றாண்டிலேயே முடிவு செய்யப்பட்டுவிட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 gives only 'the 16th century'; anchored to Stephanus' numbered verses (1551, b7)."
+  },
+  {
+   "event_id": "b7-0156",
+   "order": 37,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Casiodoro de Reina’s Spanish Bible published 1569 (revised by Cipriano de Valera, 1602)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "102007409",
+   "note": "g 11/07 par. 14 and footnote."
+  },
+  {
+   "event_id": "b7-0163",
+   "order": 38,
+   "role": "step",
+   "group": "translations",
+   "label_en": "King James Version 1611 — as much as 90 percent of Tyndale’s translation carried into it",
+   "label_ta": "கிங் ஜேம்ஸ் பைபிள் 1611",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997685",
+   "note": "w97 9/15 par. 31 and chart."
+  },
+  {
+   "event_id": "b7-0175",
+   "order": 39,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Ziegenbalg produces the Christian Greek Scriptures in Tamil (by 1714)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "Not in A3 or the w97 series; b7 record (docid 101979409)."
+  },
+  {
+   "event_id": "b7-0177",
+   "order": 40,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Complete Bible in Tamil appears (1728)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "b7 record (docid 101979409)."
+  },
+  {
+   "event_id": "b7-0184",
+   "order": 41,
+   "role": "context",
+   "group": "translations",
+   "label_en": "William Carey sailed for India in 1793; he eventually translated the Bible or parts of it into 35 Indian languages",
+   "label_ta": "இருப்பினும் கேரி 1793-ல் இந்தியாவுக்கு கப்பலில் வந்துசேர்ந்தார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 6."
+  },
+  {
+   "event_id": "b7-0189",
+   "order": 42,
+   "role": "context",
+   "group": "modern",
+   "label_en": "In 1800, Mary Jones walked barefoot 25 miles to buy a Welsh Bible",
+   "label_ta": "1800-ல், மேரி ஒரு பாதிரியாரிடமிருந்து வேல்ஸ் மொழியில் பைபிளை வாங்குவதற்காக வெறுங்காலோடு 40 கிலோமீட்டர் நடந்து சென்றாள்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 7."
+  },
+  {
+   "event_id": "b7-0191",
+   "order": 43,
+   "role": "step",
+   "group": "modern",
+   "label_en": "British and Foreign Bible Society founded 1804",
+   "label_ta": "பிரிட்டிஷ் அண்ட் ஃபாரின் பைபிள் சொஸைட்டி 1804-ல் நிறுவப்பட்டது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 8 and chart (81 languages)."
+  },
+  {
+   "event_id": "b7-0197",
+   "order": 44,
+   "role": "item",
+   "group": "modern",
+   "label_en": "By 1813 associate societies had been formed in Germany, the Netherlands, Denmark, and Russia",
+   "label_ta": "ஆரம்பகால உற்சாகம் வேகமாக பரவ, 1813-க்குள் துணை சங்கங்கள் ஜெர்மனியிலும் நெதர்லாந்திலும் டென்மார்க்கிலும் ரஷ்யாவிலும் தோன்றியிருந்தன.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 9."
+  },
+  {
+   "event_id": "b7-0200",
+   "order": 45,
+   "role": "item",
+   "group": "modern",
+   "label_en": "American Bible Society formed (1816)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "b7 record (si Study 7)."
+  },
+  {
+   "event_id": "b7-0204",
+   "order": 46,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Robert Morrison completes the entire Bible in Chinese (1819)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "b7 record (2009402, 1101997025)."
+  },
+  {
+   "event_id": "b7-0210",
+   "order": 47,
+   "role": "step",
+   "group": "translations",
+   "label_en": "Adoniram Judson completed the Burmese Bible in 1835",
+   "label_ta": "இருந்தபோதிலும் பெலனுக்காக கடவுளைச் சார்ந்திருந்து தொடர்ந்து மொழிபெயர்த்து பர்மிய மொழியில் பைபிளை 1835-ல் மொழிபெயர்த்து முடித்தார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 2, 13."
+  },
+  {
+   "event_id": "b7-0224",
+   "order": 48,
+   "role": "step",
+   "group": "modern",
+   "label_en": "In 1859 Tischendorf found Codex Sinaiticus, the oldest known complete copy of the Christian Greek Scriptures, at the base of Mount Sinai",
+   "label_ta": "1859-ல், உயிரின தோற்றம் (ஆங்கிலம்) புத்தகத்தை டார்வின் வெளியிட்ட அதே ஆண்டில் டிஷன்டார்ஃப் சீனாய் மலை அடிவாரத்திலிருந்த ஒரு துறவி மடத்தில் மிக பழமையானதாக அறியப்பட்டிருந்த கிறிஸ்தவ கிரேக்க வேதாகமத்தின் முழு நகல் ஒன்றை கண்டுபிடித்தார்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 18."
+  },
+  {
+   "event_id": "b7-0228",
+   "order": 49,
+   "role": "item",
+   "group": "translations",
+   "label_en": "God’s name in the Christian Greek Scriptures: The Emphatic Diaglott, by Benjamin Wilson (1864)",
+   "label_ta": "அப்போஸ்தலர் 2:34-ல் கடவுளுடைய பெயர், பென்ஜமின் வில்சன் என்பவரின் த எம்ஃபடிக் டயக்லாட் (1864)",
+   "pairs_with": [],
+   "scriptures": [
+    "Acts 2:34"
+   ],
+   "source_docid": "1001070205",
+   "note": "A5 par. 13 and image: translators who used God's name in the Christian Greek Scriptures long before the NWT."
+  },
+  {
+   "event_id": "b17-0005",
+   "order": 50,
+   "role": "step",
+   "group": "modern",
+   "label_en": "In the late 19th century, scholars B. F. Westcott and F.J.A. Hort prepared the Greek master text (1881)",
+   "label_ta": "19-ஆம் நூற்றாண்டின் பிற்பகுதியில், பி. எஃப். வெஸ்ட்காட் மற்றும் எஃப். ஜெ. ஏ. ஹார்ட் என்ற அறிஞர்கள், மூலப் பதிவோடு மிகவும் ஒத்திருந்ததாக நினைத்த அன்றைய பைபிள் கையெழுத்துப் பிரதிகளையும் அவற்றின் துண்டுகளையும் ஒப்பிட்டுப் பார்த்து கிறிஸ்தவ கிரேக்க வேதாகமத்தின் அடிப்படைப் பதிவைத் தயாரித்தார்கள்.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3; year from si Study 6."
+  },
+  {
+   "event_id": "b17-0006",
+   "order": 51,
+   "role": "step",
+   "group": "modern",
+   "label_en": "Biblia Hebraica, by Rudolf Kittel (first edition 1906), on which the NWT Hebrew Scriptures were based",
+   "label_ta": "ருடால்ஃப் கிட்டெல் என்பவரின் பிப்ளியா ஹெப்ராய்காவை அடிப்படையாக வைத்துத்தான் எபிரெய வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு (1953-1960) ஆங்கிலத்தில் மொழிபெயர்க்கப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3; first edition year from si Study 5."
+  },
+  {
+   "event_id": "b9-0016",
+   "order": 52,
+   "role": "step",
+   "group": "modern",
+   "label_en": "New World Bible Translation Committee begins work (December 2, 1947)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "w97 10/15 par. 22 says associates of the Society 'set out in 1946 to produce a fresh translation'; b9 (kr ch. 'Bible translation') dates the committee's first meeting December 2, 1947."
+  },
+  {
+   "event_id": "b17-0010",
+   "order": 53,
+   "role": "step",
+   "group": "modern",
+   "label_en": "In the middle of the 20th century, some 220 Biblical manuscripts or fragments were discovered among the Dead Sea Scrolls (1947)",
+   "label_ta": "ஆனால், 20-ஆம் நூற்றாண்டின் மத்தியில் கண்டெடுக்கப்பட்ட சவக்கடல் சுருள்களில் சுமார் 220 பைபிள் கையெழுத்துப் பிரதிகள் அல்லது அதனுடைய துண்டுகள் இருந்தன.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3; year 1947 from si Study 5, wp16 No. 4 and wp20 No. 3."
+  },
+  {
+   "event_id": "b9-0027",
+   "order": 54,
+   "role": "step",
+   "group": "modern",
+   "label_en": "New World Translation of the Christian Greek Scriptures released (1950)",
+   "label_ta": "1950-ல் கிறிஸ்தவ கிரேக்க வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது (2009-ல் தமிழில் வெளியிடப்பட்டது).",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "Tamil label is the b9 record's own Tamil title (from a Tamil jw.org page). A3: in the mid-20th century the committee used the Westcott and Hort master text."
+  },
+  {
+   "event_id": "b12-0092",
+   "order": 55,
+   "role": "step",
+   "group": "modern",
+   "label_en": "It was published in six volumes, released from 1950 to 1960, beginning with the Christian Greek Scriptures",
+   "label_ta": "அது கிறிஸ்தவ கிரேக்க வேதாகமத்தில் துவங்கி 1950 முதல் 1960 வரையாக ஆறு புத்தகத் தொகுதிகளாக வெளியிடப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1997763",
+   "note": "w97 10/15 par. 24; A3: the New World Translation of the Hebrew Scriptures (1953-1960)."
+  },
+  {
+   "event_id": "b9-0061",
+   "order": 56,
+   "role": "step",
+   "group": "modern",
+   "label_en": "Complete New World Translation released in one volume (1961)",
+   "label_ta": "1961-ல் பரிசுத்த வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு பைபிள் ஒரே தொகுப்பாக ஆங்கிலத்தில் வெளியிடப்பட்டது (2016-ல் தமிழில் வெளியிடப்பட்டது).",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": null,
+   "note": "Tamil label is the b9 record's own Tamil title."
+  },
+  {
+   "event_id": "b17-0011",
+   "order": 57,
+   "role": "step",
+   "group": "modern",
+   "label_en": "New World Translation of the Holy Scriptures—With References, published in 1984",
+   "label_ta": "1984-⁠ல் நடத்தப்பட்ட யெகோவாவின் சாட்சிகளின் “ராஜ்ய அதிகரிப்பு” மாவட்ட மாநாடுகளில், துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070203",
+   "note": "A3 footnote c; si Study 7 par. 23."
+  },
+  {
+   "event_id": "b9-0314",
+   "order": 58,
+   "role": "step",
+   "group": "modern",
+   "label_en": "The present revision of the New World Translation (2013): Biblia Hebraica Stuttgartensia and Quinta consulted; the name Jehovah used 237 times in the Christian Greek Scriptures",
+   "label_ta": "கிறிஸ்தவ கிரேக்க வேதாகமத்தில் மொத்தம் 237 தடவை யெகோவா என்ற பெயர் பயன்படுத்தப்பட்டுள்ளது.",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070205",
+   "note": "A3 par. on the Hebrew and Greek texts ('the present revision'); A5 par. 4 (237 times). Restoration of the divine name: A4, A5."
+  }
+ ],
+ "notes": "A3 itself prints few dates (Leningrad Codex 1008/1009, the image dates 125-100 B.C.E., c. 930 and c. 200 C.E., NWT Hebrew Scriptures 1953-1960, 'late 19th century', 'mid-20th century', '16th century', 1984); the w97 three-part series and its charts 'Key Dates in the Transmission of the Bible' and 'Growth in Bible Translation' supply most other steps. Members whose source_docid is null are existing b7/b9 records that fill out the thread named in the brief (Luther, Tamil and Chinese Bibles, American Bible Society, NWT dates) and are sourced in their own records, not in A3/w97. Dates conflicts noted on members: Vulgate c. 400 (w97) vs 405 (Insight); NWT translation begun 1946 (w97) vs committee first met Dec. 2, 1947 (b9); Dead Sea Scrolls written 250 B.C.E.-50 C.E. (w97 text) vs c. 100 B.C.E.-68 C.E. (w97 chart). w97 articles have no images on WOL. Tamil: A3, A4, A5 and the w97 articles exist in Tamil; Tamil chart lines are copied as printed (they use பொ.ச./பொ.ச.மு.)."
+}

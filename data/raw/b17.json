@@ -1,0 +1,1035 @@
+{
+ "batch": "b17",
+ "schema_version": 2,
+ "scope": "Gap records for two curated series: the illustration of the wheat and the weeds (w13 7/15) and How the Bible Came to Us (NWT App. A3, w97 8/15-10/15)",
+ "generated": "2026-10-12",
+ "sources_consulted": [
+  {
+   "docid": "2013531",
+   "title_en": "“Look! I Am With You All the Days”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531"
+  },
+  {
+   "docid": "1001070203",
+   "title_en": "A3 How the Bible Came to Us",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203"
+  },
+  {
+   "docid": "1001070204",
+   "title_en": "A4 The Divine Name in the Hebrew Scriptures",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070204",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070204"
+  },
+  {
+   "docid": "1001070205",
+   "title_en": "A5 The Divine Name in the Christian Greek Scriptures",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070205",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070205"
+  },
+  {
+   "docid": "1997603",
+   "title_en": "Part One—How the Bible Came to Us",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997603",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997603"
+  },
+  {
+   "docid": "1997685",
+   "title_en": "Part Two—How the Bible Came to Us",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997685",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997685"
+  },
+  {
+   "docid": "1997763",
+   "title_en": "Part Three—How the Bible Came to Us",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1997763",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1997763"
+  },
+  {
+   "docid": "102007409",
+   "title_en": "How the Bible Came to Us",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/102007409",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/102007409"
+  },
+  {
+   "docid": "1101990132",
+   "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132"
+  },
+  {
+   "docid": "1101990133",
+   "title_en": "Study Number 6—The Christian Greek Text of the Holy Scriptures",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990133",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990133"
+  },
+  {
+   "docid": "1101990134",
+   "title_en": "Study Number 7—The Bible in Modern Times",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990134",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990134"
+  },
+  {
+   "docid": "2016247",
+   "title_en": "The Bible Survived Attempts to Alter Its Message",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2016247",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2016247"
+  },
+  {
+   "docid": "2020167",
+   "title_en": "Has God’s Written Word Been Changed?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020167",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020167"
+  }
+ ],
+ "events": [
+  {
+   "id": "b17-0001",
+   "slug": "dead-sea-scroll-of-isaiah-copied",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "125–100 B.C.E.",
+   "date_label_ta": "கி.மு. 125-100",
+   "start": {
+    "display_en": "125–100 B.C.E.",
+    "display_ta": "கி.மு. 125-100",
+    "year": 125,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "between",
+    "latest": {
+     "year": 100,
+     "era": "BCE",
+     "month": null,
+     "day": null,
+     "sort_key": -100.0
+    },
+    "sort_key": -125.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Dead Sea Scroll of Isaiah copied (125–100 B.C.E.)",
+   "title_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+   "description_en": "NWT Appendix A3 shows chapter 40 of Isaiah in the Dead Sea Scrolls, dated from 125 to 100 B.C.E. Compared with Hebrew manuscripts from about a thousand years later, it shows only minor differences, mostly in spelling. “All Scripture” Study 5 dates this Isaiah scroll (1QIsa) toward the end of the second century B.C.E.",
+   "description_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி). ஆயிரம் வருஷங்களுக்குப் பின்பு கண்டுபிடிக்கப்பட்ட எபிரெய கையெழுத்துப் பிரதிகளோடு ஒப்பிட்டுப் பார்க்கும்போது சின்னச் சின்ன வித்தியாசங்கள்தான் இருக்கின்றன, அதுவும் பெரும்பாலும் வார்த்தைகளிலுள்ள எழுத்துக்களில்தான்!",
+   "category": "history.bible_preservation",
+   "event_kind": "manuscript",
+   "tags": [
+    "dead-sea-scrolls",
+    "manuscript",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [
+    "Qumran"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Isa. 40",
+     "ref_ta": "ஏசா. 40",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 40,
+     "verses": null
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+     "supports": null
+    },
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 23,
+     "quote_en": "It is believed to date toward the end of the second century B.C.E.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/4",
+     "caption_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+     "caption_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+     "source_docid": "1001070203",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b17-0010"
+   ],
+   "notes": "A3 prints the window 125–100 B.C.E. (one copying, so a 'between' point); si Study 5 par. 23 says 'toward the end of the second century B.C.E.' The Isaiah scroll was found in 1947 (b17-0010)."
+  },
+  {
+   "id": "b17-0002",
+   "slug": "wheat-and-weeds-grow-together",
+   "timing": "span",
+   "span_kind": "prophetic_period",
+   "date_label_en": "33 C.E.–1914",
+   "date_label_ta": "கி.பி. 33–1914",
+   "start": {
+    "display_en": "33 C.E.",
+    "display_ta": "கி.பி. 33",
+    "year": 33,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": "Sivan",
+    "hebrew_day": 6,
+    "season": "spring",
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 33.42
+   },
+   "end": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1914.78
+   },
+   "duration": {
+    "years": 1881,
+    "months": null,
+    "days": null,
+    "display_en": "1,881 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b6-0001",
+   "end_event_id": "b10-0004",
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Wheat and weeds grow together until the harvest",
+   "title_ta": "“அறுவடைவரை இரண்டும் சேர்ந்தே வளரட்டும்”",
+   "description_en": "In Jesus’ illustration the master orders: “Let both grow together until the harvest.” The Watchtower of July 15, 2013 explains that the sowing of the wheat class began at Pentecost 33 C.E. and the harvest season began in 1914, and that from the first century until today there have always been some anointed wheatlike Christians on earth, though overgrown by weedlike ones.",
+   "description_ta": "கோதுமை-களைகள் பற்றிப் பேசுகையில், “அறுவடைவரை இரண்டும் சேர்ந்தே வளரட்டும்” என்று இயேசு சொன்னார். முதல் நூற்றாண்டிலிருந்து இன்றுவரையாக கோதுமையைப் போன்ற பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சிலர், எப்போதும் பூமியில் இருந்திருக்கிறார்கள் என்பது இந்தப் பதிலிலிருந்து தெரிகிறது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophetic_period",
+   "tags": [
+    "wheat-and-weeds",
+    "anointed",
+    "parable"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:30",
+     "ref_ta": "மத். 13:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "30"
+    },
+    {
+     "ref_en": "Matt. 28:20",
+     "ref_ta": "மத். 28:20",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 28,
+     "verses": "20"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 2,
+     "quote_en": "The sowing began at Pentecost 33 C.E.",
+     "supports": "start"
+    },
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 4,
+     "quote_en": "“Let both grow together until the harvest.” This command reveals that from the first century until today, there have always been some anointed wheatlike Christians on earth.",
+     "supports": "whole"
+    },
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 9,
+     "quote_en": "That harvest season began in 1914.",
+     "supports": "end"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b5-0058",
+    "b6-0001",
+    "b10-0004"
+   ],
+   "notes": "Span built from the article's own endpoints: sowing from Pentecost 33 C.E. (b6-0001) to the start of the harvest season in 1914 (b10-0004). Duration computed."
+  },
+  {
+   "id": "b17-0003",
+   "slug": "weeds-appeared-second-century",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "dawn of the 2nd century C.E.",
+   "date_label_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில்",
+   "start": {
+    "display_en": "dawn of the 2nd century C.E.",
+    "display_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில்",
+    "year": 101,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "latest": null,
+    "sort_key": 101.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b17-0002",
+   "derived": null,
+   "title_en": "“The weeds appeared”: imitation Christians become visible",
+   "title_ta": "“களைகள் வளர்ந்திருந்தன,” ஆம், உலகம் என்ற வயலில் போலி கிறிஸ்தவர்கள் தென்பட்டார்கள்",
+   "description_en": "At the dawn of the second century C.E., imitation Christians became visible in the world field, as foretold in Jesus’ illustration: “the weeds appeared.”",
+   "description_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில் “களைகள் வளர்ந்திருந்தன,” ஆம், உலகம் என்ற வயலில் போலி கிறிஸ்தவர்கள் தென்பட்டார்கள்.",
+   "category": "history.apostasy",
+   "event_kind": "apostasy",
+   "tags": [
+    "wheat-and-weeds",
+    "apostasy"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:26",
+     "ref_ta": "மத். 13:26",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "26"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 3,
+     "quote_en": "At the dawn of the second century C.E., “the weeds appeared” when imitation Christians became visible in the world field.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b7-0001",
+    "b7-0003"
+   ],
+   "notes": "'Dawn of the second century' drawn at 101 C.E. (approx). See b7-0001 (last apostle John dies, c. 100 C.E.)."
+  },
+  {
+   "id": "b17-0004",
+   "slug": "weeds-outnumber-wheat-fourth-century",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "by the 4th century C.E.",
+   "date_label_ta": "நான்காம் நூற்றாண்டிற்குள்",
+   "start": {
+    "display_en": "by the 4th century C.E.",
+    "display_ta": "நான்காம் நூற்றாண்டிற்குள்",
+    "year": 400,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "latest": null,
+    "sort_key": 300.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b17-0002",
+   "derived": null,
+   "title_en": "Weedlike Christians greatly outnumber anointed Christians",
+   "title_ta": "களைகளைப் போன்ற இந்த கிறிஸ்தவர்கள் பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களைவிட அதிகமாக இருந்தார்கள்",
+   "description_en": "By the fourth century, weedlike (imitation) Christians had greatly outnumbered the anointed Christians, so that during that long period it is not known for certain who belonged to the wheat class.",
+   "description_ta": "நான்காம் நூற்றாண்டிற்குள், களைகளைப் போன்ற இந்த கிறிஸ்தவர்கள் பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களைவிட அதிகமாக இருந்தார்கள்.",
+   "category": "history.apostasy",
+   "event_kind": "apostasy",
+   "tags": [
+    "wheat-and-weeds",
+    "apostasy",
+    "christendom"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:28",
+     "ref_ta": "மத். 13:28",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "28"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 3,
+     "quote_en": "By the fourth century, weedlike Christians had greatly outnumbered anointed Christians.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b7-0021",
+    "b7-0023"
+   ],
+   "notes": "'By the fourth century': precision 'before' 400 C.E.; sort_key places it at the start of the 4th century."
+  },
+  {
+   "id": "b17-0005",
+   "slug": "westcott-hort-greek-text",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1881",
+   "date_label_ta": "1881",
+   "start": {
+    "display_en": "1881",
+    "display_ta": "1881",
+    "year": 1881,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1881.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Westcott and Hort Greek master text produced",
+   "title_ta": "உவெஸ்ட்காட் மற்றும் ஹார்ட் வாக்கியம்",
+   "description_en": "Cambridge scholars B. F. Westcott and F. J. A. Hort produced in 1881 a widely accepted Greek master text, compared from existing manuscripts and fragments. The New World Bible Translation Committee used it as the basis for its translation of the Christian Greek Scriptures in the mid-20th century.",
+   "description_ta": "உலகம் முழுவதும் ஏற்றுக்கொள்ளப்பட்டிருக்கும் சிறப்புவாய்ந்த கிரேக்க மூலவாக்கியம் ஒன்றை கேம்ப்ரிட்ஜ் பல்கலைக்கழகக் கல்வியறிஞர்களான பி. எஃப். உவெஸ்ட்காட்டும் எஃப். ஜே. எ. ஹார்ட்டும் 1881-⁠ல் உருவாக்கினர்.",
+   "category": "history.bible_preservation",
+   "event_kind": "master_text",
+   "tags": [
+    "greek-text",
+    "a3-chart",
+    "new-world-translation"
+   ],
+   "people": [
+    "B. F. Westcott",
+    "F. J. A. Hort"
+   ],
+   "places": [
+    "Cambridge"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990133",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 6",
+     "title_en": "Study Number 6—The Christian Greek Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 6—கிரேக்க வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990133",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990133",
+     "finder_url": "https://www.jw.org/finder?docid=1101990133&wtlocale=E",
+     "par": 22,
+     "quote_en": "A Greek master text that has attained wide acceptance is that produced by the Cambridge University scholars B. F. Westcott and F. J. A. Hort, in 1881.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "In the late 19th century, scholars B. F. Westcott and F.J.A. Hort compared existing Bible manuscripts and fragments as they prepared the Greek master text",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0016",
+    "b9-0027"
+   ],
+   "notes": "A3 says 'In the late 19th century'; si Study 6 gives 1881."
+  },
+  {
+   "id": "b17-0006",
+   "slug": "kittel-biblia-hebraica-first-edition",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1906",
+   "date_label_ta": "1906",
+   "start": {
+    "display_en": "1906",
+    "display_ta": "1906",
+    "year": 1906,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1906.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Rudolf Kittel releases the first edition of Biblia Hebraica",
+   "title_ta": "பிப்ளியா ஹெப்ரேய்க்கா, அல்லது “எபிரெய பைபிள்”",
+   "description_en": "In 1906 Hebrew scholar Rudolf Kittel released in Germany the first edition of his refined Hebrew text, Biblia Hebraica. Its later editions provided the basic text for the Hebrew Scriptures of the New World Translation (1953-1960).",
+   "description_ta": "எபிரெய அறிஞர் ருடால்ஃப் கிட்டல் 1906-⁠ல் பிப்ளியா ஹெப்ரேய்க்கா, அல்லது “எபிரெய பைபிள்” என்ற தலைப்புடைய செம்மையாக்கப்பட்ட எபிரெய வாக்கியத்தின் முதல் பதிப்பை (பின்னால், இரண்டாவது பதிப்பை) ஜெர்மனியில் வெளியிட்டார்.",
+   "category": "history.bible_preservation",
+   "event_kind": "master_text",
+   "tags": [
+    "hebrew-text",
+    "a3-chart",
+    "new-world-translation"
+   ],
+   "people": [
+    "Rudolf Kittel"
+   ],
+   "places": [
+    "Germany"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 27,
+     "quote_en": "In 1906 Hebrew scholar Rudolf Kittel released in Germany the first edition (and later, a second edition) of his refined Hebrew text entitled Biblia Hebraica",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "The New World Translation of the Hebrew Scriptures (1953-1960) was based on Biblia Hebraica, by Rudolf Kittel.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0092"
+   ],
+   "notes": "si Study 5 par. 28: the 7th, 8th and 9th editions (1951-55) provided the basic text for the Hebrew section of the NWT."
+  },
+  {
+   "id": "b17-0007",
+   "slug": "babylon-the-great-evidently-fallen-1919",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "by 1919",
+   "date_label_ta": "1919-ல்",
+   "start": {
+    "display_en": "by 1919",
+    "display_ta": "1919-ல்",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "latest": null,
+    "sort_key": 1919.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b12-0070",
+   "derived": null,
+   "title_en": "Babylon the Great evidently fallen",
+   "title_ta": "1919-ல் மகா பாபிலோன் வீழ்ந்துவிட்டது என்பது தெளிவாகத் தெரிந்தது",
+   "description_en": "As the angels’ collecting of the weedlike Christians progressed after 1914, the distinction between true and imitation Christians became ever clearer. By 1919 it became evident that Babylon the Great had fallen.",
+   "description_ta": "களைகளைப் பிடுங்கப் பிடுங்க, இரண்டு வகுப்பாருக்கும் இடையிலுள்ள வித்தியாசம் பளிச்சென தெரிய ஆரம்பித்தது. (வெளி. 18:1, 4) 1919-ல் மகா பாபிலோன் வீழ்ந்துவிட்டது என்பது தெளிவாகத் தெரிந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "wheat-and-weeds",
+    "babylon-the-great",
+    "harvest"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 18:1, 4",
+     "ref_ta": "வெளி. 18:1, 4",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 18,
+     "verses": "1, 4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 11,
+     "quote_en": "As the collecting work progressed, the distinction between the two groups became ever clearer. (Rev. 18:1, 4) By 1919, it became evident that Babylon the Great had fallen.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0004",
+    "b10-0005"
+   ],
+   "notes": "English: 'By 1919' (precision 'before'); the Tamil edition says '1919-ல்' (in 1919)."
+  },
+  {
+   "id": "b17-0008",
+   "slug": "to-whom-the-work-is-entrusted-1919",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1919",
+   "date_label_ta": "1919",
+   "start": {
+    "display_en": "1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1919.4
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Pamphlet To Whom the Work Is Entrusted urges house-to-house preaching",
+   "title_ta": "யாரிடம் இந்த வேலை ஒப்படைக்கப்பட்டிருக்கிறது (ஆங்கிலம்) என்ற கைப்பிரதி",
+   "description_en": "The pamphlet To Whom the Work Is Entrusted, published in 1919, urged all anointed Christians to preach from house to house. The preaching work especially set true Christians apart from imitation ones, and house-to-house preaching became their hallmark.",
+   "description_ta": "உதாரணத்திற்கு, 1919-ல் பிரசுரிக்கப்பட்ட யாரிடம் இந்த வேலை ஒப்படைக்கப்பட்டிருக்கிறது (ஆங்கிலம்) என்ற கைப்பிரதி பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் எல்லோரையும் வீட்டுக்கு வீடு ஊழியத்தில் ஈடுபட உந்துவித்தது.",
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "wheat-and-weeds",
+    "preaching",
+    "house-to-house"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 11,
+     "quote_en": "To Whom the Work Is Entrusted, a pamphlet published in 1919, urged all anointed Christians to preach from house to house.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b17-0007",
+    "b17-0009"
+   ],
+   "notes": "The article adds that The Watch Tower reported in 1922 that the Bible Students had stepped up their preaching from that time onward."
+  },
+  {
+   "id": "b17-0009",
+   "slug": "wheat-gathered-into-storehouse",
+   "timing": "span",
+   "span_kind": "prophetic_period",
+   "date_label_en": "1919–",
+   "date_label_ta": "1919 முதற்கொண்டு",
+   "start": {
+    "display_en": "1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1919.5
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "ongoing",
+    "latest": null,
+    "sort_key": 2026.8
+   },
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b12-0070",
+   "derived": null,
+   "title_en": "Wheat gathered into the storehouse: anointed gathered into the restored congregation",
+   "title_ta": "1919 முதற்கொண்டு பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சுத்திகரிக்கப்பட்ட கிறிஸ்தவ சபைக்குள் கூட்டிச் சேர்க்கப்படுகிறார்கள்",
+   "description_en": "Jesus commands his angels: “Go to gathering the wheat into my storehouse.” Since 1919, anointed ones have been gathered into the restored Christian congregation; for those alive at the end of this system, the final gathering will take place when they receive their heavenly reward.",
+   "description_ta": "இரண்டாவது, கோதுமையைச் சேர்ப்பது. “கோதுமையை என்னுடைய களஞ்சியத்தில் சேர்த்து வையுங்கள்” என்று தேவதூதர்களுக்கு இயேசு கட்டளையிடுகிறார். (மத். 13:30) 1919 முதற்கொண்டு பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சுத்திகரிக்கப்பட்ட கிறிஸ்தவ சபைக்குள் கூட்டிச் சேர்க்கப்படுகிறார்கள்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophetic_period",
+   "tags": [
+    "wheat-and-weeds",
+    "anointed",
+    "harvest"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:30",
+     "ref_ta": "மத். 13:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "30"
+    },
+    {
+     "ref_en": "Dan. 7:18, 22, 27",
+     "ref_ta": "தானி. 7:18, 22, 27",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 7,
+     "verses": "18, 22, 27"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 12,
+     "quote_en": "Since 1919, anointed ones have been gathered into the restored Christian congregation.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0007",
+    "b10-0016"
+   ],
+   "notes": "Ongoing; the article places the final gathering in the future, when the anointed alive at the end receive their heavenly reward (b10-0016)."
+  },
+  {
+   "id": "b17-0010",
+   "slug": "dead-sea-scrolls-discovered",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1947",
+   "date_label_ta": "1947",
+   "start": {
+    "display_en": "1947",
+    "display_ta": "1947",
+    "year": 1947,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1947.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Dead Sea Scrolls discovered",
+   "title_ta": "சவக்கடல் சுருள்கள்",
+   "description_en": "In 1947 a scroll of Isaiah, together with other Biblical and non-Biblical scrolls, was discovered in a cave at Wadi Qumran near the Dead Sea; other caves later yielded parts of all Hebrew Scripture books except Esther. Comparing these manuscripts, about a thousand years older than the Leningrad Codex, with the Masoretic text confirmed that the message had not changed.",
+   "description_ta": "சவக்கடல் சுருள்கள். 1947-⁠ல் எபிரெயக் கையெழுத்துப் பிரதியின் சரித்திரத்தில் சுவாரஸ்யமான ஒரு புதிய அத்தியாயம் தொடங்கியது. சவக்கடல் பகுதியில், வாடி கும்ரன் (நஹல் குமெரன்) என்ற இடத்திலுள்ள ஒரு குகையில் முதல் ஏசாயா சுருள் கண்டுபிடிக்கப்பட்டது; இதோடு, பைபிள் சம்பந்தப்பட்ட மற்றும் பைபிள் சம்பந்தப்படாத பல சுருள்களும் கண்டுபிடிக்கப்பட்டன.",
+   "category": "history.bible_preservation",
+   "event_kind": "discovery",
+   "tags": [
+    "dead-sea-scrolls",
+    "manuscript",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [
+    "Qumran",
+    "Dead Sea"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 23,
+     "quote_en": "In 1947 an exciting new chapter in Hebrew manuscript history began. In a cave at Wadi Qumran (Nahal Qumeran), in the area of the Dead Sea, the first Isaiah scroll, together with other Biblical and non-Biblical scrolls, was discovered.",
+     "supports": null
+    },
+    {
+     "docid": "2016247",
+     "publication": "The Watchtower (public edition) No. 4 2016 (wp16 No. 4 pp. 6-7)",
+     "title_en": "The Bible Survived Attempts to Alter Its Message",
+     "title_ta": "கலப்படம் செய்யப்படுவதிலிருந்து மீண்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2016247",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2016247",
+     "finder_url": "https://www.jw.org/finder?docid=2016247&wtlocale=E",
+     "par": null,
+     "quote_en": "When the Dead Sea Scrolls were found in 1947, scholars could at last compare the Hebrew Masoretic text to what appeared in Bible scrolls that had been written more than a thousand years earlier.",
+     "supports": null
+    },
+    {
+     "docid": "2020167",
+     "publication": "The Watchtower (public edition) No. 3 2020 (wp20 No. 3 p. 7)",
+     "title_en": "Has God’s Written Word Been Changed?",
+     "title_ta": "இறைவேதம் மாற்றப்பட்டிருக்கிறதா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020167",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020167",
+     "finder_url": "https://www.jw.org/finder?docid=2020167&wtlocale=E",
+     "par": null,
+     "quote_en": "the ancient documents called the Dead Sea Scrolls, discovered by bedouins in caves near the Dead Sea in 1947.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "in the middle of the 20th century, some 220 Biblical manuscripts or fragments were discovered among the Dead Sea Scrolls.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1997603",
+     "value": "250 B.C.E.–50 C.E. (text) / c. 100 B.C.E.–68 C.E. (chart)",
+     "note": "w97 8/15 dates the writing of the Dead Sea Scrolls 'between 250 B.C.E. and 50 C.E.' in the text and 'Most Dead Sea Scrolls c. 100 B.C.E. to 68 C.E.' in its chart. Only the discovery (1947) is recorded here."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b17-0001",
+    "b7-0066"
+   ],
+   "notes": "A3 says only 'in the middle of the 20th century' and counts some 220 Biblical manuscripts or fragments; si Study 5, wp16 No. 4 and wp20 No. 3 give 1947."
+  },
+  {
+   "id": "b17-0011",
+   "slug": "nwt-reference-edition-1984",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1984",
+   "date_label_ta": "1984",
+   "start": {
+    "display_en": "1984",
+    "display_ta": "1984",
+    "year": 1984,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1984.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "New World Translation reference edition released",
+   "title_ta": "துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது",
+   "description_en": "At the “Kingdom Increase” District Conventions of 1984, a revised reference edition of the New World Translation was issued in English, with over 125,000 marginal references, more than 11,000 footnotes, a concordance, maps and 43 appendix articles. A regular-size edition of the 1984 revision was also released that year.",
+   "description_ta": "1984-⁠ல் நடத்தப்பட்ட யெகோவாவின் சாட்சிகளின் “ராஜ்ய அதிகரிப்பு” மாவட்ட மாநாடுகளில், துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது.",
+   "category": "history.bible_translation",
+   "event_kind": "release",
+   "tags": [
+    "new-world-translation",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990134",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 7",
+     "title_en": "Study Number 7—The Bible in Modern Times",
+     "title_ta": "ஆராய்ச்சி எண் 7—நவீன காலங்களில் பைபிள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990134",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990134",
+     "finder_url": "https://www.jw.org/finder?docid=1101990134&wtlocale=E",
+     "par": 23,
+     "quote_en": "At the “Kingdom Increase” District Conventions of Jehovah’s Witnesses, held in 1984, a revised reference edition was issued in English.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "New World Translation of the Holy Scriptures—With References, published in 1984.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0061",
+    "b9-0314"
+   ],
+   "notes": "A3 footnote c cites the New World Translation of the Holy Scriptures—With References, published in 1984."
+  }
+ ]
+}

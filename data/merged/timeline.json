@@ -1,9 +1,9 @@
 {
  "schema_version": 2,
  "generated": "2026-10-10",
- "count": 1891,
- "points": 1619,
- "spans": 272,
+ "count": 1902,
+ "points": 1628,
+ "spans": 274,
  "events": [
   {
    "id": "b1-0001",
@@ -54229,6 +54229,19 @@
    "source_ids": [
     "b4-0064"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 1,
+     "role": "context",
+     "group": "hebrew",
+     "label_en": "After the exile of the Jews to Babylon, a class of copyists, or scribes (Sopherim), developed (Ezra 7:6)",
+     "label_ta": "யூதர்கள் பாபிலோனுக்குச் சிறைபிடிக்கப்பட்டுப் போன பிறகு, நகலெடுப்பவர்கள் அல்லது எழுத்தர்களின் (சோஃபெரிம்) ஒரு வகுப்பு உருவானது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -56429,6 +56442,32 @@
      "pairs_with": [],
      "auto": true,
      "highlight": false
+    },
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 2,
+     "role": "step",
+     "group": "hebrew",
+     "label_en": "Hebrew Scriptures completed c. 443 B.C.E.",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    },
+    {
+     "id": "wheat-and-weeds",
+     "order": 1,
+     "role": "prophecy",
+     "group": null,
+     "label_en": "Jehovah inspired his prophet Malachi to foretell events that are reflected in Jesus’ illustration (Mal. 3:1-4)",
+     "label_ta": "கோதுமை-களைகள் பற்றிய உவமையை இயேசு சொன்னதற்கு பல நூற்றாண்டுகளுக்கு முன்பே, அதிலுள்ள சில அம்சங்களை மல்கியா தீர்க்கதரிசி மூலம் யெகோவா முன்னுரைத்தார்.",
+     "pairs_with": [
+      "b5-0016",
+      "b8-0004",
+      "b10-0005"
+     ],
+     "auto": false,
+     "highlight": true
     }
    ],
    "chart_hint": null
@@ -59141,6 +59180,19 @@
    "source_ids": [
     "b4-0098"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 3,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Septuagint begun c. 280 B.C.E.: Hebrew scholars at Alexandria translate the Hebrew Bible into the popular Koine",
+     "label_ta": "செப்டுவஜின்ட் ஆரம்பம் சுமார் பொ.ச.மு. 280",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -60754,6 +60806,19 @@
    "source_ids": [
     "b4-0116"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 4,
+     "role": "step",
+     "group": "translations",
+     "label_en": "The Septuagint was finished about 150 B.C.E.",
+     "label_ta": "இது பொ.ச.மு. சுமார் 150-ல் எழுதி முடிக்கப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -60896,6 +60961,124 @@
    "batch": "b4",
    "source_ids": [
     "b4-0118"
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0001",
+   "slug": "dead-sea-scroll-of-isaiah-copied",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "125–100 B.C.E.",
+   "date_label_ta": "கி.மு. 125-100",
+   "start": {
+    "display_en": "125–100 B.C.E.",
+    "display_ta": "கி.மு. 125-100",
+    "year": 125,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "between",
+    "latest": {
+     "year": 100,
+     "era": "BCE",
+     "month": null,
+     "day": null,
+     "sort_key": -100.0
+    },
+    "sort_key": -125.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Dead Sea Scroll of Isaiah copied (125–100 B.C.E.)",
+   "title_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+   "description_en": "NWT Appendix A3 shows chapter 40 of Isaiah in the Dead Sea Scrolls, dated from 125 to 100 B.C.E. Compared with Hebrew manuscripts from about a thousand years later, it shows only minor differences, mostly in spelling. “All Scripture” Study 5 dates this Isaiah scroll (1QIsa) toward the end of the second century B.C.E.",
+   "description_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி). ஆயிரம் வருஷங்களுக்குப் பின்பு கண்டுபிடிக்கப்பட்ட எபிரெய கையெழுத்துப் பிரதிகளோடு ஒப்பிட்டுப் பார்க்கும்போது சின்னச் சின்ன வித்தியாசங்கள்தான் இருக்கின்றன, அதுவும் பெரும்பாலும் வார்த்தைகளிலுள்ள எழுத்துக்களில்தான்!",
+   "category": "history.bible_preservation",
+   "event_kind": "manuscript",
+   "tags": [
+    "dead-sea-scrolls",
+    "manuscript",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [
+    "Qumran"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Isa. 40",
+     "ref_ta": "ஏசா. 40",
+     "book": "Isaiah",
+     "book_num": 23,
+     "chapter": 40,
+     "verses": null
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+     "supports": null
+    },
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 23,
+     "quote_en": "It is believed to date toward the end of the second century B.C.E.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/4",
+     "caption_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+     "caption_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+     "source_docid": "1001070203",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b17-0010"
+   ],
+   "notes": "A3 prints the window 125–100 B.C.E. (one copying, so a 'between' point); si Study 5 par. 23 says 'toward the end of the second century B.C.E.' The Isaiah scroll was found in 1947 (b17-0010).",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0001"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 5,
+     "role": "item",
+     "group": "hebrew",
+     "label_en": "Chapter 40 of Isaiah’s book in the Dead Sea Scrolls (dated from 125 to 100 B.C.E.)",
+     "label_ta": "சவக்கடல் சுருள்களில் இருக்கும் ஏசாயா புத்தகத்தின் 40-வது அதிகாரம் (கி.மு. 125-100 வரையான காலப்பகுதி)",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -66297,6 +66480,21 @@
    "batch": "b5",
    "source_ids": [
     "b5-0016"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 2,
+     "role": "fulfillment",
+     "group": null,
+     "label_en": "John the Baptizer was the ‘messenger who cleared up the way.’ When he came in 29 C.E., a time of judgment for the nation of Israel had drawn close.",
+     "label_ta": "‘வழியைத் தயார்படுத்திய’ அந்தத் தூதுவர் யோவான் ஸ்நானகர். (மத். 11:10, 11) கி.பி. 29-ல் அவர் வந்தபோது இஸ்ரவேலரை நியாயந்தீர்ப்பதற்கான காலம் நெருங்கியிருந்தது.",
+     "pairs_with": [
+      "b11-0042"
+     ],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "endpoint_of": [
     {
@@ -72564,6 +72762,25 @@
      "pairs_with": [
       "b11-0040",
       "b11-0021"
+     ],
+     "auto": false,
+     "highlight": true
+    },
+    {
+     "id": "wheat-and-weeds",
+     "order": 3,
+     "role": "prophecy",
+     "group": null,
+     "label_en": "Jesus gives the illustration of a farmer who sows fine seed of wheat and an enemy who sows weeds among it (Matt. 13:24-30, 36-43)",
+     "label_ta": "கடவுளுடைய அரசாங்கம் சம்பந்தமாக இயேசு சொன்ன உவமைகளில் ஒன்று விதைக்கிறவனைப் பற்றியது. அவர் நல்ல கோதுமை விதைகளை விதைக்கிறார், ஆனால், எதிரி அதன் மத்தியில் களைகளை விதைக்கிறான்.",
+     "pairs_with": [
+      "b6-0001",
+      "b17-0002",
+      "b10-0004",
+      "b17-0009",
+      "b10-0014",
+      "b10-0016",
+      "b10-0017"
      ],
      "auto": false,
      "highlight": true
@@ -88714,6 +88931,178 @@
      "pairs_with": [],
      "auto": false,
      "highlight": false
+    },
+    {
+     "id": "wheat-and-weeds",
+     "order": 4,
+     "role": "fulfillment",
+     "group": "sowing",
+     "label_en": "33 C.E. Sowing begins: the sowing began at Pentecost 33 C.E. (fine seed is sown: anointing with holy spirit)",
+     "label_ta": "விதைப்பது, கி.பி. 33 பெந்தெகொஸ்தே நாளில் ஆரம்பமானது.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "endpoint_of": [
+    {
+     "span_id": "b17-0002",
+     "as": "start",
+     "span_kind": "prophetic_period",
+     "span_title": "Wheat and weeds grow together until the harvest"
+    }
+   ],
+   "chart_hint": "span_endpoint"
+  },
+  {
+   "id": "b17-0002",
+   "slug": "wheat-and-weeds-grow-together",
+   "timing": "span",
+   "span_kind": "prophetic_period",
+   "date_label_en": "33 C.E.–1914",
+   "date_label_ta": "கி.பி. 33–1914",
+   "start": {
+    "display_en": "33 C.E.",
+    "display_ta": "கி.பி. 33",
+    "year": 33,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": "Sivan",
+    "hebrew_day": 6,
+    "season": "spring",
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 33.42
+   },
+   "end": {
+    "display_en": "1914",
+    "display_ta": "1914",
+    "year": 1914,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1914.78
+   },
+   "duration": {
+    "years": 1881,
+    "months": null,
+    "days": null,
+    "display_en": "1,881 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b6-0001",
+   "end_event_id": "b10-0004",
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Wheat and weeds grow together until the harvest",
+   "title_ta": "“அறுவடைவரை இரண்டும் சேர்ந்தே வளரட்டும்”",
+   "description_en": "In Jesus’ illustration the master orders: “Let both grow together until the harvest.” The Watchtower of July 15, 2013 explains that the sowing of the wheat class began at Pentecost 33 C.E. and the harvest season began in 1914, and that from the first century until today there have always been some anointed wheatlike Christians on earth, though overgrown by weedlike ones.",
+   "description_ta": "கோதுமை-களைகள் பற்றிப் பேசுகையில், “அறுவடைவரை இரண்டும் சேர்ந்தே வளரட்டும்” என்று இயேசு சொன்னார். முதல் நூற்றாண்டிலிருந்து இன்றுவரையாக கோதுமையைப் போன்ற பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சிலர், எப்போதும் பூமியில் இருந்திருக்கிறார்கள் என்பது இந்தப் பதிலிலிருந்து தெரிகிறது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophetic_period",
+   "tags": [
+    "wheat-and-weeds",
+    "anointed",
+    "parable"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:30",
+     "ref_ta": "மத். 13:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "30"
+    },
+    {
+     "ref_en": "Matt. 28:20",
+     "ref_ta": "மத். 28:20",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 28,
+     "verses": "20"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 2,
+     "quote_en": "The sowing began at Pentecost 33 C.E.",
+     "supports": "start"
+    },
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 4,
+     "quote_en": "“Let both grow together until the harvest.” This command reveals that from the first century until today, there have always been some anointed wheatlike Christians on earth.",
+     "supports": "whole"
+    },
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 9,
+     "quote_en": "That harvest season began in 1914.",
+     "supports": "end"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b5-0058",
+    "b6-0001",
+    "b10-0004"
+   ],
+   "notes": "Span built from the article's own endpoints: sowing from Pentecost 33 C.E. (b6-0001) to the start of the harvest season in 1914 (b10-0004). Duration computed.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0002"
+   ],
+   "child_ids": [
+    "b17-0003",
+    "b17-0004"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 5,
+     "role": "step",
+     "group": "growing",
+     "label_en": "“Both grow together until the harvest” (Matt. 13:30)",
+     "label_ta": "“அறுவடைவரை இரண்டும் சேர்ந்தே வளரட்டும்”",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
     }
    ],
    "chart_hint": null
@@ -103174,6 +103563,17 @@
      "pairs_with": [],
      "auto": true,
      "highlight": false
+    },
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 6,
+     "role": "step",
+     "group": "greek",
+     "label_en": "Greek Scriptures completed 98 C.E., with the books of the last surviving apostle, John",
+     "label_ta": "கிரேக்க வேதாகமம் எழுதி முடிக்கப்பட்டது பொ.ச. 98",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
     }
    ],
    "chart_hint": null
@@ -103929,6 +104329,19 @@
    "source_ids": [
     "b7-0001"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 6,
+     "role": "step",
+     "group": "sowing",
+     "label_en": "Men were sleeping: death of the apostles — ‘While men were sleeping, the enemy oversowed weeds’ (Matt. 13:25)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -104136,6 +104549,96 @@
    "chart_hint": null
   },
   {
+   "id": "b17-0003",
+   "slug": "weeds-appeared-second-century",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "dawn of the 2nd century C.E.",
+   "date_label_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில்",
+   "start": {
+    "display_en": "dawn of the 2nd century C.E.",
+    "display_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில்",
+    "year": 101,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "latest": null,
+    "sort_key": 101.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b17-0002",
+   "derived": null,
+   "title_en": "“The weeds appeared”: imitation Christians become visible",
+   "title_ta": "“களைகள் வளர்ந்திருந்தன,” ஆம், உலகம் என்ற வயலில் போலி கிறிஸ்தவர்கள் தென்பட்டார்கள்",
+   "description_en": "At the dawn of the second century C.E., imitation Christians became visible in the world field, as foretold in Jesus’ illustration: “the weeds appeared.”",
+   "description_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில் “களைகள் வளர்ந்திருந்தன,” ஆம், உலகம் என்ற வயலில் போலி கிறிஸ்தவர்கள் தென்பட்டார்கள்.",
+   "category": "history.apostasy",
+   "event_kind": "apostasy",
+   "tags": [
+    "wheat-and-weeds",
+    "apostasy"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:26",
+     "ref_ta": "மத். 13:26",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "26"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 3,
+     "quote_en": "At the dawn of the second century C.E., “the weeds appeared” when imitation Christians became visible in the world field.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b7-0001",
+    "b7-0003"
+   ],
+   "notes": "'Dawn of the second century' drawn at 101 C.E. (approx). See b7-0001 (last apostle John dies, c. 100 C.E.).",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0003"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 7,
+     "role": "step",
+     "group": "growing",
+     "label_en": "At the dawn of the second century C.E., “the weeds appeared” when imitation Christians became visible in the world field",
+     "label_ta": "இரண்டாம் நூற்றாண்டின் துவக்கத்தில் “களைகள் வளர்ந்திருந்தன,” ஆம், உலகம் என்ற வயலில் போலி கிறிஸ்தவர்கள் தென்பட்டார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "chart_hint": null
+  },
+  {
    "id": "b7-0002",
    "slug": "rylands-papyrus-p52",
    "timing": "point",
@@ -104243,6 +104746,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0002"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 7,
+     "role": "item",
+     "group": "greek",
+     "label_en": "Rylands Papyrus of John (b. 125 C.E.)",
+     "label_ta": "யோவானின் ரைலன் பப்பைரஸ் (பொ.ச. 125-க்கு முன்)",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -104422,6 +104938,19 @@
    "source_ids": [
     "b7-0004"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 8,
+     "role": "item",
+     "group": "greek",
+     "label_en": "As early as 150 to 170 C.E., Tatian produced the Diatessaron, a composite account of Jesus’ life from the same four Gospels",
+     "label_ta": "பொ.ச. 150 முதல் 170 வரையான காலப்பகுதியிலேயே ஜஸ்டின் மார்டரின் ஒரு மாணவரான டேஷன், டையட்டெஸரான்-ஐ, அதாவது நம்முடைய நவீன பைபிள்களில் காணப்படும் அதே நான்கு சுவிசேஷங்களிலிருந்து சேகரித்த இயேசுவின் வாழ்க்கையைத் தொகுத்து எழுதினார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -104554,6 +105083,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0006"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 9,
+     "role": "item",
+     "group": "greek",
+     "label_en": "About 170 C.E., the earliest known catalog of “New Testament” books, the Muratorian Fragment",
+     "label_ta": "சுமார் பொ.ச. 170-ல், பழமையானதாக அறியப்பட்டிருந்த முயூரட்டோரியன் துண்டு என்றழைக்கப்பட்ட “புதிய ஏற்பாட்டு” புத்தகங்களின் ஒரு பட்டியல் பிரசுரிக்கப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -104843,6 +105385,19 @@
    "source_ids": [
     "b7-0010"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 10,
+     "role": "item",
+     "group": "greek",
+     "label_en": "Early papyri, thought to date back to the second and third centuries C.E.",
+     "label_ta": "அதோடு, கி.பி. இரண்டாம், மூன்றாம் நூற்றாண்டுகளைச் சேர்ந்த நாணல் சுருள்களும் ஆராய்ச்சிக்கு எடுத்துக்கொள்ளப்பட்டன.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -104920,6 +105475,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0011"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 11,
+     "role": "item",
+     "group": "greek",
+     "label_en": "Bodmer Papyri P66 and P75 (c. 200 C.E.)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -105123,6 +105691,19 @@
    "source_ids": [
     "b7-0014"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 13,
+     "role": "item",
+     "group": "translations",
+     "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Latin)",
+     "label_ta": "ஆரம்பக் காலத்தில், அர்மீனியன், எத்தியோபிக், ஜார்ஜியன், காப்டிக், லத்தீன், சிரியாக் போன்ற பழங்கால மொழிகளில் பைபிள் மொழிபெயர்க்கப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -105185,6 +105766,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0015"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 12,
+     "role": "item",
+     "group": "translations",
+     "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Coptic)",
+     "label_ta": "ஆரம்பக் காலத்தில், அர்மீனியன், எத்தியோபிக், ஜார்ஜியன், காப்டிக், லத்தீன், சிரியாக் போன்ற பழங்கால மொழிகளில் பைபிள் மொழிபெயர்க்கப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -105343,6 +105937,97 @@
    "chart_hint": null
   },
   {
+   "id": "b17-0004",
+   "slug": "weeds-outnumber-wheat-fourth-century",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "by the 4th century C.E.",
+   "date_label_ta": "நான்காம் நூற்றாண்டிற்குள்",
+   "start": {
+    "display_en": "by the 4th century C.E.",
+    "display_ta": "நான்காம் நூற்றாண்டிற்குள்",
+    "year": 400,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "latest": null,
+    "sort_key": 300.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b17-0002",
+   "derived": null,
+   "title_en": "Weedlike Christians greatly outnumber anointed Christians",
+   "title_ta": "களைகளைப் போன்ற இந்த கிறிஸ்தவர்கள் பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களைவிட அதிகமாக இருந்தார்கள்",
+   "description_en": "By the fourth century, weedlike (imitation) Christians had greatly outnumbered the anointed Christians, so that during that long period it is not known for certain who belonged to the wheat class.",
+   "description_ta": "நான்காம் நூற்றாண்டிற்குள், களைகளைப் போன்ற இந்த கிறிஸ்தவர்கள் பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களைவிட அதிகமாக இருந்தார்கள்.",
+   "category": "history.apostasy",
+   "event_kind": "apostasy",
+   "tags": [
+    "wheat-and-weeds",
+    "apostasy",
+    "christendom"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:28",
+     "ref_ta": "மத். 13:28",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "28"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 3,
+     "quote_en": "By the fourth century, weedlike Christians had greatly outnumbered anointed Christians.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b7-0021",
+    "b7-0023"
+   ],
+   "notes": "'By the fourth century': precision 'before' 400 C.E.; sort_key places it at the start of the 4th century.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0004"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 10,
+     "role": "step",
+     "group": "growing",
+     "label_en": "By the fourth century, weedlike Christians had greatly outnumbered anointed Christians",
+     "label_ta": "நான்காம் நூற்றாண்டிற்குள், களைகளைப் போன்ற இந்த கிறிஸ்தவர்கள் பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களைவிட அதிகமாக இருந்தார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "chart_hint": null
+  },
+  {
    "id": "b7-0018",
    "slug": "diocletian-edict-burn-scriptures",
    "timing": "point",
@@ -105467,6 +106152,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0018"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 14,
+     "role": "context",
+     "group": "greek",
+     "label_en": "Despite attempts by Roman Emperor Diocletian and others to destroy all early Christian literature, thousands of ancient fragments and manuscripts have been preserved",
+     "label_ta": "ரோமப் பேரரசர் டயக்லீஷியனும் மற்றவர்களும் ஆரம்பக் கால கிறிஸ்தவ புத்தகங்கள் எல்லாவற்றையும் அழிப்பதற்கு முயற்சி செய்தபோதிலும், இன்றுவரை ஆயிரக்கணக்கான பழங்கால கையெழுத்துப் பிரதிகளும் அவற்றின் துண்டுகளும் பாதுகாக்கப்பட்டிருக்கின்றன.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -105719,6 +106417,19 @@
    "source_ids": [
     "b7-0021"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 8,
+     "role": "context",
+     "group": "growing",
+     "label_en": "Constantine legalizes “Christianity” (313 C.E.) — Christendom begins",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -105900,6 +106611,19 @@
    "source_ids": [
     "b7-0023"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 9,
+     "role": "context",
+     "group": "growing",
+     "label_en": "Council of Nicaea under Constantine (325 C.E.)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -106062,6 +106786,19 @@
    "source_ids": [
     "b7-0025"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 15,
+     "role": "item",
+     "group": "greek",
+     "label_en": "Two copies of the Bible in Greek made not long after Diocletian’s persecution survive: one is in Rome (Codex Vaticanus)",
+     "label_ta": "ஒன்று ரோமிலும், மற்றொன்று இங்கிலாந்திலுள்ள லண்டனிலிருக்கும் பிரிட்டிஷ் நூலகத்திலும் காணப்படுகின்றன",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -106165,6 +106902,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0026"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 16,
+     "role": "item",
+     "group": "greek",
+     "label_en": "…the other, in the British Library in London (Codex Sinaiticus)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -106535,6 +107285,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0031"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 17,
+     "role": "item",
+     "group": "translations",
+     "label_en": "Ulfilas, a fourth-century bishop, is said to have invented Gothic script to translate the Bible",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -106928,6 +107691,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0036"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 18,
+     "role": "step",
+     "group": "translations",
+     "label_en": "In 382 C.E., Pope Damasus commissioned his secretary, Jerome, to prepare an authoritative Latin Bible",
+     "label_ta": "ஆகவே பொ.ச. 382-ல் போப் டெமாசிஸ் தன்னுடைய செயலர் ஜெரோமை ஒரு நம்பத்தகுந்த லத்தீன் பைபிளை தயார்செய்யும்படியாக பணித்தார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "endpoint_of": [
     {
@@ -107499,6 +108275,19 @@
    "source_ids": [
     "b7-0042"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 19,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Jerome’s Latin Vulgate c. 400 C.E.",
+     "label_ta": "ஜெரோமின் லத்தீன் வல்கேட் சுமார் பொ.ச. 400",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "endpoint_of": [
     {
      "span_id": "b12-0058",
@@ -107943,6 +108732,19 @@
    "source_ids": [
     "b7-0048"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 20,
+     "role": "item",
+     "group": "translations",
+     "label_en": "Early translations of the Bible include those in such ancient languages as Armenian, Coptic, Ethiopic, Georgian, Latin, and Syriac. (Syriac: the Syriac Peshitta)",
+     "label_ta": "சிரியாக் பெஷிட்டா",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -108144,6 +108946,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0050"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 21,
+     "role": "step",
+     "group": "hebrew",
+     "label_en": "During the Middle Ages, a group of Jewish scribes known as the Masoretes carried on that tradition — Masoretic Text prepared",
+     "label_ta": "இடைக்காலத்தில் (கி.பி. 500–1500-ல்), யூத எழுத்தர்களின் ஒரு தொகுதியாகிய மசோரெட்டுகள் அந்த நகலெடுக்கும் வேலையைத் தொடர்ந்தார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -108659,6 +109474,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0057"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 22,
+     "role": "step",
+     "group": "translations",
+     "label_en": "In 863 C.E., Cyril and Methodius went to Moravia and began to translate the Bible into Old Slavonic",
+     "label_ta": "பொ.ச. 863-ல், கிரேக்க மொழிபேசும் சிரில் மற்றும் மெத்தோடியஸ் என்ற இரு கிரேக்க சகோதரர்கள் இப்பொழுது செக் குடியரசாக இருக்கும் மொராவியாவுக்குச் சென்றார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -109245,6 +110073,19 @@
    "source_ids": [
     "b7-0065"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 23,
+     "role": "item",
+     "group": "hebrew",
+     "label_en": "Chapter 40 of Isaiah’s book in the Aleppo Codex, an important Hebrew Masoretic manuscript from about 930 C.E.",
+     "label_ta": "சுமார் கி.பி. 930-ஐச் சேர்ந்த முக்கியமான எபிரெய மசோரெட்டிக் கையெழுத்துப் பிரதியான அலெப்போ கோடெக்சில் இருக்கும் ஏசாயா 40-வது அதிகாரம்",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -109335,6 +110176,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0066"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 24,
+     "role": "item",
+     "group": "hebrew",
+     "label_en": "The oldest complete Masoretic manuscript is the Leningrad Codex, which dates from 1008/1009 C.E.",
+     "label_ta": "மிகவும் பழமையான, முழுமையான மசோரெட் கையெழுத்துப் பிரதி, லெனின்கிரேட் கோடெக்ஸ் என்று அழைக்கப்படுகிறது. இது கி.பி. 1008/1009-ஆம் வருஷத்தைச் சேர்ந்தது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -111255,6 +112109,19 @@
    "source_ids": [
     "b7-0086"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 25,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Wycliffe Bible begun (b. 1384): before he died in 1384, Wycliffe initiated the translation of the Bible from Latin into English",
+     "label_ta": "வைக்கிளிப்பின் பைபிளின் துவக்கம் (1384-க்கு முன்)",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -111923,6 +112790,19 @@
    "source_ids": [
     "b7-0095"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 26,
+     "role": "step",
+     "group": "printing",
+     "label_en": "By 1450 Johannes Gutenberg began printing with movable type in Germany",
+     "label_ta": "1450-க்குள் ஹஸ் மரித்து 35 ஆண்டுகளே ஆனபின்பு, ஜோஹானஸ் குட்டன்பர்க் அச்சுக்கோர்த்து அச்சடிக்க ஜெர்மனியில் அச்சுவேலையை ஆரம்பித்தார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -112020,6 +112900,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0096"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 27,
+     "role": "step",
+     "group": "printing",
+     "label_en": "Gutenberg—first printed Bible c. 1455 (the Latin Vulgate)",
+     "label_ta": "குட்டன்பர்க்—முதலாவது அச்சிடப்பட்ட பைபிள் சுமார் 1455",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -112530,6 +113423,19 @@
    "source_ids": [
     "b7-0100"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 28,
+     "role": "item",
+     "group": "printing",
+     "label_en": "By 1495 all or part of the Bible had been printed in twelve languages",
+     "label_ta": "1495-க்குள் முழு பைபிளோ அல்லது பைபிளின் ஒரு பகுதியோ ஜெர்மன், இத்தாலி, பிரெஞ்சு, செக், டச்சு, எபிரெயு, காடலோனி, கிரேக்கு, ஸ்பானிஷ், ஸ்லாவிக், போர்ச்சுகீஷ் மற்றும் செர்பிய மொழி என்ற வரிசையில் அச்சடிக்கப்பட்டுவிட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -112923,6 +113829,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0105"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 29,
+     "role": "step",
+     "group": "printing",
+     "label_en": "Erasmus’ Greek text 1516: the first complete printed edition of the Greek text",
+     "label_ta": "இராஸ்மஸ் கிரேக்க வாசகம் 1516",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -113531,6 +114450,19 @@
    "source_ids": [
     "b7-0113"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 30,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Luther’s German “New Testament” (September Bible), 1522",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -113939,6 +114871,19 @@
    "source_ids": [
     "b7-0118"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 31,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Tyndale’s “New Testament” 1526: copies printed at Worms began to be distributed in England early in 1526",
+     "label_ta": "இவை இங்கிலாந்துக்கு அனுப்பி வைக்கப்பட்டு 1526 ஆரம்பத்தில் அங்கே விநியோகிக்கப்பட்டன.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -114203,6 +115148,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0122"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 32,
+     "role": "step",
+     "group": "translations",
+     "label_en": "The first rendering of God’s personal name in an English Bible appeared in 1530 in William Tyndale’s translation of the Pentateuch",
+     "label_ta": "உதாரணத்துக்கு, 1530-ல் வில்லியம் டின்டேல் மொழிபெயர்த்த ஐந்தாகமப் புத்தகத்தில், கடவுளுடைய பெயர் முதன்முதலாக ஆங்கிலத்தில் இருந்தது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -114613,6 +115571,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0128"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 33,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Luther completes the Hebrew Scriptures — complete German Bible, 1534",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -115033,6 +116004,19 @@
    "source_ids": [
     "b7-0133"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 34,
+     "role": "context",
+     "group": "translations",
+     "label_en": "Tyndale executed 1536",
+     "label_ta": "டின்டேலுக்கு 1536-ல் மரண தண்டனை நிறைவேற்றப்பட்டது",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -115175,6 +116159,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0135"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 35,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Henry VIII orders Bibles put in churches 1538 — essentially Tyndale’s translation",
+     "label_ta": "எட்டாம் ஹென்றி 1538-ல் சர்ச்சுகளில் பைபிள்கள் வைக்கப்பட வேண்டும் என்று உத்தரவிடுகிறார்",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -115941,6 +116938,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0145"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 36,
+     "role": "item",
+     "group": "printing",
+     "label_en": "The verse division generally accepted in Bible translations was already established in the 16th century",
+     "label_ta": "வசனங்களைப் பிரிக்கும் முறை 16-ஆம் நூற்றாண்டிலேயே முடிவு செய்யப்பட்டுவிட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -116721,6 +117731,19 @@
    "source_ids": [
     "b7-0156"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 37,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Casiodoro de Reina’s Spanish Bible published 1569 (revised by Cipriano de Valera, 1602)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -117251,6 +118274,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0163"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 38,
+     "role": "step",
+     "group": "translations",
+     "label_en": "King James Version 1611 — as much as 90 percent of Tyndale’s translation carried into it",
+     "label_ta": "கிங் ஜேம்ஸ் பைபிள் 1611",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -118235,6 +119271,19 @@
    "source_ids": [
     "b7-0175"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 39,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Ziegenbalg produces the Christian Greek Scriptures in Tamil (by 1714)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -118366,6 +119415,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0177"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 40,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Complete Bible in Tamil appears (1728)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -118918,6 +119980,19 @@
    "source_ids": [
     "b7-0184"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 41,
+     "role": "context",
+     "group": "translations",
+     "label_en": "William Carey sailed for India in 1793; he eventually translated the Bible or parts of it into 35 Indian languages",
+     "label_ta": "இருப்பினும் கேரி 1793-ல் இந்தியாவுக்கு கப்பலில் வந்துசேர்ந்தார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -119396,6 +120471,19 @@
    "source_ids": [
     "b7-0189"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 42,
+     "role": "context",
+     "group": "modern",
+     "label_en": "In 1800, Mary Jones walked barefoot 25 miles to buy a Welsh Bible",
+     "label_ta": "1800-ல், மேரி ஒரு பாதிரியாரிடமிருந்து வேல்ஸ் மொழியில் பைபிளை வாங்குவதற்காக வெறுங்காலோடு 40 கிலோமீட்டர் நடந்து சென்றாள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -119571,6 +120659,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0191"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 43,
+     "role": "step",
+     "group": "modern",
+     "label_en": "British and Foreign Bible Society founded 1804",
+     "label_ta": "பிரிட்டிஷ் அண்ட் ஃபாரின் பைபிள் சொஸைட்டி 1804-ல் நிறுவப்பட்டது",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -119968,6 +121069,19 @@
    "source_ids": [
     "b7-0197"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 44,
+     "role": "item",
+     "group": "modern",
+     "label_en": "By 1813 associate societies had been formed in Germany, the Netherlands, Denmark, and Russia",
+     "label_ta": "ஆரம்பகால உற்சாகம் வேகமாக பரவ, 1813-க்குள் துணை சங்கங்கள் ஜெர்மனியிலும் நெதர்லாந்திலும் டென்மார்க்கிலும் ரஷ்யாவிலும் தோன்றியிருந்தன.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -120158,6 +121272,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0200"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 45,
+     "role": "item",
+     "group": "modern",
+     "label_en": "American Bible Society formed (1816)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -120426,6 +121553,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0204"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 46,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Robert Morrison completes the entire Bible in Chinese (1819)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -120850,6 +121990,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0210"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 47,
+     "role": "step",
+     "group": "translations",
+     "label_en": "Adoniram Judson completed the Burmese Bible in 1835",
+     "label_ta": "இருந்தபோதிலும் பெலனுக்காக கடவுளைச் சார்ந்திருந்து தொடர்ந்து மொழிபெயர்த்து பர்மிய மொழியில் பைபிளை 1835-ல் மொழிபெயர்த்து முடித்தார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -122024,6 +123177,19 @@
    "source_ids": [
     "b7-0224"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 48,
+     "role": "step",
+     "group": "modern",
+     "label_en": "In 1859 Tischendorf found Codex Sinaiticus, the oldest known complete copy of the Christian Greek Scriptures, at the base of Mount Sinai",
+     "label_ta": "1859-ல், உயிரின தோற்றம் (ஆங்கிலம்) புத்தகத்தை டார்வின் வெளியிட்ட அதே ஆண்டில் டிஷன்டார்ஃப் சீனாய் மலை அடிவாரத்திலிருந்த ஒரு துறவி மடத்தில் மிக பழமையானதாக அறியப்பட்டிருந்த கிறிஸ்தவ கிரேக்க வேதாகமத்தின் முழு நகல் ஒன்றை கண்டுபிடித்தார்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -122308,6 +123474,19 @@
    "batch": "b7",
    "source_ids": [
     "b7-0228"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 49,
+     "role": "item",
+     "group": "translations",
+     "label_en": "God’s name in the Christian Greek Scriptures: The Emphatic Diaglott, by Benjamin Wilson (1864)",
+     "label_ta": "அப்போஸ்தலர் 2:34-ல் கடவுளுடைய பெயர், பென்ஜமின் வில்சன் என்பவரின் த எம்ஃபடிக் டயக்லாட் (1864)",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -122772,6 +123951,21 @@
    "batch": "b8",
    "source_ids": [
     "b8-0004"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 11,
+     "role": "fulfillment",
+     "group": "growing",
+     "label_en": "During the decades leading up to 1914, C. T. Russell and his close associates did a work like that of John the Baptizer, restoring Bible truths: some decades before the start of the harvest season, the wheat class became discernible",
+     "label_ta": "1914-க்கு முன்பு பல பத்தாண்டுகளாக சி.டி. ரஸலும் அவருடைய நெருங்கிய நண்பர்களும் யோவான் ஸ்நானகர் செய்ததைப் போன்ற ஒரு வேலையைச் செய்துவந்தார்கள்.",
+     "pairs_with": [
+      "b11-0042"
+     ],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -123355,6 +124549,19 @@
    "source_ids": [
     "b8-0006"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 12,
+     "role": "context",
+     "group": "growing",
+     "label_en": "The Bible Students taught the true meaning of Christ’s ransom sacrifice",
+     "label_ta": "கிறிஸ்துவின் மீட்கும் பலியின் உண்மையான அர்த்தத்தை விளக்கினார்கள்",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -123627,6 +124834,19 @@
    "batch": "b8",
    "source_ids": [
     "b8-0009"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 13,
+     "role": "context",
+     "group": "growing",
+     "label_en": "…and proclaimed the coming end of the Gentile Times",
+     "label_ta": "புறதேசத்தாரின் காலங்கள் முடிவடையவிருந்ததை அறிவித்தார்கள்",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -124908,6 +126128,105 @@
    "batch": "b8",
    "source_ids": [
     "b8-0024"
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0005",
+   "slug": "westcott-hort-greek-text",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1881",
+   "date_label_ta": "1881",
+   "start": {
+    "display_en": "1881",
+    "display_ta": "1881",
+    "year": 1881,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1881.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Westcott and Hort Greek master text produced",
+   "title_ta": "உவெஸ்ட்காட் மற்றும் ஹார்ட் வாக்கியம்",
+   "description_en": "Cambridge scholars B. F. Westcott and F. J. A. Hort produced in 1881 a widely accepted Greek master text, compared from existing manuscripts and fragments. The New World Bible Translation Committee used it as the basis for its translation of the Christian Greek Scriptures in the mid-20th century.",
+   "description_ta": "உலகம் முழுவதும் ஏற்றுக்கொள்ளப்பட்டிருக்கும் சிறப்புவாய்ந்த கிரேக்க மூலவாக்கியம் ஒன்றை கேம்ப்ரிட்ஜ் பல்கலைக்கழகக் கல்வியறிஞர்களான பி. எஃப். உவெஸ்ட்காட்டும் எஃப். ஜே. எ. ஹார்ட்டும் 1881-⁠ல் உருவாக்கினர்.",
+   "category": "history.bible_preservation",
+   "event_kind": "master_text",
+   "tags": [
+    "greek-text",
+    "a3-chart",
+    "new-world-translation"
+   ],
+   "people": [
+    "B. F. Westcott",
+    "F. J. A. Hort"
+   ],
+   "places": [
+    "Cambridge"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990133",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 6",
+     "title_en": "Study Number 6—The Christian Greek Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 6—கிரேக்க வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990133",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990133",
+     "finder_url": "https://www.jw.org/finder?docid=1101990133&wtlocale=E",
+     "par": 22,
+     "quote_en": "A Greek master text that has attained wide acceptance is that produced by the Cambridge University scholars B. F. Westcott and F. J. A. Hort, in 1881.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "In the late 19th century, scholars B. F. Westcott and F.J.A. Hort compared existing Bible manuscripts and fragments as they prepared the Greek master text",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0016",
+    "b9-0027"
+   ],
+   "notes": "A3 says 'In the late 19th century'; si Study 6 gives 1881.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0005"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 50,
+     "role": "step",
+     "group": "modern",
+     "label_en": "In the late 19th century, scholars B. F. Westcott and F.J.A. Hort prepared the Greek master text (1881)",
+     "label_ta": "19-ஆம் நூற்றாண்டின் பிற்பகுதியில், பி. எஃப். வெஸ்ட்காட் மற்றும் எஃப். ஜெ. ஏ. ஹார்ட் என்ற அறிஞர்கள், மூலப் பதிவோடு மிகவும் ஒத்திருந்ததாக நினைத்த அன்றைய பைபிள் கையெழுத்துப் பிரதிகளையும் அவற்றின் துண்டுகளையும் ஒப்பிட்டுப் பார்த்து கிறிஸ்தவ கிரேக்க வேதாகமத்தின் அடிப்படைப் பதிவைத் தயாரித்தார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -127896,6 +129215,19 @@
    "source_ids": [
     "b8-0060"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 14,
+     "role": "context",
+     "group": "growing",
+     "label_en": "…exposed the hellfire lie",
+     "label_ta": "நரக தண்டனை ஒரு பொய் போதனை என்பதை அம்பலப்படுத்தினார்கள்",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -129522,6 +130854,103 @@
    "batch": "d1",
    "source_ids": [
     "d1-0031"
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0006",
+   "slug": "kittel-biblia-hebraica-first-edition",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1906",
+   "date_label_ta": "1906",
+   "start": {
+    "display_en": "1906",
+    "display_ta": "1906",
+    "year": 1906,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1906.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Rudolf Kittel releases the first edition of Biblia Hebraica",
+   "title_ta": "பிப்ளியா ஹெப்ரேய்க்கா, அல்லது “எபிரெய பைபிள்”",
+   "description_en": "In 1906 Hebrew scholar Rudolf Kittel released in Germany the first edition of his refined Hebrew text, Biblia Hebraica. Its later editions provided the basic text for the Hebrew Scriptures of the New World Translation (1953-1960).",
+   "description_ta": "எபிரெய அறிஞர் ருடால்ஃப் கிட்டல் 1906-⁠ல் பிப்ளியா ஹெப்ரேய்க்கா, அல்லது “எபிரெய பைபிள்” என்ற தலைப்புடைய செம்மையாக்கப்பட்ட எபிரெய வாக்கியத்தின் முதல் பதிப்பை (பின்னால், இரண்டாவது பதிப்பை) ஜெர்மனியில் வெளியிட்டார்.",
+   "category": "history.bible_preservation",
+   "event_kind": "master_text",
+   "tags": [
+    "hebrew-text",
+    "a3-chart",
+    "new-world-translation"
+   ],
+   "people": [
+    "Rudolf Kittel"
+   ],
+   "places": [
+    "Germany"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 27,
+     "quote_en": "In 1906 Hebrew scholar Rudolf Kittel released in Germany the first edition (and later, a second edition) of his refined Hebrew text entitled Biblia Hebraica",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "The New World Translation of the Hebrew Scriptures (1953-1960) was based on Biblia Hebraica, by Rudolf Kittel.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0092"
+   ],
+   "notes": "si Study 5 par. 28: the 7th, 8th and 9th editions (1951-55) provided the basic text for the Hebrew section of the NWT.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0006"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 51,
+     "role": "step",
+     "group": "modern",
+     "label_en": "Biblia Hebraica, by Rudolf Kittel (first edition 1906), on which the NWT Hebrew Scriptures were based",
+     "label_ta": "ருடால்ஃப் கிட்டெல் என்பவரின் பிப்ளியா ஹெப்ராய்காவை அடிப்படையாக வைத்துத்தான் எபிரெய வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு (1953-1960) ஆங்கிலத்தில் மொழிபெயர்க்கப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -132383,7 +133812,28 @@
    "source_ids": [
     "b10-0004"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 15,
+     "role": "fulfillment",
+     "group": "harvest",
+     "label_en": "1914 Harvest begins: “The harvest is a conclusion of a system of things” — the weeds are collected and bundled (Matt. 13:30)",
+     "label_ta": "அறுவடைக் காலம் 1914-ல் ஆரம்பமானது.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "endpoint_of": [
+    {
+     "span_id": "b17-0002",
+     "as": "end",
+     "span_kind": "prophetic_period",
+     "span_title": "Wheat and weeds grow together until the harvest"
+    },
     {
      "span_id": "b12-0070",
      "as": "start",
@@ -132474,6 +133924,10 @@
    "batch": "b12",
    "source_ids": [
     "b12-0070"
+   ],
+   "child_ids": [
+    "b17-0007",
+    "b17-0009"
    ],
    "chart_hint": null
   },
@@ -132603,6 +134057,21 @@
    "batch": "b10",
    "source_ids": [
     "b10-0005"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 16,
+     "role": "fulfillment",
+     "group": "harvest",
+     "label_en": "Jesus began to inspect the spiritual temple in 1914; that inspection and cleansing work involved a period of time—from 1914 to the early part of 1919",
+     "label_ta": "ஆம், 1914-லிருந்து 1919-ன் ஆரம்பம்வரையாக அதைச் செய்தார்.",
+     "pairs_with": [
+      "b11-0042"
+     ],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -132987,6 +134456,19 @@
    "source_ids": [
     "b8-0101"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 17,
+     "role": "context",
+     "group": "harvest",
+     "label_en": "After Brother Russell’s death in October 1916, opposition arose from inside the organization",
+     "label_ta": "அக்டோபர் 1916-ல் சகோதரர் ரஸல் இறந்த பிறகு அமைப்பிற்கு உள்ளிருந்தே எதிர்ப்பு வந்ததால் நிலைமை இன்னும் மோசமானது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "endpoint_of": [
     {
      "span_id": "d1-0029",
@@ -133001,7 +134483,7 @@
      "span_title": "C. T. Russell, first president of the Watch Tower Society"
     }
    ],
-   "chart_hint": "covered_by_span"
+   "chart_hint": "span_endpoint"
   },
   {
    "id": "b8-0102",
@@ -133559,6 +135041,19 @@
    "batch": "b8",
    "source_ids": [
     "b8-0107"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 18,
+     "role": "context",
+     "group": "harvest",
+     "label_en": "Four of the seven directors rebelled; in August 1917 they left Bethel—a cleansing indeed!",
+     "label_ta": "ஆகஸ்ட் 1917-ல் அவர்கள் பெத்தேலிலிருந்து வெளியேறியது உண்மையிலேயே ஒரு சுத்திகரிப்பாக இருந்தது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -134729,6 +136224,97 @@
    "chart_hint": null
   },
   {
+   "id": "b17-0007",
+   "slug": "babylon-the-great-evidently-fallen-1919",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "by 1919",
+   "date_label_ta": "1919-ல்",
+   "start": {
+    "display_en": "by 1919",
+    "display_ta": "1919-ல்",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "before",
+    "latest": null,
+    "sort_key": 1919.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b12-0070",
+   "derived": null,
+   "title_en": "Babylon the Great evidently fallen",
+   "title_ta": "1919-ல் மகா பாபிலோன் வீழ்ந்துவிட்டது என்பது தெளிவாகத் தெரிந்தது",
+   "description_en": "As the angels’ collecting of the weedlike Christians progressed after 1914, the distinction between true and imitation Christians became ever clearer. By 1919 it became evident that Babylon the Great had fallen.",
+   "description_ta": "களைகளைப் பிடுங்கப் பிடுங்க, இரண்டு வகுப்பாருக்கும் இடையிலுள்ள வித்தியாசம் பளிச்சென தெரிய ஆரம்பித்தது. (வெளி. 18:1, 4) 1919-ல் மகா பாபிலோன் வீழ்ந்துவிட்டது என்பது தெளிவாகத் தெரிந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophecy_fulfilled",
+   "tags": [
+    "wheat-and-weeds",
+    "babylon-the-great",
+    "harvest"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 18:1, 4",
+     "ref_ta": "வெளி. 18:1, 4",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 18,
+     "verses": "1, 4"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 11,
+     "quote_en": "As the collecting work progressed, the distinction between the two groups became ever clearer. (Rev. 18:1, 4) By 1919, it became evident that Babylon the Great had fallen.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0004",
+    "b10-0005"
+   ],
+   "notes": "English: 'By 1919' (precision 'before'); the Tamil edition says '1919-ல்' (in 1919).",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0007"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 19,
+     "role": "fulfillment",
+     "group": "harvest",
+     "label_en": "By 1919, it became evident that Babylon the Great had fallen",
+     "label_ta": "1919-ல் மகா பாபிலோன் வீழ்ந்துவிட்டது என்பது தெளிவாகத் தெரிந்தது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "chart_hint": null
+  },
+  {
    "id": "b8-0119",
    "slug": "bulletin-1919",
    "timing": "point",
@@ -135447,6 +137033,19 @@
    "source_ids": [
     "b10-0007"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 22,
+     "role": "context",
+     "group": "harvest",
+     "label_en": "Knowing who the wheatlike Christians are is essential to answering: “Who really is the faithful and discreet slave?” (Matt. 24:45)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -135725,6 +137324,202 @@
    "batch": "b8",
    "source_ids": [
     "b8-0125"
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0008",
+   "slug": "to-whom-the-work-is-entrusted-1919",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1919",
+   "date_label_ta": "1919",
+   "start": {
+    "display_en": "1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1919.4
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Pamphlet To Whom the Work Is Entrusted urges house-to-house preaching",
+   "title_ta": "யாரிடம் இந்த வேலை ஒப்படைக்கப்பட்டிருக்கிறது (ஆங்கிலம்) என்ற கைப்பிரதி",
+   "description_en": "The pamphlet To Whom the Work Is Entrusted, published in 1919, urged all anointed Christians to preach from house to house. The preaching work especially set true Christians apart from imitation ones, and house-to-house preaching became their hallmark.",
+   "description_ta": "உதாரணத்திற்கு, 1919-ல் பிரசுரிக்கப்பட்ட யாரிடம் இந்த வேலை ஒப்படைக்கப்பட்டிருக்கிறது (ஆங்கிலம்) என்ற கைப்பிரதி பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் எல்லோரையும் வீட்டுக்கு வீடு ஊழியத்தில் ஈடுபட உந்துவித்தது.",
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "wheat-and-weeds",
+    "preaching",
+    "house-to-house"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 11,
+     "quote_en": "To Whom the Work Is Entrusted, a pamphlet published in 1919, urged all anointed Christians to preach from house to house.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b17-0007",
+    "b17-0009"
+   ],
+   "notes": "The article adds that The Watch Tower reported in 1922 that the Bible Students had stepped up their preaching from that time onward.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0008"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 20,
+     "role": "step",
+     "group": "harvest",
+     "label_en": "To Whom the Work Is Entrusted (1919) urged all anointed Christians to preach from house to house",
+     "label_ta": "1919-ல் பிரசுரிக்கப்பட்ட யாரிடம் இந்த வேலை ஒப்படைக்கப்பட்டிருக்கிறது (ஆங்கிலம்) என்ற கைப்பிரதி பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் எல்லோரையும் வீட்டுக்கு வீடு ஊழியத்தில் ஈடுபட உந்துவித்தது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0009",
+   "slug": "wheat-gathered-into-storehouse",
+   "timing": "span",
+   "span_kind": "prophetic_period",
+   "date_label_en": "1919–",
+   "date_label_ta": "1919 முதற்கொண்டு",
+   "start": {
+    "display_en": "1919",
+    "display_ta": "1919",
+    "year": 1919,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1919.5
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "ongoing",
+    "latest": null,
+    "sort_key": 2026.8
+   },
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": "b12-0070",
+   "derived": null,
+   "title_en": "Wheat gathered into the storehouse: anointed gathered into the restored congregation",
+   "title_ta": "1919 முதற்கொண்டு பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சுத்திகரிக்கப்பட்ட கிறிஸ்தவ சபைக்குள் கூட்டிச் சேர்க்கப்படுகிறார்கள்",
+   "description_en": "Jesus commands his angels: “Go to gathering the wheat into my storehouse.” Since 1919, anointed ones have been gathered into the restored Christian congregation; for those alive at the end of this system, the final gathering will take place when they receive their heavenly reward.",
+   "description_ta": "இரண்டாவது, கோதுமையைச் சேர்ப்பது. “கோதுமையை என்னுடைய களஞ்சியத்தில் சேர்த்து வையுங்கள்” என்று தேவதூதர்களுக்கு இயேசு கட்டளையிடுகிறார். (மத். 13:30) 1919 முதற்கொண்டு பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சுத்திகரிக்கப்பட்ட கிறிஸ்தவ சபைக்குள் கூட்டிச் சேர்க்கப்படுகிறார்கள்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "prophetic_period",
+   "tags": [
+    "wheat-and-weeds",
+    "anointed",
+    "harvest"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 13:30",
+     "ref_ta": "மத். 13:30",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 13,
+     "verses": "30"
+    },
+    {
+     "ref_en": "Dan. 7:18, 22, 27",
+     "ref_ta": "தானி. 7:18, 22, 27",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 7,
+     "verses": "18, 22, 27"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2013531",
+     "publication": "The Watchtower (Study Edition), July 15, 2013 (w13 7/15 pp. 9-14)",
+     "title_en": "“Look! I Am With You All the Days”",
+     "title_ta": "“இதோ! ... எல்லா நாட்களிலும் நான் உங்களோடுகூட இருக்கிறேன்”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013531",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013531",
+     "finder_url": "https://www.jw.org/finder?docid=2013531&wtlocale=E",
+     "par": 12,
+     "quote_en": "Since 1919, anointed ones have been gathered into the restored Christian congregation.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b10-0007",
+    "b10-0016"
+   ],
+   "notes": "Ongoing; the article places the final gathering in the future, when the anointed alive at the end receive their heavenly reward (b10-0016).",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0009"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 21,
+     "role": "fulfillment",
+     "group": "harvest",
+     "label_en": "1919 Gathering into the storehouse: Anointed Christians are gathered into the restored congregation — ‘Gathering the wheat into the storehouse’ (Matt. 13:30)",
+     "label_ta": "1919 முதற்கொண்டு பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்கள் சுத்திகரிக்கப்பட்ட கிறிஸ்தவ சபைக்குள் கூட்டிச் சேர்க்கப்படுகிறார்கள்.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -150122,6 +151917,133 @@
    "chart_hint": null
   },
   {
+   "id": "b17-0010",
+   "slug": "dead-sea-scrolls-discovered",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1947",
+   "date_label_ta": "1947",
+   "start": {
+    "display_en": "1947",
+    "display_ta": "1947",
+    "year": 1947,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1947.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Dead Sea Scrolls discovered",
+   "title_ta": "சவக்கடல் சுருள்கள்",
+   "description_en": "In 1947 a scroll of Isaiah, together with other Biblical and non-Biblical scrolls, was discovered in a cave at Wadi Qumran near the Dead Sea; other caves later yielded parts of all Hebrew Scripture books except Esther. Comparing these manuscripts, about a thousand years older than the Leningrad Codex, with the Masoretic text confirmed that the message had not changed.",
+   "description_ta": "சவக்கடல் சுருள்கள். 1947-⁠ல் எபிரெயக் கையெழுத்துப் பிரதியின் சரித்திரத்தில் சுவாரஸ்யமான ஒரு புதிய அத்தியாயம் தொடங்கியது. சவக்கடல் பகுதியில், வாடி கும்ரன் (நஹல் குமெரன்) என்ற இடத்திலுள்ள ஒரு குகையில் முதல் ஏசாயா சுருள் கண்டுபிடிக்கப்பட்டது; இதோடு, பைபிள் சம்பந்தப்பட்ட மற்றும் பைபிள் சம்பந்தப்படாத பல சுருள்களும் கண்டுபிடிக்கப்பட்டன.",
+   "category": "history.bible_preservation",
+   "event_kind": "discovery",
+   "tags": [
+    "dead-sea-scrolls",
+    "manuscript",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [
+    "Qumran",
+    "Dead Sea"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990132",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 5",
+     "title_en": "Study Number 5—The Hebrew Text of the Holy Scriptures",
+     "title_ta": "ஆராய்ச்சி எண் 5—எபிரெய வேதாகம புத்தகங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990132",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990132",
+     "finder_url": "https://www.jw.org/finder?docid=1101990132&wtlocale=E",
+     "par": 23,
+     "quote_en": "In 1947 an exciting new chapter in Hebrew manuscript history began. In a cave at Wadi Qumran (Nahal Qumeran), in the area of the Dead Sea, the first Isaiah scroll, together with other Biblical and non-Biblical scrolls, was discovered.",
+     "supports": null
+    },
+    {
+     "docid": "2016247",
+     "publication": "The Watchtower (public edition) No. 4 2016 (wp16 No. 4 pp. 6-7)",
+     "title_en": "The Bible Survived Attempts to Alter Its Message",
+     "title_ta": "கலப்படம் செய்யப்படுவதிலிருந்து மீண்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2016247",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2016247",
+     "finder_url": "https://www.jw.org/finder?docid=2016247&wtlocale=E",
+     "par": null,
+     "quote_en": "When the Dead Sea Scrolls were found in 1947, scholars could at last compare the Hebrew Masoretic text to what appeared in Bible scrolls that had been written more than a thousand years earlier.",
+     "supports": null
+    },
+    {
+     "docid": "2020167",
+     "publication": "The Watchtower (public edition) No. 3 2020 (wp20 No. 3 p. 7)",
+     "title_en": "Has God’s Written Word Been Changed?",
+     "title_ta": "இறைவேதம் மாற்றப்பட்டிருக்கிறதா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020167",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020167",
+     "finder_url": "https://www.jw.org/finder?docid=2020167&wtlocale=E",
+     "par": null,
+     "quote_en": "the ancient documents called the Dead Sea Scrolls, discovered by bedouins in caves near the Dead Sea in 1947.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "in the middle of the 20th century, some 220 Biblical manuscripts or fragments were discovered among the Dead Sea Scrolls.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1997603",
+     "value": "250 B.C.E.–50 C.E. (text) / c. 100 B.C.E.–68 C.E. (chart)",
+     "note": "w97 8/15 dates the writing of the Dead Sea Scrolls 'between 250 B.C.E. and 50 C.E.' in the text and 'Most Dead Sea Scrolls c. 100 B.C.E. to 68 C.E.' in its chart. Only the discovery (1947) is recorded here."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b17-0001",
+    "b7-0066"
+   ],
+   "notes": "A3 says only 'in the middle of the 20th century' and counts some 220 Biblical manuscripts or fragments; si Study 5, wp16 No. 4 and wp20 No. 3 give 1947.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0010"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 53,
+     "role": "step",
+     "group": "modern",
+     "label_en": "In the middle of the 20th century, some 220 Biblical manuscripts or fragments were discovered among the Dead Sea Scrolls (1947)",
+     "label_ta": "ஆனால், 20-ஆம் நூற்றாண்டின் மத்தியில் கண்டெடுக்கப்பட்ட சவக்கடல் சுருள்களில் சுமார் 220 பைபிள் கையெழுத்துப் பிரதிகள் அல்லது அதனுடைய துண்டுகள் இருந்தன.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
+   "chart_hint": null
+  },
+  {
    "id": "b9-0011",
    "slug": "boucher-sedition-trial",
    "timing": "point",
@@ -150497,6 +152419,19 @@
    "batch": "b9",
    "source_ids": [
     "b9-0016"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 52,
+     "role": "step",
+     "group": "modern",
+     "label_en": "New World Bible Translation Committee begins work (December 2, 1947)",
+     "label_ta": null,
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "endpoint_of": [
     {
@@ -151360,6 +153295,19 @@
    "source_ids": [
     "b9-0027"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 54,
+     "role": "step",
+     "group": "modern",
+     "label_en": "New World Translation of the Christian Greek Scriptures released (1950)",
+     "label_ta": "1950-ல் கிறிஸ்தவ கிரேக்க வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது (2009-ல் தமிழில் வெளியிடப்பட்டது).",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "endpoint_of": [
     {
      "span_id": "b12-0092",
@@ -151456,6 +153404,19 @@
    "batch": "b12",
    "source_ids": [
     "b12-0092"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 55,
+     "role": "step",
+     "group": "modern",
+     "label_en": "It was published in six volumes, released from 1950 to 1960, beginning with the Christian Greek Scriptures",
+     "label_ta": "அது கிறிஸ்தவ கிரேக்க வேதாகமத்தில் துவங்கி 1950 முதல் 1960 வரையாக ஆறு புத்தகத் தொகுதிகளாக வெளியிடப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -153848,6 +155809,19 @@
    "batch": "b9",
    "source_ids": [
     "b9-0061"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 56,
+     "role": "step",
+     "group": "modern",
+     "label_en": "Complete New World Translation released in one volume (1961)",
+     "label_ta": "1961-ல் பரிசுத்த வேதாகமத்தின் புதிய உலக மொழிபெயர்ப்பு பைபிள் ஒரே தொகுப்பாக ஆங்கிலத்தில் வெளியிடப்பட்டது (2016-ல் தமிழில் வெளியிடப்பட்டது).",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -159336,6 +161310,99 @@
    "batch": "b9",
    "source_ids": [
     "b9-0137"
+   ],
+   "chart_hint": null
+  },
+  {
+   "id": "b17-0011",
+   "slug": "nwt-reference-edition-1984",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1984",
+   "date_label_ta": "1984",
+   "start": {
+    "display_en": "1984",
+    "display_ta": "1984",
+    "year": 1984,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1984.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "New World Translation reference edition released",
+   "title_ta": "துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது",
+   "description_en": "At the “Kingdom Increase” District Conventions of 1984, a revised reference edition of the New World Translation was issued in English, with over 125,000 marginal references, more than 11,000 footnotes, a concordance, maps and 43 appendix articles. A regular-size edition of the 1984 revision was also released that year.",
+   "description_ta": "1984-⁠ல் நடத்தப்பட்ட யெகோவாவின் சாட்சிகளின் “ராஜ்ய அதிகரிப்பு” மாவட்ட மாநாடுகளில், துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது.",
+   "category": "history.bible_translation",
+   "event_kind": "release",
+   "tags": [
+    "new-world-translation",
+    "a3-chart"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101990134",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 7",
+     "title_en": "Study Number 7—The Bible in Modern Times",
+     "title_ta": "ஆராய்ச்சி எண் 7—நவீன காலங்களில் பைபிள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990134",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990134",
+     "finder_url": "https://www.jw.org/finder?docid=1101990134&wtlocale=E",
+     "par": 23,
+     "quote_en": "At the “Kingdom Increase” District Conventions of Jehovah’s Witnesses, held in 1984, a revised reference edition was issued in English.",
+     "supports": null
+    },
+    {
+     "docid": "1001070203",
+     "publication": "NWT Study Edition (nwtsty) App. A3",
+     "title_en": "A3 How the Bible Came to Us",
+     "title_ta": "A3 பைபிள் நமக்குக் கிடைத்த விதம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070203",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070203",
+     "finder_url": "https://www.jw.org/finder?docid=1001070203&wtlocale=E",
+     "par": null,
+     "quote_en": "New World Translation of the Holy Scriptures—With References, published in 1984.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0061",
+    "b9-0314"
+   ],
+   "notes": "A3 footnote c cites the New World Translation of the Holy Scriptures—With References, published in 1984.",
+   "batch": "b17",
+   "source_ids": [
+    "b17-0011"
+   ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 57,
+     "role": "step",
+     "group": "modern",
+     "label_en": "New World Translation of the Holy Scriptures—With References, published in 1984",
+     "label_ta": "1984-⁠ல் நடத்தப்பட்ட யெகோவாவின் சாட்சிகளின் “ராஜ்ய அதிகரிப்பு” மாவட்ட மாநாடுகளில், துணைக்குறிப்புகளைக் கொண்ட திருத்தியமைக்கப்பட்ட ஒரு பதிப்பு ஆங்கிலத்தில் வெளியிடப்பட்டது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
@@ -172764,6 +174831,19 @@
    "source_ids": [
     "b9-0314"
    ],
+   "series": [
+    {
+     "id": "how-the-bible-came-to-us",
+     "order": 58,
+     "role": "step",
+     "group": "modern",
+     "label_en": "The present revision of the New World Translation (2013): Biblia Hebraica Stuttgartensia and Quinta consulted; the name Jehovah used 237 times in the Christian Greek Scriptures",
+     "label_ta": "கிறிஸ்தவ கிரேக்க வேதாகமத்தில் மொத்தம் 237 தடவை யெகோவா என்ற பெயர் பயன்படுத்தப்பட்டுள்ளது.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -185287,6 +187367,17 @@
      ],
      "auto": false,
      "highlight": true
+    },
+    {
+     "id": "wheat-and-weeds",
+     "order": 23,
+     "role": "future_fulfillment",
+     "group": "future",
+     "label_en": "All faithful anointed ones still on earth after the initial part of the great tribulation will already have received their final sealing",
+     "label_ta": "மிகுந்த உபத்திரவத்தின் முதற்கட்டம் நடந்தேறிய பிறகும் பூமியில் மீந்திருக்கும் எல்லா பரலோக நம்பிக்கையுள்ள கிறிஸ்தவர்களும் கடைசி முத்திரையைப் பெற்றிருப்பார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
     }
    ],
    "chart_hint": null
@@ -185503,6 +187594,17 @@
      "pairs_with": [],
      "auto": false,
      "highlight": false
+    },
+    {
+     "id": "wheat-and-weeds",
+     "order": 24,
+     "role": "context",
+     "group": "future",
+     "label_en": "During the great tribulation, after all organized false religion has been destroyed, former adherents will run for cover",
+     "label_ta": "மிகுந்த உபத்திரவத்தின்போது, எல்லாப் பொய் மத அமைப்புகளும் அழிக்கப்பட்ட பிறகு, அதன் முன்னாள் ஆதரவாளர்கள் பாதுகாப்புக்காக மறைவான இடம்தேடி அலைவார்கள், ஆனால், அதை கண்டடைய மாட்டார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
     }
    ],
    "endpoint_of": [
@@ -186051,6 +188153,21 @@
    "source_ids": [
     "b10-0014"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 25,
+     "role": "future_fulfillment",
+     "group": "future",
+     "label_en": "Third, weeping and gnashing: realizing there is no escape, they will weep in desperation and ‘gnash their teeth’; they “will beat themselves in lamentation”",
+     "label_ta": "மூன்றாவது, அழுது அங்கலாய்ப்பது.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -186409,6 +188526,21 @@
    "source_ids": [
     "b10-0016"
    ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 26,
+     "role": "future_fulfillment",
+     "group": "future",
+     "label_en": "Shining brightly: Shortly before Armageddon, the remaining faithful anointed ones are gathered to the heavens — the righteous ones shine brightly in the Kingdom (Matt. 13:43)",
+     "label_ta": "ஐந்தாவது, சூரியனைப் போல் பிரகாசிப்பது.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    }
+   ],
    "chart_hint": null
   },
   {
@@ -186678,6 +188810,19 @@
      "highlight": false
     },
     {
+     "id": "wheat-and-weeds",
+     "order": 27,
+     "role": "future_fulfillment",
+     "group": "future",
+     "label_en": "Armageddon: At Armageddon, the weeds are pitched into the fire — ‘The weeds are pitched into the fiery furnace’ (Matt. 13:42)",
+     "label_ta": "நான்காவது, உலையில் வீசப்படுவது.",
+     "pairs_with": [
+      "b5-0058"
+     ],
+     "auto": false,
+     "highlight": true
+    },
+    {
      "id": "world-powers-daniel",
      "order": 22,
      "role": "future_fulfillment",
@@ -186787,6 +188932,19 @@
    "batch": "b10",
    "source_ids": [
     "b10-0018"
+   ],
+   "series": [
+    {
+     "id": "wheat-and-weeds",
+     "order": 28,
+     "role": "context",
+     "group": "future",
+     "label_en": "Shortly after the battle of Armageddon, they will share as Jesus’ joyous bride in “the marriage of the Lamb”",
+     "label_ta": "அர்மகெதோன் யுத்தம் முடிந்தவுடன் நடைபெறும் ‘ஆட்டுக்குட்டியானவரின் திருமணத்தில்’ அவருடைய சந்தோஷமுள்ள மணமகளாக இருப்பார்கள்.",
+     "pairs_with": [],
+     "auto": false,
+     "highlight": true
+    }
    ],
    "chart_hint": null
   },
