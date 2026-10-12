@@ -7,6 +7,7 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 - `research/` — owner's original Tamil sheet (181 rows)
 - `schema/event.schema.json` — the record contract (v2: points and spans)
 - `docs/DATA_SCHEMA.md` — field-by-field explanation with real examples
+- `docs/UI_DESIGN_BRIEF.md` — app design brief · `docs/A0_CHART_DESIGN_BRIEF.md` — A0 poster design brief (Phase 1 wireframes)
 - `docs/AGENT_BRIEF.md` — rules given to research agents (sources, Tamil, images, precision)
 - `data/raw/b1..b12.json` — one file per research batch (see below)
 - `data/raw/book_names.json` — 66 Bible books EN/TA names + abbreviations
