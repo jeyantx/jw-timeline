@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Validate event files against schema/event.schema.json (v2: points and spans).
+"""Validate event files (schema/event.schema.json, v2) and series files (schema/series.schema.json).
 
 Usage: python3 scripts/validate.py [files...]
-Default: every data/raw/b*.json and data/derived/d*.json.
-Exit code 1 if any problem is found.
+Default: every data/raw/b*.json, data/derived/d*.json and data/series/*.json.
+A file under data/series/ is validated as a series: schema + every member/group/pairs_with id must exist
+in the raw/derived event files. Exit code 1 if any problem is found.
 """
-import glob, json, os, re, sys
+import glob, json, os, re, sys, warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCHEMA = json.load(open(os.path.join(ROOT, "schema/event.schema.json")))
@@ -19,10 +21,58 @@ except ImportError:
 URL_RE = re.compile(r"^https://(wol\.jw\.org|www\.jw\.org)/")
 
 
-def default_files():
+def event_files():
     out = [p for p in glob.glob(os.path.join(ROOT, "data/raw/b*.json")) if re.fullmatch(r"b\d+\.json", os.path.basename(p))]
     out += glob.glob(os.path.join(ROOT, "data/derived/d*.json"))
     return sorted(out)
+
+
+def default_files():
+    return event_files() + sorted(glob.glob(os.path.join(ROOT, "data/series/*.json")))
+
+
+SERIES_SCHEMA = json.load(open(os.path.join(ROOT, "schema/series.schema.json")))
+if VALIDATOR:
+    _store = {SCHEMA["$id"]: SCHEMA, "event.schema.json": SCHEMA,
+              SCHEMA["$id"].rsplit("/", 1)[0] + "/event.schema.json": SCHEMA}
+    SERIES_VALIDATOR = jsonschema.Draft7Validator(
+        SERIES_SCHEMA, resolver=jsonschema.RefResolver(base_uri=SERIES_SCHEMA["$id"], referrer=SERIES_SCHEMA, store=_store))
+_KNOWN_IDS = None
+
+
+def known_ids():
+    global _KNOWN_IDS
+    if _KNOWN_IDS is None:
+        _KNOWN_IDS = set()
+        for f in event_files():
+            try:
+                _KNOWN_IDS |= {e["id"] for e in json.load(open(f, encoding="utf-8"))["events"]}
+            except Exception:
+                pass
+    return _KNOWN_IDS
+
+
+def check_series(f, doc):
+    probs = []
+    if VALIDATOR:
+        probs += [f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message[:140]}" for e in SERIES_VALIDATOR.iter_errors(doc)]
+    ids = known_ids()
+    groups = {g["id"] for g in doc.get("groups", [])}
+    for g in doc.get("groups", []):
+        if g.get("span_id") and g["span_id"] not in ids:
+            probs.append(f"group {g['id']}: span_id {g['span_id']} not found")
+    for m in doc.get("members", []):
+        if m["event_id"] not in ids:
+            probs.append(f"member {m['order']}: event_id {m['event_id']} not found")
+        for p in m.get("pairs_with", []):
+            if p not in ids:
+                probs.append(f"member {m['order']}: pairs_with {p} not found")
+        if m.get("group") and m["group"] not in groups:
+            probs.append(f"member {m['order']}: group {m['group']} not defined")
+    for s in doc.get("sources", []):
+        if not URL_RE.match(s.get("url_en", "")):
+            probs.append(f"non-jw.org source url {s.get('url_en')}")
+    return probs
 
 
 def signed(y, era):
@@ -91,6 +141,14 @@ def main():
         except Exception as e:
             print(f"{f}: INVALID JSON: {e}")
             total_bad += 1
+            continue
+        if os.path.basename(os.path.dirname(f)) == "series":
+            probs = check_series(f, doc)
+            for pr in probs[:12]:
+                print(f"{os.path.basename(f)}: {pr}")
+            print(f"{os.path.basename(f)} (series): {len(doc.get('members', []))} members, {len(probs)} problems")
+            total_bad += 1 if probs else 0
+            total_ok += 0 if probs else 1
             continue
         events = doc["events"] if isinstance(doc, dict) and "events" in doc else doc
         if not isinstance(events, list):

@@ -243,8 +243,62 @@ for ev in events:
     if children.get(ev["id"]):
         ev["child_ids"] = children[ev["id"]]
 
+# ---- series ---------------------------------------------------------------------------------------
+by_id = {e["id"]: e for e in events}
+series_out, series_dangling = [], []
+for f in sorted(glob.glob(os.path.join(ROOT, "data/series/*.json"))):
+    sd = json.load(open(f, encoding="utf-8"))
+    for g in sd.get("groups", []):
+        if g.get("span_id"):
+            g["span_id"] = resolve(g["span_id"])
+    kept = []
+    for m in sorted(sd["members"], key=lambda m: m["order"]):
+        m["event_id"] = resolve(m["event_id"])
+        m["pairs_with"] = [resolve(x) for x in m.get("pairs_with", [])]
+        if m["event_id"] not in by_id:
+            series_dangling.append((sd["id"], m["event_id"]))
+            continue
+        kept.append(m)
+        by_id[m["event_id"]].setdefault("series", []).append(
+            {"id": sd["id"], "order": m["order"], "role": m["role"], "group": m.get("group"),
+             "label_en": m.get("label_en"), "label_ta": m.get("label_ta"), "pairs_with": m["pairs_with"],
+             "auto": bool(sd.get("auto")), "highlight": bool(sd.get("highlight"))})
+    sd["members"] = kept
+    series_out.append(sd)
+
+# ---- chart hints: which points are only the start/end marker of a span -------------------------------
+MARKER_SPANS = {"lifespan", "reign", "office"}
+MARKER_KINDS = {"birth", "creation", "death", "accession", "appointment", "election"}
+INDEX_DOCS = {"1200277174", "1200271388"}  # WT Publications Index lists: Beliefs Clarified, Conventions
+for sp in events:
+    if sp["timing"] != "span":
+        continue
+    for key, role in (("start_event_id", "start"), ("end_event_id", "end")):
+        p = by_id.get(sp.get(key))
+        if p and p["timing"] == "point":
+            p.setdefault("endpoint_of", []).append({"span_id": sp["id"], "as": role, "span_kind": sp["span_kind"],
+                                                    "span_title": sp["title_en"]})
+hint_counts = defaultdict(int)
+for ev in events:
+    hint = None
+    rel = ev.get("endpoint_of") or []
+    if rel:
+        marker = [r for r in rel if r["span_kind"] in MARKER_SPANS]
+        other = [r for r in rel if r["span_kind"] not in MARKER_SPANS]
+        curated = any(not m["auto"] for m in ev.get("series", []))
+        if marker and not other and not curated and ev["category"] != "bible.jesus" and ev.get("event_kind") in MARKER_KINDS:
+            hint = "covered_by_span"
+        else:
+            hint = "span_endpoint"
+    elif ev["sources"] and all(src["docid"] in INDEX_DOCS for src in ev["sources"]):
+        hint = "index_entry"
+    ev["chart_hint"] = hint
+    hint_counts[hint] += 1
+
 # ---- write --------------------------------------------------------------------------------------------
 os.makedirs(os.path.join(ROOT, "data/merged"), exist_ok=True)
+json.dump({"schema_version": 1, "generated": "2026-10-12", "count": len(series_out), "series": series_out},
+          open(os.path.join(ROOT, "data/merged/series.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 n_span = sum(1 for e in events if e["timing"] == "span")
 json.dump({"schema_version": 2, "generated": "2026-10-10", "count": len(events),
            "points": len(events) - n_span, "spans": n_span, "events": events},
@@ -259,6 +313,9 @@ with open(os.path.join(ROOT, "data/merged/duplicates_report.md"), "w", encoding=
     fh.write(f"\n# Needs manual review ({len(review)})\n\n")
     for a, b, ov in review:
         fh.write(f"- **{a['date_label_en']}** [{a['id']}] {a['title_en']}\n  vs [{b['id']}] {b['title_en']}  (title overlap {ov})\n")
+    fh.write(f"\n# Series members not found ({len(series_dangling)})\n\n")
+    for sid, mid in series_dangling:
+        fh.write(f"- {sid}: {mid}\n")
     fh.write(f"\n# Dangling references ({len(dangling)})\n\n")
     for i, k, r in dangling:
         fh.write(f"- {i}.{k} → {r} (not in merged set)\n")
@@ -273,3 +330,6 @@ print(f"merged {len(events)} records ({len(events) - n_span} points, {n_span} sp
       f"{len(auto)} duplicates folded, {len(review)} for review, {len(dangling)} dangling refs; "
       f"Tamil titles {sum(1 for e in events if e.get('title_ta'))} (+{enriched} from sheet)")
 print("  spans by kind: " + ", ".join(f"{k} {v}" for k, v in sorted(kinds.items(), key=lambda x: -x[1])))
+print(f"  series: {len(series_out)} ({sum(1 for x in series_out if not x.get('auto'))} curated), "
+      f"{sum(len(x['members']) for x in series_out)} memberships, {len(series_dangling)} missing members")
+print("  chart hints: " + ", ".join(f"{k or 'none'} {v}" for k, v in sorted(hint_counts.items(), key=lambda x: -x[1])))

@@ -41,6 +41,8 @@ Brief for Claude Design. Produce screen designs (desktop + mobile) for a bilingu
 | **Images** | 547 jw.org image URLs with captions (maps, illustrations, chart pages) | Thumbnail on card, gallery in detail |
 | **Scriptures** | structured refs (Gen. 2:7) with Tamil equivalents (ஆதி. 2:7) | Chips that open the verse on jw.org NWT in the current language |
 | **People / places / tags** | arrays of strings | Clickable chips → filter |
+| **Series** | Curated groups of records that belong together, such as the promised offspring of Gen. 3:15 (NWT App. B1), the world powers foretold by Daniel (App. B9), kings of the north and south, Daniel's time prophecies, the covenants, Messianic prophecies, the Messiah's family line, kings of Judah and Israel, Watch Tower presidents, and reproduced jw.org charts and maps. Members have roles (prophecy, fulfillment, rise, fall, ruler, step), captions, and prophecy↔fulfillment pairs. Groups carry prophetic symbols ("head of gold", "lion"). | A **Series picker** (chips or side list) highlights one or more series in their own colour across all lanes. Non-members dim. Prophecy→fulfillment pairs are joined by arcs. The series' jw.org image, such as the Daniel 2 statue or the B1 artwork, shows in a legend card. Each series also has its own page (see 4.5). |
+| **Chart hint** | Points that only mark the start or end of a life, reign or office (Birth of Seth, Death of Adam, "Rehoboam becomes king") are flagged `covered_by_span`. | Hidden by default when the bar is visible, and shown as the bar's end caps. A toggle "Show all markers" reveals them. |
 | **Related events** | ids of linked events (e.g. "Moses dies" ↔ "Joshua commissioned") | "Related" strip in detail view |
 
 ---
@@ -161,9 +163,15 @@ Entry points for browsing without knowing dates.
 - **Places:** same pattern, optional small static map tile from jw.org appendix maps if available.
 - **Bible books:** 66 tiles in canonical order with writer, place, year completed, time covered (from Table of Books). Tap → book page: completion event + all events whose scriptures fall in that book.
 - **Categories:** 32 tiles with icon, colour, count, 1-line definition; tap → timeline filtered.
+- **Series:** each series has a page. It shows a vertical step list (prophecy ↔ fulfillment pairs side by side, with year gaps such as "1,943 years later"), group cards with symbols (Daniel 2 metal, Daniel 7 beast), the jw.org chart image, sources, and "Highlight on timeline". Series kinds get distinct layouts:
+  - Prophecy→fulfillment: two columns joined by arcs.
+  - World powers: stacked bands with the statue graphic.
+  - Succession: a ruler strip.
+  - Lineage: a lifespan Gantt.
+  - Covenant: cards with parties and purpose.
 - **Collections (curated):** "Kings of Judah & Israel", "Jesus' final week", "Paul's journeys", "70 weeks prophecy", "Bible comes to Tamil", "1914–1919", "Beliefs clarified by decade". Each is a saved filter + ordering + intro paragraph.
 
-**UI items:** tile/card for each type, person/book/collection header, "Show on timeline" CTA, sparkline.
+**UI items:** tile/card for each type, series page layouts (prophecy-fulfillment, world powers, succession, lineage, covenants), series legend card and picker, prophecy arc, person/book/collection header, "Show on timeline" CTA, sparkline.
 
 ### 4.6 Chart / poster preview
 

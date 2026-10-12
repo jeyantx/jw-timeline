@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Export data/merged/timeline.json to a review workbook and a flat CSV.
+"""Export data/merged/timeline.json (+ series.json) to a review workbook and a flat CSV.
 
-  exports/timeline_review.xlsx  – Read me · Timeline (one row per record, with review columns) ·
-                                  Add new events (template) · Sources · Categories · Summary
+  exports/timeline_review.xlsx  – Read me · Timeline (one row per record, with review columns) · Series ·
+                                  Series members · Add new events (template) · Sources · Categories · Summary
   exports/timeline.csv          – the Timeline sheet as UTF-8 CSV (with BOM so Excel shows Tamil)
 
 Regenerate after every merge:  python3 scripts/export_review.py
@@ -18,6 +18,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = json.load(open(os.path.join(ROOT, "data/merged/timeline.json"), encoding="utf-8"))
 SCHEMA = json.load(open(os.path.join(ROOT, "schema/event.schema.json"), encoding="utf-8"))
 EVENTS = DATA["events"]
+SERIES = json.load(open(os.path.join(ROOT, "data/merged/series.json"), encoding="utf-8"))["series"]
+BY_ID = {e["id"]: e for e in EVENTS}
+HINT = {"covered_by_span": "Covered by span – hide on chart", "span_endpoint": "Span endpoint – keep",
+        "index_entry": "Index list entry – app detail"}
 OUT_X = os.path.join(ROOT, "exports/timeline_review.xlsx")
 OUT_C = os.path.join(ROOT, "exports/timeline.csv")
 
@@ -102,11 +106,15 @@ COLUMNS = [
     ("Start event ID", 10, lambda e: e.get("start_event_id") or "", "text"),
     ("End event ID", 10, lambda e: e.get("end_event_id") or "", "text"),
     ("Inside span", 10, lambda e: e.get("parent_id") or "", "text"),
+    ("Chart hint", 24, lambda e: HINT.get(e.get("chart_hint"), ""), "text"),
+    ("Start/end of span", 34, lambda e: "; ".join(f"{r['as']} of {r['span_title']} ({r['span_id']})" for r in e.get("endpoint_of") or []), "text"),
+    ("Series", 30, lambda e: "; ".join(f"{m['id']} #{m['order']} ({m['role']})" for m in e.get("series") or []), "text"),
     ("Notes", 30, lambda e: e.get("notes") or "", "text"),
     ("Sort key", 9, lambda e: e["start"]["sort_key"], "num"),
     # review columns, filled by the owner
     ("✎ Status", 12, lambda e: "", "review"),
     ("✎ Importance (1-3)", 11, lambda e: e.get("importance") or "", "review"),
+    ("✎ Show on chart", 10, lambda e: "", "review"),
     ("✎ Correction / comment", 40, lambda e: "", "review"),
 ]
 COL = {h: i + 1 for i, (h, *_rest) in enumerate(COLUMNS)}
@@ -157,14 +165,66 @@ def build_timeline(wb):
     ws.auto_filter.ref = f"A1:{get_column_letter(len(COLUMNS))}{last}"
     status = DataValidation(type="list", formula1='"OK,Fix,Remove,Add Tamil,Duplicate"', allow_blank=True)
     imp = DataValidation(type="list", formula1='"1,2,3"', allow_blank=True)
+    show = DataValidation(type="list", formula1='"Yes,No"', allow_blank=True)
     ws.add_data_validation(status)
     ws.add_data_validation(imp)
+    ws.add_data_validation(show)
+    show.add(f"{get_column_letter(COL['✎ Show on chart'])}2:{get_column_letter(COL['✎ Show on chart'])}{last}")
     status.add(f"{get_column_letter(COL['✎ Status'])}2:{get_column_letter(COL['✎ Status'])}{last}")
     imp.add(f"{get_column_letter(COL['✎ Importance (1-3)'])}2:{get_column_letter(COL['✎ Importance (1-3)'])}{last}")
     # hide technical columns by default (still filterable)
     for h in ("Sort key", "All source links (EN)", "Start event ID", "End event ID", "Inside span", "Notes"):
         ws.column_dimensions[get_column_letter(COL[h])].hidden = True
     return ws
+
+
+def build_series(wb):
+    ws = wb.create_sheet("Series")
+    hdr = ["Series ID", "Title", "Kind", "Highlight on chart", "Auto-built", "Members", "First", "Last", "Description",
+           "Main source", "Source link", "✎ Status", "✎ Comment"]
+    head(ws, 1, hdr, [26, 40, 18, 10, 9, 9, 22, 22, 70, 36, 12, 12, 40])
+    for r, sd in enumerate(sorted(SERIES, key=lambda x: (x.get("auto", False), x["id"])), 2):
+        mem = [BY_ID[m["event_id"]] for m in sd["members"] if m["event_id"] in BY_ID]
+        dated = sorted(mem, key=lambda e: e["start"]["sort_key"])
+        src = sd["sources"][0] if sd.get("sources") else {}
+        vals = [sd["id"], sd["title_en"], sd["kind"].replace("_", " "), "Yes" if sd.get("highlight") else "",
+                "Yes" if sd.get("auto") else "", len(mem), dated[0]["date_label_en"] if dated else "",
+                dated[-1]["date_label_en"] if dated else "", sd["description_en"], src.get("title_en"), src.get("url_en"), "", ""]
+        for c, v in enumerate(vals, 1):
+            cell = ws.cell(row=r, column=c, value=v if v != "" else None)
+            cell.font = Font(name=FONT, size=10)
+            cell.alignment = Alignment(vertical="top", wrap_text=c in (2, 9))
+            if c == 11 and v:
+                cell.hyperlink, cell.value = v, "open"
+                cell.font = Font(name=FONT, size=10, color="0563C1", underline="single")
+            if c >= 12:
+                cell.fill = REVIEW_FILL
+                cell.border = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
+    ws.freeze_panes = "B2"
+    ws.auto_filter.ref = f"A1:M{len(SERIES) + 1}"
+
+    wm = wb.create_sheet("Series members")
+    hdr = ["Series ID", "Order", "Role", "Group", "Caption in series", "Record ID", "Type", "Date (as printed)",
+           "Record title", "Pairs with", "Scriptures for this step", "Note", "✎ Comment"]
+    head(wm, 1, hdr, [26, 7, 16, 18, 46, 10, 7, 24, 46, 22, 22, 36, 36])
+    r = 2
+    for sd in sorted(SERIES, key=lambda x: (x.get("auto", False), x["id"])):
+        groups = {g["id"]: g["label_en"] for g in sd.get("groups", [])}
+        for m in sorted(sd["members"], key=lambda m: m["order"]):
+            e = BY_ID.get(m["event_id"])
+            if not e:
+                continue
+            vals = [sd["id"], m["order"], m["role"].replace("_", " "), groups.get(m.get("group"), m.get("group") or ""),
+                    m.get("label_en") or "", e["id"], "Span" if e["timing"] == "span" else "Point", e["date_label_en"],
+                    e["title_en"], ", ".join(m.get("pairs_with") or []), "; ".join(m.get("scriptures") or []), m.get("note") or "", ""]
+            for c, v in enumerate(vals, 1):
+                cell = wm.cell(row=r, column=c, value=v if v != "" else None)
+                cell.font = Font(name=FONT, size=10)
+                if c == 13:
+                    cell.fill = REVIEW_FILL
+            r += 1
+    wm.freeze_panes = "C2"
+    wm.auto_filter.ref = f"A1:M{r - 1}"
 
 
 def build_add(wb):
@@ -283,7 +343,9 @@ def build_readme(wb, n_sources):
         ("Sources", f"Every record cites wol.jw.org or www.jw.org only ({n_sources} documents; see the Sources sheet)."),
         ("", None),
         ("SHEETS", None),
-        ("Timeline", "One row per record, oldest first. Use the filter arrows (e.g. Type = Span, Band = Bible, Category). Hidden technical columns can be unhidden."),
+        ("Timeline", "One row per record, oldest first. Use the filter arrows (e.g. Type = Span, Band = Bible, Category, Chart hint, Series). Hidden technical columns can be unhidden."),
+        ("Series", "Curated groups that belong together and get their own colour on the chart: prophecy and fulfillment, world powers of Daniel, covenants, successions of kings, reproduced jw.org charts."),
+        ("Series members", "Every member of every series in order, with its role (prophecy, fulfillment, rise, fall, ruler…) and caption."),
         ("Add new events", "Blank rows for anything missing. A jw.org / wol.jw.org link is required for every new row. Row 2 is a grey example."),
         ("Sources", "Every jw.org document used, with how many records cite it."),
         ("Categories", "The 32 categories, their meaning and live counts."),
@@ -300,6 +362,8 @@ def build_readme(wb, n_sources):
         ("Date (as printed)", "Exactly as the jw.org source prints it. c. = about, a. = after, b. = before."),
         ("Start / End precision", "Exact · Approx. (c.) · Before (b.) · After (a.) · Between (happened once, somewhere in a window, e.g. '31 or 32 C.E.') · Not stated (jw.org gives no year; only the order is known) · Ongoing (span not ended) · Future (undated)."),
         ("Duration", "As printed ('41 years'), or computed from the start and end."),
+        ("Chart hint", "Covered by span – a birth, death, creation or accession that only marks the start/end of a life, reign or office bar; the chart can hide it and show the bar. Span endpoint – starts/ends a span but matters on its own (kept). Index list entry – one-line entry from the Watch Tower Publications Index lists (beliefs clarified, convention themes); app detail. Use '✎ Show on chart' to override."),
+        ("Series", "Which series a record belongs to, with its position and role."),
         ("Computed by pipeline", "Filled when the record or a value was built from other sourced records – e.g. a lifespan from a birth and a death, a reign ending when the next king begins (NWT App. A6). Check these especially."),
         ("Sources differ", "Number of places where two jw.org publications give different values; the next column says what differs."),
         ("Tamil columns", "Only filled with text copied from Tamil jw.org pages. Blank = no Tamil page found (Insight and Proclaimers have no Tamil edition)."),
@@ -333,6 +397,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_X), exist_ok=True)
     wb = Workbook()
     build_timeline(wb)
+    build_series(wb)
     build_add(wb)
     n_sources = build_sources(wb)
     build_categories(wb)
