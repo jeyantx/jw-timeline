@@ -1,0 +1,205 @@
+{
+ "id": "spread-of-christianity",
+ "title_en": "The Spread of Christianity",
+ "title_ta": "கிறிஸ்தவம் பரவுகிறது",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B13 maps the spread of Christianity across the Roman world: the routes of Paul’s three missionary tours (c. 47-48, c. 49-52, c. 52-56 C.E.), his trip to Rome and imprisonment (c. 58-61 C.E.), the starting point of the tours and the cities mentioned in Revelation. Its timeline marks the outpouring of holy spirit at Pentecost 33 C.E.",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070234",
+   "publication": "NWT Study Edition (nwtsty) App. B13",
+   "title_en": "B13 The Spread of Christianity",
+   "title_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070234",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070234",
+   "finder_url": "https://www.jw.org/finder?docid=1001070234&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061234",
+   "publication": "New World Translation (nwt) App. B13",
+   "title_en": "B13 The Spread of Christianity",
+   "title_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061234",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061234",
+   "finder_url": "https://www.jw.org/finder?docid=1001061234&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/150",
+   "caption_en": "B13 The Spread of Christianity — printed-edition image",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001070234",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/150",
+   "caption_en": "Tamil edition: B13 The Spread of Christianity — printed-edition image",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001070234",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/149",
+   "caption_en": "B13 The Spread of Christianity — printed-edition image (SVG)",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001070234",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/149",
+   "caption_en": "Tamil edition: B13 The Spread of Christianity — printed-edition image (SVG)",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001070234",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/163",
+   "caption_en": "B13 The Spread of Christianity — printed-edition image",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001061234",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwt/2016/163",
+   "caption_en": "Tamil edition: B13 The Spread of Christianity — printed-edition image",
+   "caption_ta": "B13 கிறிஸ்தவம் பரவுகிறது",
+   "source_docid": "1001061234",
+   "kind": "map"
+  }
+ ],
+ "groups": [
+  {
+   "id": "pauls-travels",
+   "order": 1,
+   "label_en": "Paul’s Travels",
+   "label_ta": "பவுலின் பயணங்கள்",
+   "span_id": null,
+   "attributes": {
+    "legend_also": "Starting point of missionary tours; Cities mentioned in Revelation"
+   },
+   "note": null
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b6-0001",
+   "order": 1,
+   "role": "item",
+   "group": null,
+   "label_en": "Outpouring of holy spirit",
+   "label_ta": "கடவுளுடைய சக்தி பொழியப்படுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Shown on the timeline of the map. Printed ‘Pentecost 33 C.E.’."
+  },
+  {
+   "event_id": "b6-0022",
+   "order": 2,
+   "role": "item",
+   "group": "pauls-travels",
+   "label_en": "1st missionary tour",
+   "label_ta": "1-ஆம் மிஷனரி பயணம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Map legend ‘Paul’s Travels’: c. 47-48 C.E."
+  },
+  {
+   "event_id": "b6-0026",
+   "order": 3,
+   "role": "item",
+   "group": "pauls-travels",
+   "label_en": "2nd missionary tour",
+   "label_ta": "2-ஆம் மிஷனரி பயணம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Map legend: c. 49-52 C.E."
+  },
+  {
+   "event_id": "b6-0046",
+   "order": 4,
+   "role": "item",
+   "group": "pauls-travels",
+   "label_en": "3rd missionary tour",
+   "label_ta": "3-ஆம் மிஷனரி பயணம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Map legend: c. 52-56 C.E."
+  },
+  {
+   "event_id": "b16-0007",
+   "order": 5,
+   "role": "item",
+   "group": "pauls-travels",
+   "label_en": "Trip to Rome and imprisonment",
+   "label_ta": "ரோமுக்குப் பயணம்; சிறைவாசம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Map legend: c. 58-61 C.E. New record."
+  },
+  {
+   "event_id": "b6-0064",
+   "order": 6,
+   "role": "context",
+   "group": "pauls-travels",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "First leg of the trip to Rome."
+  },
+  {
+   "event_id": "b6-0065",
+   "order": 7,
+   "role": "context",
+   "group": "pauls-travels",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Malta is on the route."
+  },
+  {
+   "event_id": "b6-0066",
+   "order": 8,
+   "role": "context",
+   "group": "pauls-travels",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Puteoli and Rome are on the route."
+  },
+  {
+   "event_id": "b6-0067",
+   "order": 9,
+   "role": "context",
+   "group": "pauls-travels",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070234",
+   "note": "Imprisonment in Rome."
+  }
+ ],
+ "notes": "‘Item’ = the map’s timeline entry and the dated routes of its ‘Paul’s Travels’ legend."
+}

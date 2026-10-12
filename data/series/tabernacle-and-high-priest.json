@@ -1,0 +1,133 @@
+{
+ "id": "tabernacle-and-high-priest",
+ "title_en": "Tabernacle and High Priest",
+ "title_ta": "வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B5 illustrates the tabernacle and its features (ark, curtain, incense altar, table of showbread, lampstand, copper basin, altar of burnt offering, courtyard) and the garments of the high priest described in Exodus 25-30. Its timeline marks the tabernacle’s completion (1512 B.C.E.) and the inauguration of the temple (1026 B.C.E.).",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070225",
+   "publication": "NWT Study Edition (nwtsty) App. B5",
+   "title_en": "B5 Tabernacle and High Priest",
+   "title_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070225",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070225",
+   "finder_url": "https://www.jw.org/finder?docid=1001070225&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061225",
+   "publication": "New World Translation (nwt) App. B5",
+   "title_en": "B5 Tabernacle and High Priest",
+   "title_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061225",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061225",
+   "finder_url": "https://www.jw.org/finder?docid=1001061225&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/94",
+   "caption_en": "B5 Tabernacle and High Priest — printed-edition image",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001070225",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/94",
+   "caption_en": "Tamil edition: B5 Tabernacle and High Priest — printed-edition image",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001070225",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/93",
+   "caption_en": "B5 Tabernacle and High Priest — printed-edition image (SVG)",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001070225",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/93",
+   "caption_en": "Tamil edition: B5 Tabernacle and High Priest — printed-edition image (SVG)",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001070225",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/107",
+   "caption_en": "B5 Tabernacle and High Priest — printed-edition image",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001061225",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwt/2016/107",
+   "caption_en": "Tamil edition: B5 Tabernacle and High Priest — printed-edition image",
+   "caption_ta": "B5 வழிபாட்டுக் கூடாரமும் தலைமைக் குருவும்",
+   "source_docid": "1001061225",
+   "kind": "map"
+  }
+ ],
+ "groups": [],
+ "members": [
+  {
+   "event_id": "b2-0023",
+   "order": 1,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070225",
+   "note": "The ark (B5 feature 1, Ex 25:10-22)."
+  },
+  {
+   "event_id": "b2-0025",
+   "order": 2,
+   "role": "item",
+   "group": null,
+   "label_en": "Tabernacle completed",
+   "label_ta": "வழிபாட்டுக் கூடாரம் முடிக்கப்படுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070225",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "b2-0026",
+   "order": 3,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070225",
+   "note": "Installation of the priesthood; B5 shows the high priest’s garments (Ex 28)."
+  },
+  {
+   "event_id": "b3-0014",
+   "order": 4,
+   "role": "item",
+   "group": null,
+   "label_en": "Temple inaugurated",
+   "label_ta": "ஆலயம் அர்ப்பணிக்கப்படுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070225",
+   "note": "Shown on the timeline of the map."
+  }
+ ],
+ "notes": "Illustration, not a map. ‘Item’ = its timeline entries."
+}

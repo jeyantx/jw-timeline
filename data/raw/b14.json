@@ -1,0 +1,1531 @@
+{
+ "batch": "b14",
+ "schema_version": 2,
+ "scope": "Records needed by the series world-powers-daniel, seven-heads-of-the-beast, kings-north-and-south and daniel-time-prophecies that were missing from the data: League of Nations and United Nations (image of the wild beast), identities of the king of the north and king of the south in the time of the end (The Watchtower, May 2020), Augustus’ registration (Dan. 11:20), and start/end events of the 1,290 and 1,335 days.",
+ "generated": "2026-10-12",
+ "sources_consulted": [
+  {
+   "docid": "1101988028",
+   "title_en": "Contending With Two Ferocious Beasts",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988028",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988028"
+  },
+  {
+   "docid": "1101988034",
+   "title_en": "An Awesome Mystery Solved",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034"
+  },
+  {
+   "docid": "1101999034",
+   "title_en": "The Two Kings Change Identities",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999034",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999034"
+  },
+  {
+   "docid": "1101999037",
+   "title_en": "Identifying True Worshipers in the Time of the End",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999037",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999037"
+  },
+  {
+   "docid": "2020400",
+   "title_en": "“The King of the North” in the Time of the End",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400"
+  },
+  {
+   "docid": "2020401",
+   "title_en": "Who Is “the King of the North” Today?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020401",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020401"
+  },
+  {
+   "docid": "2020408",
+   "title_en": "Rival Kings in the Time of the End",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408"
+  },
+  {
+   "docid": "2022401",
+   "title_en": "Revelation—What It Means for God’s Enemies",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401"
+  }
+ ],
+ "events": [
+  {
+   "id": "b14-0001",
+   "slug": "augustus-sends-out-an-exactor-2-bce",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2 B.C.E.",
+   "date_label_ta": "பொ.ச.மு. 2",
+   "start": {
+    "display_en": "2 B.C.E.",
+    "display_ta": "பொ.ச.மு. 2",
+    "year": 2,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": -1.4
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Augustus sends out “an exactor” by ordering a registration",
+   "title_ta": "அகஸ்டஸ் ‘வரிவசூலிப்பவனை’ அனுப்பி, குடிமதிப்பு எழுதும்படி ஆணையிட்டார்",
+   "description_en": "In 2 B.C.E. Augustus, the king of the north of Daniel 11:20, ordered a registration, or census, that included the province of Judea. Because of this decree Joseph and Mary traveled to Bethlehem, where Jesus was born.",
+   "description_ta": "பொ.ச.மு. 2-ல் அகஸ்டஸ் ‘வரிவசூலிப்பவனை’ அனுப்பி, குடிமதிப்பு எழுதும்படி ஆணையிட்டார்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "decree",
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [
+    "Augustus"
+   ],
+   "places": [
+    "Judea",
+    "Bethlehem"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:20",
+     "ref_ta": "தானி. 11:20",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "20"
+    },
+    {
+     "ref_en": "Luke 2:1",
+     "ref_ta": "லூக். 2:1",
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 2,
+     "verses": "1"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101999034",
+     "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 14",
+     "title_en": "The Two Kings Change Identities",
+     "title_ta": "இரு ராஜாக்களின் அடையாளம் மாறுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999034",
+     "finder_url": "https://www.jw.org/finder?docid=1101999034&wtlocale=E",
+     "par": 6,
+     "quote_en": "In 2 B.C.E., Augustus sent out “an exactor” by ordering a registration, or census, probably so that he could learn the number of the population for purposes of taxation and military conscription."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0039",
+    "b5-0006"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b14-0002",
+   "slug": "britain-king-of-the-south-1870-1917",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "1870–1917",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "1870",
+    "display_ta": null,
+    "year": 1870,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1870.0
+   },
+   "end": {
+    "display_en": "1917",
+    "display_ta": null,
+    "year": 1917,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1917.5
+   },
+   "duration": {
+    "years": 47,
+    "months": null,
+    "days": null,
+    "display_en": "47 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Britain as “the king of the south”",
+   "title_ta": "பிரிட்டன், 1917-வரை தென்திசை ராஜாவாக இருந்தது",
+   "description_en": "By 1870 Britain had become the largest empire on earth; it filled the role of the king of the south of Daniel 11 until, during World War I, it was joined by the United States and the role passed to the Anglo-American World Power.",
+   "description_ta": "இந்த உலகத்திலேயே மிகப் பெரிய சாம்ராஜ்யமாக 1870-ல் பிரிட்டன் உருவெடுத்தது. பிரிட்டன், 1917-வரை தென்திசை ராஜாவாக இருந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "king of the south",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Britain"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 7:7, 8",
+     "ref_ta": "தானி. 7:7, 8",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 7,
+     "verses": "7, 8"
+    },
+    {
+     "ref_en": "Dan. 11:25",
+     "ref_ta": "தானி. 11:25",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "25"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 7,
+     "quote_en": "By 1870, Britain had become the largest empire on earth, and it had the most powerful military force.",
+     "supports": "start"
+    },
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 7,
+     "quote_en": "And it filled the role of the king of the south well into World War I.",
+     "supports": "end"
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 1 (image description)",
+     "quote_en": "The king of the south is initially identified as Great Britain, but in 1917 is replaced by the Anglo-American World Power.",
+     "supports": "whole"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0066"
+   ],
+   "notes": "English text of w20.05 par. 7 says “well into World War I”; the chart description and the Tamil text of the same paragraph give 1917."
+  },
+  {
+   "id": "b14-0003",
+   "slug": "german-empire-established-1871-king-of-the-north-reappears",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1871",
+   "date_label_ta": "1871",
+   "start": {
+    "display_en": "1871",
+    "display_ta": "1871",
+    "year": 1871,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1871.05
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "German Empire established; “the king of the north” reappears",
+   "title_ta": "1871-ல் ஜெர்மனி வடதிசை ராஜாவாக உருவெடுத்தது",
+   "description_en": "In 1871 Otto von Bismarck was instrumental in establishing the German Empire, with Prussian King Wilhelm I as its first emperor. The Watchtower (2020) identifies this as the reappearance of the king of the north of Daniel 11.",
+   "description_ta": "அந்த வருஷத்தில், ஓட்டோ வான் பிஸ்மார்க் ஜெர்மனி சாம்ராஜ்யத்தை உருவாக்குவதில் முக்கியப் பங்கு வகித்தார். முதலாம் வில்ஹெல்ம் அதன் முதல் பேரரசராக ஆனார்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "founding",
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [
+    "Otto von Bismarck",
+    "Wilhelm I"
+   ],
+   "places": [
+    "Germany"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:25",
+     "ref_ta": "தானி. 11:25",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "25"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 9,
+     "quote_en": "In 1871, the year after Russell and his associates formed their Bible study group, the king of the north reappeared. That year Otto von Bismarck was instrumental in establishing the German Empire."
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 1 (image description)",
+     "quote_en": "The king of the north reappears in 1871 as Germany."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b14-0004",
+   "slug": "germany-king-of-the-north-1871-1945",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "1871–1945",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "1871",
+    "display_ta": null,
+    "year": 1871,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1871.05
+   },
+   "end": {
+    "display_en": "1945",
+    "display_ta": null,
+    "year": 1945,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1945.6
+   },
+   "duration": {
+    "years": 74,
+    "months": null,
+    "days": null,
+    "display_en": "74 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b14-0003",
+   "end_event_id": "b14-0011",
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Germany as “the king of the north”",
+   "title_ta": "ஜெர்மனி 1945 வரை வடதிசை ராஜாவாக இருந்தது",
+   "description_en": "From 1871 until 1945 Germany filled the role of the king of the north: the German Empire, whose army was “swept away” in World War I (Dan. 11:25-30a), and then Nazi Germany, which attacked God’s people in the 1930’s and during World War II (Dan. 11:30b, 31a).",
+   "description_ta": "1871-ல் ஜெர்மனி வடதிசை ராஜாவாக உருவெடுத்தது. ஜெர்மனி 1945 வரை வடதிசை ராஜாவாக இருந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Germany"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:25-31",
+     "ref_ta": "தானி. 11:25-31",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "25-31"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 9,
+     "quote_en": "In 1871, the year after Russell and his associates formed their Bible study group, the king of the north reappeared.",
+     "supports": "start"
+    },
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 13,
+     "quote_en": "Then, in the 1930’s and especially during the second world war, the king of the north attacked God’s people without mercy."
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 2 (image description)",
+     "quote_en": "The king of the north is identified as Germany until 1945.",
+     "supports": "end"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0068",
+    "b12-0080"
+   ],
+   "notes": "Pay Attention to Daniel’s Prophecy! (1999) ch. 15-16 listed “German Empire” (Dan. 11:27-30a) and “Hitler’s Third Reich” (Dan. 11:30b, 31) as successive kings of the north; The Watchtower, May 2020, applies Dan. 11:25-31 to Germany from 1871 to 1945."
+  },
+  {
+   "id": "b14-0005",
+   "slug": "league-of-nations-officially-proposed-1919",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "January 1919",
+   "date_label_ta": "ஜனவரி 1919",
+   "start": {
+    "display_en": "January 1919",
+    "display_ta": "ஜனவரி 1919",
+    "year": 1919,
+    "era": "CE",
+    "month": 1,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1919.04
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "League of Nations officially proposed; the 1,290 days begin",
+   "title_ta": "ஜனவரி 1919-ல், சர்வதேச சங்கம் அதிகாரப்பூர்வமாய் முன்மொழியப்பட்டது.",
+   "description_en": "The League of Nations, the first form of “the disgusting thing that is causing desolation,” was officially proposed in January 1919. With this, both conditions of Daniel 12:11 were met, so the 1,290 days began in early 1919.",
+   "description_ta": "ஜனவரி 1919-ல், சர்வதேச சங்கம் அதிகாரப்பூர்வமாய் முன்மொழியப்பட்டது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "proposal",
+   "tags": [
+    "League of Nations",
+    "image of the wild beast",
+    "1,290 days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:31",
+     "ref_ta": "தானி. 11:31",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "31"
+    },
+    {
+     "ref_en": "Dan. 12:11",
+     "ref_ta": "தானி. 12:11",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 12,
+     "verses": "11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101999037",
+     "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 17",
+     "title_en": "Identifying True Worshipers in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் உண்மை வணக்கத்தாரை அடையாளங்காணுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999037",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999037",
+     "finder_url": "https://www.jw.org/finder?docid=1101999037&wtlocale=E",
+     "par": 22,
+     "quote_en": "The League was officially proposed in January 1919. At that time, then, both conditions of Daniel 12:11 were met."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0075"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b14-0006",
+   "slug": "league-of-nations-established-1920",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "January 10, 1920",
+   "date_label_ta": "ஜனவரி 10, 1920",
+   "start": {
+    "display_en": "January 10, 1920",
+    "display_ta": "ஜனவரி 10, 1920",
+    "year": 1920,
+    "era": "CE",
+    "month": 1,
+    "day": 10,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1920.025
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "League of Nations comes into existence (“the wild beast . . . was”)",
+   "title_ta": "1920-ல், சர்வதேச சங்கம் ஏற்படுத்தப்படுகிறது.",
+   "description_en": "The League of Nations, promoted by Britain and the United States, existed from January 10, 1920, onward, with 63 nations participating at one time or another. Jehovah’s Witnesses identify it as the image of the wild beast of Revelation 13 and the scarlet-colored wild beast of Revelation 17.",
+   "description_ta": "ஆம், 63 தேசங்கள் ஒரு சமயத்திலோ அல்லது வேறொரு சமயத்திலோ பங்கெடுத்தன; ஜனவரி 10, 1920 முதல் சர்வதேச சங்கமாக அது இருந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "founding",
+   "tags": [
+    "League of Nations",
+    "image of the wild beast",
+    "eighth king"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 13:14, 15",
+     "ref_ta": "வெளி. 13:14, 15",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 13,
+     "verses": "14, 15"
+    },
+    {
+     "ref_en": "Rev. 17:8",
+     "ref_ta": "வெளி. 17:8",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 5,
+     "quote_en": "Yes, it had existed as the League of Nations from January 10, 1920, onward, with 63 nations participating at one time or another."
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 2 (image description)",
+     "quote_en": "In 1920, the League of Nations is founded and continues until the start of World War II."
+    },
+    {
+     "docid": "1101988028",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 28",
+     "title_en": "Contending With Two Ferocious Beasts",
+     "title_ta": "கடும் மூர்க்கத்தனமான இரண்டு மிருகங்களுடன் போராடுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988028",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988028",
+     "finder_url": "https://www.jw.org/finder?docid=1101988028&wtlocale=E",
+     "par": 30,
+     "quote_en": "The outworking of history identifies this image as the organization proposed, promoted, and supported by Britain and the United States and known initially as the League of Nations."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b14-0007",
+   "slug": "league-of-nations-1920-1939",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "January 10, 1920–September 1939",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "January 10, 1920",
+    "display_ta": "ஜனவரி 10, 1920",
+    "year": 1920,
+    "era": "CE",
+    "month": 1,
+    "day": 10,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1920.025
+   },
+   "end": {
+    "display_en": "September 1939",
+    "display_ta": null,
+    "year": 1939,
+    "era": "CE",
+    "month": 9,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1939.67
+   },
+   "duration": {
+    "years": 19,
+    "months": null,
+    "days": null,
+    "display_en": "19 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b14-0006",
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The League of Nations (the image of the wild beast)",
+   "title_ta": "சர்வதேச சங்கம்",
+   "description_en": "The League of Nations “was” from 1920 until the start of World War II. When the Nazi dictator of Germany launched the war in September 1939, the League, having failed to keep peace, virtually plunged into an abyss of inactivity (“is not”).",
+   "description_ta": "1920-ல், சர்வதேச சங்கம் ஏற்படுத்தப்படுகிறது. இரண்டாம் உலகப் போர் ஆரம்பிக்கும்வரை அது செயல்படுகிறது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "League of Nations",
+    "image of the wild beast",
+    "eighth king"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 13:14, 15",
+     "ref_ta": "வெளி. 13:14, 15",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 13,
+     "verses": "14, 15"
+    },
+    {
+     "ref_en": "Rev. 17:8, 11",
+     "ref_ta": "வெளி. 17:8, 11",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "8, 11"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 5,
+     "quote_en": "Yes, it had existed as the League of Nations from January 10, 1920, onward, with 63 nations participating at one time or another.",
+     "supports": "start"
+    },
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 5,
+     "quote_en": "In September 1939 the Nazi dictator of Germany launched World War II",
+     "supports": "end"
+    },
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 5,
+     "quote_en": "Having failed to keep peace in the world, the League of Nations virtually plunged into an abyss of inactivity.",
+     "supports": "end"
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 2 (image description)",
+     "quote_en": "In 1920, the League of Nations is founded and continues until the start of World War II.",
+     "supports": "whole"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0084",
+    "b8-0240"
+   ],
+   "notes": "End taken as the start of World War II (September 1939), when, per re ch. 34, the League “virtually plunged into an abyss of inactivity”; by 1942 it had become “a has-been.”"
+  },
+  {
+   "id": "b14-0008",
+   "slug": "convention-may-1926-deliverance-released",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "May 1926",
+   "date_label_ta": "மே 1926",
+   "start": {
+    "display_en": "May 1926",
+    "display_ta": "மே 1926",
+    "year": 1926,
+    "era": "CE",
+    "month": 5,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1926.37
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Convention in May 1926; book Deliverance released; the 1,335 days end",
+   "title_ta": "மே 1926-ல் நடந்த மாநாட்டில் விடுதலை என்ற ஆங்கில புத்தகம் வெளியிடப்பட்டது.",
+   "description_en": "At the convention in May 1926, the book Deliverance was released, one of a series of new books to replace Studies in the Scriptures. Daniel’s Prophecy explains that the 1,335 days of Daniel 12:12 thus ended with the holy ones in a happy state.",
+   "description_ta": "மே 1926-ல் நடந்த மாநாட்டில் விடுதலை என்ற ஆங்கில புத்தகம் வெளியிடப்பட்டது.",
+   "category": "jw.convention",
+   "event_kind": "convention",
+   "tags": [
+    "1,335 days",
+    "Deliverance"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 12:12",
+     "ref_ta": "தானி. 12:12",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 12,
+     "verses": "12"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101999037",
+     "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 17",
+     "title_en": "Identifying True Worshipers in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் உண்மை வணக்கத்தாரை அடையாளங்காணுதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999037",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999037",
+     "finder_url": "https://www.jw.org/finder?docid=1101999037&wtlocale=E",
+     "par": 26,
+     "quote_en": "At the convention in May 1926, the book Deliverance was released."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0078"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b14-0009",
+   "slug": "united-nations-charter-accepted-1945",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "June 26, 1945",
+   "date_label_ta": "ஜூன் 26, 1945",
+   "start": {
+    "display_en": "June 26, 1945",
+    "display_ta": "ஜூன் 26, 1945",
+    "year": 1945,
+    "era": "CE",
+    "month": 6,
+    "day": 26,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1945.482
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "United Nations Charter accepted: the scarlet-colored wild beast ascends out of the abyss",
+   "title_ta": "சிவப்புநிற மூர்க்க மிருகம் உண்மையில் அபிஸ்ஸிலிருந்து ஏறிவந்தது.",
+   "description_en": "On June 26, 1945, in San Francisco, 50 nations voted to accept the Charter of the United Nations organization. Jehovah’s Witnesses see in the UN the revival of the League of Nations, the image of the wild beast and “the disgusting thing that causes desolation.”",
+   "description_ta": "ஜூன் 26, 1945-ல் அ.ஐ.மா., சான் ஃபிரான்ஸிஸ்கோவில், எக்காள முழக்க பேரொலியோடு ஐக்கிய நாட்டுச் சங்கத்தின் சாசனத்தை ஏற்றுக்கொள்ள 50 தேசங்கள் வாக்களித்தன.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "founding",
+   "tags": [
+    "United Nations",
+    "image of the wild beast",
+    "eighth king",
+    "disgusting thing"
+   ],
+   "people": [],
+   "places": [
+    "San Francisco"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 17:8",
+     "ref_ta": "வெளி. 17:8",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "8"
+    },
+    {
+     "ref_en": "Dan. 11:31",
+     "ref_ta": "தானி. 11:31",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "31"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 6,
+     "quote_en": "On June 26, 1945, with noisy fanfare in San Francisco, U.S.A., 50 nations voted to accept the Charter of the United Nations organization."
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 3 (image description)",
+     "quote_en": "The United Nations is founded in 1945, replacing the League of Nations."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b14-0010",
+   "slug": "united-nations-1945",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "June 26, 1945–",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "June 26, 1945",
+    "display_ta": "ஜூன் 26, 1945",
+    "year": 1945,
+    "era": "CE",
+    "month": 6,
+    "day": 26,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1945.482
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "ongoing",
+    "latest": null,
+    "sort_key": 2026.8
+   },
+   "duration": null,
+   "start_event_id": "b14-0009",
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The United Nations (the image of the wild beast, “an eighth king”)",
+   "title_ta": "ஐக்கிய நாட்டுச் சங்கம்",
+   "description_en": "The United Nations, which replaced the League of Nations in 1945, is identified as “the image of the wild beast,” the scarlet-colored wild beast that is “an eighth king,” and “the disgusting thing that causes desolation.” It will be used to attack false religion.",
+   "description_ta": "1945-ல் சர்வதேச சங்கத்துக்குப் பதிலாக ஐ. நா. சபை ஏற்படுத்தப்பட்டது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "United Nations",
+    "image of the wild beast",
+    "eighth king",
+    "disgusting thing"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 13:14, 15",
+     "ref_ta": "வெளி. 13:14, 15",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 13,
+     "verses": "14, 15"
+    },
+    {
+     "ref_en": "Rev. 17:3, 8, 11",
+     "ref_ta": "வெளி. 17:3, 8, 11",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 17,
+     "verses": "3, 8, 11"
+    },
+    {
+     "ref_en": "Dan. 11:31",
+     "ref_ta": "தானி. 11:31",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "31"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101988034",
+     "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+     "title_en": "An Awesome Mystery Solved",
+     "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+     "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+     "par": 6,
+     "quote_en": "On June 26, 1945, with noisy fanfare in San Francisco, U.S.A., 50 nations voted to accept the Charter of the United Nations organization.",
+     "supports": "start"
+    },
+    {
+     "docid": "2022401",
+     "publication": "The Watchtower (Study), May 2022 (w22.05)",
+     "title_en": "Revelation—What It Means for God’s Enemies",
+     "title_ta": "வெளிப்படுத்துதல்—கடவுளுடைய எதிரிகளைப் பற்றி என்ன சொல்கிறது?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401",
+     "finder_url": "https://www.jw.org/finder?docid=2022401&wtlocale=E",
+     "par": 10,
+     "quote_en": "It existed first as the League of Nations. Then it went out of existence during World War II. It later emerged again in its present-day form.",
+     "supports": "whole"
+    },
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 17,
+     "quote_en": "That “disgusting thing” is the United Nations.",
+     "supports": "whole"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b14-0011",
+   "slug": "soviet-union-becomes-king-of-the-north-1945",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1945",
+   "date_label_ta": "1945",
+   "start": {
+    "display_en": "1945",
+    "display_ta": "1945",
+    "year": 1945,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1945.7
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The Soviet Union and its allies become “the king of the north”",
+   "title_ta": "1945-ல் சோவியத் யூனியனும் அதன் கூட்டணிகளும் வடதிசை ராஜாவாக உருவெடுத்தன.",
+   "description_en": "After World War II the Communist government of the Soviet Union took control of the vast territories it had captured from Germany and became the king of the north of Daniel 11.",
+   "description_ta": "1945-ல் சோவியத் யூனியனும் அதன் கூட்டணிகளும் வடதிசை ராஜாவாக உருவெடுத்தன.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Soviet Union"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:25-45",
+     "ref_ta": "தானி. 11:25-45",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "25-45"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1945 the Soviet Union and its allies become the king of the north."
+    },
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 14,
+     "quote_en": "After the second world war, the Communist government of the Soviet Union took control of the vast territories it had captured from Germany, and it became the king of the north."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b14-0012",
+   "slug": "soviet-union-king-of-the-north-1945-1991",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "1945–1991",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "1945",
+    "display_ta": null,
+    "year": 1945,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1945.7
+   },
+   "end": {
+    "display_en": "1991",
+    "display_ta": null,
+    "year": 1991,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1991.9
+   },
+   "duration": {
+    "years": 46,
+    "months": null,
+    "days": null,
+    "display_en": "46 years",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": "b14-0011",
+   "end_event_id": "b14-0013",
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The Soviet Union and its allies as “the king of the north”",
+   "title_ta": "சோவியத் யூனியனும் அதன் கூட்டணி நாடுகளும் 1991 வரை வடதிசை ராஜாவாக இருந்தது.",
+   "description_en": "From 1945 until its collapse in 1991 the Soviet Union and its allies filled the role of the king of the north: it banned the preaching work, exiled thousands of Witnesses, sought to eliminate religion and gave glory to “the god of fortresses” (Dan. 11:37-39).",
+   "description_ta": "சோவியத் யூனியனும் அதன் கூட்டணி நாடுகளும் 1991 வரை வடதிசை ராஜாவாக இருந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Soviet Union"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:34",
+     "ref_ta": "தானி. 11:34",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "34"
+    },
+    {
+     "ref_en": "Dan. 11:37-39",
+     "ref_ta": "தானி. 11:37-39",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "37-39"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1945 the Soviet Union and its allies become the king of the north.",
+     "supports": "start"
+    },
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": "chart 3 (image description)",
+     "quote_en": "The king of the north is identified as the Soviet Union and its allies until 1991, and thereafter as Russia and its allies.",
+     "supports": "end"
+    },
+    {
+     "docid": "2020400",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+     "title_en": "“The King of the North” in the Time of the End",
+     "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+     "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+     "par": 16,
+     "quote_en": "The Soviet Union, with the goal of eliminating religion, tried to break the power of the traditional religious organizations."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "Pay Attention to Daniel’s Prophecy! (1999) ch. 16 chart: “Communist bloc (Cold War)” for Dan. 11:32-43."
+  },
+  {
+   "id": "b14-0013",
+   "slug": "soviet-union-collapses-1991",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1991",
+   "date_label_ta": "1991",
+   "start": {
+    "display_en": "1991",
+    "display_ta": "1991",
+    "year": 1991,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1991.9
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The Soviet Union collapses; God’s people there enjoy “a little help”",
+   "title_ta": "1991-ல் சோவியத் யூனியன் சிதைந்தது.",
+   "description_en": "The Soviet Union collapsed in 1991. God’s people in that vast region then enjoyed “a little help” (Dan. 11:34), a period of freedom in which they could preach freely.",
+   "description_ta": "1991-ல் சோவியத் யூனியன் சிதைந்தது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "collapse",
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Soviet Union"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:34",
+     "ref_ta": "தானி. 11:34",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "34"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1991, the Soviet Union collapses, and in time, Russia and its allies take over the role of the king of the north."
+    },
+    {
+     "docid": "2020401",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 20",
+     "title_en": "Who Is “the King of the North” Today?",
+     "title_ta": "இன்று ‘வடதிசை ராஜா’ யார்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020401",
+     "finder_url": "https://www.jw.org/finder?docid=2020401&wtlocale=E",
+     "par": 3,
+     "quote_en": "After the Soviet Union collapsed in 1991, God’s people in that vast region enjoyed “a little help”—a period of freedom."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0178"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b14-0014",
+   "slug": "russia-and-allies-king-of-the-north",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "a. 1991–",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "a. 1991",
+    "display_ta": null,
+    "year": 1991,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "latest": null,
+    "sort_key": 1991.95
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "ongoing",
+    "latest": null,
+    "sort_key": 2026.8
+   },
+   "duration": null,
+   "start_event_id": "b14-0013",
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Russia and its allies as “the king of the north”",
+   "title_ta": "அதற்குப் பிறகு, ரஷ்யாவும் அதன் கூட்டணி நாடுகளும் வடதிசை ராஜாவாக ஆனது.",
+   "description_en": "After the Soviet Union collapsed in 1991, Russia and its allies gradually emerged as the king of the north. They have banned the work of Jehovah’s people and compete with the king of the south, the Anglo-American World Power (Dan. 11:40-45).",
+   "description_ta": "காலப்போக்கில், ரஷ்யாவும் அதன் கூட்டணிகளும் வடதிசை ராஜாவாக உருவெடுத்தன.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": null,
+   "tags": [
+    "king of the north",
+    "Daniel 11"
+   ],
+   "people": [],
+   "places": [
+    "Russia"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:40-45",
+     "ref_ta": "தானி. 11:40-45",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "40-45"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020408",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+     "title_en": "Rival Kings in the Time of the End",
+     "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+     "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1991, the Soviet Union collapses, and in time, Russia and its allies take over the role of the king of the north.",
+     "supports": "start"
+    },
+    {
+     "docid": "2020401",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 20",
+     "title_en": "Who Is “the King of the North” Today?",
+     "title_ta": "இன்று ‘வடதிசை ராஜா’ யார்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020401",
+     "finder_url": "https://www.jw.org/finder?docid=2020401&wtlocale=E",
+     "par": 3,
+     "quote_en": "Gradually, Russia and its allies emerged as the king of the north.",
+     "supports": "start"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b14-0015",
+    "b12-0111"
+   ],
+   "notes": "jw.org gives no single start year: “in time” / “gradually” after the 1991 collapse; the Governing Body identified Russia and its allies as the king of the north in 2018 (b14-0015)."
+  },
+  {
+   "id": "b14-0015",
+   "slug": "governing-body-identifies-russia-king-of-the-north-2018",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2018",
+   "date_label_ta": "2018",
+   "start": {
+    "display_en": "2018",
+    "display_ta": "2018",
+    "year": 2018,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2018.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Governing Body identifies Russia and its allies as “the king of the north”",
+   "title_ta": "இந்த நடவடிக்கைகளைப் பார்த்த பிறகு, ரஷ்யாவும் அதன் கூட்டணி நாடுகளும்தான் வடதிசை ராஜா என்பதை, 2018-ல் ஆளும் குழு உறுதி செய்தது.",
+   "description_en": "After Russia banned the work of Jehovah’s Witnesses in 2017, imprisoned some of them and confiscated the branch office and Kingdom Halls, the Governing Body in 2018 identified Russia and its allies as the king of the north.",
+   "description_ta": "இந்த நடவடிக்கைகளைப் பார்த்த பிறகு, ரஷ்யாவும் அதன் கூட்டணி நாடுகளும்தான் வடதிசை ராஜா என்பதை, 2018-ல் ஆளும் குழு உறுதி செய்தது.",
+   "category": "jw.doctrine",
+   "event_kind": "understanding_clarified",
+   "tags": [
+    "king of the north",
+    "Daniel 11",
+    "beliefs clarified"
+   ],
+   "people": [],
+   "places": [
+    "Russia"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 11:41",
+     "ref_ta": "தானி. 11:41",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 11,
+     "verses": "41"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2020401",
+     "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 20",
+     "title_en": "Who Is “the King of the North” Today?",
+     "title_ta": "இன்று ‘வடதிசை ராஜா’ யார்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020401",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020401",
+     "finder_url": "https://www.jw.org/finder?docid=2020401&wtlocale=E",
+     "par": 9,
+     "quote_en": "After these actions, in 2018 the Governing Body identified Russia and its allies as the king of the north."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0363",
+    "b9-0385"
+   ],
+   "notes": null
+  }
+ ]
+}

@@ -1,5 +1,32 @@
 # Data collection status
 
+## Update 2026-10-12 — series and chart hints
+**1,891 records (1,619 points, 272 spans) and 32 series (702 memberships).**
+
+| series | kind | members | jw.org basis |
+|---|---|---|---|
+| promised-offspring | prophecy → fulfillment | 11 | NWT App. B1 (7 steps + secondary offspring, w22.07) |
+| messianic-prophecies | prophecy → fulfillment | 57 (27 prophecies) | jy table, bh appendix |
+| messianic-line | lineage | 41 | Insight "Genealogy of Jesus Christ" |
+| world-powers-daniel | world powers | 22 (6 groups with Dan 2/7/8 symbols) | NWT App. B9, dp |
+| seven-heads-of-the-beast | world powers | 27 | w12 6/15 "Eight Kings Revealed", re, w22.05 |
+| kings-north-and-south | world powers | 47 (16 groups) | dp ch. 16 chart, w20.05 (2020 understanding) |
+| daniel-time-prophecies | time prophecy | 29 | b12 spans, dp ch. 17 |
+| covenants | covenants | 29 (12 covenants) | w14 10/15 chart, Insight "Covenant" |
+| fulfilled-prophecies-nations | prophecy → fulfillment | 67 (15 topics) | Insight, ba, gm, w/g articles |
+| last-days-sign | prophecy → fulfillment | 19 | dated jw.org statements only |
+| prophets-and-kings-a6 | chart | 60 | NWT App. A6-A/B (audited: all kings, 15 prophets, dates match) |
+| jesus-final-week | chart | 44 | NWT App. B12 (Nisan 8–16) |
+| 9 map/diagram series | chart | 4–16 each | App. B2–B8, B10, B13 |
+| 11 auto series | succession / lineage | 3–66 each | built from existing records |
+
+- **Chart hints:** 123 points are `covered_by_span` (birth/creation/death/accession that only marks a life/reign/office bar, e.g. Creation of Adam, Birth of Seth); 106 are `span_endpoint` (kept: Kingdom divided, Russia ban, Jesus' death); 234 are `index_entry`.
+- **A6 alignment:** reigns of Jehoshaphat, Josiah and Zechariah now end where A6 starts the successor; death dates kept in notes.
+- **Newer understanding applied:** kings of the north/south per w20.05 (replacing parts of dp); Anglo-America in the feet of the image (B9, w12) rather than dp's "from 1763".
+- **Not on jw.org / left out:** year of Dan 4 and Dan 8 visions (anchored to Daniel's completion), start record for the 1,260 days, ~35 extra Messianic rows in 502018132 (noted), Luke 3:36 second Cainan.
+
+---
+
 ## Update 2026-10-10 — schema v2 (points and spans)
 `data/merged/timeline.json` now holds **1,860 records: 1,595 points and 265 spans**. Every record validates against schema v2 ([DATA_SCHEMA.md](DATA_SCHEMA.md)).
 

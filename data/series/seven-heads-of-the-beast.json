@@ -1,0 +1,720 @@
+{
+ "id": "seven-heads-of-the-beast",
+ "title_en": "Eight Kings Revealed: the Seven Heads of the Wild Beast and the Eighth King",
+ "title_ta": "எட்டு ராஜாக்கள் வெளிப்படுத்தப்படுகிறார்கள்",
+ "kind": "world_powers",
+ "description_en": "The seven heads of the wild beast of Revelation 13:1 and 17:9-11 are the seven world powers that have had significant dealings with God’s people: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome and the Anglo-American World Power. The image of the wild beast, the scarlet-colored beast that is “an eighth king,” appeared after World War I as the League of Nations, went into the abyss during World War II and rose again as the United Nations, which will attack false religion before the beast is destroyed at Armageddon.",
+ "description_ta": null,
+ "highlight": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "2012446",
+   "publication": "The Watchtower (Study), June 15, 2012 (w12 6/15) chart, pp. 12-13",
+   "title_en": "Eight Kings Revealed",
+   "title_ta": "எட்டு ராஜாக்கள் வெளிப்படுத்தப்படுகிறார்கள்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012446",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012446",
+   "finder_url": "https://www.jw.org/finder?docid=2012446&wtlocale=E",
+   "par": null,
+   "quote_en": "The visions of Daniel and John describe a total of only eight such great powers."
+  },
+  {
+   "docid": "2012442",
+   "publication": "The Watchtower (Study), June 15, 2012 (w12 6/15)",
+   "title_en": "Jehovah Is “a Revealer of Secrets”",
+   "title_ta": "யெகோவா ‘மறைபொருளை வெளிப்படுத்துகிறவர்’",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012442",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012442",
+   "finder_url": "https://www.jw.org/finder?docid=2012442&wtlocale=E",
+   "par": 6,
+   "quote_en": "An angel later indicates to John that the seven heads of a scarlet beast, which is an image of the beast of Revelation 13:1, represent “seven kings,” or governments."
+  },
+  {
+   "docid": "2012443",
+   "publication": "The Watchtower (Study), June 15, 2012 (w12 6/15)",
+   "title_en": "Jehovah Reveals What “Must Shortly Take Place”",
+   "title_ta": "“சீக்கிரத்தில் நடக்கப்போகிற காரியங்களை” யெகோவா வெளிப்படுத்துகிறார்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012443",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012443",
+   "finder_url": "https://www.jw.org/finder?docid=2012443&wtlocale=E",
+   "par": 13,
+   "quote_en": "This organization appeared after World War I and was known as the League of Nations."
+  },
+  {
+   "docid": "2022401",
+   "publication": "The Watchtower (Study), May 2022 (w22.05)",
+   "title_en": "Revelation—What It Means for God’s Enemies",
+   "title_ta": "வெளிப்படுத்துதல்—கடவுளுடைய எதிரிகளைப் பற்றி என்ன சொல்கிறது?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022401",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022401",
+   "finder_url": "https://www.jw.org/finder?docid=2022401&wtlocale=E",
+   "par": 7,
+   "quote_en": "By the apostle John’s day, five of these had already appeared on the world scene: Egypt, Assyria, Babylon, Medo-Persia, and Greece."
+  },
+  {
+   "docid": "1101988028",
+   "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 28",
+   "title_en": "Contending With Two Ferocious Beasts",
+   "title_ta": "கடும் மூர்க்கத்தனமான இரண்டு மிருகங்களுடன் போராடுதல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988028",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988028",
+   "finder_url": "https://www.jw.org/finder?docid=1101988028&wtlocale=E",
+   "par": 7,
+   "quote_en": "This dual world power proved to be the seventh head of the wild beast."
+  },
+  {
+   "docid": "1101988034",
+   "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 34",
+   "title_en": "An Awesome Mystery Solved",
+   "title_ta": "ஒரு வியப்பூட்டும் இரகசியம் தெளிவாக்கப்பட்டது",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988034",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988034",
+   "finder_url": "https://www.jw.org/finder?docid=1101988034&wtlocale=E",
+   "par": 6,
+   "quote_en": "On June 26, 1945, with noisy fanfare in San Francisco, U.S.A., 50 nations voted to accept the Charter of the United Nations organization."
+  },
+  {
+   "docid": "1101988035",
+   "publication": "Revelation—Its Grand Climax At Hand! (re) ch. 35",
+   "title_en": "Executing Babylon the Great",
+   "title_ta": "மகா பாபிலோனை அழித்தல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988035",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988035",
+   "finder_url": "https://www.jw.org/finder?docid=1101988035&wtlocale=E",
+   "par": 2,
+   "quote_en": "In the Bible, six world powers are mentioned as having an impact on the affairs of God’s people: Egypt, Assyria, Babylon, Medo-Persia, Greece, and Rome."
+  },
+  {
+   "docid": "2020408",
+   "publication": "The Watchtower (Study), May 2020 (w20.05), chart",
+   "title_en": "Rival Kings in the Time of the End",
+   "title_ta": "கடைசி நாட்களில் எதிரும் புதிருமான இரண்டு ராஜாக்கள்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020408",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020408",
+   "finder_url": "https://www.jw.org/finder?docid=2020408&wtlocale=E",
+   "par": null,
+   "quote_en": "The League of Nations plunges into inactivity during World War II. After the war, the UN is “put in place.”"
+  },
+  {
+   "docid": "1101999037",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 17",
+   "title_en": "Identifying True Worshipers in the Time of the End",
+   "title_ta": "முடிவு காலத்தில் உண்மை வணக்கத்தாரை அடையாளங்காணுதல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999037",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999037",
+   "finder_url": "https://www.jw.org/finder?docid=1101999037&wtlocale=E",
+   "par": 22,
+   "quote_en": "The League was officially proposed in January 1919."
+  },
+  {
+   "docid": "1001061229",
+   "publication": "New World Translation (2013) App. B9 (nwt pp. 1780-1781)",
+   "title_en": "B9 World Powers Foretold by Daniel",
+   "title_ta": "B9 தானியேல் முன்னறிவித்த உலக வல்லரசுகள்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061229",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061229",
+   "finder_url": "https://www.jw.org/finder?docid=1001061229&wtlocale=E",
+   "par": null,
+   "quote_en": "63 B.C.E. Rules over Israel"
+  },
+  {
+   "docid": "1101999023",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 4",
+   "title_en": "The Rise and Fall of an Immense Image",
+   "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
+   "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
+   "par": 16,
+   "quote_en": "This defeat ended the Medo-Persian World Power as symbolized by the silver part of the image of Nebuchadnezzar’s dream."
+  },
+  {
+   "docid": "1101990130",
+   "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 3",
+   "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+   "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+   "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+   "par": null,
+   "quote_en": "632 B.C.E. Nineveh falls to Chaldeans"
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/306",
+   "caption_en": "A chart showing a dragon that breathes power into the wild beasts described in the books of Daniel and Revelation. The four huge beasts of Daniel chapter 7 come out of the sea of mankind and lead to the seven-headed wild beast, which also comes out of the sea of mankind. The seventh head of the seven-headed wild beast leads to the two-horned wild beast, which, in turn, leads to the scarlet-colored wild beast being ridden by a prostitute. The dragon, the two-horned wild beast, and the scarlet-colored wild beast all end up in the lake of fire. The scenes are repeated in this article in paragraphs 4, 6, 9, 10, and 19.",
+   "caption_ta": "தானியேல் மற்றும் வெளிப்படுத்துதல் புத்தகத்தில் சொல்லப்பட்டிருக்கிற மூர்க்க மிருகங்களுக்கு ஒரு ராட்சதப் பாம்பு அதிகாரம் கொடுப்பதைப் பற்றிய விளக்கப்படம். தானியேல் 7-ஆம் அதிகாரத்தில் சொல்லப்பட்டிருக்கிற நான்கு பெரிய மிருகங்கள் மனித சமுதாயம் என்ற கடலிலிருந்து எழும்பி வருகின்றன. அடுத்ததாக, ஏழு தலைகள் இருக்கிற மூர்க்க மிருகம் வருகிறது. இந்த மிருகமும் மனித சமுதாயம் என்ற கடலிலிருந்து ஏறி வருகிறது. ஏழு தலைகள் இருக்கிற மூர்க்க மிருகத்தின் ஏழாவது தலையிலிருந்து இரண்டு கொம்புகள் இருக்கிற மூர்க்க மிருகம் வருகிறது. இந்த மிருகத்திலிருந்து கருஞ்சிவப்பு நிறமுள்ள மூர்க்க மிருகம் வருகிறது. இந்த கருஞ்சிவப்பு நிறமுள்ள மூர்க்க மிருகத்தின் மேல் ஒரு விபச்சாரி சவாரி செய்கிறாள். ராட்சதப் பாம்பும், இரண்டு கொம்புகள் இருக்கிற மூர்க்க மிருகமும், கருஞ்சிவப்பு நிறமுள்ள மூர்க்க மிருகமும் நெருப்பு ஏரியில் தள்ளப்படுகின்றன. இதே கட்டுரையில் பாராக்கள் 4, 6, 9, 10 மற்றும் 19-ல் இந்தச் சம்பவங்கள் விவரிக்கப்பட்டிருக்கின்றன.",
+   "source_docid": "2022401",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/309",
+   "caption_en": "The four huge beasts of Daniel chapter 7, coming out of the sea of mankind. The first beast is like a lion with wings of an eagle. The second is like a bear and has ribs in its mouth. The third is like a leopard with four wings and four heads. The fourth is an unusually strong beast with iron teeth and ten horns.",
+   "caption_ta": "தானியேல் 7-ஆம் அதிகாரத்தில் சொல்லப்பட்டிருக்கிற நான்கு பெரிய மிருகங்கள் மனித சமுதாயம் என்ற கடலிலிருந்து எழும்பி வருகின்றன. முதலாவது மிருகம், சிங்கத்தைப் போல இருந்தது; அதற்கு கழுகின் சிறகுகள் இருந்தன. இரண்டாவது மிருகம், கரடியைப் போல இருந்தது; விலா எலும்புகளை பற்களில் கவ்விக்கொண்டிருந்தது. மூன்றாவது மிருகம், சிறுத்தையைப் போல இருந்தது; அதற்கு நான்கு சிறகுகளும் நான்கு தலைகளும் இருந்தன. நான்காவது மிருகம், அபார பலமுள்ளதாக இருந்தது; அதற்கு இரும்புப் பற்களும் பத்துக் கொம்புகளும் இருந்தன.",
+   "source_docid": "2022401",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/311",
+   "caption_en": "The seven-headed wild beast of Revelation, coming out of the sea of mankind. It has ten horns and ten diadems on its heads and has the appearance of a leopard, the feet of a bear, and the mouth of a lion.",
+   "caption_ta": "வெளிப்படுத்துதல் புத்தகத்தில் சொல்லப்பட்டிருக்கிற ஏழு தலைகள் இருக்கிற மூர்க்க மிருகம் மனித சமுதாயம் என்ற கடலிலிருந்து ஏறி வருகிறது. அதற்கு பத்துக் கொம்புகளும் பத்து மகுடங்களும் இருந்தன. அது பார்ப்பதற்கு சிறுத்தையைப் போல இருந்தது. அதன் கால்கள் கரடியின் கால்களைப் போலவும் வாய் சிங்கத்தின் வாயைப் போலவும் இருந்தன.",
+   "source_docid": "2022401",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/313",
+   "caption_en": "The wild beast with two horns like a lamb, described in the book of Revelation. It springs from the seventh head of the seven-headed wild beast and ends up in the lake of fire.",
+   "caption_ta": "வெளிப்படுத்துதல் புத்தகத்தில் சொல்லப்பட்டிருக்கிற ஆட்டுக்குட்டியின் கொம்புகளைப் போன்ற இரண்டு கொம்புகள் இருக்கிற மூர்க்க மிருகம். ஏழு தலைகள் இருக்கிற மூர்க்க மிருகத்தின் ஏழாவது தலையிலிருந்து இது வருகிறது. கடைசியில், நெருப்பு ஏரியில் தள்ளப்படுகிறது.",
+   "source_docid": "2022401",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/315",
+   "caption_en": "A prostitute sitting on top of a scarlet-colored wild beast that has seven heads and ten horns. The beast ends up in the lake of fire.",
+   "caption_ta": "ஏழு தலைகளும் பத்துக் கொம்புகளும் இருக்கிற கருஞ்சிவப்பு நிறமுள்ள மூர்க்க மிருகத்தின் மேல் ஒரு விபச்சாரி உட்கார்ந்திருக்கிறாள். இந்த மூர்க்க மிருகம் நெருப்பு ஏரியில் தள்ளப்படுகிறது.",
+   "source_docid": "2022401",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/317",
+   "caption_en": "A fiery-colored dragon with seven heads, ten horns, and seven diadems breathing power to the wild beasts described in the books of Daniel and Revelation. The dragon ends up in the lake of fire.",
+   "caption_ta": "ஏழு தலைகளும், பத்துக் கொம்புகளும் ஏழு மகுடங்களும் இருக்கிற சிவப்புநிற ராட்சதப் பாம்பு, தானியேல் மற்றும் வெளிப்படுத்துதல் புத்தகத்தில் சொல்லப்பட்டிருக்கிற மூர்க்க மிருகங்களுக்கு அதிகாரத்தைக் கொடுக்கிறது. இந்த ராட்சதப் பாம்பு நெருப்பு ஏரியில் தள்ளப்படுகிறது.",
+   "source_docid": "2022401",
+   "kind": "illustration"
+  }
+ ],
+ "groups": [
+  {
+   "id": "egypt",
+   "order": 1,
+   "label_en": "Egypt",
+   "label_ta": "எகிப்து",
+   "span_id": "b12-0006",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "first head",
+     "symbol_ta": "முதல் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "assyria",
+   "order": 2,
+   "label_en": "Assyria",
+   "label_ta": "அசீரியா",
+   "span_id": "b12-0019",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "second head",
+     "symbol_ta": "இரண்டாம் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "babylon",
+   "order": 3,
+   "label_en": "Babylon",
+   "label_ta": "பாபிலோன்",
+   "span_id": "b12-0023",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "third head",
+     "symbol_ta": "மூன்றாம் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "medo-persia",
+   "order": 4,
+   "label_en": "Medo-Persia",
+   "label_ta": "மேதிய-பெர்சியா",
+   "span_id": "b12-0027",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "fourth head",
+     "symbol_ta": "நான்காம் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "greece",
+   "order": 5,
+   "label_en": "Greece",
+   "label_ta": "கிரீஸ்",
+   "span_id": "b12-0037",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "fifth head",
+     "symbol_ta": "ஐந்தாம் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "rome",
+   "order": 6,
+   "label_en": "Rome",
+   "label_ta": "ரோம்",
+   "span_id": "b12-0040",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1; 17:9, 10",
+     "symbol_en": "sixth head (“one is”)",
+     "symbol_ta": "ஆறாம் தலை"
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "anglo-america",
+   "order": 7,
+   "label_en": "Britain and the U.S.A. (Anglo-American World Power)",
+   "label_ta": "பிரிட்டன் & அமெரிக்கா",
+   "span_id": "b12-0066",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:1",
+     "symbol_en": "the seventh head of the wild beast",
+     "symbol_ta": "மூர்க்க மிருகத்தின் ஏழாவது தலை"
+    },
+    {
+     "scripture": "Rev. 13:11-15",
+     "symbol_en": "the two-horned beast",
+     "symbol_ta": "இரண்டு கொம்புகளைக் கொண்ட மூர்க்க மிருகம்"
+    },
+    {
+     "scripture": "Rev. 19:20",
+     "symbol_en": "“the false prophet”",
+     "symbol_ta": "“போலித் தீர்க்கதரிசி”"
+    }
+   ],
+   "attributes": {},
+   "note": "“The other has not yet arrived; but when he does arrive, he must remain a short while” (Rev. 17:10). No more heads appear before the beast is destroyed (“Jehovah Reveals What ‘Must Shortly Take Place,’” w12 6/15, par. 19)."
+  },
+  {
+   "id": "eighth-king",
+   "order": 8,
+   "label_en": "The image of the wild beast, “an eighth king”: League of Nations and United Nations",
+   "label_ta": "சர்வதேச சங்கம் & ஐக்கிய நாட்டுச் சங்கம்",
+   "span_id": "b14-0010",
+   "symbols": [
+    {
+     "scripture": "Rev. 13:14, 15",
+     "symbol_en": "image of the wild beast",
+     "symbol_ta": null
+    },
+    {
+     "scripture": "Rev. 17:3, 8",
+     "symbol_en": "scarlet-colored wild beast that “was, but is not, and yet is about to ascend out of the abyss”",
+     "symbol_ta": "“கருஞ்சிவப்பு நிறமுள்ள” மூர்க்க மிருகம்"
+    },
+    {
+     "scripture": "Rev. 17:11",
+     "symbol_en": "“an eighth king,” which springs from the seven",
+     "symbol_ta": "“எட்டாவது ராஜா”"
+    },
+    {
+     "scripture": "Dan. 11:31",
+     "symbol_en": "“the disgusting thing that causes desolation”",
+     "symbol_ta": "‘பாழாக்கும் அருவருப்பு’"
+    }
+   ],
+   "attributes": {
+    "promoted by": "the two-horned wild beast, the Anglo-American World Power (Rev. 13:11-15)"
+   },
+   "note": "It is not an eighth head of the original beast but an image of it; its power comes from its member nations, especially the Anglo-American World Power (“Jehovah Reveals What ‘Must Shortly Take Place,’” w12 6/15, par. 14). Group span is the United Nations (b14-0010); the League of Nations span is b14-0007."
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b6-0100",
+   "order": 1,
+   "role": "prophecy",
+   "group": null,
+   "label_en": "John receives Revelation: “five have fallen, one is, the other has not yet arrived” (Rev. 17:10)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0006",
+    "b12-0019",
+    "b12-0023",
+    "b12-0027",
+    "b12-0037",
+    "b12-0040",
+    "b12-0066",
+    "b14-0007",
+    "b14-0010"
+   ],
+   "scriptures": [
+    "Rev. 13:1-18",
+    "Rev. 17:3, 7-11"
+   ],
+   "source_docid": "1101988035",
+   "note": "When John wrote (c. 96 C.E.), five heads had fallen and Rome, the sixth, was ruling."
+  },
+  {
+   "event_id": "b12-0006",
+   "order": 2,
+   "role": "item",
+   "group": "egypt",
+   "label_en": "Egypt",
+   "label_ta": "எகிப்து",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b2-0009",
+   "order": 3,
+   "role": "rise",
+   "group": "egypt",
+   "label_en": "Egypt attains prominence as first world power",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101990130",
+   "note": null
+  },
+  {
+   "event_id": "b12-0019",
+   "order": 4,
+   "role": "item",
+   "group": "assyria",
+   "label_en": "Assyria",
+   "label_ta": "அசீரியா",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b3-0091",
+   "order": 5,
+   "role": "fall",
+   "group": "assyria",
+   "label_en": "Nineveh falls to the Chaldeans and Medes (632 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101990130",
+   "note": null
+  },
+  {
+   "event_id": "b12-0023",
+   "order": 6,
+   "role": "item",
+   "group": "babylon",
+   "label_en": "Babylon",
+   "label_ta": "பாபிலோன்",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b3-0113",
+   "order": 7,
+   "role": "rise",
+   "group": "babylon",
+   "label_en": "Babylon destroys Jerusalem (607 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0024",
+   "order": 8,
+   "role": "fall",
+   "group": "babylon",
+   "label_en": "Babylon falls to the Medes and Persians (539 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b12-0027",
+   "order": 9,
+   "role": "item",
+   "group": "medo-persia",
+   "label_en": "Medo-Persia",
+   "label_ta": "மேதிய-பெர்சியா",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b4-0024",
+   "order": 10,
+   "role": "rise",
+   "group": "medo-persia",
+   "label_en": "Medo-Persia conquers Babylon (539 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0087",
+   "order": 11,
+   "role": "fall",
+   "group": "medo-persia",
+   "label_en": "Persian Empire falls at Gaugamela (331 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101999023",
+   "note": null
+  },
+  {
+   "event_id": "b12-0037",
+   "order": 12,
+   "role": "item",
+   "group": "greece",
+   "label_en": "Greece",
+   "label_ta": "கிரீஸ்",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b4-0087",
+   "order": 13,
+   "role": "rise",
+   "group": "greece",
+   "label_en": "Alexander the Great conquers Persia (331 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0131",
+   "order": 14,
+   "role": "fall",
+   "group": "greece",
+   "label_en": "Ptolemaic Egypt falls to Rome (30 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101999023",
+   "note": null
+  },
+  {
+   "event_id": "b12-0040",
+   "order": 15,
+   "role": "item",
+   "group": "rome",
+   "label_en": "Rome",
+   "label_ta": "ரோம்",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b4-0122",
+   "order": 16,
+   "role": "rise",
+   "group": "rome",
+   "label_en": "Rome rules over Israel (63 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b12-0066",
+   "order": 17,
+   "role": "item",
+   "group": "anglo-america",
+   "label_en": "Britain and the U.S.A.",
+   "label_ta": "பிரிட்டன் & அமெரிக்கா",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b12-0068",
+   "order": 18,
+   "role": "step",
+   "group": "anglo-america",
+   "label_en": "World War I: the seventh head is wounded; from 1917 it is healed as Britain is joined by the United States",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 13:3"
+   ],
+   "source_docid": "2020408",
+   "note": null
+  },
+  {
+   "event_id": "b14-0005",
+   "order": 19,
+   "role": "step",
+   "group": "eighth-king",
+   "label_en": "January 1919: the League of Nations is officially proposed",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 13:14, 15"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b14-0006",
+   "order": 20,
+   "role": "rise",
+   "group": "eighth-king",
+   "label_en": "1920: the League of Nations is founded (“the wild beast . . . was”)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 17:8"
+   ],
+   "source_docid": "1101988034",
+   "note": null
+  },
+  {
+   "event_id": "b14-0007",
+   "order": 21,
+   "role": "item",
+   "group": "eighth-king",
+   "label_en": "League of Nations",
+   "label_ta": "சர்வதேச சங்கம்",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b12-0084",
+   "order": 22,
+   "role": "context",
+   "group": "eighth-king",
+   "label_en": "World War II: the League plunges into an abyss of inactivity (“is not”)",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 17:8"
+   ],
+   "source_docid": "1101988034",
+   "note": null
+  },
+  {
+   "event_id": "b8-0240",
+   "order": 23,
+   "role": "context",
+   "group": "eighth-king",
+   "label_en": "1942: talk “Peace—Can It Last?” identifies the scarlet-colored wild beast and foretells its rise from the abyss",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 17:8"
+   ],
+   "source_docid": "1101988034",
+   "note": null
+  },
+  {
+   "event_id": "b14-0009",
+   "order": 24,
+   "role": "rise",
+   "group": "eighth-king",
+   "label_en": "June 26, 1945: the image of the wild beast ascends out of the abyss as the United Nations",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 17:8"
+   ],
+   "source_docid": "1101988034",
+   "note": null
+  },
+  {
+   "event_id": "b14-0010",
+   "order": 25,
+   "role": "item",
+   "group": "eighth-king",
+   "label_en": "United Nations",
+   "label_ta": "ஐக்கிய நாட்டுச் சங்கம்",
+   "pairs_with": [
+    "b6-0100"
+   ],
+   "scriptures": [],
+   "source_docid": "2012446",
+   "note": null
+  },
+  {
+   "event_id": "b10-0011",
+   "order": 26,
+   "role": "future_fulfillment",
+   "group": "eighth-king",
+   "label_en": "The scarlet-colored wild beast and the ten horns devastate Babylon the Great",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 17:16, 17"
+   ],
+   "source_docid": "2022401",
+   "note": null
+  },
+  {
+   "event_id": "b10-0017",
+   "order": 27,
+   "role": "future_fulfillment",
+   "group": null,
+   "label_en": "The wild beast, its image and the two-horned wild beast are destroyed",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 19:19-21",
+    "Dan. 2:44"
+   ],
+   "source_docid": "2012443",
+   "note": null
+  }
+ ],
+ "notes": "Built on the w12 6/15 chart “Eight Kings Revealed” (pp. 12-13), whose picture is not online; images are from w22.05. Neither Egypt’s end nor Assyria’s start is dated on jw.org. Insight “Wild Beasts” and Pure Worship (rr) were not used; the 2012, 2020 and 2022 Watchtower articles are the newest statements."
+}

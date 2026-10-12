@@ -1,0 +1,241 @@
+{
+ "id": "exodus-route",
+ "title_en": "The Exodus From Egypt",
+ "title_ta": "எகிப்திலிருந்து பயணம்",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B3 traces the possible route of the Exodus from Rameses in Egypt through the wilderness to Mount Sinai, Kadesh and the Plains of Moab. Its timeline marks Israel leaving Egypt and the Mosaic Law covenant (1513 B.C.E.) and Joshua’s commissioning to succeed Moses (1473 B.C.E.).",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070223",
+   "publication": "NWT Study Edition (nwtsty) App. B3",
+   "title_en": "B3 The Exodus From Egypt",
+   "title_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070223",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070223",
+   "finder_url": "https://www.jw.org/finder?docid=1001070223&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061223",
+   "publication": "New World Translation (nwt) App. B3",
+   "title_en": "B3 The Exodus From Egypt",
+   "title_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061223",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061223",
+   "finder_url": "https://www.jw.org/finder?docid=1001061223&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/90",
+   "caption_en": "B3 The Exodus From Egypt — printed-edition image",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001070223",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/90",
+   "caption_en": "Tamil edition: B3 The Exodus From Egypt — printed-edition image",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001070223",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/89",
+   "caption_en": "B3 The Exodus From Egypt — printed-edition image (SVG)",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001070223",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/89",
+   "caption_en": "Tamil edition: B3 The Exodus From Egypt — printed-edition image (SVG)",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001070223",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/103",
+   "caption_en": "B3 The Exodus From Egypt — printed-edition image",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001061223",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwt/2016/103",
+   "caption_en": "Tamil edition: B3 The Exodus From Egypt — printed-edition image",
+   "caption_ta": "B3 எகிப்திலிருந்து பயணம்",
+   "source_docid": "1001061223",
+   "kind": "map"
+  }
+ ],
+ "groups": [],
+ "members": [
+  {
+   "event_id": "b2-0017",
+   "order": 1,
+   "role": "item",
+   "group": null,
+   "label_en": "Israelites leave Egypt",
+   "label_ta": "இஸ்ரவேலர்கள் எகிப்திலிருந்து பயணம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "b2-0018",
+   "order": 2,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Rameses? is the starting point of the route."
+  },
+  {
+   "event_id": "b2-0019",
+   "order": 3,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Red Sea and Pihahiroth are on the route."
+  },
+  {
+   "event_id": "b2-0021",
+   "order": 4,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Wilderness of Sin is on the route."
+  },
+  {
+   "event_id": "b2-0020",
+   "order": 5,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Rephidim is on the route."
+  },
+  {
+   "event_id": "b2-0022",
+   "order": 6,
+   "role": "item",
+   "group": null,
+   "label_en": "Mosaic Law covenant",
+   "label_ta": "திருச்சட்ட ஒப்பந்தம்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Shown on the timeline of the map. Mt. Sinai, Horeb is on the route."
+  },
+  {
+   "event_id": "b12-0007",
+   "order": 7,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "The 40 years of wandering that the route covers."
+  },
+  {
+   "event_id": "b2-0033",
+   "order": 8,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Kadesh, Kadesh-barnea is on the route."
+  },
+  {
+   "event_id": "b2-0034",
+   "order": 9,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Mt. Hor is on the route."
+  },
+  {
+   "event_id": "b2-0035",
+   "order": 10,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Heshbon and the Arnon are on the route."
+  },
+  {
+   "event_id": "b2-0037",
+   "order": 11,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Plains of Moab are at the end of the route."
+  },
+  {
+   "event_id": "b2-0042",
+   "order": 12,
+   "role": "item",
+   "group": null,
+   "label_en": "Joshua commissioned to succeed Moses",
+   "label_ta": "மோசேக்குப் பின்பு யோசுவா தலைவராகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "b2-0043",
+   "order": 13,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070223",
+   "note": "Mt. Nebo is on the map."
+  }
+ ],
+ "notes": "‘Item’ = the map’s timeline entries; ‘context’ = dated records at stops on the drawn ‘Possible Route of Exodus’."
+}

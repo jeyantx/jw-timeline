@@ -1,0 +1,681 @@
+{
+ "id": "daniel-time-prophecies",
+ "title_en": "Prophetic Time Periods in Daniel",
+ "title_ta": "தானியேலில் தீர்க்கதரிசன காலப்பகுதிகள்",
+ "kind": "time_prophecy",
+ "description_en": "The dated time prophecies of the book of Daniel as charted in Pay Attention to Daniel’s Prophecy! (ch. 17): the “seven times” of Daniel 4 (607 B.C.E.–1914 C.E.), the 70 weeks of Daniel 9 (455 B.C.E.–36 C.E., with the Messiah appearing after 69 weeks in 29 C.E.), the three and a half times or 1,260 days of Daniel 7 and 12 (1914–1918), the 1,290 and 1,335 days of Daniel 12 (1919–1926) and the 2,300 evenings and mornings of Daniel 8 (1938–1944).",
+ "description_ta": null,
+ "highlight": true,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1101999037",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 17",
+   "title_en": "Identifying True Worshipers in the Time of the End",
+   "title_ta": "முடிவு காலத்தில் உண்மை வணக்கத்தாரை அடையாளங்காணுதல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999037",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999037",
+   "finder_url": "https://www.jw.org/finder?docid=1101999037&wtlocale=E",
+   "par": null,
+   "quote_en": "PROPHETIC TIME PERIODS IN DANIEL"
+  },
+  {
+   "docid": "1101999025",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 6",
+   "title_en": "Unraveling the Mystery of the Great Tree",
+   "title_ta": "வானளாவ உயர்ந்த மரத்தின் புதிரை விடுவித்தல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999025",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999025",
+   "finder_url": "https://www.jw.org/finder?docid=1101999025&wtlocale=E",
+   "par": 28,
+   "quote_en": "Thus, the “seven times,” or 2,520 years, ended by Tishri 15, or October 4/5, 1914 C.E."
+  },
+  {
+   "docid": "1101999030",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 11",
+   "title_en": "The Time of Messiah’s Coming Revealed",
+   "title_ta": "மேசியா தோன்றும் காலத்தை தெரிவித்தல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999030",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999030",
+   "finder_url": "https://www.jw.org/finder?docid=1101999030&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  },
+  {
+   "docid": "1101999028",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 9",
+   "title_en": "Who Will Rule the World?",
+   "title_ta": "உலகை ஆளப்போவது யார்?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999028",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999028",
+   "finder_url": "https://www.jw.org/finder?docid=1101999028&wtlocale=E",
+   "par": 28,
+   "quote_en": null
+  },
+  {
+   "docid": "1101999029",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 10",
+   "title_en": "Who Can Stand Against the Prince of Princes?",
+   "title_ta": "அதிபதிகளுக்கெல்லாம் அதிபதிக்கு முன்பாக நிற்க துணிந்தவர் யார்?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999029",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999029",
+   "finder_url": "https://www.jw.org/finder?docid=1101999029&wtlocale=E",
+   "par": 26,
+   "quote_en": "Counting 2,300 days (6 years, 4 months, and 20 days on the Hebrew calendar) from June 1 or 15, 1938, brings us to October 8 or 22, 1944."
+  },
+  {
+   "docid": "1200000316",
+   "publication": "Insight on the Scriptures (it-1)",
+   "title_en": "Appointed Times of the Nations",
+   "title_ta": null,
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000316",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=1200000316&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  },
+  {
+   "docid": "1200003915",
+   "publication": "Insight on the Scriptures (it-2)",
+   "title_en": "Seventy Weeks",
+   "title_ta": null,
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003915",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=1200003915&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  },
+  {
+   "docid": "1102005159",
+   "publication": "What Does the Bible Really Teach? (bh) Appendix",
+   "title_en": "1914—A Significant Year in Bible Prophecy",
+   "title_ta": "1914—பைபிள் தீர்க்கதரிசனத்தின் முக்கிய வருடம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102005159",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102005159",
+   "finder_url": "https://www.jw.org/finder?docid=1102005159&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  },
+  {
+   "docid": "1101990130",
+   "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Study 3",
+   "title_en": "Study Number 3—Measuring Events in the Stream of Time",
+   "title_ta": "ஆராய்ச்சி எண் 3—கால ஓட்டத்தில் நிகழ்ச்சிகளை அளவிடுதல்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130",
+   "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  }
+ ],
+ "images": [],
+ "groups": [
+  {
+   "id": "seven-times",
+   "order": 1,
+   "label_en": "Seven times (2,520 years)",
+   "label_ta": "ஏழு காலங்கள் (2,520 வருடங்கள்)",
+   "span_id": "b12-0025",
+   "symbols": [
+    {
+     "scripture": "Dan. 4:16, 25",
+     "symbol_en": "seven times",
+     "symbol_ta": "ஏழு காலங்கள்"
+    }
+   ],
+   "attributes": {
+    "dates": "October 607 B.C.E. to October 1914 C.E.",
+    "outcome": "Messianic Kingdom established. See Chapter 6 of this book."
+   },
+   "note": null
+  },
+  {
+   "id": "seventy-weeks",
+   "order": 2,
+   "label_en": "70 weeks (490 years)",
+   "label_ta": "70 வாரங்கள் (490 வருடங்கள்)",
+   "span_id": "b12-0035",
+   "symbols": [
+    {
+     "scripture": "Dan. 9:25",
+     "symbol_en": "7 weeks (49 years) + 62 weeks (434 years)",
+     "symbol_ta": null
+    },
+    {
+     "scripture": "Dan. 9:27",
+     "symbol_en": "1 week (7 years)",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {
+    "dates": "455 B.C.E. to 36 C.E.",
+    "outcome": "Messiah’s coming and his earthly ministry"
+   },
+   "note": null
+  },
+  {
+   "id": "three-and-a-half-times",
+   "order": 3,
+   "label_en": "Three and a half times (1,260 days)",
+   "label_ta": "மூன்றரை காலங்கள் (1,260 நாட்கள்)",
+   "span_id": "b12-0071",
+   "symbols": [
+    {
+     "scripture": "Dan. 7:25; 12:7",
+     "symbol_en": "“a time, and times and half a time”",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {
+    "dates": "December 1914 to June 1918",
+    "outcome": "Anointed Christians harassed"
+   },
+   "note": null
+  },
+  {
+   "id": "1290-days",
+   "order": 4,
+   "label_en": "1,290 days",
+   "label_ta": "1,290 நாட்கள்",
+   "span_id": "b12-0075",
+   "symbols": [
+    {
+     "scripture": "Dan. 12:11",
+     "symbol_en": "one thousand two hundred and ninety days",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {
+    "dates": "January 1919 to September 1922",
+    "outcome": "Anointed Christians awaken and progress spiritually"
+   },
+   "note": null
+  },
+  {
+   "id": "1335-days",
+   "order": 5,
+   "label_en": "1,335 days",
+   "label_ta": "1,335 நாட்கள்",
+   "span_id": "b12-0078",
+   "symbols": [
+    {
+     "scripture": "Dan. 12:12",
+     "symbol_en": "one thousand three hundred and thirty-five days",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {
+    "dates": "September 1922 to May 1926",
+    "outcome": "Anointed Christians attain a happy state"
+   },
+   "note": null
+  },
+  {
+   "id": "2300-days",
+   "order": 6,
+   "label_en": "2,300 evenings and mornings",
+   "label_ta": "2,300 இரவுகளும் பகல்களும்",
+   "span_id": "b12-0082",
+   "symbols": [
+    {
+     "scripture": "Dan. 8:14",
+     "symbol_en": "two thousand three hundred evenings and mornings",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {
+    "dates": "June 1 or 15, 1938, to October 8 or 22, 1944",
+    "outcome": "“Great crowd” emerge, multiply"
+   },
+   "note": null
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b11-0033",
+   "order": 1,
+   "role": "prophecy",
+   "group": "seven-times",
+   "label_en": "Nebuchadnezzar’s dream of the great tree: “seven times” (Dan. 4)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0025",
+    "b10-0001",
+    "b10-0002"
+   ],
+   "scriptures": [
+    "Dan. 4:16, 23, 25, 32"
+   ],
+   "source_docid": "1101999025",
+   "note": "The tree dream is not dated on jw.org; anchored to the completion of the book of Daniel (c. 536 B.C.E.)."
+  },
+  {
+   "event_id": "b12-0025",
+   "order": 2,
+   "role": "item",
+   "group": "seven-times",
+   "label_en": "Seven times (2,520 years): October 607 B.C.E. to October 1914 C.E.",
+   "label_ta": "ஏழு காலங்கள் (2,520 வருடங்கள்)",
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b3-0117",
+   "order": 3,
+   "role": "start",
+   "group": "seven-times",
+   "label_en": "October 607 B.C.E.: the desolation of Judah and Jerusalem",
+   "label_ta": "பொ.ச.மு. 607, அக்டோபர் முதற்கொண்டு",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101999025",
+   "note": null
+  },
+  {
+   "event_id": "b10-0001",
+   "order": 4,
+   "role": "end",
+   "group": "seven-times",
+   "label_en": "October 1914 C.E.: the “seven times” end",
+   "label_ta": "பொ.ச. 1914 அக்டோபர் வரை",
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999025",
+   "note": null
+  },
+  {
+   "event_id": "b10-0002",
+   "order": 5,
+   "role": "fulfillment",
+   "group": "seven-times",
+   "label_en": "Messianic Kingdom established",
+   "label_ta": "மேசியானிய ராஜ்யம் ஸ்தாபிக்கப்பட்டது",
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b4-0026",
+   "order": 6,
+   "role": "prophecy",
+   "group": "seventy-weeks",
+   "label_en": "Gabriel gives Daniel the prophecy of the “seventy weeks” (Dan. 9)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0035",
+    "b12-0034",
+    "b12-0045",
+    "b4-0069",
+    "b4-0078",
+    "b5-0017",
+    "b5-0163",
+    "b6-0011",
+    "b6-0096"
+   ],
+   "scriptures": [
+    "Dan. 9:24-27"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b12-0035",
+   "order": 7,
+   "role": "item",
+   "group": "seventy-weeks",
+   "label_en": "70 weeks (490 years): 455 B.C.E. to 36 C.E.",
+   "label_ta": "70 வாரங்கள் (490 வருடங்கள்)",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b4-0069",
+   "order": 8,
+   "role": "start",
+   "group": "seventy-weeks",
+   "label_en": "455 B.C.E.: “The word to restore . . . Jerusalem”",
+   "label_ta": "‘எருசலேமைத் திரும்ப எடுப்பித்துக் கட்டுகிறதற்கான கட்டளை’",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:25"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b4-0078",
+   "order": 9,
+   "role": "step",
+   "group": "seventy-weeks",
+   "label_en": "406 B.C.E.: Jerusalem rebuilt (end of the 7 weeks, 49 years)",
+   "label_ta": "திரும்பக் கட்டப்பட்ட எருசலேம்",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:25"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b12-0034",
+   "order": 10,
+   "role": "item",
+   "group": "seventy-weeks",
+   "label_en": "69 weeks (7 + 62 weeks) to “Messiah the Leader”: 455 B.C.E. to 29 C.E.",
+   "label_ta": null,
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:25"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b5-0017",
+   "order": 11,
+   "role": "fulfillment",
+   "group": "seventy-weeks",
+   "label_en": "29 C.E.: Messiah appears",
+   "label_ta": "மேசியா தோன்றுகிறார்",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:25"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b12-0045",
+   "order": 12,
+   "role": "item",
+   "group": "seventy-weeks",
+   "label_en": "The 70th week (7 years): 29-36 C.E.",
+   "label_ta": null,
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:27"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b5-0163",
+   "order": 13,
+   "role": "fulfillment",
+   "group": "seventy-weeks",
+   "label_en": "33 C.E.: Messiah cut off, at the half of the week",
+   "label_ta": "மேசியா சங்கரிக்கப் படுகிறார்",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:26, 27"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b6-0011",
+   "order": 14,
+   "role": "end",
+   "group": "seventy-weeks",
+   "label_en": "36 C.E.: End of the “seventy weeks”",
+   "label_ta": "எழுபது வாரங்களின் முடிவு",
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:27"
+   ],
+   "source_docid": "1101999030",
+   "note": null
+  },
+  {
+   "event_id": "b6-0096",
+   "order": 15,
+   "role": "fulfillment",
+   "group": "seventy-weeks",
+   "label_en": "70 C.E.: the city and the holy place destroyed",
+   "label_ta": null,
+   "pairs_with": [
+    "b4-0026"
+   ],
+   "scriptures": [
+    "Dan. 9:26, 27"
+   ],
+   "source_docid": "1101999030",
+   "note": "Follows the “seventy weeks” (dp ch. 11 par. 29-30)."
+  },
+  {
+   "event_id": "b4-0020",
+   "order": 16,
+   "role": "prophecy",
+   "group": "three-and-a-half-times",
+   "label_en": "Daniel 7: the holy ones harassed “for a time, and times and half a time”",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0071"
+   ],
+   "scriptures": [
+    "Dan. 7:25"
+   ],
+   "source_docid": "1101999028",
+   "note": null
+  },
+  {
+   "event_id": "b4-0032",
+   "order": 17,
+   "role": "prophecy",
+   "group": null,
+   "label_en": "Daniel’s final vision: the time periods of Daniel 12",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0071",
+    "b12-0075",
+    "b12-0078"
+   ],
+   "scriptures": [
+    "Dan. 12:7",
+    "Dan. 12:11",
+    "Dan. 12:12"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b12-0071",
+   "order": 18,
+   "role": "item",
+   "group": "three-and-a-half-times",
+   "label_en": "Three and a half times (1,260 days): December 1914 to June 1918",
+   "label_ta": "டிசம்பர் 1914 முதற்கொண்டு ஜூன் 1918 வரை",
+   "pairs_with": [
+    "b4-0020",
+    "b4-0032"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b8-0117",
+   "order": 19,
+   "role": "end",
+   "group": "three-and-a-half-times",
+   "label_en": "Mid-1918: leading members of the Watch Tower Society sentenced and imprisoned",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 12:7"
+   ],
+   "source_docid": "1101999037",
+   "note": "dp ch. 17 par. 18: the 1,260 days ended in the middle of 1918 when Rutherford and associates were convicted, sentenced and imprisoned; counting back 3½ years gives the end of 1914 (no start record)."
+  },
+  {
+   "event_id": "b12-0075",
+   "order": 20,
+   "role": "item",
+   "group": "1290-days",
+   "label_en": "1,290 days: January 1919 to September 1922",
+   "label_ta": "ஜனவரி 1919 முதற்கொண்டு",
+   "pairs_with": [
+    "b4-0032"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b14-0005",
+   "order": 21,
+   "role": "start",
+   "group": "1290-days",
+   "label_en": "January 1919: League of Nations officially proposed",
+   "label_ta": "ஜனவரி 1919-ல், சர்வதேச சங்கம் அதிகாரப்பூர்வமாய் முன்மொழியப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 12:11"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b8-0142",
+   "order": 22,
+   "role": "end",
+   "group": "1290-days",
+   "label_en": "September 1922: convention at Cedar Point, Ohio, right about when the period ended",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 12:11"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b12-0078",
+   "order": 23,
+   "role": "item",
+   "group": "1335-days",
+   "label_en": "1,335 days: September 1922 to May 1926",
+   "label_ta": "செப்டம்பர் 1922 முதற்கொண்டு மே 1926 வரை",
+   "pairs_with": [
+    "b4-0032"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b8-0142",
+   "order": 24,
+   "role": "start",
+   "group": "1335-days",
+   "label_en": "Autumn 1922: the 1,335 days follow on the heels of the 1,290 days",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 12:12"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b14-0008",
+   "order": 25,
+   "role": "end",
+   "group": "1335-days",
+   "label_en": "May 1926: convention; book Deliverance released",
+   "label_ta": "மே 1926-ல் நடந்த மாநாட்டில் விடுதலை என்ற ஆங்கில புத்தகம் வெளியிடப்பட்டது.",
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 12:12"
+   ],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b11-0033",
+   "order": 26,
+   "role": "prophecy",
+   "group": "2300-days",
+   "label_en": "Vision of the ram and the goat: “two thousand three hundred evenings and mornings” (Dan. 8)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0082"
+   ],
+   "scriptures": [
+    "Dan. 8:13, 14"
+   ],
+   "source_docid": "1101999029",
+   "note": "The vision (“third year of the kingship of Belshazzar,” Dan. 8:1) is not dated by year on jw.org; anchored to the completion of the book of Daniel."
+  },
+  {
+   "event_id": "b12-0082",
+   "order": 27,
+   "role": "item",
+   "group": "2300-days",
+   "label_en": "2,300 evenings and mornings: June 1 or 15, 1938, to October 8 or 22, 1944",
+   "label_ta": "ஜூன் 1 அல்லது 15, 1938 முதற்கொண்டு",
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1101999037",
+   "note": null
+  },
+  {
+   "event_id": "b8-0215",
+   "order": 28,
+   "role": "start",
+   "group": "2300-days",
+   "label_en": "June 1 and 15, 1938: The Watchtower publishes “Organization”",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 8:14"
+   ],
+   "source_docid": "1101999029",
+   "note": "dp ch. 10 par. 26: the count begins at the earliest on June 1, 1938 (part 1 of “Organization”); part 2 appeared June 15, 1938."
+  },
+  {
+   "event_id": "b8-0256",
+   "order": 29,
+   "role": "end",
+   "group": "2300-days",
+   "label_en": "October 2, 1944: the Society’s charter amended to bring it close to a theocratic arrangement",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "Dan. 8:14"
+   ],
+   "source_docid": "1101999029",
+   "note": "dp ch. 10 par. 26-28: the 2,300 days end October 8 or 22, 1944; the October 15, 1944, Watchtower article “Organized for Final Work” indicated that they had ended."
+  }
+ ],
+ "notes": "Start/end members map the printed endpoints to existing records where one exists; the 1,260 days have no start record (end of 1914). The online dp chapters carry no chart images. Insight articles have no Tamil WOL mirror."
+}

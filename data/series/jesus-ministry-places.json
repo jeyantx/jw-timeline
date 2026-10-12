@@ -1,0 +1,145 @@
+{
+ "id": "jesus-ministry-places",
+ "title_en": "Israel During the Time of Jesus",
+ "title_ta": "இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B10 maps Israel in the time of Jesus: Galilee, Samaria, Judea, Perea, the Decapolis and the territories ruled by Herod Archelaus (later by Pontius Pilate), Herod Antipas and Philip. Its timeline marks Jesus’ birth (2 B.C.E.) and death (33 C.E.).",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070230",
+   "publication": "NWT Study Edition (nwtsty) App. B10",
+   "title_en": "B10 Israel During the Time of Jesus",
+   "title_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070230",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070230",
+   "finder_url": "https://www.jw.org/finder?docid=1001070230&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061230",
+   "publication": "New World Translation (nwt) App. B10",
+   "title_en": "B10 Israel During the Time of Jesus",
+   "title_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061230",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061230",
+   "finder_url": "https://www.jw.org/finder?docid=1001061230&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/114",
+   "caption_en": "B10 Israel During the Time of Jesus — printed-edition image",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001070230",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/114",
+   "caption_en": "Tamil edition: B10 Israel During the Time of Jesus — printed-edition image",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001070230",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/113",
+   "caption_en": "B10 Israel During the Time of Jesus — printed-edition image (SVG)",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001070230",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/113",
+   "caption_en": "Tamil edition: B10 Israel During the Time of Jesus — printed-edition image (SVG)",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001070230",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/127",
+   "caption_en": "B10 Israel During the Time of Jesus — printed-edition image",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001061230",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwt/2016/127",
+   "caption_en": "Tamil edition: B10 Israel During the Time of Jesus — printed-edition image",
+   "caption_ta": "B10 இயேசுவின் காலத்தில் இஸ்ரவேல் தேசம்",
+   "source_docid": "1001061230",
+   "kind": "map"
+  }
+ ],
+ "groups": [
+  {
+   "id": "regions",
+   "order": 1,
+   "label_en": "Shown on the Map",
+   "label_ta": "வரைபடத்தில் காட்டப்பட்டுள்ளது",
+   "span_id": null,
+   "attributes": {
+    "legend": "Ruled by Herod Archelaus, later by Roman Governor Pontius Pilate; Ruled by Herod Antipas; Ruled by Philip; Cities of the Decapolis"
+   },
+   "note": "Map legend (no members)."
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b5-0006",
+   "order": 1,
+   "role": "item",
+   "group": null,
+   "label_en": "Birth of Jesus",
+   "label_ta": "இயேசு பிறக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070230",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "d1-0024",
+   "order": 2,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070230",
+   "note": "Jesus’ earthly life between the two timeline entries."
+  },
+  {
+   "event_id": "b12-0044",
+   "order": 3,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070230",
+   "note": "Jesus’ ministry, carried out in the regions on the map."
+  },
+  {
+   "event_id": "b5-0163",
+   "order": 4,
+   "role": "item",
+   "group": null,
+   "label_en": "Death of Jesus",
+   "label_ta": "இயேசு இறக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070230",
+   "note": "Shown on the timeline of the map."
+  }
+ ],
+ "notes": "‘Item’ = the map’s timeline entries. The individual events at each place are in the A7 series records (b5)."
+}

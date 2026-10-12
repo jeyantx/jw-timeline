@@ -1,0 +1,980 @@
+{
+ "id": "jesus-final-week",
+ "title_en": "The Final Week of Jesus’ Life on Earth",
+ "title_ta": "பூமியில் இயேசுவின் கடைசி வாரம்",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B12 (parts A and B) sets out Jesus’ last days on earth, Nisan 8-16, 33 C.E., day by day from sunset to sunset, with a map of Jerusalem and the surrounding area that numbers the places involved (temple, Gethsemane, the governor’s palace, the house of Caiaphas, Golgotha and others). Each item is linked to the matching A7-G/A7-H record where one exists.",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070232",
+   "publication": "NWT Study Edition (nwtsty) App. B12-A",
+   "title_en": "B12-A The Final Week of Jesus’ Life on Earth (Part 1)",
+   "title_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070232",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070232",
+   "finder_url": "https://www.jw.org/finder?docid=1001070232&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001070233",
+   "publication": "NWT Study Edition (nwtsty) App. B12-B",
+   "title_en": "B12-B The Final Week of Jesus’ Life on Earth (Part 2)",
+   "title_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070233",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070233",
+   "finder_url": "https://www.jw.org/finder?docid=1001070233&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061232",
+   "publication": "New World Translation (nwt) App. B12-A",
+   "title_en": "B12-A The Final Week of Jesus’ Life on Earth (Part 1)",
+   "title_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061232",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061232",
+   "finder_url": "https://www.jw.org/finder?docid=1001061232&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061233",
+   "publication": "New World Translation (nwt) App. B12-B",
+   "title_en": "B12-B The Final Week of Jesus’ Life on Earth (Part 2)",
+   "title_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061233",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061233",
+   "finder_url": "https://www.jw.org/finder?docid=1001061233&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061232",
+   "publication": "jw.org — NWT App. B12-A",
+   "title_en": "B12-A The Final Week of Jesus’ Life on Earth (Part 1)",
+   "title_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "url_en": "https://www.jw.org/en/library/bible/nwt/appendix-b/jesus-last-week-nisan-8-11/",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061232",
+   "finder_url": "https://www.jw.org/finder?docid=1001061232&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061233",
+   "publication": "jw.org — NWT App. B12-B",
+   "title_en": "B12-B The Final Week of Jesus’ Life on Earth (Part 2)",
+   "title_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "url_en": "https://www.jw.org/en/library/bible/nwt/appendix-b/jesus-last-week-nisan-12-16/",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061233",
+   "finder_url": "https://www.jw.org/finder?docid=1001061233&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/117",
+   "caption_en": "B12-A The Final Week of Jesus’ Life on Earth (Part 1) — printed-edition image",
+   "caption_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/117",
+   "caption_en": "Tamil edition: B12-A The Final Week of Jesus’ Life on Earth (Part 1) — printed-edition image",
+   "caption_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/118",
+   "caption_en": "B12-A The Final Week of Jesus’ Life on Earth (Part 1) — printed-edition image (SVG)",
+   "caption_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/118",
+   "caption_en": "Tamil edition: B12-A The Final Week of Jesus’ Life on Earth (Part 1) — printed-edition image (SVG)",
+   "caption_ta": "B12-A பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 1)",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/120",
+   "caption_en": "A timeline indicating 33 C.E., the year Jesus died.",
+   "caption_ta": "இயேசு இறந்த வருஷமாகிய கி.பி. 33-ஐக் காட்டும் கால அட்டவணை.",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/120",
+   "caption_en": "Tamil edition: A timeline indicating 33 C.E., the year Jesus died.",
+   "caption_ta": "இயேசு இறந்த வருஷமாகிய கி.பி. 33-ஐக் காட்டும் கால அட்டவணை.",
+   "source_docid": "1001070232",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/122",
+   "caption_en": "A map of Jerusalem and the surrounding area. Known and possible locations are listed. 1. Temple. 2. Garden of Gethsemane. 3. Governor’s palace. 4. House of Caiaphas. 5. Palace used by Herod Antipas. 6. Pool of Bethzatha. 7. Pool of Siloam. 8. Sanhedrin Hall. 9. Golgotha. 10. Akeldama.",
+   "caption_ta": "எருசலேமையும் சுற்றுப்புறத்தையும் காட்டும் வரைபடம். உறுதியாகத் தெரிந்த இடங்களும் உறுதியாகத் தெரியாத இடங்களும் காட்டப்பட்டுள்ளன. 1. ஆலயம். 2. கெத்செமனே தோட்டம். 3. ஆளுநர் மாளிகை. 4. காய்பாவின் வீடு. 5. ஏரோது அந்திப்பா பயன்படுத்திய மாளிகை. 6. பெத்சதா குளம். 7. சீலோவாம் குளம். 8. நியாயசங்க மன்றம். 9. கொல்கொதா. 10. அக்கெல்தமா.",
+   "source_docid": "1001070232",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/122",
+   "caption_en": "Tamil edition: A map of Jerusalem and the surrounding area. Known and possible locations are listed. 1. Temple. 2. Garden of Gethsemane. 3. Governor’s palace. 4. House of Caiaphas. 5. Palace used by Herod Antipas. 6. Pool of Bethzatha. 7. Pool of Siloam. 8. Sanhedrin Hall. 9. Golgotha. 10. Akeldama.",
+   "caption_ta": "எருசலேமையும் சுற்றுப்புறத்தையும் காட்டும் வரைபடம். உறுதியாகத் தெரிந்த இடங்களும் உறுதியாகத் தெரியாத இடங்களும் காட்டப்பட்டுள்ளன. 1. ஆலயம். 2. கெத்செமனே தோட்டம். 3. ஆளுநர் மாளிகை. 4. காய்பாவின் வீடு. 5. ஏரோது அந்திப்பா பயன்படுத்திய மாளிகை. 6. பெத்சதா குளம். 7. சீலோவாம் குளம். 8. நியாயசங்க மன்றம். 9. கொல்கொதா. 10. அக்கெல்தமா.",
+   "source_docid": "1001070232",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/123",
+   "caption_en": "Jesus riding on a colt while a joyous crowd places outer garments and palm branches on the road.",
+   "caption_ta": "இயேசு ஒரு கழுதைக்குட்டியின் மேல் சவாரி செய்கிறார். மக்கள் எல்லாரும் சந்தோஷமாகத் தங்களுடைய மேலங்கிகளை வழியில் விரிக்கிறார்கள், பனை ஓலைகளைப் பாதையில் பரப்புகிறார்கள்.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/123",
+   "caption_en": "Tamil edition: Jesus riding on a colt while a joyous crowd places outer garments and palm branches on the road.",
+   "caption_ta": "இயேசு ஒரு கழுதைக்குட்டியின் மேல் சவாரி செய்கிறார். மக்கள் எல்லாரும் சந்தோஷமாகத் தங்களுடைய மேலங்கிகளை வழியில் விரிக்கிறார்கள், பனை ஓலைகளைப் பாதையில் பரப்புகிறார்கள்.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/125",
+   "caption_en": "Jesus overturning the tables of money changers at the temple.",
+   "caption_ta": "ஆலயத்தில் காசு மாற்றுபவர்களின் மேஜைகளை இயேசு கவிழ்த்துப்போடுகிறார்.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/125",
+   "caption_en": "Tamil edition: Jesus overturning the tables of money changers at the temple.",
+   "caption_ta": "ஆலயத்தில் காசு மாற்றுபவர்களின் மேஜைகளை இயேசு கவிழ்த்துப்போடுகிறார்.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/127",
+   "caption_en": "Jesus talking to some of his apostles on the Mount of Olives. The temple stands in the background.",
+   "caption_ta": "ஒலிவ மலைமேல் இயேசு தன் அப்போஸ்தலர்கள் சிலரோடு பேசிக்கொண்டிருக்கிறார். பின்னணியில் ஆலயம் தெரிகிறது.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/127",
+   "caption_en": "Tamil edition: Jesus talking to some of his apostles on the Mount of Olives. The temple stands in the background.",
+   "caption_ta": "ஒலிவ மலைமேல் இயேசு தன் அப்போஸ்தலர்கள் சிலரோடு பேசிக்கொண்டிருக்கிறார். பின்னணியில் ஆலயம் தெரிகிறது.",
+   "source_docid": "1001070232",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/129",
+   "caption_en": "B12-B The Final Week of Jesus’ Life on Earth (Part 2) — printed-edition image",
+   "caption_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/129",
+   "caption_en": "Tamil edition: B12-B The Final Week of Jesus’ Life on Earth (Part 2) — printed-edition image",
+   "caption_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/130",
+   "caption_en": "B12-B The Final Week of Jesus’ Life on Earth (Part 2) — printed-edition image (SVG)",
+   "caption_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/130",
+   "caption_en": "Tamil edition: B12-B The Final Week of Jesus’ Life on Earth (Part 2) — printed-edition image (SVG)",
+   "caption_ta": "B12-B பூமியில் இயேசுவின் கடைசி வாரம் (பகுதி 2)",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/132",
+   "caption_en": "A timeline indicating 33 C.E., the year Jesus died.",
+   "caption_ta": "இயேசு இறந்த வருஷமாகிய கி.பி. 33-ஐக் காட்டும் கால அட்டவணை.",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/132",
+   "caption_en": "Tamil edition: A timeline indicating 33 C.E., the year Jesus died.",
+   "caption_ta": "இயேசு இறந்த வருஷமாகிய கி.பி. 33-ஐக் காட்டும் கால அட்டவணை.",
+   "source_docid": "1001070233",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/134",
+   "caption_en": "A map of Jerusalem and the surrounding area. Known and possible locations are listed. 1. Temple. 2. Garden of Gethsemane. 3. Governor’s palace. 4. House of Caiaphas. 5. Palace used by Herod Antipas. 6. Pool of Bethzatha. 7. Pool of Siloam. 8. Sanhedrin Hall. 9. Golgotha. 10. Akeldama.",
+   "caption_ta": "எருசலேமையும் சுற்றுப்புறத்தையும் காட்டும் வரைபடம். உறுதியாகத் தெரிந்த இடங்களும் உறுதியாகத் தெரியாத இடங்களும் காட்டப்பட்டுள்ளன. 1. ஆலயம். 2. கெத்செமனே தோட்டம். 3. ஆளுநர் மாளிகை. 4. காய்பாவின் வீடு. 5. ஏரோது அந்திப்பா பயன்படுத்திய மாளிகை. 6. பெத்சதா குளம். 7. சீலோவாம் குளம். 8. நியாயசங்க மன்றம். 9. கொல்கொதா. 10. அக்கெல்தமா.",
+   "source_docid": "1001070233",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/134",
+   "caption_en": "Tamil edition: A map of Jerusalem and the surrounding area. Known and possible locations are listed. 1. Temple. 2. Garden of Gethsemane. 3. Governor’s palace. 4. House of Caiaphas. 5. Palace used by Herod Antipas. 6. Pool of Bethzatha. 7. Pool of Siloam. 8. Sanhedrin Hall. 9. Golgotha. 10. Akeldama.",
+   "caption_ta": "எருசலேமையும் சுற்றுப்புறத்தையும் காட்டும் வரைபடம். உறுதியாகத் தெரிந்த இடங்களும் உறுதியாகத் தெரியாத இடங்களும் காட்டப்பட்டுள்ளன. 1. ஆலயம். 2. கெத்செமனே தோட்டம். 3. ஆளுநர் மாளிகை. 4. காய்பாவின் வீடு. 5. ஏரோது அந்திப்பா பயன்படுத்திய மாளிகை. 6. பெத்சதா குளம். 7. சீலோவாம் குளம். 8. நியாயசங்க மன்றம். 9. கொல்கொதா. 10. அக்கெல்தமா.",
+   "source_docid": "1001070233",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/136",
+   "caption_en": "Judas Iscariot scheming with Jewish religious leaders.",
+   "caption_ta": "யூதாஸ் இஸ்காரியோத்து யூத மதத் தலைவர்களோடு சேர்ந்து சதித்திட்டம் தீட்டுகிறான்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/136",
+   "caption_en": "Tamil edition: Judas Iscariot scheming with Jewish religious leaders.",
+   "caption_ta": "யூதாஸ் இஸ்காரியோத்து யூத மதத் தலைவர்களோடு சேர்ந்து சதித்திட்டம் தீட்டுகிறான்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/138",
+   "caption_en": "Peter and John following a man who is carrying an earthenware water jar.",
+   "caption_ta": "மண்ஜாடியில் தண்ணீர் எடுத்துக்கொண்டு வருகிற ஒருவனுக்குப் பின்னால் பேதுருவும் யோவானும் போகிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/138",
+   "caption_en": "Tamil edition: Peter and John following a man who is carrying an earthenware water jar.",
+   "caption_ta": "மண்ஜாடியில் தண்ணீர் எடுத்துக்கொண்டு வருகிற ஒருவனுக்குப் பின்னால் பேதுருவும் யோவானும் போகிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/140",
+   "caption_en": "Jesus and his faithful apostles reclining at a table during the Lord’s Evening Meal.",
+   "caption_ta": "எஜமானின் இரவு விருந்தின்போது, இயேசுவும் அவருடைய உண்மையுள்ள அப்போஸ்தலர்களும் மேஜையைச் சுற்றி உட்கார்ந்திருக்கிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/140",
+   "caption_en": "Tamil edition: Jesus and his faithful apostles reclining at a table during the Lord’s Evening Meal.",
+   "caption_ta": "எஜமானின் இரவு விருந்தின்போது, இயேசுவும் அவருடைய உண்மையுள்ள அப்போஸ்தலர்களும் மேஜையைச் சுற்றி உட்கார்ந்திருக்கிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/142",
+   "caption_en": "Jesus watching from a balcony as Peter denies him to people gathered in a courtyard.",
+   "caption_ta": "இயேசுவைத் தெரியாதென்று முற்றத்தில் கூடியிருக்கும் மக்களிடம் பேதுரு சொல்வதை மாடியிலிருந்து இயேசு பார்த்துக்கொண்டிருக்கிறார்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/142",
+   "caption_en": "Tamil edition: Jesus watching from a balcony as Peter denies him to people gathered in a courtyard.",
+   "caption_ta": "இயேசுவைத் தெரியாதென்று முற்றத்தில் கூடியிருக்கும் மக்களிடம் பேதுரு சொல்வதை மாடியிலிருந்து இயேசு பார்த்துக்கொண்டிருக்கிறார்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/144",
+   "caption_en": "Jesus wearing a crown of thorns and a purple robe as Pilate presents him to an angry mob.",
+   "caption_ta": "ஆவேசமாகக் கத்தும் கூட்டத்தார்முன் இயேசுவை பிலாத்து நிற்க வைக்கிறார். இயேசு முள் கிரீடத்தோடும் ஊதா நிற சால்வையோடும் நிற்கிறார்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/144",
+   "caption_en": "Tamil edition: Jesus wearing a crown of thorns and a purple robe as Pilate presents him to an angry mob.",
+   "caption_ta": "ஆவேசமாகக் கத்தும் கூட்டத்தார்முன் இயேசுவை பிலாத்து நிற்க வைக்கிறார். இயேசு முள் கிரீடத்தோடும் ஊதா நிற சால்வையோடும் நிற்கிறார்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/146",
+   "caption_en": "Nicodemus, Joseph of Arimathea, and other disciples preparing Jesus’ body for burial.",
+   "caption_ta": "நிக்கொதேமுவும், அரிமத்தியா ஊரைச் சேர்ந்த யோசேப்பும், மற்ற சீஷர்களும் அடக்கம் செய்வதற்காக இயேசுவின் உடலைத் தயார்படுத்துகிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/146",
+   "caption_en": "Tamil edition: Nicodemus, Joseph of Arimathea, and other disciples preparing Jesus’ body for burial.",
+   "caption_ta": "நிக்கொதேமுவும், அரிமத்தியா ஊரைச் சேர்ந்த யோசேப்பும், மற்ற சீஷர்களும் அடக்கம் செய்வதற்காக இயேசுவின் உடலைத் தயார்படுத்துகிறார்கள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/148",
+   "caption_en": "Mary Magdalene peering into Jesus’ empty tomb.",
+   "caption_ta": "காலியாக இருக்கும் இயேசுவின் கல்லறைக்குள் மகதலேனா மரியாள் எட்டிப் பார்க்கிறாள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/148",
+   "caption_en": "Tamil edition: Mary Magdalene peering into Jesus’ empty tomb.",
+   "caption_ta": "காலியாக இருக்கும் இயேசுவின் கல்லறைக்குள் மகதலேனா மரியாள் எட்டிப் பார்க்கிறாள்.",
+   "source_docid": "1001070233",
+   "kind": "illustration"
+  }
+ ],
+ "groups": [
+  {
+   "id": "nisan-8",
+   "order": 1,
+   "label_en": "Nisan 8 (Sabbath)",
+   "label_ta": "நிசான் 8 (ஓய்வுநாள்)",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-A",
+    "references": "John 11:55–12:1"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-9",
+   "order": 2,
+   "label_en": "Nisan 9",
+   "label_ta": "நிசான் 9",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-A",
+    "references": "Sunset: Matthew 26:6-13; Mark 14:3-9; John 12:2-11. Sunrise: Matthew 21:1-11, 14-17; Mark 11:1-11; Luke 19:29-44; John 12:12-19"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-10",
+   "order": 3,
+   "label_en": "Nisan 10",
+   "label_ta": "நிசான் 10",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-A",
+    "references": "Matthew 21:18, 19; 21:12, 13; Mark 11:12-19; Luke 19:45-48; John 12:20-50"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-11",
+   "order": 4,
+   "label_en": "Nisan 11",
+   "label_ta": "நிசான் 11",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-A",
+    "references": "Matthew 21:19–25:46; Mark 11:20–13:37; Luke 20:1–21:38"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-12",
+   "order": 5,
+   "label_en": "Nisan 12",
+   "label_ta": "நிசான் 12",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-B",
+    "references": "Matthew 26:1-5, 14-16; Mark 14:1, 2, 10, 11; Luke 22:1-6"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-13",
+   "order": 6,
+   "label_en": "Nisan 13",
+   "label_ta": "நிசான் 13",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-B",
+    "references": "Matthew 26:17-19; Mark 14:12-16; Luke 22:7-13"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-14",
+   "order": 7,
+   "label_en": "Nisan 14",
+   "label_ta": "நிசான் 14",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-B",
+    "references": "Sunset: Matthew 26:20-35; Mark 14:17-31; Luke 22:14-38; John 13:1–17:26; then Matthew 26:36-75; Mark 14:32-72; Luke 22:39-65; John 18:1-27. Sunrise: Matthew 27:1-61; Mark 15:1-47; Luke 22:66–23:56; John 18:28–19:42"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-15",
+   "order": 8,
+   "label_en": "Nisan 15 (Sabbath)",
+   "label_ta": "நிசான் 15 (ஓய்வுநாள்)",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-B",
+    "references": "Matthew 27:62-66"
+   },
+   "note": null
+  },
+  {
+   "id": "nisan-16",
+   "order": 9,
+   "label_en": "Nisan 16",
+   "label_ta": "நிசான் 16",
+   "span_id": null,
+   "attributes": {
+    "part": "B12-B",
+    "references": "Sunset: Mark 16:1. Sunrise: Matthew 28:1-15; Mark 16:2-8; Luke 24:1-49; John 20:1-25"
+   },
+   "note": null
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b5-0129",
+   "order": 1,
+   "role": "item",
+   "group": "nisan-8",
+   "label_en": "Arrives in Bethany six days before the Passover",
+   "label_ta": "பஸ்காவுக்கு ஆறு நாட்கள்முன் பெத்தானியாவுக்கு வருகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "After sunset."
+  },
+  {
+   "event_id": "b5-0130",
+   "order": 2,
+   "role": "item",
+   "group": "nisan-9",
+   "label_en": "Dines with Simon the leper; Mary anoints Jesus with nard; Jews come to visit Jesus and Lazarus",
+   "label_ta": "தொழுநோயாளியாக இருந்த சீமோனின் வீட்டில் விருந்து சாப்பிடுகிறார்; சடாமாஞ்சி எண்ணெயை இயேசுவின் மேல் மரியாள் ஊற்றுகிறாள்; இயேசுவையும் லாசருவையும் பார்க்க யூதர்கள் வருகிறார்கள்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "After sunset. B12-A lists three items; A7-G has them in one row (Matt. 26:6-13; Mark 14:3-9; John 12:2-11)."
+  },
+  {
+   "event_id": "b5-0131",
+   "order": 3,
+   "role": "item",
+   "group": "nisan-9",
+   "label_en": "Triumphal entry into Jerusalem; Teaches in the temple",
+   "label_ta": "எருசலேமுக்குள் வெற்றிபவனி; ஆலயத்தில் கற்பிக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "After sunrise; map point 1 (Temple)."
+  },
+  {
+   "event_id": "b16-0002",
+   "order": 4,
+   "role": "item",
+   "group": "nisan-10",
+   "label_en": "Spends the night in Bethany",
+   "label_ta": "ராத்திரி பெத்தானியாவில் தங்குகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "After sunset. New record (not a separate A7 row)."
+  },
+  {
+   "event_id": "b5-0132",
+   "order": 5,
+   "role": "item",
+   "group": "nisan-10",
+   "label_en": "Early trip into Jerusalem",
+   "label_ta": "விடியற்காலையில் எருசலேமுக்குப் போகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G: on the way Jesus curses the fig tree (Matt. 21:18, 19)."
+  },
+  {
+   "event_id": "b5-0133",
+   "order": 6,
+   "role": "item",
+   "group": "nisan-10",
+   "label_en": "Cleanses the temple",
+   "label_ta": "ஆலயத்தைச் சுத்தப்படுத்துகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": null
+  },
+  {
+   "event_id": "b5-0134",
+   "order": 7,
+   "role": "context",
+   "group": "nisan-10",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail within B12-A’s Nisan 10 references (Mark 11:18, 19; Luke 19:47, 48)."
+  },
+  {
+   "event_id": "b5-0135",
+   "order": 8,
+   "role": "item",
+   "group": "nisan-10",
+   "label_en": "Jehovah speaks from heaven",
+   "label_ta": "பரலோகத்திலிருந்து யெகோவா பேசுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": null
+  },
+  {
+   "event_id": "b5-0136",
+   "order": 9,
+   "role": "context",
+   "group": "nisan-11",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail within B12-A’s Nisan 11 references (Matthew 21:19–25:46)."
+  },
+  {
+   "event_id": "b5-0137",
+   "order": 10,
+   "role": "context",
+   "group": "nisan-11",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail within B12-A’s Nisan 11 references."
+  },
+  {
+   "event_id": "b5-0138",
+   "order": 11,
+   "role": "item",
+   "group": "nisan-11",
+   "label_en": "Teaches in the temple, using illustrations",
+   "label_ta": "ஆலயத்தில் உவமைகளைச் சொல்லிக் கற்பிக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G: illustration of two sons."
+  },
+  {
+   "event_id": "b5-0139",
+   "order": 12,
+   "role": "item",
+   "group": "nisan-11",
+   "label_en": "Teaches in the temple, using illustrations",
+   "label_ta": "ஆலயத்தில் உவமைகளைச் சொல்லிக் கற்பிக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G: murderous cultivators, marriage feast."
+  },
+  {
+   "event_id": "b5-0140",
+   "order": 13,
+   "role": "context",
+   "group": "nisan-11",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail within B12-A’s Nisan 11 references."
+  },
+  {
+   "event_id": "b5-0141",
+   "order": 14,
+   "role": "context",
+   "group": "nisan-11",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail within B12-A’s Nisan 11 references."
+  },
+  {
+   "event_id": "b5-0142",
+   "order": 15,
+   "role": "item",
+   "group": "nisan-11",
+   "label_en": "Condemns Pharisees",
+   "label_ta": "பரிசேயர்களைக் கண்டனம் செய்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": null
+  },
+  {
+   "event_id": "b5-0143",
+   "order": 16,
+   "role": "item",
+   "group": "nisan-11",
+   "label_en": "Notes widow’s contribution",
+   "label_ta": "விதவை போடும் காணிக்கையைக் கவனிக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": null
+  },
+  {
+   "event_id": "b5-0144",
+   "order": 17,
+   "role": "item",
+   "group": "nisan-11",
+   "label_en": "On Mount of Olives, foretells Jerusalem’s fall and gives sign of future presence",
+   "label_ta": "ஒலிவ மலையில், எருசலேமின் அழிவைப் பற்றி முன்னறிவிக்கிறார்; தன்னுடைய எதிர்கால பிரசன்னத்திற்கு அடையாளம் தருகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": null
+  },
+  {
+   "event_id": "b5-0145",
+   "order": 18,
+   "role": "context",
+   "group": "nisan-11",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070232",
+   "note": "A7-G detail (Matt. 25) within B12-A’s Nisan 11 references."
+  },
+  {
+   "event_id": "b16-0003",
+   "order": 19,
+   "role": "item",
+   "group": "nisan-12",
+   "label_en": "Quiet day with disciples",
+   "label_ta": "சீஷர்களோடு அமைதியான நாள்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "New record (not an A7 row)."
+  },
+  {
+   "event_id": "b5-0146",
+   "order": 20,
+   "role": "context",
+   "group": "nisan-12",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-G row; Matt. 26:1-5 is among B12-B’s Nisan 12 references."
+  },
+  {
+   "event_id": "b5-0147",
+   "order": 21,
+   "role": "item",
+   "group": "nisan-12",
+   "label_en": "Judas arranges betrayal",
+   "label_ta": "காட்டிக்கொடுக்க யூதாஸ் திட்டம் போடுகிறான்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0148",
+   "order": 22,
+   "role": "item",
+   "group": "nisan-13",
+   "label_en": "Peter and John prepare for the Passover",
+   "label_ta": "பேதுருவும் யோவானும் பஸ்காவுக்கு ஏற்பாடு செய்கிறார்கள்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b16-0004",
+   "order": 23,
+   "role": "item",
+   "group": "nisan-13",
+   "label_en": "Jesus and other apostles arrive in late afternoon",
+   "label_ta": "சாயங்காலம் நெருங்கும் நேரத்தில் இயேசுவும் மற்ற அப்போஸ்தலர்களும் வந்துசேருகிறார்கள்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "New record."
+  },
+  {
+   "event_id": "b5-0149",
+   "order": 24,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Eats the Passover with the apostles",
+   "label_ta": "அப்போஸ்தலர்களோடு பஸ்காவைச் சாப்பிடுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "After sunset."
+  },
+  {
+   "event_id": "b5-0150",
+   "order": 25,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Washes the feet of the apostles",
+   "label_ta": "அப்போஸ்தலர்களின் பாதங்களைக் கழுவுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0151",
+   "order": 26,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Dismisses Judas",
+   "label_ta": "யூதாசை அனுப்பிவிடுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0152",
+   "order": 27,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Institutes the Lord’s Evening Meal",
+   "label_ta": "எஜமானின் இரவு விருந்தை ஆரம்பித்து வைக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0153",
+   "order": 28,
+   "role": "context",
+   "group": "nisan-14",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-H detail within B12-B’s references (Matthew 26:20-35)."
+  },
+  {
+   "event_id": "b5-0154",
+   "order": 29,
+   "role": "context",
+   "group": "nisan-14",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-H detail within B12-B’s references (John 13:1–17:26)."
+  },
+  {
+   "event_id": "b5-0155",
+   "order": 30,
+   "role": "context",
+   "group": "nisan-14",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-H detail within B12-B’s references (Matthew 26:36-75)."
+  },
+  {
+   "event_id": "b5-0156",
+   "order": 31,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Betrayed and arrested in the garden of Gethsemane; Apostles flee",
+   "label_ta": "கெத்செமனே தோட்டத்தில் காட்டிக்கொடுக்கப்பட்டு, கைது செய்யப்படுகிறார்; அப்போஸ்தலர்கள் ஓடிப்போகிறார்கள்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "Map point 2 (Garden of Gethsemane). ‘Apostles flee’ (Matt. 26:56) is within this record’s verses."
+  },
+  {
+   "event_id": "b5-0157",
+   "order": 32,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Tried by the Sanhedrin at the house of Caiaphas",
+   "label_ta": "காய்பாவின் வீட்டில் நியாயசங்கத்தாரால் விசாரிக்கப்படுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "Map point 4 (House of Caiaphas)."
+  },
+  {
+   "event_id": "b5-0158",
+   "order": 33,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Peter denies Jesus",
+   "label_ta": "இயேசுவைத் தெரியாதென்று பேதுரு சொல்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b16-0005",
+   "order": 34,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Stands before the Sanhedrin again",
+   "label_ta": "மறுபடியும் நியாயசங்கத்தாரின் முன் நிற்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "After sunrise; map point 8 (Sanhedrin Hall). New record."
+  },
+  {
+   "event_id": "b5-0159",
+   "order": 35,
+   "role": "context",
+   "group": "nisan-14",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-H detail (Matt. 27:3-10) within B12-B’s references (Matthew 27:1-61)."
+  },
+  {
+   "event_id": "b5-0160",
+   "order": 36,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Taken to Pilate, then to Herod, then back to Pilate",
+   "label_ta": "பிலாத்துவிடமும், பின்பு ஏரோதுவிடமும், மறுபடியும் பிலாத்துவிடமும் கொண்டுபோகப்படுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "Map points 3 (Governor’s Palace) and 5 (Palace Used by Herod Antipas)."
+  },
+  {
+   "event_id": "b5-0161",
+   "order": 37,
+   "role": "context",
+   "group": "nisan-14",
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "A7-H detail within B12-B’s references (Matthew 27:1-61)."
+  },
+  {
+   "event_id": "b5-0162",
+   "order": 38,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Sentenced to death and executed at Golgotha",
+   "label_ta": "மரணதண்டனை விதிக்கப்படுகிறார், கொல்கொதாவில் கொலை செய்யப்படுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "Map point 9 (Golgotha)."
+  },
+  {
+   "event_id": "b5-0163",
+   "order": 39,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Dies about three o’clock in the afternoon",
+   "label_ta": "மதியம் சுமார் மூன்று மணிக்கு இறந்து போகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0164",
+   "order": 40,
+   "role": "item",
+   "group": "nisan-14",
+   "label_en": "Body removed and buried",
+   "label_ta": "உடல் கீழே இறக்கப்பட்டு அடக்கம் செய்யப்படுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b5-0165",
+   "order": 41,
+   "role": "item",
+   "group": "nisan-15",
+   "label_en": "Pilate approves posting guards at Jesus’ grave",
+   "label_ta": "இயேசுவின் கல்லறையில் காவலர்களை நிறுத்த பிலாத்து அனுமதிக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  },
+  {
+   "event_id": "b16-0006",
+   "order": 42,
+   "role": "item",
+   "group": "nisan-16",
+   "label_en": "Additional burial spices are purchased",
+   "label_ta": "அடக்கம் செய்வதற்கு நறுமணப் பொருள்கள் கூடுதலாக வாங்கப்படுகின்றன",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "After sunset. New record."
+  },
+  {
+   "event_id": "b5-0166",
+   "order": 43,
+   "role": "item",
+   "group": "nisan-16",
+   "label_en": "Resurrected",
+   "label_ta": "உயிரோடு எழுப்பப்படுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": "After sunrise."
+  },
+  {
+   "event_id": "b5-0167",
+   "order": 44,
+   "role": "item",
+   "group": "nisan-16",
+   "label_en": "Appears to disciples",
+   "label_ta": "சீஷர்கள்முன் தோன்றுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070233",
+   "note": null
+  }
+ ],
+ "notes": "Role ‘item’ = a line printed in B12; role ‘context’ = an A7-G/A7-H record of the same day whose verses fall inside B12’s printed references but which B12 does not list as its own line. B12 and A7-G/A7-H agree on every day; five B12 lines had no record and were added as b16-0002…b16-0006."
+}

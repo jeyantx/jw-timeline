@@ -1,0 +1,465 @@
+{
+ "id": "last-days-sign",
+ "title_en": "The sign of Christ’s presence: dated features since 1914",
+ "title_ta": null,
+ "kind": "prophecy_fulfillment",
+ "description_en": "Features of the composite sign of Jesus’ presence and of “the last days” (Matthew 24, Luke 21, Revelation 6) that Watchtower and Awake! articles illustrate with dated events: World War I and World War II, the Spanish influenza of 1918, famines in 1921, 1933, and 1943, and reports of the worldwide Kingdom preaching. Jesus’ prophecy is anchored to the day he gave the sign (Nisan 11, 33 C.E.) and Revelation to its writing (c. 96 C.E.).",
+ "description_ta": "இயேசு ஓர் அடையாளத்தைக் கொடுத்தார். அந்த அடையாளத்தில் ஏராளமான அம்சங்கள் அடங்கியிருந்தன; அவையெல்லாம் ஒட்டுமொத்தமாகச் சேர்ந்ததே, இயேசுவின் பிரசன்னம் ஆரம்பமாகிவிட்டதற்கான அடையாளம் அல்லது அறிகுறி ஆகும்.",
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "2005721",
+   "publication": "The Watchtower, October 1, 2005 (w05 10/1 pp. 4-7)",
+   "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+   "title_ta": "இயேசுவுடைய பிரசன்னத்தின் அடையாளத்தைப் புரிந்துகொள்கிறீர்களா?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721",
+   "finder_url": "https://www.jw.org/finder?docid=2005721&wtlocale=E",
+   "par": 4,
+   "quote_en": "This sign is composed of several facets, which together make up a composite identifying mark, or signal​—the sign of Jesus’ presence."
+  },
+  {
+   "docid": "2014083",
+   "publication": "The Watchtower (public edition), February 1, 2014 (wp14 2/1 pp. 5-7)",
+   "title_en": "The True Culprit Behind War and Suffering",
+   "title_ta": null,
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2014083",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=2014083&wtlocale=E",
+   "par": 7,
+   "quote_en": "Jesus Christ foretold a time when ‘nation would rise against nation’ and food shortages and pestilences would sweep through the earth. (Matthew 24:3, 7; Luke 21:10, 11) He told his disciples that such calamities would form a sign of the last days."
+  },
+  {
+   "docid": "102012375",
+   "publication": "Awake!, October 2012 (g 10/12)",
+   "title_en": "The Bible—A Book of Accurate Prophecy, Part 6",
+   "title_ta": null,
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/102012375",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=102012375&wtlocale=E",
+   "par": null,
+   "quote_en": "the Bible describes a pattern of events and attitudes, or a sign, that would occur during a time period called “the last days.” (2 Timothy 3:1)"
+  },
+  {
+   "docid": "502016185",
+   "publication": "jw.org, Bible Questions Answered",
+   "title_en": "What Is the Sign of “the Last Days,” or “End Times”?",
+   "title_ta": null,
+   "url_en": "https://www.jw.org/en/bible-teachings/questions/last-days-sign-end-times-prophecies/",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=502016185&wtlocale=E",
+   "par": null,
+   "quote_en": "World conditions as well as Bible chronology indicate that the last days began in 1914, the year World War I began."
+  }
+ ],
+ "images": [
+  {
+   "url": "https://cms-imgp.jw-cdn.org/img/p/502016185/univ/art/502016185_univ_lsr_xl.jpg",
+   "caption_en": "Collage: Events marking “the last days.” 1. A clergyman gives his blessing. 2. A military tank. 3. A sick person lies in bed. 4. A hungry child holds an empty bowl. 5. Angry people riot. 6. A person brandishes a gun.",
+   "caption_ta": null,
+   "source_docid": "502016185",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://assetsnffrgf-a.akamaihd.net/assets/m/102012375/univ/wpub/102012375_univ_cnt_2_xs.jpg",
+   "caption_en": "In fulfillment of Matthew 24:14, Jehovah’s Witnesses preach the good news of God’s Kingdom",
+   "caption_ta": null,
+   "source_docid": "102012375",
+   "kind": "photo"
+  }
+ ],
+ "groups": [
+  {
+   "id": "rider-of-the-white-horse",
+   "order": 1,
+   "label_en": "The rider of the white horse: the heavenly King",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [
+    {
+     "scripture": "Rev. 6:2",
+     "symbol_en": "white horse, whose rider is a heavenly king",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "wars",
+   "order": 2,
+   "label_en": "“Nation will rise against nation”—war",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [
+    {
+     "scripture": "Rev. 6:4",
+     "symbol_en": "fiery-colored horse, whose rider has authority “to take peace away from the earth”",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "food-shortages",
+   "order": 3,
+   "label_en": "“There will be food shortages”",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [
+    {
+     "scripture": "Rev. 6:5, 6",
+     "symbol_en": "black horse, whose rider has scales in his hand to depict famine",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "pestilences",
+   "order": 4,
+   "label_en": "“In one place after another pestilences”",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [
+    {
+     "scripture": "Rev. 6:8",
+     "symbol_en": "pale horse, whose rider brings death by deadly plague",
+     "symbol_ta": null
+    }
+   ],
+   "attributes": {},
+   "note": null
+  },
+  {
+   "id": "kingdom-preaching",
+   "order": 5,
+   "label_en": "“This good news of the kingdom will be preached in all the inhabited earth”",
+   "label_ta": null,
+   "span_id": null,
+   "symbols": [],
+   "attributes": {},
+   "note": null
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b12-0069",
+   "order": 1,
+   "role": "start",
+   "group": null,
+   "label_en": "The last days began in 1914, the year World War I began",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [
+    "2 Tim. 3:1"
+   ],
+   "source_docid": "502016185",
+   "note": "jw.org “What Is the Sign of ‘the Last Days,’ or ‘End Times’?”: “World conditions as well as Bible chronology indicate that the last days began in 1914, the year World War I began.”"
+  },
+  {
+   "event_id": "b10-0003",
+   "order": 2,
+   "role": "start",
+   "group": null,
+   "label_en": "World War I thrust mankind into the last days of this system of things",
+   "label_ta": "முதல் உலகப் போர் மனித சமுதாயத்தில் சரிசெய்ய முடியாதளவு பாதிப்புகளை ஏற்படுத்தியதோடு, மனிதகுலத்தை இந்தப் பொல்லாத உலகின் கடைசி நாட்களுக்குள் தள்ளியது.",
+   "pairs_with": [],
+   "scriptures": [
+    "Rev. 12:12"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b11-0067",
+   "order": 3,
+   "role": "prophecy",
+   "group": "rider-of-the-white-horse",
+   "label_en": "The white horse, whose rider is a heavenly king",
+   "label_ta": null,
+   "pairs_with": [
+    "b10-0002"
+   ],
+   "scriptures": [
+    "Rev. 6:2"
+   ],
+   "source_docid": "2014083",
+   "note": "Revelation is dated only as a book; anchored to its writing completed record (c. 96 C.E.)."
+  },
+  {
+   "event_id": "b10-0002",
+   "order": 4,
+   "role": "fulfillment",
+   "group": "rider-of-the-white-horse",
+   "label_en": "God’s Kingdom was established in the heavens in 1914; the King’s first task is to rid the heavens of Satan and his demons",
+   "label_ta": null,
+   "pairs_with": [
+    "b11-0067"
+   ],
+   "scriptures": [
+    "Rev. 6:2",
+    "Rev. 12:7-9"
+   ],
+   "source_docid": "2014083",
+   "note": null
+  },
+  {
+   "event_id": "b5-0144",
+   "order": 5,
+   "role": "prophecy",
+   "group": "wars",
+   "label_en": "“Nation will rise against nation and kingdom against kingdom”",
+   "label_ta": "“ஜனத்துக்கு விரோதமாய் ஜனமும், ராஜ்யத்துக்கு விரோதமாய் ராஜ்யமும் எழும்பும்.”",
+   "pairs_with": [
+    "b12-0068",
+    "b12-0084"
+   ],
+   "scriptures": [
+    "Matt. 24:7",
+    "Luke 21:10"
+   ],
+   "source_docid": "2005721",
+   "note": "Jesus gives the sign of his presence on Nisan 11, 33 C.E. (b5-0144)."
+  },
+  {
+   "event_id": "b11-0067",
+   "order": 6,
+   "role": "prophecy",
+   "group": "wars",
+   "label_en": "The fiery-colored horse, whose rider has authority “to take peace away from the earth”",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0068",
+    "b12-0084"
+   ],
+   "scriptures": [
+    "Rev. 6:4"
+   ],
+   "source_docid": "2014083",
+   "note": "Revelation is dated only as a book; anchored to its writing completed record (c. 96 C.E.)."
+  },
+  {
+   "event_id": "b12-0068",
+   "order": 7,
+   "role": "fulfillment",
+   "group": "wars",
+   "label_en": "“The war that began in August 1914 and came to an end in November 1918 was a dramatic event”",
+   "label_ta": "“ஆகஸ்ட் 1914-⁠ல் ஆரம்பித்து நவம்பர் 1918-⁠ல் முடிவடைந்த போர், அதிர்ச்சியளிக்கும் ஒரு திருப்புக்கட்டமாக அமைந்தது.",
+   "pairs_with": [
+    "b5-0144",
+    "b11-0067"
+   ],
+   "scriptures": [
+    "Matt. 24:7",
+    "Rev. 6:4"
+   ],
+   "source_docid": "2005721",
+   "note": "Awake! October 2012: “The start of World War I shocked the world and began an era of unprecedented warfare.”"
+  },
+  {
+   "event_id": "b12-0084",
+   "order": 8,
+   "role": "fulfillment",
+   "group": "wars",
+   "label_en": "Just 21 years after World War I ended, a second world war broke out, killing far more people",
+   "label_ta": null,
+   "pairs_with": [
+    "b5-0144",
+    "b11-0067"
+   ],
+   "scriptures": [
+    "Rev. 6:4"
+   ],
+   "source_docid": "2014083",
+   "note": "wp14 2/1: “in 1939, the second world war began.”"
+  },
+  {
+   "event_id": "b5-0144",
+   "order": 9,
+   "role": "prophecy",
+   "group": "food-shortages",
+   "label_en": "“There will be food shortages”",
+   "label_ta": "‘பஞ்சங்கள் உண்டாகும்.’",
+   "pairs_with": [
+    "b15-0004",
+    "b15-0005",
+    "b15-0006"
+   ],
+   "scriptures": [
+    "Matt. 24:7"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b11-0067",
+   "order": 10,
+   "role": "prophecy",
+   "group": "food-shortages",
+   "label_en": "The black horse, whose rider has scales in his hand to depict famine",
+   "label_ta": null,
+   "pairs_with": [
+    "b15-0004"
+   ],
+   "scriptures": [
+    "Rev. 6:5, 6"
+   ],
+   "source_docid": "2014083",
+   "note": "Revelation is dated only as a book; anchored to its writing completed record (c. 96 C.E.)."
+  },
+  {
+   "event_id": "b15-0004",
+   "order": 11,
+   "role": "fulfillment",
+   "group": "food-shortages",
+   "label_en": "Over two million Russians starved to death in 1921",
+   "label_ta": null,
+   "pairs_with": [
+    "b5-0144",
+    "b11-0067"
+   ],
+   "scriptures": [
+    "Rev. 6:5, 6"
+   ],
+   "source_docid": "2014083",
+   "note": null
+  },
+  {
+   "event_id": "b15-0005",
+   "order": 12,
+   "role": "fulfillment",
+   "group": "food-shortages",
+   "label_en": "In Russia and Ukraine in 1933, “hordes of the starving wandered across the countryside”",
+   "label_ta": "1933-⁠ல், ரஷ்யாவிலும் உக்ரைனிலும் “பசியால் தவித்த ஜனங்கள் கும்பல் கும்பலாக நாட்டுப்புற பகுதிகளெங்கும் அலைந்து திரிந்தார்கள்",
+   "pairs_with": [
+    "b5-0144"
+   ],
+   "scriptures": [
+    "Matt. 24:7"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b15-0006",
+   "order": 13,
+   "role": "fulfillment",
+   "group": "food-shortages",
+   "label_en": "In 1943 journalist T. H. White witnessed famine in the Chinese province of Henan",
+   "label_ta": "1943-⁠ல், பத்திரிகை எழுத்தாளர் டி. எச். வைட் என்பவர் ஹனான் என்ற சீன மாகாணத்தில் நிலவிய பஞ்சத்தை நேரில் பார்த்தார்.",
+   "pairs_with": [
+    "b5-0144"
+   ],
+   "scriptures": [
+    "Matt. 24:7"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b5-0144",
+   "order": 14,
+   "role": "prophecy",
+   "group": "pestilences",
+   "label_en": "“In one place after another pestilences”",
+   "label_ta": "‘கொள்ளைநோய்கள் உண்டாகும்.’",
+   "pairs_with": [
+    "b15-0003"
+   ],
+   "scriptures": [
+    "Luke 21:11"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b11-0067",
+   "order": 15,
+   "role": "prophecy",
+   "group": "pestilences",
+   "label_en": "The pale horse, whose rider brings death by deadly plague",
+   "label_ta": null,
+   "pairs_with": [
+    "b15-0003"
+   ],
+   "scriptures": [
+    "Rev. 6:8"
+   ],
+   "source_docid": "2014083",
+   "note": "Revelation is dated only as a book; anchored to its writing completed record (c. 96 C.E.)."
+  },
+  {
+   "event_id": "b15-0003",
+   "order": 16,
+   "role": "fulfillment",
+   "group": "pestilences",
+   "label_en": "The Spanish influenza is estimated to have killed between 20 million and 50 million people in 1918",
+   "label_ta": "1918-⁠ல், ஸ்பானிஷ் ஃப்ளுவினால் 2 முதல் 5 கோடி பேர் உயிரிழந்தார்கள்",
+   "pairs_with": [
+    "b5-0144",
+    "b11-0067"
+   ],
+   "scriptures": [
+    "Luke 21:11",
+    "Rev. 6:8"
+   ],
+   "source_docid": "2005721",
+   "note": "wp14 2/1: “The first great 20th-century plague was the Spanish flu.”"
+  },
+  {
+   "event_id": "b5-0144",
+   "order": 17,
+   "role": "prophecy",
+   "group": "kingdom-preaching",
+   "label_en": "“This good news of the kingdom will be preached in all the inhabited earth for a witness to all the nations”",
+   "label_ta": "“ராஜ்யத்தினுடைய இந்தச் சுவிசேஷம் பூலோகமெங்குமுள்ள சகல ஜாதிகளுக்கும் சாட்சியாகப் பிரசங்கிக்கப்படும், அப்போது முடிவு வரும்.”",
+   "pairs_with": [
+    "b15-0007",
+    "b15-0008"
+   ],
+   "scriptures": [
+    "Matt. 24:14"
+   ],
+   "source_docid": "2005721",
+   "note": null
+  },
+  {
+   "event_id": "b15-0007",
+   "order": 18,
+   "role": "fulfillment",
+   "group": "kingdom-preaching",
+   "label_en": "Currently, over six million Witnesses preach in 235 lands and in over 400 languages",
+   "label_ta": "தற்போது, 235 நாடுகளில், அறுபது லட்சத்திற்கும் அதிகமான யெகோவாவின் சாட்சிகள் 400-⁠க்கும் மேற்பட்ட மொழிகளில் நற்செய்தியைப் பிரசங்கித்து வருகிறார்கள்.",
+   "pairs_with": [
+    "b5-0144"
+   ],
+   "scriptures": [
+    "Matt. 24:14"
+   ],
+   "source_docid": "2005721",
+   "note": "Statement of October 1, 2005; the work is ongoing."
+  },
+  {
+   "event_id": "b15-0008",
+   "order": 19,
+   "role": "fulfillment",
+   "group": "kingdom-preaching",
+   "label_en": "Jehovah’s Witnesses, numbering more than seven million in more than 230 lands, teach others about God’s Kingdom",
+   "label_ta": null,
+   "pairs_with": [
+    "b5-0144"
+   ],
+   "scriptures": [
+    "Matt. 24:14"
+   ],
+   "source_docid": "102012375",
+   "note": "Statement of October 2012; the work is ongoing."
+  }
+ ],
+ "notes": "Only features that jw.org illustrates with a dated event are members. Earthquakes (Luke 21:11; w05 10/1: an average of 18 destructive quakes a year “since 1914”), the attitudes of 2 Timothy 3:1-5, and Matthew 24:10, 12 are described with statistics or general statements, not dated events, so they are not members. Jesus’ prophecy (b5-0144) and Revelation (b11-0067) appear once per feature group."
+}

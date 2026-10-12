@@ -1,0 +1,647 @@
+{
+ "id": "world-powers-daniel",
+ "title_en": "World Powers Foretold by Daniel",
+ "title_ta": "தானியேல் முன்னறிவித்த உலக வல்லரசுகள்",
+ "kind": "world_powers",
+ "description_en": "The succession of world powers pictured by the immense image of Daniel 2, the four beasts of Daniel 7 and the ram and goat of Daniel 8: Babylon, Medo-Persia, Greece, Rome and Anglo-America, as laid out in NWT Appendix B9. The series ends with the stone cut out of the mountain, God’s Kingdom, established in 1914, which will crush these kingdoms at Armageddon.",
+ "description_ta": null,
+ "highlight": true,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001061229",
+   "publication": "New World Translation (2013) App. B9 (nwt pp. 1780-1781)",
+   "title_en": "B9 World Powers Foretold by Daniel",
+   "title_ta": "B9 தானியேல் முன்னறிவித்த உலக வல்லரசுகள்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061229",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061229",
+   "finder_url": "https://www.jw.org/finder?docid=1001061229&wtlocale=E",
+   "par": null,
+   "quote_en": "During World War I, Anglo-American World Power comes into being"
+  },
+  {
+   "docid": "1001061229",
+   "publication": "New World Translation (2013) App. B9 (nwt pp. 1780-1781)",
+   "title_en": "B9 World Powers Foretold by Daniel",
+   "title_ta": "B9 தானியேல் முன்னறிவித்த உலக வல்லரசுகள்",
+   "url_en": "https://www.jw.org/en/library/bible/nwt/appendix-b/daniel-2-image/",
+   "url_ta": null,
+   "finder_url": "https://www.jw.org/finder?docid=1001061229&wtlocale=E",
+   "par": null,
+   "quote_en": null
+  },
+  {
+   "docid": "1101999023",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 4",
+   "title_en": "The Rise and Fall of an Immense Image",
+   "title_ta": "மாபெரும் சிலையின் எழுச்சியும் வீழ்ச்சியும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023",
+   "finder_url": "https://www.jw.org/finder?docid=1101999023&wtlocale=E",
+   "par": 33,
+   "quote_en": "When “the appointed times of the nations” ended in October 1914, “the God of heaven” established the heavenly Kingdom by enthroning his anointed Son, Jesus Christ, as the “King of kings and Lord of lords.”"
+  },
+  {
+   "docid": "1101999028",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 9",
+   "title_en": "Who Will Rule the World?",
+   "title_ta": "உலகை ஆளப்போவது யார்?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999028",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999028",
+   "finder_url": "https://www.jw.org/finder?docid=1101999028&wtlocale=E",
+   "par": 13,
+   "quote_en": null
+  },
+  {
+   "docid": "1101999029",
+   "publication": "Pay Attention to Daniel’s Prophecy! (dp) ch. 10",
+   "title_en": "Who Can Stand Against the Prince of Princes?",
+   "title_ta": "அதிபதிகளுக்கெல்லாம் அதிபதிக்கு முன்பாக நிற்க துணிந்தவர் யார்?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999029",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999029",
+   "finder_url": "https://www.jw.org/finder?docid=1101999029&wtlocale=E",
+   "par": 11,
+   "quote_en": "“The hairy he-goat stands for the king of Greece; and as for the great horn that was between its eyes, it stands for the first king,” the angel Gabriel informs Daniel."
+  },
+  {
+   "docid": "2012442",
+   "publication": "The Watchtower (Study), June 15, 2012 (w12 6/15)",
+   "title_en": "Jehovah Is “a Revealer of Secrets”",
+   "title_ta": "யெகோவா ‘மறைபொருளை வெளிப்படுத்துகிறவர்’",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012442",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012442",
+   "finder_url": "https://www.jw.org/finder?docid=2012442&wtlocale=E",
+   "par": 15,
+   "quote_en": "Daniel further recorded that the large horn would be broken and four smaller horns would grow in its place."
+  },
+  {
+   "docid": "2012443",
+   "publication": "The Watchtower (Study), June 15, 2012 (w12 6/15)",
+   "title_en": "Jehovah Reveals What “Must Shortly Take Place”",
+   "title_ta": "“சீக்கிரத்தில் நடக்கப்போகிற காரியங்களை” யெகோவா வெளிப்படுத்துகிறார்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012443",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012443",
+   "finder_url": "https://www.jw.org/finder?docid=2012443&wtlocale=E",
+   "par": 7,
+   "quote_en": "This description coincides with the time when the seventh head—the Anglo-American World Power—would come to prominence."
+  },
+  {
+   "docid": "2020400",
+   "publication": "The Watchtower (Study), May 2020 (w20.05), Study Article 19",
+   "title_en": "“The King of the North” in the Time of the End",
+   "title_ta": "முடிவு காலத்தில் எது ‘வடதிசை ராஜாவாக’ ஆகும்?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020400",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020400",
+   "finder_url": "https://www.jw.org/finder?docid=2020400&wtlocale=E",
+   "par": "box",
+   "quote_en": "the feet of iron and clay (Dan. 2:41-43)"
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/125",
+   "caption_en": "B9 World Powers Foretold by Daniel (chart with map and timeline)",
+   "caption_ta": "B9 தானியேல் முன்னறிவித்த உலக வல்லரசுகள்",
+   "source_docid": "1001061229",
+   "kind": "chart"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/114",
+   "caption_en": "The image, or statue, of Daniel chapter 2",
+   "caption_ta": "தானியேல் 2-ஆம் அதிகாரத்தில் சொல்லப்பட்டுள்ள உருவம், அதாவது சிலை",
+   "source_docid": "1001061229",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/116",
+   "caption_en": "The winged lion representing the Babylonian Empire",
+   "caption_ta": "சிறகுள்ள சிங்கம் பாபிலோன் பேரரசைக் குறிக்கிறது",
+   "source_docid": "1001061229",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/118",
+   "caption_en": "The bear representing the Medo-Persian Empire",
+   "caption_ta": "கரடி, மேதிய-பெர்சிய பேரரசைக் குறிக்கிறது",
+   "source_docid": "1001061229",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/120",
+   "caption_en": "The winged leopard representing the Grecian Empire",
+   "caption_ta": "சிறகுள்ள சிறுத்தை கிரேக்கு தேசத்தைக் குறிக்கிறது",
+   "source_docid": "1001061229",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/122",
+   "caption_en": "The ten-horned fearsome beast representing the Roman and Anglo-American World Powers",
+   "caption_ta": "பத்துக் கொம்புகளைக் கொண்ட பயங்கரமான மிருகம் ரோம் மற்றும் பேரரசையும் ஆங்கிலோ-அமெரிக்கா உலக வல்லரசுகளைக் குறிக்கிறது",
+   "source_docid": "1001061229",
+   "kind": "illustration"
+  },
+  {
+   "url": "https://cms-imgp.jw-cdn.org/img/p/1001061100/univ/wpub/1001061100_univ_sqr_xl.jpg",
+   "caption_en": "Share image of the jw.org page “World Powers Foretold by Daniel” (NWT, Appendix B9)",
+   "caption_ta": null,
+   "source_docid": "1001061229",
+   "kind": "publication"
+  }
+ ],
+ "groups": [
+  {
+   "id": "babylon",
+   "order": 1,
+   "label_en": "Babylon",
+   "label_ta": "பாபிலோன்",
+   "span_id": "b12-0023",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:32, 36-38",
+     "symbol_en": "head of gold",
+     "symbol_ta": "பொன்னாலான தலை"
+    },
+    {
+     "scripture": "Dan. 7:4",
+     "symbol_en": "winged lion",
+     "symbol_ta": "சிறகுள்ள சிங்கம்"
+    }
+   ],
+   "attributes": {
+    "B9 scriptures": "Daniel 2:32, 36-38; 7:4",
+    "B9 date": "607 B.C.E.",
+    "dp chart": "BABYLONIA from 607 B.C.E."
+   },
+   "note": null
+  },
+  {
+   "id": "medo-persia",
+   "order": 2,
+   "label_en": "Medo-Persia",
+   "label_ta": "மேதிய-பெர்சியா",
+   "span_id": "b12-0027",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:32, 39",
+     "symbol_en": "breasts and arms of silver",
+     "symbol_ta": "வெள்ளியாலான மார்பும் புயங்களும்"
+    },
+    {
+     "scripture": "Dan. 7:5",
+     "symbol_en": "bear",
+     "symbol_ta": "கரடி"
+    },
+    {
+     "scripture": "Dan. 8:3, 20",
+     "symbol_en": "two-horned ram",
+     "symbol_ta": "இரண்டு கொம்புகளுள்ள ஓர் ஆட்டுக்கடா"
+    }
+   ],
+   "attributes": {
+    "B9 scriptures": "Daniel 2:32, 39; 7:5",
+    "B9 dates": "539 B.C.E.; 537 B.C.E.",
+    "dp chart": "MEDO-PERSIA from 539 B.C.E."
+   },
+   "note": null
+  },
+  {
+   "id": "greece",
+   "order": 3,
+   "label_en": "Greece",
+   "label_ta": "கிரேக்கு",
+   "span_id": "b12-0037",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:32, 39",
+     "symbol_en": "belly and thighs of copper",
+     "symbol_ta": "செம்பு வயிறும் தொடைகளும்"
+    },
+    {
+     "scripture": "Dan. 7:6",
+     "symbol_en": "winged leopard (four wings, four heads)",
+     "symbol_ta": "சிறகுள்ள சிறுத்தை"
+    },
+    {
+     "scripture": "Dan. 8:5, 21",
+     "symbol_en": "goat with a prominent single horn (“the hairy he-goat”)",
+     "symbol_ta": "பெரிய கொம்புள்ள ஒரு வெள்ளாட்டுக்கடா"
+    },
+    {
+     "scripture": "Dan. 8:8, 21",
+     "symbol_en": "great horn: the first king, Alexander the Great",
+     "symbol_ta": "பெரிய கொம்பு"
+    },
+    {
+     "scripture": "Dan. 8:8, 22",
+     "symbol_en": "four horns in place of the great horn: four kingdoms of Alexander’s generals",
+     "symbol_ta": "நான்கு சிறிய கொம்புகள்"
+    }
+   ],
+   "attributes": {
+    "B9 scriptures": "Daniel 2:32, 39; 7:6",
+    "B9 date": "331 B.C.E.",
+    "dp chart": "GREECE from 331 B.C.E."
+   },
+   "note": null
+  },
+  {
+   "id": "rome",
+   "order": 4,
+   "label_en": "Rome",
+   "label_ta": "ரோம்",
+   "span_id": "b12-0040",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:33, 40",
+     "symbol_en": "legs of iron",
+     "symbol_ta": "இரும்பாலான கால்கள்"
+    },
+    {
+     "scripture": "Dan. 7:7",
+     "symbol_en": "ten-horned fearsome beast",
+     "symbol_ta": "பத்துக் கொம்புகளைக் கொண்ட பயங்கரமான மிருகம்"
+    }
+   ],
+   "attributes": {
+    "B9 scriptures": "Daniel 2:33, 40; 7:7",
+    "B9 dates": "63 B.C.E.; 70 C.E.",
+    "dp chart": "ROME from 30 B.C.E."
+   },
+   "note": "The ten horns of the fourth beast picture the kingdoms that grew out of the Roman Empire (“Jehovah Reveals What ‘Must Shortly Take Place,’” w12 6/15, par. 3)."
+  },
+  {
+   "id": "anglo-america",
+   "order": 5,
+   "label_en": "Anglo-America",
+   "label_ta": "ஆங்கிலோ-அமெரிக்கா",
+   "span_id": "b12-0066",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:33, 41-43",
+     "symbol_en": "feet of iron and clay",
+     "symbol_ta": "இரும்பும் களிமண்ணும் கலந்த பாதங்கள்"
+    },
+    {
+     "scripture": "Dan. 7:7, 8",
+     "symbol_en": "a horn that grew from the head of a fearsome beast (the “small” horn)",
+     "symbol_ta": "பயங்கரமான மிருகத்தின் தலையில் முளைத்த கொம்பு"
+    },
+    {
+     "scripture": "Dan. 8:9, 23, 24",
+     "symbol_en": "small horn that becomes a fierce-looking king",
+     "symbol_ta": "கொடூரமான ராஜா"
+    }
+   ],
+   "attributes": {
+    "B9 scriptures": "Daniel 2:33, 41-43",
+    "B9 date": "1914-1918 C.E."
+   },
+   "note": "B9 (2013) and w12 6/15 place Anglo-America in the feet of iron and clay; dp (1999) ch. 4 had included it in the iron legs and dated it “from 1763 C.E.”. The newer explanation is used. B9’s picture caption says the ten-horned beast represents “the Roman and Anglo-American World Powers.”"
+  },
+  {
+   "id": "stone",
+   "order": 6,
+   "label_en": "The stone cut out of the mountain: God’s Kingdom",
+   "label_ta": "கைகளால் பெயர்க்கப்படாத ஒரு கல்",
+   "span_id": "b12-0067",
+   "symbols": [
+    {
+     "scripture": "Dan. 2:34, 35, 44, 45",
+     "symbol_en": "a stone cut out of the mountain not by hands, which becomes a large mountain",
+     "symbol_ta": "கைகளால் பெயர்க்கப்படாத ஒரு கல்"
+    }
+   ],
+   "note": "Established in heaven in October 1914; it will crush the kingdoms of the image at Armageddon (dp ch. 4 par. 33-35).",
+   "attributes": {}
+  }
+ ],
+ "members": [
+  {
+   "event_id": "b4-0008",
+   "order": 1,
+   "role": "prophecy",
+   "group": null,
+   "label_en": "Nebuchadnezzar’s dream of an immense image (Dan. 2)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0023",
+    "b12-0027",
+    "b12-0037",
+    "b12-0040",
+    "b12-0066",
+    "b10-0002",
+    "b10-0017"
+   ],
+   "scriptures": [
+    "Dan. 2:31-45"
+   ],
+   "source_docid": "1101999023",
+   "note": "Dated 606/605 B.C.E., the second year of Nebuchadnezzar’s reign as world ruler (dp ch. 4 par. 2)."
+  },
+  {
+   "event_id": "b4-0020",
+   "order": 2,
+   "role": "prophecy",
+   "group": null,
+   "label_en": "Daniel’s dream of four beasts out of the sea (Dan. 7)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0023",
+    "b12-0027",
+    "b12-0037",
+    "b12-0040",
+    "b12-0066"
+   ],
+   "scriptures": [
+    "Dan. 7:1-8, 17, 23-25"
+   ],
+   "source_docid": "1101999028",
+   "note": null
+  },
+  {
+   "event_id": "b11-0033",
+   "order": 3,
+   "role": "prophecy",
+   "group": null,
+   "label_en": "Vision of the ram and the male goat (Dan. 8)",
+   "label_ta": null,
+   "pairs_with": [
+    "b12-0027",
+    "b12-0037",
+    "b4-0090",
+    "b4-0095",
+    "b12-0066"
+   ],
+   "scriptures": [
+    "Dan. 8:3-25"
+   ],
+   "source_docid": "1101999029",
+   "note": "The vision came “in the third year of the kingship of Belshazzar” (Dan. 8:1); jw.org gives no year for it, so it is anchored to the completion of the book of Daniel (c. 536 B.C.E.)."
+  },
+  {
+   "event_id": "b12-0023",
+   "order": 4,
+   "role": "item",
+   "group": "babylon",
+   "label_en": "Babylon",
+   "label_ta": "பாபிலோன்",
+   "pairs_with": [
+    "b4-0008",
+    "b4-0020"
+   ],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b3-0113",
+   "order": 5,
+   "role": "rise",
+   "group": "babylon",
+   "label_en": "607 B.C.E. King Nebuchadnezzar destroys Jerusalem",
+   "label_ta": "கி.மு. 607-ல் நேபுகாத்நேச்சார் ராஜா எருசலேமை அழிக்கிறான்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0024",
+   "order": 6,
+   "role": "fall",
+   "group": "babylon",
+   "label_en": "539 B.C.E. Medo-Persia conquers Babylon",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": "dp ch. 4 par. 11: with the death of Belshazzar, the golden head of the image ceased to exist."
+  },
+  {
+   "event_id": "b12-0027",
+   "order": 7,
+   "role": "item",
+   "group": "medo-persia",
+   "label_en": "Medo-Persia",
+   "label_ta": "மேதிய-பெர்சியா",
+   "pairs_with": [
+    "b4-0008",
+    "b4-0020",
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0024",
+   "order": 8,
+   "role": "rise",
+   "group": "medo-persia",
+   "label_en": "539 B.C.E. Conquers Babylon",
+   "label_ta": "கி.மு. 539-ல் பாபிலோனைக் கைப்பற்றுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0027",
+   "order": 9,
+   "role": "step",
+   "group": "medo-persia",
+   "label_en": "537 B.C.E. Cyrus decrees return of Jews to Jerusalem",
+   "label_ta": "கி.மு. 537-ல் எருசலேமுக்குத் திரும்பிப்போகும்படி யூதர்களுக்கு கோரேஸ் கட்டளை",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": "The decree record is dated “late 538 or early 537 B.C.E.”; B9 shows 537 B.C.E."
+  },
+  {
+   "event_id": "b4-0087",
+   "order": 10,
+   "role": "fall",
+   "group": "medo-persia",
+   "label_en": "331 B.C.E. Alexander defeats Darius III at Gaugamela",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101999023",
+   "note": "dp ch. 4 par. 16: this defeat ended the Medo-Persian World Power, the silver part of the image."
+  },
+  {
+   "event_id": "b12-0037",
+   "order": 11,
+   "role": "item",
+   "group": "greece",
+   "label_en": "Greece",
+   "label_ta": "கிரேக்கு",
+   "pairs_with": [
+    "b4-0008",
+    "b4-0020",
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0087",
+   "order": 12,
+   "role": "rise",
+   "group": "greece",
+   "label_en": "331 B.C.E. Alexander the Great conquers Persia",
+   "label_ta": "கி.மு. 331-ல் பெர்சியாவை மகா அலெக்ஸாண்டர் கைப்பற்றுகிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b4-0090",
+   "order": 13,
+   "role": "step",
+   "group": "greece",
+   "label_en": "The great horn is broken: Alexander dies (323 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [
+    "Dan. 8:8, 21, 22"
+   ],
+   "source_docid": "1101999029",
+   "note": null
+  },
+  {
+   "event_id": "b4-0095",
+   "order": 14,
+   "role": "step",
+   "group": "greece",
+   "label_en": "Four kingdoms stand up in place of the great horn (301 B.C.E.)",
+   "label_ta": null,
+   "pairs_with": [
+    "b11-0033"
+   ],
+   "scriptures": [
+    "Dan. 8:8, 22",
+    "Dan. 7:6"
+   ],
+   "source_docid": "1101999029",
+   "note": null
+  },
+  {
+   "event_id": "b4-0131",
+   "order": 15,
+   "role": "fall",
+   "group": "greece",
+   "label_en": "30 B.C.E. Ptolemaic Egypt, the last Hellenistic kingdom, falls to Rome",
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1101999023",
+   "note": "dp ch. 4 par. 20: the copperlike world power continued only until 30 B.C.E."
+  },
+  {
+   "event_id": "b12-0040",
+   "order": 16,
+   "role": "item",
+   "group": "rome",
+   "label_en": "Rome",
+   "label_ta": "ரோம்",
+   "pairs_with": [
+    "b4-0008",
+    "b4-0020"
+   ],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": "The span record starts in 30 B.C.E. (dp chart “ROME from 30 B.C.E.”); B9 marks 63 B.C.E., when Rome rules over Israel."
+  },
+  {
+   "event_id": "b4-0122",
+   "order": 17,
+   "role": "rise",
+   "group": "rome",
+   "label_en": "63 B.C.E. Rules over Israel",
+   "label_ta": "கி.மு. 63-ல் இஸ்ரவேலை ஆளுகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b6-0096",
+   "order": 18,
+   "role": "step",
+   "group": "rome",
+   "label_en": "70 C.E. Destroys Jerusalem",
+   "label_ta": "கி.பி. 70-ல் எருசலேமை அழிக்கிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b12-0066",
+   "order": 19,
+   "role": "item",
+   "group": "anglo-america",
+   "label_en": "Anglo-America",
+   "label_ta": "ஆங்கிலோ-அமெரிக்கா",
+   "pairs_with": [
+    "b4-0008",
+    "b4-0020",
+    "b11-0033"
+   ],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b12-0068",
+   "order": 20,
+   "role": "rise",
+   "group": "anglo-america",
+   "label_en": "1914-1918 C.E. During World War I, Anglo-American World Power comes into being",
+   "label_ta": "கி.பி. 1914-1918-ல் முதல் உலகப் போரின்போது, ஆங்கிலோ-அமெரிக்க உலக வல்லரசு உருவாகிறது",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001061229",
+   "note": null
+  },
+  {
+   "event_id": "b10-0002",
+   "order": 21,
+   "role": "fulfillment",
+   "group": "stone",
+   "label_en": "October 1914: the Messianic Kingdom “stone” is cut out of the “mountain” of Jehovah’s universal sovereignty",
+   "label_ta": "அக்டோபர் 1914-ல் ‘புறஜாதியாரின் காலம்’ முடிவடைந்தபோது, ‘பரலோகத்தின் தேவன்’ தம் பரலோக ராஜ்யத்தை ஸ்தாபித்தார்.",
+   "pairs_with": [
+    "b4-0008"
+   ],
+   "scriptures": [
+    "Dan. 2:34, 44, 45"
+   ],
+   "source_docid": "1101999023",
+   "note": null
+  },
+  {
+   "event_id": "b10-0017",
+   "order": 22,
+   "role": "future_fulfillment",
+   "group": "stone",
+   "label_en": "At Armageddon the “stone” strikes the image on its feet and crushes all these kingdoms",
+   "label_ta": "இந்த அடையாளப்பூர்வ சிலையின் பாதங்களில் கடவுளுடைய பரலோக ராஜ்யம் விரைவில் மோதும்.",
+   "pairs_with": [
+    "b4-0008"
+   ],
+   "scriptures": [
+    "Dan. 2:34, 35, 44, 45",
+    "Rev. 16:14, 16"
+   ],
+   "source_docid": "1101999023",
+   "note": "w12 6/15 p. 17 box: Dan. 2:44 refers to the kingdoms pictured by the image; Revelation shows that all other human governments will also be destroyed at Armageddon."
+  }
+ ],
+ "notes": "Symbols: metal parts from dp ch. 4 and w12 6/15 (B9 shows them only in its picture); beasts as captioned on B9; Daniel 8 symbols from dp ch. 10 and “Jehovah Is ‘a Revealer of Secrets,’” w12 6/15, par. 12, 15. Pay Attention to Daniel’s Prophecy! (1999) diagram dates the Anglo-American World Power “from 1763 C.E.”; B9 (2013) and w12 6/15 date its emergence to World War I, which is followed here. No chart images are attached to the online dp chapters, so none are recorded."
+}

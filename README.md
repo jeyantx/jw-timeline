@@ -11,7 +11,9 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 - `data/raw/b1..b12.json` — one file per research batch (see below)
 - `data/raw/book_names.json` — 66 Bible books EN/TA names + abbreviations
 - `data/derived/d1.json` — spans built from existing sourced events (lifespans, reigns); `id_registry.json` pins their ids
-- `data/merged/timeline.json` — merged, sorted, stable ids
+- `data/series/*.json` — **series**: curated (prophecy→fulfillment, Daniel's world powers, covenants, App. A6/B charts and maps) and `auto-*` successions; `schema/series.schema.json`
+- `data/merged/timeline.json` — merged, sorted, stable ids, with `series`, `chart_hint`, `endpoint_of`
+- `data/merged/series.json` — all series with resolved members
 - `data/merged/duplicates_report.md` — cross-batch duplicate candidates for manual review
 - `exports/timeline_review.xlsx` — review workbook (Timeline with review columns, Add new events, Sources, Categories, Summary)
 - `exports/timeline.csv` — same Timeline rows as UTF-8 CSV
@@ -32,11 +34,16 @@ Goal: a complete, sourced timeline (Creation → today → prophetic future) for
 | b10 | fulfilled-prophecy markers + undated future | rr book, Watchtower, Insight |
 | b11 | 66 Bible books writing completed | NWT Table of Books, si per-book |
 | b12 | 121 sourced **spans**: world powers, prophetic periods, presidents, Governing Body tenures, bans, HQ, magazines, Roman emperors | si, Insight, dp, kr, jv, NWT App. B, Watchtower, jw.org |
+| b13 | records needed by series: Satan hurled to earth c. 1914 | NWT App. B1, w22.07, kr |
+| b14 | League of Nations, UN, kings of the north/south identities (1871–) | dp, re, w12 6/15, w20.05 |
+| b15 | dated fulfilments: Josiah's acts, Edom, last-days features | Insight, w, g |
+| b16 | NWT App. A6 / B12 / B13 audit additions | NWT Study Edition appendices |
 | d1 | 71 **derived spans**: 31 lifespans + 40 reigns (Judah, Israel) built from sourced points | scripts/derive_spans.py |
 
 ## Workflow
 ```
 python3 scripts/derive_spans.py      # → data/derived/d1.json (lifespans, reigns)
+python3 scripts/build_series.py      # → data/series/auto-*.json (successions)
 python3 scripts/validate.py          # all raw + derived files
 python3 scripts/merge.py             # → data/merged/timeline.json + duplicates report
 python3 scripts/export_review.py     # → exports/timeline_review.xlsx + exports/timeline.csv

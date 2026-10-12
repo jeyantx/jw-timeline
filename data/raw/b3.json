@@ -1135,7 +1135,13 @@
     }
    ],
    "images": [],
-   "conflicts": [],
+   "conflicts": [
+    {
+     "docid": "1001070227",
+     "value": "c. 1070 B.C.E.",
+     "note": "NWT Study Edition App. B7 prints the Davidic covenant as 'c. 1070 B.C.E.'; si Study 3 gives 'a. 1070 B.C.E.' (kept)."
+    }
+   ],
    "importance": null,
    "related_ids": [
     "b3-0008"

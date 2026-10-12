@@ -1,0 +1,353 @@
+{
+  "id": "promised-offspring",
+  "title_en": "The promised offspring",
+  "title_ta": "வாக்குக் கொடுக்கப்பட்ட சந்ததி",
+  "kind": "prophecy_fulfillment",
+  "description_en": "NWT Appendix B1 \"The Message of the Bible\" traces the Bible's theme through seven dated steps: Jehovah's promise in Eden of an offspring who would crush the serpent, Satan; the narrowing of that offspring's line through Abraham and David; Jesus identified as the offspring in 29 C.E.; his heel wound (death) and resurrection in 33 C.E.; Satan hurled to the earth about 1914; and Satan's future imprisonment and destruction. The Watchtower of July 2022 adds the secondary part of the offspring, Christ's 144,000 anointed corulers, anointed from Pentecost 33 C.E.",
+  "description_ta": null,
+  "highlight": true,
+  "auto": false,
+  "parent_series": null,
+  "sources": [
+    {
+      "docid": "1001070221",
+      "publication": "NWT Study Edition App. B1",
+      "title_en": "The Message of the Bible",
+      "title_ta": "பைபிளின் செய்தி",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070221",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070221",
+      "finder_url": "https://www.jw.org/finder?docid=1001070221&wtlocale=E",
+      "par": null,
+      "quote_en": "Jehovah promises to raise up an “offspring,” or a “seed,” who will eventually crush the serpent, Satan."
+    },
+    {
+      "docid": "1001061221",
+      "publication": "NWT (jw.org) App. B1",
+      "title_en": "The Message of the Bible",
+      "title_ta": "பைபிளின் செய்தி",
+      "url_en": "https://www.jw.org/en/library/bible/nwt/appendix-b/message-of-the-bible/",
+      "url_ta": "https://www.jw.org/ta/%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%B0%E0%AE%B0%E0%AE%BF/%E0%AE%AA%E0%AF%88%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D/nwt/%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-b/%E0%AE%AA%E0%AF%88%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF/",
+      "finder_url": "https://www.jw.org/finder?docid=1001061221&wtlocale=E",
+      "par": null,
+      "quote_en": null
+    },
+    {
+      "docid": "2022485",
+      "publication": "The Watchtower (Study), July 2022, Study Article 30",
+      "title_en": "An Ancient Prophecy That Affects You",
+      "title_ta": "முதல் தீர்க்கதரிசனம்—நீங்கள் தெரிந்துகொள்வது ஏன் முக்கியம்",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022485",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022485",
+      "finder_url": "https://www.jw.org/finder?docid=2022485&wtlocale=E",
+      "par": "9; Box: Some Key Events in the Fulfillment of Genesis 3:15",
+      "quote_en": "But there would be a secondary part of the offspring. ... So the offspring is made up of Jesus Christ and his 144,000 corulers. (Rev. 14:1)"
+    },
+    {
+      "docid": "1200003881",
+      "publication": "Insight on the Scriptures (it-2)",
+      "title_en": "Seed",
+      "title_ta": null,
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003881",
+      "url_ta": null,
+      "finder_url": "https://www.jw.org/finder?docid=1200003881&wtlocale=E",
+      "par": "Arrival of the “seed.”",
+      "quote_en": "The addition of the associate “seed,” the Christian congregation, began to take place at the time of the outpouring of holy spirit on the day of Pentecost 33 C.E."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/86",
+      "caption_en": "B1 The Message of the Bible — printed-edition page (alternate SVG: /en/wol/mp/r1/lp-e/nwtsty/2026/85)",
+      "caption_ta": null,
+      "source_docid": "1001070221",
+      "kind": "chart"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/71",
+      "caption_en": "Adam and Eve in the Garden of Eden with a serpent nearby",
+      "caption_ta": "ஏதேன் தோட்டத்தில் ஆதாமும் ஏவாளும். அவர்கள் பக்கத்தில் ஒரு பாம்பு.",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/73",
+      "caption_en": "Abraham hears God’s promise",
+      "caption_ta": "கடவுள் சொல்லும் வாக்குறுதியை ஆபிரகாம் கேட்கிறார்",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/75",
+      "caption_en": "King David",
+      "caption_ta": "தாவீது ராஜா",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/77",
+      "caption_en": "Jesus at the time of his baptism",
+      "caption_ta": "இயேசு ஞானஸ்நானம் எடுக்கிறார்",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/79",
+      "caption_en": "Jesus at the time of his death",
+      "caption_ta": "இயேசு இறந்து போகிறார்",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/81",
+      "caption_en": "The serpent, Satan, being hurled to earth as promised in Revelation",
+      "caption_ta": "வெளிப்படுத்துதலில் சொல்லப்பட்டபடி, ராட்சத பாம்பாகிய சாத்தான் பூமிக்குத் தள்ளப்படுகிறான்",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/83",
+      "caption_en": "Jesus ruling over the earth from his heavenly throne as promised in Revelation",
+      "caption_ta": "வெளிப்படுத்துதலில் சொல்லப்பட்டுள்ளபடி, பரலோக சிம்மாசனத்திலிருந்து இயேசு ராஜாவாக ஆட்சி செய்கிறார்",
+      "source_docid": "1001070221",
+      "kind": "illustration"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/498",
+      "caption_en": "A time line showing key events in the fulfillment of Genesis 3:15 (1943 B.C.E.; 29 C.E.; Passover 33 C.E.; Pentecost 33 C.E.; about 1914 C.E.; end of the Thousand Year Reign).",
+      "caption_ta": "ஆதியாகமம் 3:15-ன் நிறைவேற்றமாக நடக்கிற சில முக்கிய சம்பவங்கள்.",
+      "source_docid": "2022485",
+      "kind": "chart"
+    },
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/496",
+      "caption_en": "Jesus Christ and his anointed corulers in their heavenly glory.",
+      "caption_ta": "இயேசு கிறிஸ்துவும் அவரோடு ஆட்சி செய்யப்போகிற அபிஷேகம் செய்யப்பட்டவர்களும்.",
+      "source_docid": "2022485",
+      "kind": "illustration"
+    }
+  ],
+  "groups": [
+    {
+      "id": "primary-part",
+      "order": 1,
+      "label_en": "Jesus, the primary part of the offspring of the woman",
+      "label_ta": "பெண்ணின் சந்ததியின் முக்கிய பாகமாக இருக்கிற இயேசு",
+      "span_id": "d1-0024",
+      "attributes": {
+        "became_offspring": "At his anointing in 29 C.E. (Gal. 3:16)",
+        "source": "w22.07 par. 8, 19; it-2 'Seed'"
+      },
+      "note": "Jesus' earthly life (d1-0024) is the span; he became the offspring at his anointing (w22.07 par. 8; Insight 'Seed')."
+    },
+    {
+      "id": "secondary-part",
+      "order": 2,
+      "label_en": "The secondary part of the offspring: Christ's 144,000 anointed corulers",
+      "label_ta": "இயேசு கிறிஸ்துவும் அவரோடு ஆட்சி செய்யப்போகிற அபிஷேகம் செய்யப்பட்ட 1,44,000 பேரும்",
+      "span_id": null,
+      "attributes": {
+        "identified_by": "Gal. 3:28, 29; Rev. 14:1",
+        "begins": "Pentecost 33 C.E. (Acts 2:1-4)",
+        "number": "144,000 (Rev. 7:4-8; 14:1)",
+        "source": "w22.07 par. 9 and box D; it-2 'Seed'"
+      },
+      "note": "The label_ta is the Tamil caption of the w22.07 illustration 'The offspring of the woman', which names Jesus Christ together with the 144,000."
+    }
+  ],
+  "members": [
+    {
+      "event_id": "b1-0002",
+      "order": 1,
+      "role": "prophecy",
+      "group": null,
+      "label_en": "Jehovah promises to raise up an “offspring,” or a “seed,” who will eventually crush the serpent, Satan.",
+      "label_ta": "ஒரு “சந்ததி,” அதாவது வாரிசு, வருவார்; அவர் கடைசியில் பாம்பை, அதாவது சாத்தானை, நசுக்குவார் என்று யெகோவா வாக்குக் கொடுக்கிறார்.",
+      "pairs_with": [
+        "b5-0017",
+        "b5-0163",
+        "b5-0166",
+        "b6-0001",
+        "b13-0001",
+        "b10-0010",
+        "b12-0120",
+        "b10-0025"
+      ],
+      "scriptures": [
+        "Gen. 3:1-5, 15"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: After 4026 B.C.E. “The serpent” questions Jehovah’s right to rule; the offspring is promised."
+    },
+    {
+      "event_id": "b1-0037",
+      "order": 2,
+      "role": "step",
+      "group": null,
+      "label_en": "Jehovah tells Abraham that the promised “offspring” will be one of his descendants.",
+      "label_ta": "வாக்குக் கொடுக்கப்பட்ட “சந்ததி,” ஆபிரகாமின் வழியில் வருமென்று யெகோவா சொல்கிறார்.",
+      "pairs_with": [
+        "b5-0017"
+      ],
+      "scriptures": [
+        "Gen. 22:18"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1 dates this step 1943 B.C.E.; w22.07 box A: 'God’s promise that the primary offspring would be one of Abraham’s descendants goes into effect' (Gen. 12:1-3; 22:15-18). Anchored to the Abrahamic covenant record of 1943 B.C.E.; see also b1-0036 (Abraham crosses the Euphrates)."
+    },
+    {
+      "event_id": "b3-0009",
+      "order": 3,
+      "role": "step",
+      "group": null,
+      "label_en": "Jehovah assures King David and later his son Solomon that the promised “offspring” would come through their family line.",
+      "label_ta": "வாக்குக் கொடுக்கப்பட்ட “சந்ததி,” தாவீது ராஜா மற்றும் அவருடைய மகன் சாலொமோனின் வழியில் வருமென்று யெகோவா உறுதியளிக்கிறார்.",
+      "pairs_with": [
+        "b5-0017"
+      ],
+      "scriptures": [
+        "2 Sam. 7:12, 16",
+        "1 Ki. 9:3-5",
+        "Isa. 9:6, 7"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: After 1070 B.C.E. Anchored to the Kingdom covenant with David."
+    },
+    {
+      "event_id": "b5-0017",
+      "order": 4,
+      "role": "fulfillment",
+      "group": "primary-part",
+      "label_en": "Jehovah identifies Jesus as the promised “offspring” who is the Heir to David’s throne.",
+      "label_ta": "வாக்குக் கொடுக்கப்பட்ட ‘சந்ததியும்,’ தாவீதின் சிம்மாசனத்துக்கு வாரிசும் இயேசுதான் என்று யெகோவா அடையாளம் காட்டுகிறார்.",
+      "pairs_with": [
+        "b1-0002",
+        "b1-0037",
+        "b3-0009"
+      ],
+      "scriptures": [
+        "Gal. 3:16",
+        "Luke 1:31-33",
+        "Luke 3:21, 22"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: 29 C.E. w22.07 box B: 'Jesus is anointed, becoming the primary part of the offspring of the woman.' Insight 'Seed': he became the seed when begotten by holy spirit at his baptism."
+    },
+    {
+      "event_id": "b5-0163",
+      "order": 5,
+      "role": "fulfillment",
+      "group": "primary-part",
+      "label_en": "The serpent, Satan, briefly cripples the promised “offspring” by having Jesus killed.",
+      "label_ta": "இயேசுவைக் கொல்வதன் மூலம், வாக்குக் கொடுக்கப்பட்ட ‘சந்ததியை’ பாம்பாகிய சாத்தான் தற்காலிகமாகக் காயப்படுத்துகிறான்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Gen. 3:15"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: 33 C.E. The bruising of the heel (Gen. 3:15); w22.07 box C 'Passover 33 C.E.'"
+    },
+    {
+      "event_id": "b5-0166",
+      "order": 6,
+      "role": "fulfillment",
+      "group": "primary-part",
+      "label_en": "Jehovah raises Jesus to life in heaven and accepts the value of Jesus’ perfect life, thus providing the basis to forgive sins and to give Adam’s descendants everlasting life.",
+      "label_ta": "இயேசுவை யெகோவா பரலோகத்துக்கு உயிர்த்தெழுப்பி, அவருடைய பரிபூரண உயிரின் மதிப்பை ஏற்றுக்கொள்கிறார். அதன் அடிப்படையில் பாவங்களை மன்னித்து, ஆதாமின் சந்ததிக்கு முடிவில்லாத வாழ்வைக் கொடுப்பார்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Acts 2:32-36",
+        "1 Cor. 15:21, 22"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: 33 C.E. Anchored to the resurrection (Nisan 16); the heel wound heals 'three days later' (w22.07 box C). Jesus' ascension is b5-0169."
+    },
+    {
+      "event_id": "b6-0001",
+      "order": 7,
+      "role": "fulfillment",
+      "group": "secondary-part",
+      "label_en": "The first ones of the secondary part of the woman’s offspring are anointed with holy spirit.",
+      "label_ta": "பெண்ணின் சந்ததியாக ஆகிற மற்றவர்கள் முதன்முதலில் கடவுளுடைய சக்தியால் அபிஷேகம் செய்யப்படுகிறார்கள்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Acts 2:1-4",
+        "Gal. 3:29"
+      ],
+      "source_docid": "2022485",
+      "note": "Not one of the seven B1 steps. w22.07 box D 'Pentecost 33 C.E.'; Insight 'Seed': the addition of the associate seed began at Pentecost 33 C.E. (b5-0170 was merged into b6-0001)."
+    },
+    {
+      "event_id": "b13-0001",
+      "order": 8,
+      "role": "fulfillment",
+      "group": null,
+      "label_en": "Jesus hurls the serpent, Satan, to the earth, confining him there for a short time.",
+      "label_ta": "பாம்பை, அதாவது சாத்தானை, இயேசு பூமிக்குத் தள்ளி, கொஞ்சக் காலம் அங்கே விட்டுவைத்திருக்கிறார்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Rev. 12:7-9, 12"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: About 1914 C.E. New record b13-0001 (no existing record for Satan's ouster)."
+    },
+    {
+      "event_id": "b10-0010",
+      "order": 9,
+      "role": "future_fulfillment",
+      "group": "secondary-part",
+      "label_en": "The selection of those making up the secondary part of the offspring is nearing completion.",
+      "label_ta": "அந்தச் சந்ததியின் பாகமாக இருக்கிற மற்றவர்களையும் யெகோவா கிட்டத்தட்ட தேர்ந்தெடுத்துவிட்டார் என்று சொல்லலாம்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Rev. 7:4-8",
+        "Rev. 14:1"
+      ],
+      "source_docid": "2022485",
+      "note": "Not one of the seven B1 steps. w22.07 par. 19 (wording above); Insight 'Seed': those 'sealed' with God's spirit number 144,000 (Rev. 7:4-8). Anchored to the future record of the final sealing."
+    },
+    {
+      "event_id": "b12-0120",
+      "order": 10,
+      "role": "future_fulfillment",
+      "group": null,
+      "label_en": "Jesus imprisons Satan for 1,000 years",
+      "label_ta": "1,000 வருஷங்களுக்குச் சாத்தானை இயேசு சிறையில் அடைப்பார்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Rev. 20:1-3"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: Future (first half of the sentence). The 1,000-year span; its start point is b10-0019."
+    },
+    {
+      "event_id": "b10-0025",
+      "order": 11,
+      "role": "future_fulfillment",
+      "group": null,
+      "label_en": "and then destroys him, symbolically crushing his head. Jehovah’s original purpose for the earth and for mankind is fulfilled, his name is cleared of reproach, and his way of ruling is vindicated.",
+      "label_ta": "பின்பு அவன் தலையை நசுக்குவார், அதாவது அவனை அழிப்பார். யெகோவா எந்த நோக்கத்துக்காக இந்தப் பூமியையும் மனிதர்களையும் படைத்தாரோ, அந்த நோக்கம் நிறைவேறும்.",
+      "pairs_with": [
+        "b1-0002"
+      ],
+      "scriptures": [
+        "Rev. 20:10",
+        "Rev. 21:3, 4"
+      ],
+      "source_docid": "1001070221",
+      "note": "B1: Future (second half). w22.07 box F 'End of the Thousand Year Reign: Satan is permanently crushed' (Rev. 20:7, 10)."
+    }
+  ],
+  "notes": "Members 1-6, 8, 10-11 are the seven steps of NWT App. B1 (step 33 C.E. split into death b5-0163 and resurrection b5-0166; step 'Future' split into the 1,000-year abyss b12-0120 and Satan's destruction b10-0025). Members 7 and 9 are the secondary part of the offspring, which B1 does not list but w22.07 (par. 9, 19 and box D) and Insight 'Seed' present as part of the offspring (Gal. 3:29). B1 images: large /nwtsty/2026/71,73,…,83; each has a small version at the next number (72,74,…,84). Insight 'Seed' has no Tamil WOL page (404); Tamil labels come from the Tamil B1 page and Tamil w22.07."
+}

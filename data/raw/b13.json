@@ -1,0 +1,155 @@
+{
+  "batch": "b13",
+  "schema_version": 2,
+  "scope": "Records missing from the data that the series promised-offspring, messianic-prophecies and messianic-line need.",
+  "generated": "2026-10-12",
+  "sources_consulted": [
+    {
+      "docid": "1001070221",
+      "title_en": "The Message of the Bible (NWT App. B1)",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070221",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070221"
+    },
+    {
+      "docid": "2022485",
+      "title_en": "An Ancient Prophecy That Affects You (w22.07)",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022485",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022485"
+    },
+    {
+      "docid": "1102014241",
+      "title_en": "The Kingdom Is Born in Heaven (kr chap. 2)",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241"
+    }
+  ],
+  "events": [
+    {
+      "id": "b13-0001",
+      "slug": "satan-hurled-to-earth",
+      "timing": "point",
+      "span_kind": null,
+      "date_label_en": "About 1914 C.E.",
+      "date_label_ta": "கி.பி. சுமார் 1914",
+      "start": {
+        "display_en": "About 1914 C.E.",
+        "display_ta": "கி.பி. சுமார் 1914",
+        "year": 1914,
+        "era": "CE",
+        "month": null,
+        "day": null,
+        "hebrew_month": null,
+        "hebrew_day": null,
+        "season": null,
+        "precision": "approx",
+        "latest": null,
+        "sort_key": 1914.765
+      },
+      "end": null,
+      "duration": null,
+      "start_event_id": null,
+      "end_event_id": null,
+      "parent_id": null,
+      "derived": null,
+      "title_en": "Satan hurled out of heaven down to the earth",
+      "title_ta": "சாத்தான் பரலோகத்திலிருந்து தள்ளப்படுகிறான்",
+      "description_en": "Shortly after Jesus was installed as Messianic King in 1914, he and his angels warred against Satan and the demons and hurled them out of heaven down to the earth. Satan is now confined to the vicinity of the earth for a short time, venting his anger on God's people.",
+      "description_ta": "பாம்பை, அதாவது சாத்தானை, இயேசு பூமிக்குத் தள்ளி, கொஞ்சக் காலம் அங்கே விட்டுவைத்திருக்கிறார்.—வெளிப்படுத்துதல் 12:7-9, 12.",
+      "category": "bible.prophecy_fulfilled",
+      "event_kind": "prophecy_fulfilled",
+      "tags": [
+        "1914",
+        "Satan",
+        "war in heaven",
+        "Genesis 3:15",
+        "promised offspring"
+      ],
+      "people": [
+        "Satan",
+        "Jesus Christ",
+        "Michael"
+      ],
+      "places": [],
+      "scriptures": [
+        {
+          "ref_en": "Rev. 12:7-9, 12",
+          "ref_ta": "வெளி. 12:7-9, 12",
+          "book": "Revelation",
+          "book_num": 66,
+          "chapter": 12,
+          "verses": "7-9, 12"
+        },
+        {
+          "ref_en": "Rev. 12:13, 17",
+          "ref_ta": "வெளி. 12:13, 17",
+          "book": "Revelation",
+          "book_num": 66,
+          "chapter": 12,
+          "verses": "13, 17"
+        }
+      ],
+      "sources": [
+        {
+          "docid": "1001070221",
+          "publication": "NWT Study Edition App. B1",
+          "title_en": "The Message of the Bible",
+          "title_ta": "பைபிளின் செய்தி",
+          "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070221",
+          "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070221",
+          "finder_url": "https://www.jw.org/finder?docid=1001070221&wtlocale=E",
+          "par": "About 1914 C.E.",
+          "quote_en": "Jesus hurls the serpent, Satan, to the earth, confining him there for a short time.—Revelation 12:7-9, 12."
+        },
+        {
+          "docid": "2022485",
+          "publication": "The Watchtower (Study), July 2022, Study Article 30",
+          "title_en": "An Ancient Prophecy That Affects You",
+          "title_ta": "முதல் தீர்க்கதரிசனம்—நீங்கள் தெரிந்துகொள்வது ஏன் முக்கியம்",
+          "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022485",
+          "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022485",
+          "finder_url": "https://www.jw.org/finder?docid=2022485&wtlocale=E",
+          "par": 15,
+          "quote_en": "Shortly after Jesus was installed as Messianic King in 1914, Satan was cast out of heaven. He is now confined to the vicinity of the earth, awaiting his destruction. (Rev. 12:9, 12)"
+        },
+        {
+          "docid": "2022485",
+          "publication": "The Watchtower (Study), July 2022, Study Article 30",
+          "title_en": "An Ancient Prophecy That Affects You",
+          "title_ta": "முதல் தீர்க்கதரிசனம்—நீங்கள் தெரிந்துகொள்வது ஏன் முக்கியம்",
+          "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022485",
+          "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022485",
+          "finder_url": "https://www.jw.org/finder?docid=2022485&wtlocale=E",
+          "par": "Box: Some Key Events in the Fulfillment of Genesis 3:15 (E)",
+          "quote_en": "ABOUT 1914 Satan is cast out of heaven, and persecution of the offspring of the woman intensifies. (Rev. 12:9, 12, 17)"
+        },
+        {
+          "docid": "1102014241",
+          "publication": "God’s Kingdom Rules! (kr) chap. 2",
+          "title_en": "The Kingdom Is Born in Heaven",
+          "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+          "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+          "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+          "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+          "par": 28,
+          "quote_en": "Satan and his demons warred against the faithful angels, who were under the leadership of Michael, or Christ."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/81",
+          "caption_en": "The serpent, Satan, being hurled to earth as promised in Revelation",
+          "caption_ta": "வெளிப்படுத்துதலில் சொல்லப்பட்டபடி, ராட்சத பாம்பாகிய சாத்தான் பூமிக்குத் தள்ளப்படுகிறான்",
+          "source_docid": "1001070221",
+          "kind": "illustration"
+        }
+      ],
+      "conflicts": [],
+      "importance": null,
+      "related_ids": [
+        "b10-0002",
+        "b10-0003"
+      ],
+      "notes": "Added for the promised-offspring series (NWT App. B1 step 'About 1914 C.E.'). Dated 'about 1914' as B1 and w22.07 word it; it follows the Kingdom's birth (b10-0002) and precedes the 'woe' for the earth (b10-0003)."
+    }
+  ]
+}

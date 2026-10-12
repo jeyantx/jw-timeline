@@ -45,6 +45,8 @@ def sc_keys(ev):
 NOT_DUPLICATES = {  # reviewed pairs that look alike but are different records
     frozenset({"b8-0126", "b12-0076"}),  # 1919 convention vs. The Golden Age magazine run
     frozenset({"b8-0247", "b12-0089"}),  # 1943 course introduced vs. the school's 1943-2015 run
+    frozenset({"b5-0157", "b16-0005"}),  # night trial vs. the Sanhedrin's second (morning) session, App. B12
+    frozenset({"b5-0160", "b16-0005"}),  # before Pilate and Herod vs. second Sanhedrin session
 }
 
 

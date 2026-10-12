@@ -1,0 +1,241 @@
+{
+ "id": "patriarchs-travels",
+ "title_en": "Genesis and the Travels of the Patriarchs",
+ "title_ta": "ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+ "kind": "chart_reproduction",
+ "description_en": "NWT Appendix B2 maps the places named in Genesis, from Ur and Babel in Mesopotamia through Haran and Canaan to Egypt, with an inset of central Canaan. Its timeline marks Adam’s creation (4026 B.C.E.), the validating of the Abrahamic covenant (1943 B.C.E.) and Joseph’s death (1657 B.C.E.).",
+ "description_ta": null,
+ "highlight": false,
+ "auto": false,
+ "parent_series": null,
+ "sources": [
+  {
+   "docid": "1001070222",
+   "publication": "NWT Study Edition (nwtsty) App. B2",
+   "title_en": "B2 Genesis and the Travels of the Patriarchs",
+   "title_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070222",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001070222",
+   "finder_url": "https://www.jw.org/finder?docid=1001070222&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  },
+  {
+   "docid": "1001061222",
+   "publication": "New World Translation (nwt) App. B2",
+   "title_en": "B2 Genesis and the Travels of the Patriarchs",
+   "title_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061222",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061222",
+   "finder_url": "https://www.jw.org/finder?docid=1001061222&wtlocale=E",
+   "par": null,
+   "quote_en": null,
+   "supports": null
+  }
+ ],
+ "images": [
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/88",
+   "caption_en": "B2 Genesis and the Travels of the Patriarchs — printed-edition image",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001070222",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/88",
+   "caption_en": "Tamil edition: B2 Genesis and the Travels of the Patriarchs — printed-edition image",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001070222",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwtsty/2026/87",
+   "caption_en": "B2 Genesis and the Travels of the Patriarchs — printed-edition image (SVG)",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001070222",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwtsty/2018/87",
+   "caption_en": "Tamil edition: B2 Genesis and the Travels of the Patriarchs — printed-edition image (SVG)",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001070222",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/nwt/2013/101",
+   "caption_en": "B2 Genesis and the Travels of the Patriarchs — printed-edition image",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001061222",
+   "kind": "map"
+  },
+  {
+   "url": "https://wol.jw.org/ta/wol/mp/r122/lp-tl/nwt/2016/101",
+   "caption_en": "Tamil edition: B2 Genesis and the Travels of the Patriarchs — printed-edition image",
+   "caption_ta": "B2 ஆதியாகமப் பதிவும் முன்னோர்களின் பயணமும்",
+   "source_docid": "1001061222",
+   "kind": "map"
+  }
+ ],
+ "groups": [],
+ "members": [
+  {
+   "event_id": "b1-0001",
+   "order": 1,
+   "role": "item",
+   "group": null,
+   "label_en": "Adam created",
+   "label_ta": "ஆதாம் படைக்கப்படுகிறான்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "b1-0035",
+   "order": 2,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Haran is on the map."
+  },
+  {
+   "event_id": "b1-0036",
+   "order": 3,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Euphrates River, Haran and Canaan are on the map."
+  },
+  {
+   "event_id": "b1-0037",
+   "order": 4,
+   "role": "item",
+   "group": null,
+   "label_en": "Abrahamic covenant validated",
+   "label_ta": "ஆபிரகாமோடு செய்த ஒப்பந்தம் அமல்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Shown on the timeline of the map."
+  },
+  {
+   "event_id": "b1-0038",
+   "order": 5,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Dan and Hobah are on the map (Gen. 14:14, 15)."
+  },
+  {
+   "event_id": "b1-0039",
+   "order": 6,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Salem (Jerusalem) and the Plain of Shaveh-kiriathaim are on the map inset."
+  },
+  {
+   "event_id": "b1-0056",
+   "order": 7,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Haran and Paddan-aram are on the map."
+  },
+  {
+   "event_id": "b1-0057",
+   "order": 8,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Bethel, Luz is on the map inset."
+  },
+  {
+   "event_id": "b1-0060",
+   "order": 9,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Mahanaim, Penuel and Succoth are on the map inset."
+  },
+  {
+   "event_id": "b1-0061",
+   "order": 10,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Penuel, Peniel and the Wadi of Jabbok are on the map inset."
+  },
+  {
+   "event_id": "b2-0001",
+   "order": 11,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Dothan is on the map."
+  },
+  {
+   "event_id": "b2-0005",
+   "order": 12,
+   "role": "context",
+   "group": null,
+   "label_en": null,
+   "label_ta": null,
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Goshen and Rameses are on the map."
+  },
+  {
+   "event_id": "b2-0007",
+   "order": 13,
+   "role": "item",
+   "group": null,
+   "label_en": "Joseph dies",
+   "label_ta": "யோசேப்பு இறக்கிறார்",
+   "pairs_with": [],
+   "scriptures": [],
+   "source_docid": "1001070222",
+   "note": "Shown on the timeline of the map."
+  }
+ ],
+ "notes": "Members with role ‘item’ are the map’s own timeline entries. ‘Context’ members are dated patriarch journeys whose places are labelled on B2; B2 itself does not draw individual routes or print their dates."
+}

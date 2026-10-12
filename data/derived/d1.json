@@ -4689,8 +4689,8 @@
    "slug": "reign-judah-jehoshaphat",
    "timing": "span",
    "span_kind": "reign",
-   "date_label_en": "937 B.C.E. – c. 911 B.C.E.",
-   "date_label_ta": null,
+   "date_label_en": "937 B.C.E. – 913 B.C.E.",
+   "date_label_ta": "கி.மு. 937 – கி.மு. 913",
    "start": {
     "display_en": "937 B.C.E.",
     "display_ta": "கி.மு. 937",
@@ -4706,18 +4706,18 @@
     "sort_key": -936.5
    },
    "end": {
-    "display_en": "c. 911 B.C.E.",
-    "display_ta": null,
-    "year": 911,
+    "display_en": "913 B.C.E.",
+    "display_ta": "கி.மு. 913",
+    "year": 913,
     "era": "BCE",
     "month": null,
     "day": null,
     "hebrew_month": null,
     "hebrew_day": null,
     "season": null,
-    "precision": "approx",
+    "precision": "exact",
     "latest": null,
-    "sort_key": -911.0
+    "sort_key": -912.5
    },
    "duration": {
     "years": 25,
@@ -4729,19 +4729,19 @@
     "derived": false
    },
    "start_event_id": "b3-0034",
-   "end_event_id": "b3-0041",
+   "end_event_id": "b3-0040",
    "parent_id": null,
    "derived": {
-    "method": "paired_events",
+    "method": "successor_accession",
     "fields": [
      "start",
      "end"
     ],
-    "note": "Start b3-0034; ends with b3-0041."
+    "note": "Start b3-0034; ends when Jehoram becomes king (b3-0040), as laid out in NWT Appendix A6."
    },
    "title_en": "Reign of Jehoshaphat (Judah)",
    "title_ta": null,
-   "description_en": "Jehoshaphat rules Judah. Starts with Jehoshaphat becomes king of Judah (25 years) (937 B.C.E.); ends with b3-0041.",
+   "description_en": "Jehoshaphat rules Judah. Starts with Jehoshaphat becomes king of Judah (25 years) (937 B.C.E.); ends when Jehoram becomes king (b3-0040), as laid out in NWT Appendix A6.",
    "description_ta": null,
    "category": "bible.monarchy",
    "event_kind": "reign",
@@ -4765,12 +4765,12 @@
      "verses": "41, 42"
     },
     {
-     "ref_en": "1 Ki. 22:50",
-     "ref_ta": "1 இரா. 22:50",
-     "book": "1 Kings",
-     "book_num": 11,
-     "chapter": 22,
-     "verses": "50"
+     "ref_en": "2 Ki. 8:16, 17",
+     "ref_ta": "2 இரா. 8:16, 17",
+     "book": "2 Kings",
+     "book_num": 12,
+     "chapter": 8,
+     "verses": "16, 17"
     }
    ],
    "sources": [
@@ -4784,7 +4784,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1001070206&wtlocale=E",
      "par": null,
      "quote_en": "937 B.C.E. — Jehoshaphat: 25 years",
-     "supports": "start"
+     "supports": "whole"
     },
     {
      "docid": "1101990130",
@@ -4796,7 +4796,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
      "par": null,
      "quote_en": "936 B.C.E. Jehoshaphat succeeds Asa as king of Judah",
-     "supports": "start"
+     "supports": "whole"
     },
     {
      "docid": "1200000970",
@@ -4809,18 +4809,6 @@
      "par": null,
      "quote_en": "JEHOSHAPHAT evidently began to rule (25), but his first regnal year counted from 936 — 937",
      "supports": "whole"
-    },
-    {
-     "docid": "1101990072",
-     "publication": "All Scripture Is Inspired (si) Bible Book No. 11",
-     "title_en": "Bible Book Number 11—1 Kings",
-     "title_ta": "பைபிள் புத்தக எண் 11—1 இராஜாக்கள்",
-     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990072",
-     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990072",
-     "finder_url": "https://www.jw.org/finder?docid=1101990072&wtlocale=E",
-     "par": null,
-     "quote_en": "carries it through to 911 B.C.E., when Jehoshaphat died",
-     "supports": "end"
     }
    ],
    "images": [],
@@ -4831,17 +4819,17 @@
      "note": "si Study 3 table dates Jehoshaphat’s accession 936 B.C.E.; NWT A6-A and Insight chart give 937 (Asa dies in his 41st year; regnal-year vs accession-year reckoning)."
     },
     {
-     "docid": "1101990072",
-     "value": "911 B.C.E.",
-     "note": "si Bible Book No. 11 gives 911 B.C.E. without \"c.\"; Insight chart gives c. 911."
+     "docid": "1200010959",
+     "value": "919 B.C.E.",
+     "note": "The older Aid to Bible Understanding chart (1971) places Jehoram of Judah’s heading at 919. Insight chart: c. 919 he became associated with his father; 913 official coregent (kingship counted from then); c. 911 sole ruler. NWT A6-A and si use 913."
     }
    ],
    "importance": null,
    "related_ids": [
     "b3-0034",
-    "b3-0041"
+    "b3-0040"
    ],
-   "notes": null
+   "notes": "Bar ends where NWT App. A6 starts Jehoram (913 B.C.E.); Jehoshaphat died c. 911 B.C.E. (b3-0041) while Jehoram shared the rule."
   },
   {
    "id": "d1-0036",
@@ -6537,8 +6525,8 @@
    "slug": "reign-judah-josiah",
    "timing": "span",
    "span_kind": "reign",
-   "date_label_en": "659 B.C.E. – c. 629 B.C.E.",
-   "date_label_ta": null,
+   "date_label_en": "659 B.C.E. – 628 B.C.E.",
+   "date_label_ta": "கி.மு. 659 – கி.மு. 628",
    "start": {
     "display_en": "659 B.C.E.",
     "display_ta": "கி.மு. 659",
@@ -6554,18 +6542,18 @@
     "sort_key": -658.5
    },
    "end": {
-    "display_en": "c. 629 B.C.E.",
-    "display_ta": null,
-    "year": 629,
+    "display_en": "628 B.C.E.",
+    "display_ta": "கி.மு. 628",
+    "year": 628,
     "era": "BCE",
     "month": null,
     "day": null,
     "hebrew_month": null,
     "hebrew_day": null,
     "season": null,
-    "precision": "approx",
+    "precision": "exact",
     "latest": null,
-    "sort_key": -628.5
+    "sort_key": -627.7
    },
    "duration": {
     "years": 31,
@@ -6577,19 +6565,19 @@
     "derived": false
    },
    "start_event_id": "b3-0083",
-   "end_event_id": "b3-0094",
+   "end_event_id": "b3-0095",
    "parent_id": null,
    "derived": {
-    "method": "paired_events",
+    "method": "successor_accession",
     "fields": [
      "start",
      "end"
     ],
-    "note": "Start b3-0083; ends with b3-0094."
+    "note": "Start b3-0083; ends when Jehoahaz becomes king (b3-0095), as laid out in NWT Appendix A6."
    },
    "title_en": "Reign of Josiah (Judah)",
    "title_ta": null,
-   "description_en": "Josiah rules Judah. Starts with Josiah becomes king of Judah (31 years) (659 B.C.E.); ends with b3-0094.",
+   "description_en": "Josiah rules Judah. Starts with Josiah becomes king of Judah (31 years) (659 B.C.E.); ends when Jehoahaz becomes king (b3-0095), as laid out in NWT Appendix A6.",
    "description_ta": null,
    "category": "bible.monarchy",
    "event_kind": "reign",
@@ -6601,8 +6589,7 @@
     "Josiah"
    ],
    "places": [
-    "Judah",
-    "Megiddo"
+    "Judah"
    ],
    "scriptures": [
     {
@@ -6614,20 +6601,12 @@
      "verses": "1"
     },
     {
-     "ref_en": "2 Ki. 23:29, 30",
-     "ref_ta": "2 இரா. 23:29, 30",
+     "ref_en": "2 Ki. 23:31",
+     "ref_ta": "2 இரா. 23:31",
      "book": "2 Kings",
      "book_num": 12,
      "chapter": 23,
-     "verses": "29, 30"
-    },
-    {
-     "ref_en": "2 Chron. 35:20-24",
-     "ref_ta": "2 நா. 35:20-24",
-     "book": "2 Chronicles",
-     "book_num": 14,
-     "chapter": 35,
-     "verses": "20-24"
+     "verses": "31"
     }
    ],
    "sources": [
@@ -6641,7 +6620,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1001061215&wtlocale=E",
      "par": null,
      "quote_en": "659 B.C.E. — Josiah: 31 years",
-     "supports": "start"
+     "supports": "whole"
     },
     {
      "docid": "1101990130",
@@ -6653,7 +6632,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1101990130&wtlocale=E",
      "par": null,
      "quote_en": "659 B.C.E. Josiah succeeds Amon as king of Judah",
-     "supports": "start"
+     "supports": "whole"
     },
     {
      "docid": "1200000970",
@@ -6665,7 +6644,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1200000970&wtlocale=E",
      "par": null,
      "quote_en": "JOSIAH began to rule as king (31) — 659",
-     "supports": "start"
+     "supports": "whole"
     },
     {
      "docid": "1200002525",
@@ -6677,7 +6656,7 @@
      "finder_url": "https://www.jw.org/finder?docid=1200002525&wtlocale=E",
      "par": null,
      "quote_en": "Toward the close of Josiah’s 31-year reign (659-629 B.C.E.)",
-     "supports": "whole"
+     "supports": "start"
     }
    ],
    "images": [],
@@ -6685,9 +6664,9 @@
    "importance": null,
    "related_ids": [
     "b3-0083",
-    "b3-0094"
+    "b3-0095"
    ],
-   "notes": null
+   "notes": "Bar ends where NWT App. A6 starts Jehoahaz (628 B.C.E.); Insight dates Josiah's death c. 629 B.C.E. (b3-0094)."
   },
   {
    "id": "d1-0048",
@@ -9130,7 +9109,7 @@
    "slug": "reign-israel-zechariah",
    "timing": "span",
    "span_kind": "reign",
-   "date_label_en": "c. 803 B.C.E.",
+   "date_label_en": "c. 803 B.C.E. – c. 791 B.C.E.",
    "date_label_ta": "சுமார் கி.மு. 803 – சுமார் கி.மு. 791",
    "start": {
     "display_en": "c. 803 B.C.E.",
@@ -9147,9 +9126,9 @@
     "sort_key": -802.5
    },
    "end": {
-    "display_en": null,
-    "display_ta": null,
-    "year": 803,
+    "display_en": "c. 791 B.C.E.",
+    "display_ta": "சுமார் கி.மு. 791",
+    "year": 791,
     "era": "BCE",
     "month": null,
     "day": null,
@@ -9158,27 +9137,28 @@
     "season": null,
     "precision": "approx",
     "latest": null,
-    "sort_key": -802.001
+    "sort_key": -790.7
    },
    "duration": {
-    "years": null,
-    "months": 6,
+    "years": 12,
+    "months": null,
     "days": null,
-    "display_en": "6 months",
+    "display_en": "c. 12 years",
     "display_ta": null,
-    "approx": false,
-    "derived": false
+    "approx": true,
+    "derived": true
    },
    "start_event_id": "b3-0061",
    "end_event_id": "b3-0062",
    "parent_id": null,
    "derived": {
-    "method": "start_plus_duration",
+    "method": "successor_accession",
     "fields": [
      "start",
-     "end"
+     "end",
+     "duration"
     ],
-    "note": "Start b3-0061; ends when Shallum becomes king (b3-0062), as laid out in NWT Appendix A6. Reign shorter than a year: end placed in the accession year using the printed length."
+    "note": "Start b3-0061; ends when Shallum becomes king (b3-0062), as laid out in NWT Appendix A6."
    },
    "title_en": "Reign of Zechariah (Israel)",
    "title_ta": null,
@@ -9273,7 +9253,7 @@
     "b3-0061",
     "b3-0062"
    ],
-   "notes": "NWT App. A6: 'recorded reign of only 6 months'. Sources differ on when it began (c. 803 vs c. 792 B.C.E.); see conflicts."
+   "notes": "NWT App. A6 starts Zechariah c. 803 B.C.E. and runs his bar to Shallum (c. 791): his kingship was 'not fully confirmed' until c. 792 B.C.E. (b16-0001), and his recorded reign is only 6 months."
   },
   {
    "id": "d1-0066",

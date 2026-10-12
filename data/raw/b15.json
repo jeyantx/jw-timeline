@@ -1,0 +1,740 @@
+{
+ "batch": "b15",
+ "schema_version": 2,
+ "scope": "Records added for the series covenants, fulfilled-prophecies-nations and last-days-sign: a fulfillment of 1 Kings 13:2 (Josiah at Bethel), Nabonidus’ conquest of Edom, and dated features of the sign of Christ’s presence (Spanish influenza, famines, preaching reports) as presented on jw.org/WOL.",
+ "generated": "2026-10-12",
+ "sources_consulted": [
+  {
+   "docid": "1200000682",
+   "title_en": "Bethel",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000682",
+   "url_ta": null
+  },
+  {
+   "docid": "1200002525",
+   "title_en": "Josiah",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002525",
+   "url_ta": null
+  },
+  {
+   "docid": "1101990072",
+   "title_en": "Bible Book Number 11—1 Kings",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990072",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990072"
+  },
+  {
+   "docid": "1200001258",
+   "title_en": "Edom",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001258",
+   "url_ta": null
+  },
+  {
+   "docid": "1101990092",
+   "title_en": "Bible Book Number 31—Obadiah",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990092",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990092"
+  },
+  {
+   "docid": "2005721",
+   "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721"
+  },
+  {
+   "docid": "2014083",
+   "title_en": "The True Culprit Behind War and Suffering",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2014083",
+   "url_ta": null
+  },
+  {
+   "docid": "102012375",
+   "title_en": "The Bible—A Book of Accurate Prophecy, Part 6",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/102012375",
+   "url_ta": null
+  }
+ ],
+ "events": [
+  {
+   "id": "b15-0001",
+   "slug": "josiah-desecrates-bethel-altar",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "During or following Josiah’s 18th year (642 B.C.E.)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "642 B.C.E. or later",
+    "display_ta": null,
+    "year": 642,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "latest": null,
+    "sort_key": -641.7
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Josiah tears down and desecrates Jeroboam’s altar at Bethel",
+   "title_ta": null,
+   "description_en": "During or after his 18th year of rule, King Josiah extended his purge of false worship to Bethel, burning bones from nearby tombs on Jeroboam’s altar and pulling it down. Insight and “All Scripture Is Inspired” present this as the fulfillment of the prophecy uttered by “the man of the true God” some 300 years earlier, which named Josiah.",
+   "description_ta": "உதாரணமாக, பெத்தேலிலிருந்த யெரொபெயாமின் பலிபீடத்தைப் பிளந்து போடப்போகிறவன் யோசியாதான் என்பதாக 300-⁠க்கும் மேற்பட்ட ஆண்டுகளுக்கு முன்னால் அறிவிக்கப்பட்டது. கவனத்தைக் கவரும் இந்த முன்னறிவிப்பை யோசியா நிறைவேற்றினார்!",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "fulfilled_prophecy",
+   "tags": [
+    "fulfilled-prophecy",
+    "reform"
+   ],
+   "people": [
+    "Josiah",
+    "Jeroboam"
+   ],
+   "places": [
+    "Bethel"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "1 Ki. 13:1-3",
+     "ref_ta": "1 ரா. 13:1-3",
+     "book": "1 Kings",
+     "book_num": 11,
+     "chapter": 13,
+     "verses": "1-3"
+    },
+    {
+     "ref_en": "2 Ki. 23:15-18",
+     "ref_ta": "2 ரா. 23:15-18",
+     "book": "2 Kings",
+     "book_num": 12,
+     "chapter": 23,
+     "verses": "15-18"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200000682",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Bethel”)",
+     "title_en": "Bethel",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000682",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200000682&wtlocale=E",
+     "par": 17,
+     "quote_en": "During or following Josiah’s 18th year of rule (642 B.C.E.), he extended his purge of false religion up into Bethel and also to the cities of Samaria."
+    },
+    {
+     "docid": "1200002525",
+     "publication": "Insight on the Scriptures, Vol. 2 (it-2 “Josiah”)",
+     "title_en": "Josiah",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002525",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200002525&wtlocale=E",
+     "par": 7,
+     "quote_en": "In fulfillment of a prophecy uttered about 300 years previously by an unnamed man of God, Josiah pulled down the altar built by Israel’s King Jeroboam at Bethel."
+    },
+    {
+     "docid": "1101990072",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si), Bible Book Number 11",
+     "title_en": "Bible Book Number 11—1 Kings",
+     "title_ta": "பைபிள் புத்தக எண் 11—1 இராஜாக்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990072",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990072",
+     "finder_url": "https://www.jw.org/finder?docid=1101990072&wtlocale=E",
+     "par": 32,
+     "quote_en": "there is the remarkable forecast, made more than 300 years in advance, that Josiah would be the one to rip apart Jeroboam’s altar at Bethel. Josiah did it! (1 Ki. 13:1-3; 2 Ki. 23:15)"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b3-0086",
+    "b3-0090",
+    "d1-0052"
+   ],
+   "notes": "Insight “Bethel” dates the act as during or following Josiah’s 18th year (642 B.C.E.); precision 'after'. The prophecy (1 Ki. 13:1-3) was spoken at Jeroboam’s altar in Bethel (see series fulfilled-prophecies-nations)."
+  },
+  {
+   "id": "b15-0002",
+   "slug": "nabonidus-conquers-edom",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "About the middle of the sixth century B.C.E.",
+   "date_label_ta": "பொ.ச.மு. ஆறாம் நூற்றாண்டில்",
+   "start": {
+    "display_en": "about the middle of the sixth century B.C.E.",
+    "display_ta": "பொ.ச.மு. ஆறாம் நூற்றாண்டில்",
+    "year": 550,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "latest": null,
+    "sort_key": -550.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Babylonian king Nabonidus conquers Edom",
+   "title_ta": "நபோனிடஸின் பாபிலோனிய சேனைகள் ஏதோமை கைப்பற்றின",
+   "description_en": "Babylon’s peace with Edom did not last: about the middle of the sixth century B.C.E., troops of the Babylonian king Nabonidus conquered Edom. Insight and “All Scripture Is Inspired” present this as a fulfillment of the prophecies of Jeremiah, Ezekiel, and Obadiah against Edom (Obadiah 7: those ‘in covenant with’ Edom would prevail against her).",
+   "description_ta": "பாபிலோன் ஏதோமுடன் செய்த சமாதானம் நீண்ட காலம் நிலைக்கவில்லை. பொ.ச.மு. ஆறாம் நூற்றாண்டில், அரசன் நபோனிடஸின் பாபிலோனிய சேனைகள் ஏதோமை கைப்பற்றின.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "conquest",
+   "tags": [
+    "fulfilled-prophecy",
+    "Edom"
+   ],
+   "people": [
+    "Nabonidus"
+   ],
+   "places": [
+    "Edom"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Obad. 7",
+     "ref_ta": "ஒப. 7",
+     "book": "Obadiah",
+     "book_num": 31,
+     "chapter": 7,
+     "verses": null
+    },
+    {
+     "ref_en": "Jer. 25:15-17, 21",
+     "ref_ta": "எரே. 25:15-17, 21",
+     "book": "Jeremiah",
+     "book_num": 24,
+     "chapter": 25,
+     "verses": "15-17, 21"
+    },
+    {
+     "ref_en": "Ezek. 25:14",
+     "ref_ta": "எசே. 25:14",
+     "book": "Ezekiel",
+     "book_num": 26,
+     "chapter": 25,
+     "verses": "14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001258",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Edom”)",
+     "title_en": "Edom",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001258",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001258&wtlocale=E",
+     "par": 27,
+     "quote_en": "Soon the time for Edom to drink deeply from the cup of Jehovah’s wrath arrived. (Jer 25:15-17, 21) This occurred about the middle of the sixth century B.C.E., under the Babylonian king Nabonidus."
+    },
+    {
+     "docid": "1101990092",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si), Bible Book Number 31",
+     "title_en": "Bible Book Number 31—Obadiah",
+     "title_ta": "பைபிள் புத்தக எண் 31—ஒபதியா",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990092",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990092",
+     "finder_url": "https://www.jw.org/finder?docid=1101990092&wtlocale=E",
+     "par": 16,
+     "quote_en": "Babylon’s peace with Edom did not last. During the sixth century B.C.E., Babylonian forces under King Nabonidus conquered Edom."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b4-0019",
+    "b4-0119"
+   ],
+   "notes": "No exact year is printed. Insight: “about the middle of the sixth century B.C.E.”; si (Tamil and English): “during the sixth century B.C.E.” Year 550 and sort_key -550 only place the event mid-century (Nabonidus began to rule in 556 B.C.E., b4-0019); do not display as a year."
+  },
+  {
+   "id": "b15-0003",
+   "slug": "spanish-influenza-1918",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1918",
+   "date_label_ta": "1918",
+   "start": {
+    "display_en": "1918",
+    "display_ta": "1918",
+    "year": 1918,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1918.45
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Spanish influenza kills tens of millions",
+   "title_ta": null,
+   "description_en": "The Spanish influenza, which invaded the battlefields of France in June 1918 and spread worldwide with returning troops, killed an estimated 20 million to 50 million people in 1918. The Watchtower presents it as a fulfillment of Jesus’ words “in one place after another pestilences” (Luke 21:11) and of the rider of the pale horse (Revelation 6:8).",
+   "description_ta": "“1918-⁠ல், ஸ்பானிஷ் ஃப்ளுவினால் 2 முதல் 5 கோடி பேர் உயிரிழந்தார்கள்; இப்படி உயிரிழந்தவர்களின் எண்ணிக்கை, பிளேக் நோயால் இறந்தவர்களைவிட அல்லது முதல் உலகப் போரில் இறந்தவர்களைவிட அதிகம்” என ஸுயெட்டாச்செ ட்ஸைட்டுங் என்ற செய்தித்தாள் அறிக்கை செய்கிறது.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "pandemic",
+   "tags": [
+    "sign-of-the-last-days",
+    "pestilence"
+   ],
+   "people": [],
+   "places": [
+    "France"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Luke 21:11",
+     "ref_ta": "லூக். 21:11",
+     "book": "Luke",
+     "book_num": 42,
+     "chapter": 21,
+     "verses": "11"
+    },
+    {
+     "ref_en": "Rev. 6:8",
+     "ref_ta": "வெளி. 6:8",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 6,
+     "verses": "8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2005721",
+     "publication": "The Watchtower, October 1, 2005 (w05 10/1 pp. 4-7)",
+     "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+     "title_ta": "இயேசுவுடைய பிரசன்னத்தின் அடையாளத்தைப் புரிந்துகொள்கிறீர்களா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721",
+     "finder_url": "https://www.jw.org/finder?docid=2005721&wtlocale=E",
+     "par": 11,
+     "quote_en": "“In one place after another pestilences.” (Luke 21:11) “The Spanish influenza is estimated to have killed between 20 million and 50 million people in 1918, more than the plague or the first world war,” reports the Süddeutsche Zeitung."
+    },
+    {
+     "docid": "2014083",
+     "publication": "The Watchtower (public edition), February 1, 2014 (wp14 2/1 pp. 5-7)",
+     "title_en": "The True Culprit Behind War and Suffering",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2014083",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=2014083&wtlocale=E",
+     "par": 4,
+     "quote_en": "A deadly plague known as the Spanish flu had invaded the battlefields of France in June 1918."
+    },
+    {
+     "docid": "2014083",
+     "publication": "The Watchtower (public edition), February 1, 2014 (wp14 2/1 pp. 5-7)",
+     "title_en": "The True Culprit Behind War and Suffering",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2014083",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=2014083&wtlocale=E",
+     "par": 28,
+     "quote_en": "The pale horse, whose rider brings death by deadly plague. (Revelation 6:8) The first great 20th-century plague was the Spanish flu. Figures vary widely, but one estimate says that the flu killed some 50 million people."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0068",
+    "b12-0069"
+   ],
+   "notes": "sort_key 1918.45 places it after the June 1918 outbreak in France (wp14 2/1 p. 5). Older publications speak of 1918-1919 (e.g. w91 4/1); the 2005 and 2014 articles cited here are used."
+  },
+  {
+   "id": "b15-0004",
+   "slug": "russian-famine-1921",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1921",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "1921",
+    "display_ta": null,
+    "year": 1921,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1921
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Over two million Russians starve to death",
+   "title_ta": null,
+   "description_en": "The Watchtower lists the famine of 1921, in which over two million Russians starved to death, among the famines of the 20th century that it connects with the rider of the black horse (Revelation 6:5, 6) and Jesus’ words about food shortages.",
+   "description_ta": null,
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "famine",
+   "tags": [
+    "sign-of-the-last-days",
+    "food-shortages"
+   ],
+   "people": [],
+   "places": [
+    "Russia"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Rev. 6:5, 6",
+     "ref_ta": "வெளி. 6:5, 6",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 6,
+     "verses": "5, 6"
+    },
+    {
+     "ref_en": "Matt. 24:7",
+     "ref_ta": "மத். 24:7",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2014083",
+     "publication": "The Watchtower (public edition), February 1, 2014 (wp14 2/1 pp. 5-7)",
+     "title_en": "The True Culprit Behind War and Suffering",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2014083",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=2014083&wtlocale=E",
+     "par": 27,
+     "quote_en": "The black horse, whose rider has scales in his hand to depict famine. (Revelation 6:5, 6) During the first world war, an Allied blockade caused some 750,000 deaths in Germany as a result of hunger. Over two million Russians starved to death in 1921"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0069"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b15-0005",
+   "slug": "famine-russia-ukraine-1933",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1933",
+   "date_label_ta": "1933",
+   "start": {
+    "display_en": "1933",
+    "display_ta": "1933",
+    "year": 1933,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1933
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Famine in Russia and Ukraine",
+   "title_ta": null,
+   "description_en": "Quoting historian Alan Bullock, The Watchtower describes the famine of 1933 in Russia and Ukraine, when starving people wandered the countryside and corpses were piled by the roads, as an example of the food shortages Jesus foretold (Matthew 24:7).",
+   "description_ta": "‘பஞ்சங்கள் உண்டாகும்.’ (மத்தேயு 24:7) முதல் உலகப் போரின்போது ஐரோப்பா பஞ்சத்தாலும் பட்டினியாலும் பீடிக்கப்பட்டிருந்தது, அன்று முதல் பஞ்சம் மனிதகுலத்தை ஆட்டிப்படைத்து வருகிறது. 1933-⁠ல், ரஷ்யாவிலும் உக்ரைனிலும் “பசியால் தவித்த ஜனங்கள் கும்பல் கும்பலாக நாட்டுப்புற பகுதிகளெங்கும் அலைந்து திரிந்தார்கள் . . . சாலையோரங்களில் அவர்களுடைய பிரேதங்கள் குவிந்து கிடந்தன” என்று சரித்திராசிரியரான ஆலன் புலக் எழுதினார்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "famine",
+   "tags": [
+    "sign-of-the-last-days",
+    "food-shortages"
+   ],
+   "people": [],
+   "places": [
+    "Russia",
+    "Ukraine"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:7",
+     "ref_ta": "மத். 24:7",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2005721",
+     "publication": "The Watchtower, October 1, 2005 (w05 10/1 pp. 4-7)",
+     "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+     "title_ta": "இயேசுவுடைய பிரசன்னத்தின் அடையாளத்தைப் புரிந்துகொள்கிறீர்களா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721",
+     "finder_url": "https://www.jw.org/finder?docid=2005721&wtlocale=E",
+     "par": 10,
+     "quote_en": "“There will be food shortages.” (Matthew 24:7) Hunger hit Europe during the first world war, and famine has haunted mankind ever since. Historian Alan Bullock wrote that in Russia and Ukraine in 1933, “hordes of the starving wandered across the countryside"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0069"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b15-0006",
+   "slug": "famine-henan-1943",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1943",
+   "date_label_ta": "1943",
+   "start": {
+    "display_en": "1943",
+    "display_ta": "1943",
+    "year": 1943,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1943
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Famine in Henan province, China",
+   "title_ta": null,
+   "description_en": "The Watchtower cites journalist T. H. White, who in 1943 witnessed famine in the Chinese province of Henan, as another example of the food shortages that form part of the sign of Jesus’ presence (Matthew 24:7).",
+   "description_ta": "1943-⁠ல், பத்திரிகை எழுத்தாளர் டி. எச். வைட் என்பவர் ஹனான் என்ற சீன மாகாணத்தில் நிலவிய பஞ்சத்தை நேரில் பார்த்தார்.",
+   "category": "bible.prophecy_fulfilled",
+   "event_kind": "famine",
+   "tags": [
+    "sign-of-the-last-days",
+    "food-shortages"
+   ],
+   "people": [],
+   "places": [
+    "Henan",
+    "China"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:7",
+     "ref_ta": "மத். 24:7",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "7"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2005721",
+     "publication": "The Watchtower, October 1, 2005 (w05 10/1 pp. 4-7)",
+     "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+     "title_ta": "இயேசுவுடைய பிரசன்னத்தின் அடையாளத்தைப் புரிந்துகொள்கிறீர்களா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721",
+     "finder_url": "https://www.jw.org/finder?docid=2005721&wtlocale=E",
+     "par": 10,
+     "quote_en": "In 1943 journalist T. H. White witnessed famine in the Chinese province of Henan."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0069",
+    "b12-0084"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b15-0007",
+   "slug": "preaching-235-lands-2005",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2005 (“currently,” w05 10/1)",
+   "date_label_ta": "2005",
+   "start": {
+    "display_en": "2005",
+    "display_ta": "2005",
+    "year": 2005,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2005.75
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Over six million Witnesses preach in 235 lands",
+   "title_ta": null,
+   "description_en": "Writing in 2005 on the sign of Jesus’ presence, The Watchtower states that the preaching of the good news of the Kingdom foretold at Matthew 24:14 has reached a climax in the last days: over six million Jehovah’s Witnesses were then preaching in 235 lands and in over 400 languages.",
+   "description_ta": "தற்போது, 235 நாடுகளில், அறுபது லட்சத்திற்கும் அதிகமான யெகோவாவின் சாட்சிகள் 400-⁠க்கும் மேற்பட்ட மொழிகளில் நற்செய்தியைப் பிரசங்கித்து வருகிறார்கள்.",
+   "category": "jw.preaching",
+   "event_kind": "preaching_report",
+   "tags": [
+    "sign-of-the-last-days",
+    "Matthew 24:14",
+    "statistics"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:14",
+     "ref_ta": "மத். 24:14",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2005721",
+     "publication": "The Watchtower, October 1, 2005 (w05 10/1 pp. 4-7)",
+     "title_en": "Do You Recognize the Sign of Jesus’ Presence?",
+     "title_ta": "இயேசுவுடைய பிரசன்னத்தின் அடையாளத்தைப் புரிந்துகொள்கிறீர்களா?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2005721",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2005721",
+     "finder_url": "https://www.jw.org/finder?docid=2005721&wtlocale=E",
+     "par": 15,
+     "quote_en": "The work that Jesus himself started​—preaching the good news of the Kingdom—​would reach a climax during the last days. This has truly been the case. … Currently, over six million Witnesses preach in 235 lands and in over 400 languages."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0069"
+   ],
+   "notes": "Date = issue date of The Watchtower, October 1, 2005, which says “currently”; sort_key 2005.75."
+  },
+  {
+   "id": "b15-0008",
+   "slug": "preaching-230-lands-2012",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2012 (Awake!, October 2012)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "2012",
+    "display_ta": null,
+    "year": 2012,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2012.75
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "More than seven million Witnesses teach about God’s Kingdom in more than 230 lands",
+   "title_ta": null,
+   "description_en": "In its series “The Bible—A Book of Accurate Prophecy,” Awake! presents the worldwide preaching of God’s Kingdom by Jehovah’s Witnesses as the fulfillment of Matthew 24:14, reporting more than seven million Witnesses in more than 230 lands and Bible-based information in over 500 languages.",
+   "description_ta": null,
+   "category": "jw.preaching",
+   "event_kind": "preaching_report",
+   "tags": [
+    "sign-of-the-last-days",
+    "Matthew 24:14",
+    "statistics"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:14",
+     "ref_ta": "மத். 24:14",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "14"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "102012375",
+     "publication": "Awake!, October 2012 (g 10/12)",
+     "title_en": "The Bible—A Book of Accurate Prophecy, Part 6",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/102012375",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=102012375&wtlocale=E",
+     "par": null,
+     "quote_en": "In fulfillment of Matthew 24:14, Jehovah’s Witnesses preach the good news of God’s Kingdom … Worldwide, Jehovah’s Witnesses, numbering more than seven million in more than 230 lands, teach others about God’s Kingdom."
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b12-0069",
+    "b15-0007"
+   ],
+   "notes": "Date = issue date of Awake!, October 2012 (jw.org: https://www.jw.org/en/library/magazines/g201210/the-last-days/); sort_key 2012.75."
+  }
+ ]
+}

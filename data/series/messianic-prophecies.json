@@ -1,0 +1,1362 @@
+{
+  "id": "messianic-prophecies",
+  "title_en": "Some Messianic prophecies",
+  "title_ta": "மேசியாவைப் பற்றிய சில தீர்க்கதரிசனங்கள்",
+  "kind": "prophecy_fulfillment",
+  "description_en": "Prophecies in the Hebrew Scriptures about the Messiah's birth, ministry, death and resurrection, each paired with its fulfillment in the life of Jesus, following the table \"Some Messianic Prophecies\" in the book Jesus—The Way, the Truth, the Life. Rows of the chart \"Prophecies Regarding the Messiah\" (What Does the Bible Really Teach?) that the jy table lacks are added, and the jw.org article \"Do Messianic Prophecies Prove That Jesus Was the Messiah?\" is used to cross-check each row.",
+  "description_ta": null,
+  "highlight": true,
+  "auto": false,
+  "parent_series": null,
+  "sources": [
+    {
+      "docid": "1102014749",
+      "publication": "Jesus—The Way, the Truth, the Life (jy)",
+      "title_en": "Some Messianic Prophecies",
+      "title_ta": "மேசியாவைப் பற்றிய சில தீர்க்கதரிசனங்கள்",
+      "url_en": "https://www.jw.org/en/library/books/jesus/messianic-prophecies-fulfilled/",
+      "url_ta": "https://www.jw.org/ta/%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%B0%E0%AE%B0%E0%AE%BF/%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%87%E0%AE%AF%E0%AF%87%E0%AE%9A%E0%AF%81/%E0%AE%AE%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE-%E0%AE%AA%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%AF-%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AE%A9%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/",
+      "finder_url": "https://www.jw.org/finder?docid=1102014749&wtlocale=E",
+      "par": null,
+      "quote_en": "Born in Bethlehem | Micah 5:2 | Luke 2:1-6 | 5, 7, 67"
+    },
+    {
+      "docid": "1102014749",
+      "publication": "Jesus—The Way, the Truth, the Life (jy), WOL",
+      "title_en": "Some Messianic Prophecies",
+      "title_ta": "மேசியாவைப் பற்றிய சில தீர்க்கதரிசனங்கள்",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014749",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014749",
+      "finder_url": "https://www.jw.org/finder?docid=1102014749&wtlocale=E",
+      "par": null,
+      "quote_en": null
+    },
+    {
+      "docid": "502018132",
+      "publication": "jw.org Bible Questions Answered",
+      "title_en": "Do Messianic Prophecies Prove That Jesus Was the Messiah?",
+      "title_ta": "மேசியாவைப் பற்றிய தீர்க்கதரிசனங்கள் இயேசுதான் மேசியா என்பதை நிரூபிக்கின்றனவா?",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502018132",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/502018132",
+      "finder_url": "https://www.jw.org/finder?docid=502018132&wtlocale=E",
+      "par": "Some Messianic prophecies fulfilled by Jesus",
+      "quote_en": null
+    },
+    {
+      "docid": "1102005152",
+      "publication": "What Does the Bible Really Teach? (bh) Appendix",
+      "title_en": "Jesus Christ—The Promised Messiah",
+      "title_ta": "இயேசு கிறிஸ்து—வாக்குப்பண்ணப்பட்ட மேசியா",
+      "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102005152",
+      "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102005152",
+      "finder_url": "https://www.jw.org/finder?docid=1102005152&wtlocale=E",
+      "par": "Prophecies Regarding the Messiah (chart)",
+      "quote_en": null
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/ijwbq/2023/1303",
+      "caption_en": "Jesus’ triumphal ride into Jerusalem on a donkey",
+      "caption_ta": "கழுதையின் மேல் எருசலேமுக்கு இயேசு வெற்றி பவனி செல்கிறார்",
+      "source_docid": "502018132",
+      "kind": "illustration"
+    }
+  ],
+  "groups": [
+    {
+      "id": "born-in-bethlehem",
+      "order": 1,
+      "label_en": "Born in Bethlehem",
+      "label_ta": "பெத்லகேமில் பிறக்கிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Mic. 5:2",
+        "fulfillment": "Luke 2:1-6",
+        "jy_chapters": "5, 7, 67",
+        "bh_row": "(not in bh chart; bh text: Micah 5:2; Matthew 2:1)",
+        "ijwbq_row": "Born in Bethlehem — Micah 5:2; Matthew 2:1, 5, 6"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "born-of-the-tribe-of-judah",
+      "order": 2,
+      "label_en": "Born of the tribe of Judah",
+      "label_ta": "யூதா கோத்திரத்தில் பிறந்தது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Gen. 49:10",
+        "fulfillment": "Luke 3:23-33",
+        "ijwbq_row": "Born of the Israelite tribe of Judah — Genesis 49:10; Matthew 1:1, 3"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "born-of-a-virgin",
+      "order": 3,
+      "label_en": "Born of a virgin",
+      "label_ta": "கன்னி வயிற்றில் பிறந்தது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 7:14",
+        "fulfillment": "Matt. 1:18-25",
+        "ijwbq_row": "Born of a virgin — Isaiah 7:14; Matthew 1:18, 22, 23"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "descended-from-king-david",
+      "order": 4,
+      "label_en": "Descended from King David",
+      "label_ta": "தாவீது ராஜாவின் வம்சாவளியில்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 9:7",
+        "fulfillment": "Matt. 1:1, 6-17",
+        "ijwbq_row": "From the royal line of King David — Isaiah 9:7; Matthew 1:1"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "flight-to-and-return-from-egypt",
+      "order": 5,
+      "label_en": "Flight to and return from Egypt",
+      "label_ta": "எகிப்துக்கு ஓடிப்போவதும் திரும்பி வருவதும்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Hos. 11:1",
+        "fulfillment": "Matt. 2:13-15, 19, 20",
+        "jy_chapters": "8",
+        "ijwbq_row": "Called out of Egypt — Hosea 11:1; Matthew 2:13-15"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "mothers-weep",
+      "order": 6,
+      "label_en": "Mothers weep after their sons die in the attempt to kill young Jesus",
+      "label_ta": "குழந்தை இயேசுவைக் கொல்ல முயற்சி; மகன்களை இழந்த தாய்மார்கள் அழுகிறார்கள்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Jer. 31:15",
+        "fulfillment": "Matt. 2:17, 18",
+        "jy_chapters": "8",
+        "ijwbq_row": "Young children killed after his birth — Jeremiah 31:15; Matthew 2:16-18"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "declared-son",
+      "order": 7,
+      "label_en": "Declared by Jehovah to be his Son",
+      "label_ta": "தமது குமாரனென்று யெகோவா அறிவித்தது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 2:7",
+        "fulfillment": "Matt. 3:17",
+        "ijwbq_row": "Acknowledged by God as His Son — Psalm 2:7; Acts 13:33, 34"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "proclaims-liberty-to-captives",
+      "order": 8,
+      "label_en": "Proclaims liberty to captives",
+      "label_ta": "சிறைபிடிக்கப்பட்டவர்களுக்கு விடுதலையை அறிவிக்கிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 61:1, 2",
+        "fulfillment": "Luke 4:17-21",
+        "jy_chapters": "21",
+        "ijwbq_row": "Proclaimer of good news — Isaiah 61:1; Luke 4:16-21"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "resides-in-capernaum",
+      "order": 9,
+      "label_en": "Resides in Capernaum of Galilee",
+      "label_ta": "கலிலேயாவில் இருக்கிற கப்பர்நகூமில் குடியிருக்கிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 9:1, 2",
+        "fulfillment": "Matt. 4:13-17",
+        "jy_chapters": "22, 67",
+        "ijwbq_row": "Public ministry in Galilee a great light — Isaiah 9:1, 2; Matthew 4:13-16"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "cures-many-who-are-sick",
+      "order": 10,
+      "label_en": "Cures many who are sick",
+      "label_ta": "நோயாளிகள் நிறைய பேரைக் குணமாக்குகிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 53:4",
+        "fulfillment": "Matt. 8:16, 17",
+        "jy_chapters": "23",
+        "ijwbq_row": "Cured sicknesses of many — Isaiah 53:4; Matthew 8:16, 17"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "does-not-quarrel",
+      "order": 11,
+      "label_en": "Does not quarrel on the streets",
+      "label_ta": "தெருவில் வாக்குவாதம் செய்யவில்லை",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 42:1-4",
+        "fulfillment": "Matt. 12:16-21",
+        "jy_chapters": "33",
+        "ijwbq_row": "Did not draw attention to himself — Isaiah 42:2; Matthew 12:17, 19"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "teaches-by-illustrations",
+      "order": 12,
+      "label_en": "Teaches by means of illustrations",
+      "label_ta": "உவமைகள் மூலமாகக் கற்பிக்கிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 78:2; Isa. 6:9, 10",
+        "fulfillment": "Matt. 13:13-15, 34, 35",
+        "jy_chapters": "43",
+        "ijwbq_row": "Spoke in illustrations — Psalm 78:2; Matthew 13:34, 35"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "enters-jerusalem-on-a-colt",
+      "order": 13,
+      "label_en": "Enters Jerusalem riding on a colt",
+      "label_ta": "கழுதைக்குட்டியின் மேல் உட்கார்ந்து எருசலேமுக்குள் நுழைகிறார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Zech. 9:9",
+        "fulfillment": "Matt. 21:1-9",
+        "jy_chapters": "102",
+        "bh_row": "Entered Jerusalem riding a donkey — Zechariah 9:9; Matthew 21:1-9",
+        "ijwbq_row": "Triumphal entry into Jerusalem on a donkey — Zechariah 9:9; Matthew 21:4-9"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "many-do-not-believe",
+      "order": 14,
+      "label_en": "Many do not believe in him",
+      "label_ta": "நிறைய பேர் அவரை விசுவாசிக்கவில்லை",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 6:10; Isa. 53:1",
+        "fulfillment": "John 12:37, 38",
+        "jy_chapters": "104",
+        "bh_row": "Not believed in — Isaiah 53:1; John 12:37, 38",
+        "ijwbq_row": "Many did not believe in him — Isaiah 53:1; John 12:37, 38"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "betrayed-for-30-silver-pieces",
+      "order": 15,
+      "label_en": "Betrayed for 30 silver pieces",
+      "label_ta": "30 வெள்ளிக்காசுகளுக்குக் காட்டிக் கொடுக்கப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Zech. 11:12",
+        "fulfillment": "Matt. 26:14-16",
+        "ijwbq_row": "Betrayed for 30 pieces of silver — Zechariah 11:12, 13; Matthew 26:14-16; 27:3-10"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "trusted-companion-betrays-him",
+      "order": 16,
+      "label_en": "Trusted companion betrays him",
+      "label_ta": "நண்பன் துரோகியாக மாறினான்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 41:9",
+        "fulfillment": "John 13:18, 21",
+        "jy_chapters": "117",
+        "bh_row": "Betrayed by a close associate — Psalm 41:9; John 13:18, 21-30",
+        "ijwbq_row": "Betrayed by a trusted associate — Psalm 41:9; John 13:18"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "hated-without-cause",
+      "order": 17,
+      "label_en": "Hated without cause",
+      "label_ta": "காரணமில்லாமல் வெறுக்கப்பட்டார்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 35:19; Ps. 69:4",
+        "fulfillment": "John 15:24, 25",
+        "jy_chapters": "120",
+        "ijwbq_row": "Hated without cause — Psalm 69:4; John 15:24, 25"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "disciples-scatter",
+      "order": 18,
+      "label_en": "Disciples scatter, abandoning him",
+      "label_ta": "சீஷர்கள் அவரை விட்டுவிட்டு ஓடினார்கள்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Zech. 13:7",
+        "fulfillment": "Matt. 26:31, 54-56",
+        "jy_chapters": "118, 124",
+        "ijwbq_row": "Friends abandoned him — Zechariah 13:7; Matthew 26:31, 56"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "silent-before-his-accusers",
+      "order": 19,
+      "label_en": "Silent before his accusers",
+      "label_ta": "குற்றம் சுமத்தியவர்களுக்கு முன் வாய்திறக்காமல் இருந்தது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 53:7",
+        "fulfillment": "Matt. 27:11-14",
+        "ijwbq_row": "Silent before accusers — Isaiah 53:7; Matthew 27:12-14"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "soldiers-divide-his-garments",
+      "order": 20,
+      "label_en": "Soldiers divide up his garments",
+      "label_ta": "படைவீரர்கள் அவருடைய உடைகளைப் பங்கு போட்டார்கள்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 22:18",
+        "fulfillment": "John 19:23, 24",
+        "jy_chapters": "131",
+        "bh_row": "Lots cast for his garments — Psalm 22:18; Matthew 27:35",
+        "ijwbq_row": "People cast lots (gambled) for his clothing — Psalm 22:18; John 19:23, 24"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "thirsty-while-on-the-stake",
+      "order": 21,
+      "label_en": "Thirsty while on the stake",
+      "label_ta": "மரக் கம்பத்தில் இருந்தபோது தாகம்",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 22:15",
+        "fulfillment": "John 19:28",
+        "jy_chapters": "132",
+        "ijwbq_row": "Thirsty just before death — Psalm 22:15; John 19:28, 29"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "mocked-while-on-the-stake",
+      "order": 22,
+      "label_en": "Mocked while on the stake",
+      "label_ta": "கழுமரத்தில் வேதனைப்படும்போது தூஷிக்கப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 22:7, 8",
+        "fulfillment": "Matt. 27:39-43",
+        "ijwbq_row": "Reviled, insulted — Psalm 22:7, 8; Matthew 27:39-43"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "body-pierced",
+      "order": 23,
+      "label_en": "His body pierced after his death",
+      "label_ta": "இறந்த பிறகு அவருடைய உடல் குத்தப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Zech. 12:10",
+        "fulfillment": "John 19:34, 37",
+        "jy_chapters": "133",
+        "ijwbq_row": "Pierced — Zechariah 12:10; John 19:33-35, 37"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "bones-not-broken",
+      "order": 24,
+      "label_en": "Bones not broken before he dies",
+      "label_ta": "இறந்த பிறகு, எலும்புகள் உடைக்கப்படவில்லை",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 34:20",
+        "fulfillment": "John 19:36",
+        "jy_chapters": "133",
+        "bh_row": "None of his bones broken — Psalm 34:20; John 19:33, 36",
+        "ijwbq_row": "Bones not broken — Psalm 34:20; John 19:31-33, 36"
+      },
+      "note": "Row of the jy table 'Some Messianic Prophecies'."
+    },
+    {
+      "id": "buried-with-the-rich",
+      "order": 25,
+      "label_en": "Buried with the rich",
+      "label_ta": "ஐசுவரியவான்களோடு அடக்கம் பண்ணப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Isa. 53:9",
+        "fulfillment": "Matt. 27:57-60",
+        "ijwbq_row": "Buried with the rich — Isaiah 53:9; Matthew 27:57-60"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "raised-before-corruption",
+      "order": 26,
+      "label_en": "Raised before corruption",
+      "label_ta": "உடல் சிதைந்துபோவதற்கு முன் உயிரோடு எழுப்பப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 16:10",
+        "fulfillment": "Acts 2:24, 27",
+        "ijwbq_row": "Raised from the dead — Psalm 16:10; Acts 2:29-31"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    },
+    {
+      "id": "exalted-to-gods-right-hand",
+      "order": 27,
+      "label_en": "Exalted to God’s right hand",
+      "label_ta": "கடவுளுடைய வலது பாரிசத்திற்கு உயர்த்தப்பட்டது",
+      "span_id": null,
+      "attributes": {
+        "prophecy": "Ps. 110:1",
+        "fulfillment": "Acts 7:56",
+        "ijwbq_row": "Seated at God’s right hand — Psalm 110:1; Acts 2:34-36"
+      },
+      "note": "Row of the bh appendix chart 'Prophecies Regarding the Messiah' (not in the jy table)."
+    }
+  ],
+  "members": [
+    {
+      "event_id": "b11-0022",
+      "order": 11,
+      "role": "prophecy",
+      "group": "born-in-bethlehem",
+      "label_en": "Born in Bethlehem",
+      "label_ta": "பெத்லகேமில் பிறக்கிறார்",
+      "pairs_with": [
+        "b5-0006"
+      ],
+      "scriptures": [
+        "Mic. 5:2"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Micah (b. 717 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0006",
+      "order": 15,
+      "role": "fulfillment",
+      "group": "born-in-bethlehem",
+      "label_en": "Born in Bethlehem",
+      "label_ta": "பெத்லகேமில் பிறக்கிறார்",
+      "pairs_with": [
+        "b11-0022"
+      ],
+      "scriptures": [
+        "Luke 2:1-6"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b2-0006",
+      "order": 21,
+      "role": "prophecy",
+      "group": "born-of-the-tribe-of-judah",
+      "label_en": "Born of the tribe of Judah",
+      "label_ta": "யூதா கோத்திரத்தில் பிறந்தது",
+      "pairs_with": [
+        "b5-0006"
+      ],
+      "scriptures": [
+        "Gen. 49:10"
+      ],
+      "source_docid": "1102005152",
+      "note": "Spoken by Jacob in his deathbed blessing of his sons (Gen. 49:1, 10, 33), anchored to Jacob's death in 1711 B.C.E. (the book of Genesis was completed in 1513 B.C.E., b11-0002)."
+    },
+    {
+      "event_id": "b5-0006",
+      "order": 25,
+      "role": "fulfillment",
+      "group": "born-of-the-tribe-of-judah",
+      "label_en": "Born of the tribe of Judah",
+      "label_ta": "யூதா கோத்திரத்தில் பிறந்தது",
+      "pairs_with": [
+        "b2-0006"
+      ],
+      "scriptures": [
+        "Luke 3:23-33"
+      ],
+      "source_docid": "1102005152",
+      "note": "Fulfillment shown by Jesus' genealogy (Luke 3:23-33); anchored to his birth."
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 31,
+      "role": "prophecy",
+      "group": "born-of-a-virgin",
+      "label_en": "Born of a virgin",
+      "label_ta": "கன்னி வயிற்றில் பிறந்தது",
+      "pairs_with": [
+        "b5-0006"
+      ],
+      "scriptures": [
+        "Isa. 7:14"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0006",
+      "order": 35,
+      "role": "fulfillment",
+      "group": "born-of-a-virgin",
+      "label_en": "Born of a virgin",
+      "label_ta": "கன்னி வயிற்றில் பிறந்தது",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 1:18-25"
+      ],
+      "source_docid": "1102005152",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 41,
+      "role": "prophecy",
+      "group": "descended-from-king-david",
+      "label_en": "Descended from King David",
+      "label_ta": "தாவீது ராஜாவின் வம்சாவளியில்",
+      "pairs_with": [
+        "b5-0006"
+      ],
+      "scriptures": [
+        "Isa. 9:7"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0006",
+      "order": 45,
+      "role": "fulfillment",
+      "group": "descended-from-king-david",
+      "label_en": "Descended from King David",
+      "label_ta": "தாவீது ராஜாவின் வம்சாவளியில்",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 1:1, 6-17"
+      ],
+      "source_docid": "1102005152",
+      "note": "Fulfillment shown by Jesus' genealogy (Matt. 1:1, 6-17); anchored to his birth."
+    },
+    {
+      "event_id": "b11-0020",
+      "order": 51,
+      "role": "prophecy",
+      "group": "flight-to-and-return-from-egypt",
+      "label_en": "Flight to and return from Egypt",
+      "label_ta": "எகிப்துக்கு ஓடிப்போவதும் திரும்பி வருவதும்",
+      "pairs_with": [
+        "b5-0011",
+        "b5-0013"
+      ],
+      "scriptures": [
+        "Hos. 11:1"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Hosea (a. 745 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0011",
+      "order": 55,
+      "role": "fulfillment",
+      "group": "flight-to-and-return-from-egypt",
+      "label_en": "Flight to and return from Egypt",
+      "label_ta": "எகிப்துக்கு ஓடிப்போவதும் திரும்பி வருவதும்",
+      "pairs_with": [
+        "b11-0020"
+      ],
+      "scriptures": [
+        "Matt. 2:13-15, 19, 20"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b5-0013",
+      "order": 55.1,
+      "role": "fulfillment",
+      "group": "flight-to-and-return-from-egypt",
+      "label_en": "Flight to and return from Egypt",
+      "label_ta": "எகிப்துக்கு ஓடிப்போவதும் திரும்பி வருவதும்",
+      "pairs_with": [
+        "b11-0020"
+      ],
+      "scriptures": [
+        "Matt. 2:13-15, 19, 20"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0032",
+      "order": 61,
+      "role": "prophecy",
+      "group": "mothers-weep",
+      "label_en": "Mothers weep after their sons die in the attempt to kill young Jesus",
+      "label_ta": "குழந்தை இயேசுவைக் கொல்ல முயற்சி; மகன்களை இழந்த தாய்மார்கள் அழுகிறார்கள்",
+      "pairs_with": [
+        "b5-0012"
+      ],
+      "scriptures": [
+        "Jer. 31:15"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Jeremiah (580 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0012",
+      "order": 65,
+      "role": "fulfillment",
+      "group": "mothers-weep",
+      "label_en": "Mothers weep after their sons die in the attempt to kill young Jesus",
+      "label_ta": "குழந்தை இயேசுவைக் கொல்ல முயற்சி; மகன்களை இழந்த தாய்மார்கள் அழுகிறார்கள்",
+      "pairs_with": [
+        "b11-0032"
+      ],
+      "scriptures": [
+        "Matt. 2:17, 18"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 71,
+      "role": "prophecy",
+      "group": "declared-son",
+      "label_en": "Declared by Jehovah to be his Son",
+      "label_ta": "தமது குமாரனென்று யெகோவா அறிவித்தது",
+      "pairs_with": [
+        "b5-0017"
+      ],
+      "scriptures": [
+        "Ps. 2:7"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0017",
+      "order": 75,
+      "role": "fulfillment",
+      "group": "declared-son",
+      "label_en": "Declared by Jehovah to be his Son",
+      "label_ta": "தமது குமாரனென்று யெகோவா அறிவித்தது",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "Matt. 3:17"
+      ],
+      "source_docid": "1102005152",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 81,
+      "role": "prophecy",
+      "group": "proclaims-liberty-to-captives",
+      "label_en": "Proclaims liberty to captives",
+      "label_ta": "சிறைபிடிக்கப்பட்டவர்களுக்கு விடுதலையை அறிவிக்கிறார்",
+      "pairs_with": [
+        "b5-0032"
+      ],
+      "scriptures": [
+        "Isa. 61:1, 2"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0032",
+      "order": 85,
+      "role": "fulfillment",
+      "group": "proclaims-liberty-to-captives",
+      "label_en": "Proclaims liberty to captives",
+      "label_ta": "சிறைபிடிக்கப்பட்டவர்களுக்கு விடுதலையை அறிவிக்கிறார்",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Luke 4:17-21"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 91,
+      "role": "prophecy",
+      "group": "resides-in-capernaum",
+      "label_en": "Resides in Capernaum of Galilee",
+      "label_ta": "கலிலேயாவில் இருக்கிற கப்பர்நகூமில் குடியிருக்கிறார்",
+      "pairs_with": [
+        "b5-0033"
+      ],
+      "scriptures": [
+        "Isa. 9:1, 2"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0033",
+      "order": 95,
+      "role": "fulfillment",
+      "group": "resides-in-capernaum",
+      "label_en": "Resides in Capernaum of Galilee",
+      "label_ta": "கலிலேயாவில் இருக்கிற கப்பர்நகூமில் குடியிருக்கிறார்",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 4:13-17"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 101,
+      "role": "prophecy",
+      "group": "cures-many-who-are-sick",
+      "label_en": "Cures many who are sick",
+      "label_ta": "நோயாளிகள் நிறைய பேரைக் குணமாக்குகிறார்",
+      "pairs_with": [
+        "b5-0035"
+      ],
+      "scriptures": [
+        "Isa. 53:4"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0035",
+      "order": 105,
+      "role": "fulfillment",
+      "group": "cures-many-who-are-sick",
+      "label_en": "Cures many who are sick",
+      "label_ta": "நோயாளிகள் நிறைய பேரைக் குணமாக்குகிறார்",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 8:16, 17"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 111,
+      "role": "prophecy",
+      "group": "does-not-quarrel",
+      "label_en": "Does not quarrel on the streets",
+      "label_ta": "தெருவில் வாக்குவாதம் செய்யவில்லை",
+      "pairs_with": [
+        "b5-0045"
+      ],
+      "scriptures": [
+        "Isa. 42:1-4"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0045",
+      "order": 115,
+      "role": "fulfillment",
+      "group": "does-not-quarrel",
+      "label_en": "Does not quarrel on the streets",
+      "label_ta": "தெருவில் வாக்குவாதம் செய்யவில்லை",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 12:16-21"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 121,
+      "role": "prophecy",
+      "group": "teaches-by-illustrations",
+      "label_en": "Teaches by means of illustrations",
+      "label_ta": "உவமைகள் மூலமாகக் கற்பிக்கிறார்",
+      "pairs_with": [
+        "b5-0058"
+      ],
+      "scriptures": [
+        "Ps. 78:2"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 121.1,
+      "role": "prophecy",
+      "group": "teaches-by-illustrations",
+      "label_en": "Teaches by means of illustrations",
+      "label_ta": "உவமைகள் மூலமாகக் கற்பிக்கிறார்",
+      "pairs_with": [
+        "b5-0058"
+      ],
+      "scriptures": [
+        "Isa. 6:9, 10"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0058",
+      "order": 125,
+      "role": "fulfillment",
+      "group": "teaches-by-illustrations",
+      "label_en": "Teaches by means of illustrations",
+      "label_ta": "உவமைகள் மூலமாகக் கற்பிக்கிறார்",
+      "pairs_with": [
+        "b11-0040",
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 13:13-15, 34, 35"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0035",
+      "order": 131,
+      "role": "prophecy",
+      "group": "enters-jerusalem-on-a-colt",
+      "label_en": "Enters Jerusalem riding on a colt",
+      "label_ta": "கழுதைக்குட்டியின் மேல் உட்கார்ந்து எருசலேமுக்குள் நுழைகிறார்",
+      "pairs_with": [
+        "b5-0131"
+      ],
+      "scriptures": [
+        "Zech. 9:9"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Zechariah (518 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0131",
+      "order": 135,
+      "role": "fulfillment",
+      "group": "enters-jerusalem-on-a-colt",
+      "label_en": "Enters Jerusalem riding on a colt",
+      "label_ta": "கழுதைக்குட்டியின் மேல் உட்கார்ந்து எருசலேமுக்குள் நுழைகிறார்",
+      "pairs_with": [
+        "b11-0035"
+      ],
+      "scriptures": [
+        "Matt. 21:1-9"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 141,
+      "role": "prophecy",
+      "group": "many-do-not-believe",
+      "label_en": "Many do not believe in him",
+      "label_ta": "நிறைய பேர் அவரை விசுவாசிக்கவில்லை",
+      "pairs_with": [
+        "b5-0135"
+      ],
+      "scriptures": [
+        "Isa. 6:10",
+        "Isa. 53:1"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0135",
+      "order": 145,
+      "role": "fulfillment",
+      "group": "many-do-not-believe",
+      "label_en": "Many do not believe in him",
+      "label_ta": "நிறைய பேர் அவரை விசுவாசிக்கவில்லை",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "John 12:37, 38"
+      ],
+      "source_docid": "1102014749",
+      "note": null
+    },
+    {
+      "event_id": "b11-0035",
+      "order": 151,
+      "role": "prophecy",
+      "group": "betrayed-for-30-silver-pieces",
+      "label_en": "Betrayed for 30 silver pieces",
+      "label_ta": "30 வெள்ளிக்காசுகளுக்குக் காட்டிக் கொடுக்கப்பட்டது",
+      "pairs_with": [
+        "b5-0147"
+      ],
+      "scriptures": [
+        "Zech. 11:12"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of Zechariah (518 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0147",
+      "order": 155,
+      "role": "fulfillment",
+      "group": "betrayed-for-30-silver-pieces",
+      "label_en": "Betrayed for 30 silver pieces",
+      "label_ta": "30 வெள்ளிக்காசுகளுக்குக் காட்டிக் கொடுக்கப்பட்டது",
+      "pairs_with": [
+        "b11-0035"
+      ],
+      "scriptures": [
+        "Matt. 26:14-16"
+      ],
+      "source_docid": "1102005152",
+      "note": null
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 161,
+      "role": "prophecy",
+      "group": "trusted-companion-betrays-him",
+      "label_en": "Trusted companion betrays him",
+      "label_ta": "நண்பன் துரோகியாக மாறினான்",
+      "pairs_with": [
+        "b5-0151",
+        "b5-0156"
+      ],
+      "scriptures": [
+        "Ps. 41:9"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0151",
+      "order": 165,
+      "role": "fulfillment",
+      "group": "trusted-companion-betrays-him",
+      "label_en": "Trusted companion betrays him",
+      "label_ta": "நண்பன் துரோகியாக மாறினான்",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 13:18, 21"
+      ],
+      "source_docid": "1102014749",
+      "note": "At the Passover meal Jesus identifies Judas as the betrayer (John 13:18, 21-30)."
+    },
+    {
+      "event_id": "b5-0156",
+      "order": 165.1,
+      "role": "fulfillment",
+      "group": "trusted-companion-betrays-him",
+      "label_en": "Trusted companion betrays him",
+      "label_ta": "நண்பன் துரோகியாக மாறினான்",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 13:18, 21"
+      ],
+      "source_docid": "1102014749",
+      "note": "The betrayal itself in Gethsemane."
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 171,
+      "role": "prophecy",
+      "group": "hated-without-cause",
+      "label_en": "Hated without cause",
+      "label_ta": "காரணமில்லாமல் வெறுக்கப்பட்டார்",
+      "pairs_with": [
+        "b5-0154"
+      ],
+      "scriptures": [
+        "Ps. 35:19",
+        "Ps. 69:4"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0154",
+      "order": 175,
+      "role": "fulfillment",
+      "group": "hated-without-cause",
+      "label_en": "Hated without cause",
+      "label_ta": "காரணமில்லாமல் வெறுக்கப்பட்டார்",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 15:24, 25"
+      ],
+      "source_docid": "1102014749",
+      "note": "Jesus applies the psalm in his last discourse to the apostles (John 15:24, 25)."
+    },
+    {
+      "event_id": "b11-0035",
+      "order": 181,
+      "role": "prophecy",
+      "group": "disciples-scatter",
+      "label_en": "Disciples scatter, abandoning him",
+      "label_ta": "சீஷர்கள் அவரை விட்டுவிட்டு ஓடினார்கள்",
+      "pairs_with": [
+        "b5-0156"
+      ],
+      "scriptures": [
+        "Zech. 13:7"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Zechariah (518 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0156",
+      "order": 185,
+      "role": "fulfillment",
+      "group": "disciples-scatter",
+      "label_en": "Disciples scatter, abandoning him",
+      "label_ta": "சீஷர்கள் அவரை விட்டுவிட்டு ஓடினார்கள்",
+      "pairs_with": [
+        "b11-0035"
+      ],
+      "scriptures": [
+        "Matt. 26:31, 54-56"
+      ],
+      "source_docid": "1102014749",
+      "note": "At Jesus' arrest the disciples abandon him and flee (Matt. 26:56); Jesus foretold this earlier that night (b5-0153, Matt. 26:31)."
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 191,
+      "role": "prophecy",
+      "group": "silent-before-his-accusers",
+      "label_en": "Silent before his accusers",
+      "label_ta": "குற்றம் சுமத்தியவர்களுக்கு முன் வாய்திறக்காமல் இருந்தது",
+      "pairs_with": [
+        "b5-0160"
+      ],
+      "scriptures": [
+        "Isa. 53:7"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0160",
+      "order": 195,
+      "role": "fulfillment",
+      "group": "silent-before-his-accusers",
+      "label_en": "Silent before his accusers",
+      "label_ta": "குற்றம் சுமத்தியவர்களுக்கு முன் வாய்திறக்காமல் இருந்தது",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 27:11-14"
+      ],
+      "source_docid": "1102005152",
+      "note": null
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 201,
+      "role": "prophecy",
+      "group": "soldiers-divide-his-garments",
+      "label_en": "Soldiers divide up his garments",
+      "label_ta": "படைவீரர்கள் அவருடைய உடைகளைப் பங்கு போட்டார்கள்",
+      "pairs_with": [
+        "b5-0163"
+      ],
+      "scriptures": [
+        "Ps. 22:18"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0163",
+      "order": 205,
+      "role": "fulfillment",
+      "group": "soldiers-divide-his-garments",
+      "label_en": "Soldiers divide up his garments",
+      "label_ta": "படைவீரர்கள் அவருடைய உடைகளைப் பங்கு போட்டார்கள்",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 19:23, 24"
+      ],
+      "source_docid": "1102014749",
+      "note": "Part of the events at the stake (John 19:23, 24)."
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 211,
+      "role": "prophecy",
+      "group": "thirsty-while-on-the-stake",
+      "label_en": "Thirsty while on the stake",
+      "label_ta": "மரக் கம்பத்தில் இருந்தபோது தாகம்",
+      "pairs_with": [
+        "b5-0163"
+      ],
+      "scriptures": [
+        "Ps. 22:15"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0163",
+      "order": 215,
+      "role": "fulfillment",
+      "group": "thirsty-while-on-the-stake",
+      "label_en": "Thirsty while on the stake",
+      "label_ta": "மரக் கம்பத்தில் இருந்தபோது தாகம்",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 19:28"
+      ],
+      "source_docid": "1102014749",
+      "note": "John 19:28, just before Jesus dies."
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 221,
+      "role": "prophecy",
+      "group": "mocked-while-on-the-stake",
+      "label_en": "Mocked while on the stake",
+      "label_ta": "கழுமரத்தில் வேதனைப்படும்போது தூஷிக்கப்பட்டது",
+      "pairs_with": [
+        "b5-0163"
+      ],
+      "scriptures": [
+        "Ps. 22:7, 8"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0163",
+      "order": 225,
+      "role": "fulfillment",
+      "group": "mocked-while-on-the-stake",
+      "label_en": "Mocked while on the stake",
+      "label_ta": "கழுமரத்தில் வேதனைப்படும்போது தூஷிக்கப்பட்டது",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "Matt. 27:39-43"
+      ],
+      "source_docid": "1102005152",
+      "note": "Matt. 27:39-43, at the stake."
+    },
+    {
+      "event_id": "b11-0035",
+      "order": 231,
+      "role": "prophecy",
+      "group": "body-pierced",
+      "label_en": "His body pierced after his death",
+      "label_ta": "இறந்த பிறகு அவருடைய உடல் குத்தப்பட்டது",
+      "pairs_with": [
+        "b5-0164"
+      ],
+      "scriptures": [
+        "Zech. 12:10"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of Zechariah (518 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0164",
+      "order": 235,
+      "role": "fulfillment",
+      "group": "body-pierced",
+      "label_en": "His body pierced after his death",
+      "label_ta": "இறந்த பிறகு அவருடைய உடல் குத்தப்பட்டது",
+      "pairs_with": [
+        "b11-0035"
+      ],
+      "scriptures": [
+        "John 19:34, 37"
+      ],
+      "source_docid": "1102014749",
+      "note": "John 19:34, 37 falls in the passage of this record (John 19:31-42), before the body is taken down."
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 241,
+      "role": "prophecy",
+      "group": "bones-not-broken",
+      "label_en": "Bones not broken before he dies",
+      "label_ta": "இறந்த பிறகு, எலும்புகள் உடைக்கப்படவில்லை",
+      "pairs_with": [
+        "b5-0164"
+      ],
+      "scriptures": [
+        "Ps. 34:20"
+      ],
+      "source_docid": "1102014749",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0164",
+      "order": 245,
+      "role": "fulfillment",
+      "group": "bones-not-broken",
+      "label_en": "Bones not broken before he dies",
+      "label_ta": "இறந்த பிறகு, எலும்புகள் உடைக்கப்படவில்லை",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "John 19:36"
+      ],
+      "source_docid": "1102014749",
+      "note": "John 19:36 falls in the passage of this record (John 19:31-42)."
+    },
+    {
+      "event_id": "b11-0021",
+      "order": 251,
+      "role": "prophecy",
+      "group": "buried-with-the-rich",
+      "label_en": "Buried with the rich",
+      "label_ta": "ஐசுவரியவான்களோடு அடக்கம் பண்ணப்பட்டது",
+      "pairs_with": [
+        "b5-0164"
+      ],
+      "scriptures": [
+        "Isa. 53:9"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of Isaiah (a. 732 B.C.E.); the prophecy itself is not separately dated."
+    },
+    {
+      "event_id": "b5-0164",
+      "order": 255,
+      "role": "fulfillment",
+      "group": "buried-with-the-rich",
+      "label_en": "Buried with the rich",
+      "label_ta": "ஐசுவரியவான்களோடு அடக்கம் பண்ணப்பட்டது",
+      "pairs_with": [
+        "b11-0021"
+      ],
+      "scriptures": [
+        "Matt. 27:57-60"
+      ],
+      "source_docid": "1102005152",
+      "note": null
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 261,
+      "role": "prophecy",
+      "group": "raised-before-corruption",
+      "label_en": "Raised before corruption",
+      "label_ta": "உடல் சிதைந்துபோவதற்கு முன் உயிரோடு எழுப்பப்பட்டது",
+      "pairs_with": [
+        "b5-0166"
+      ],
+      "scriptures": [
+        "Ps. 16:10"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b5-0166",
+      "order": 265,
+      "role": "fulfillment",
+      "group": "raised-before-corruption",
+      "label_en": "Raised before corruption",
+      "label_ta": "உடல் சிதைந்துபோவதற்கு முன் உயிரோடு எழுப்பப்பட்டது",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "Acts 2:24, 27"
+      ],
+      "source_docid": "1102005152",
+      "note": "Acts 2:24, 27 is Peter's Pentecost explanation of the fulfillment; the event is the resurrection."
+    },
+    {
+      "event_id": "b11-0040",
+      "order": 271,
+      "role": "prophecy",
+      "group": "exalted-to-gods-right-hand",
+      "label_en": "Exalted to God’s right hand",
+      "label_ta": "கடவுளுடைய வலது பாரிசத்திற்கு உயர்த்தப்பட்டது",
+      "pairs_with": [
+        "b6-0004"
+      ],
+      "scriptures": [
+        "Ps. 110:1"
+      ],
+      "source_docid": "1102005152",
+      "note": "Anchored to the completion of the book of Psalms (c. 460 B.C.E.); the individual psalm is not dated in the data."
+    },
+    {
+      "event_id": "b6-0004",
+      "order": 275,
+      "role": "fulfillment",
+      "group": "exalted-to-gods-right-hand",
+      "label_en": "Exalted to God’s right hand",
+      "label_ta": "கடவுளுடைய வலது பாரிசத்திற்கு உயர்த்தப்பட்டது",
+      "pairs_with": [
+        "b11-0040"
+      ],
+      "scriptures": [
+        "Acts 7:56"
+      ],
+      "source_docid": "1102005152",
+      "note": "Acts 7:56: Stephen, just before he is stoned, sees Jesus standing at God's right hand."
+    }
+  ],
+  "notes": "One group per table row (the source tables are not subdivided), so that each prophecy member pairs with its own fulfillment; groups are ordered by the date of the fulfillment. Prophecy members are anchored per series rule 4 to the 'writing completed' record of the prophetic book (b11), except Genesis 49:10, anchored to Jacob's death (b2-0006). The jy table has 17 rows; 10 rows of the bh chart are added (its other 5 rows match jy rows and are recorded in attributes.bh_row). The ijwbq article lists about 60 prophecies; its wording for matching rows is in attributes.ijwbq_row, and its rows that neither jy nor bh have (e.g. Offspring of Abraham, Descendant of Isaac, Called by the name Immanuel, Humble beginning, Called a Nazarene, Preceded by a messenger, Anointed as Messiah in 29 C.E. (Dan. 9:25), Zealous for God's house, miracle worker and spokesman like Moses, Wonderful Counselor, Declared Jehovah's name, A Leader, Stone of stumbling, Rejected by humans, Praised by children, Came in Jehovah's name, False witnesses, Spat upon, Struck on the head, Flogged, Did not resist, Government leaders conspired, Nailed to a stake, Counted in with sinners, Suffered for sinners, Seemed forsaken, Vinegar and gall, Entrusted spirit to God, Gave up his life, Provided the ransom, Betrayer replaced) are not included. The jy row 'Bones not broken before he dies' is copied as printed; the Tamil jy reads 'after he died'. Tamil labels are from the Tamil jy page (rows 1-17) and the Tamil bh appendix (added rows)."
+}

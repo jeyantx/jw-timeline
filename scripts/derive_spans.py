@@ -35,11 +35,11 @@ LIFE_TITLES = {"Jesus": "Jesus' earthly life", "Enoch": "Life of Enoch (until Go
 # research batch b12 sources those reigns directly from jw.org, which beats a computed pairing.) Each item: (ruler, start id, explicit end id or None)
 # None = end at the next ruler's accession (as NWT App. A6 lays the chart out).
 JUDAH = [("Rehoboam", "b3-0017", None), ("Abijah", "b3-0021", None), ("Asa", "b3-0022", None),
-         ("Jehoshaphat", "b3-0034", "b3-0041"), ("Jehoram", "b3-0040", None), ("Ahaziah", "b3-0042", None),
+         ("Jehoshaphat", "b3-0034", None), ("Jehoram", "b3-0040", None), ("Ahaziah", "b3-0042", None),
          ("Athaliah", "b3-0044", None), ("Jehoash", "b3-0045", None), ("Amaziah", "b3-0049", None),
          ("Uzziah (Azariah)", "b3-0055", None), ("Jotham", "b3-0067", None), ("Ahaz", "b3-0069", None),
          ("Hezekiah", "b3-0073", None), ("Manasseh", "b3-0081", None), ("Amon", "b3-0082", None),
-         ("Josiah", "b3-0083", "b3-0094"), ("Jehoahaz", "b3-0095", None), ("Jehoiakim", "b3-0096", None),
+         ("Josiah", "b3-0083", None), ("Jehoahaz", "b3-0095", None), ("Jehoiakim", "b3-0096", None),
          ("Jehoiachin", "b3-0104", None), ("Zedekiah", "b3-0108", "b3-0112")]
 ISRAEL = [("Jeroboam", "b3-0018", None), ("Nadab", "b3-0023", None), ("Baasha", "b3-0024", None),
           ("Elah", "b3-0027", None), ("Zimri", "b3-0028", None), ("Omri", "b3-0029", None), ("Ahab", "b3-0033", None),
@@ -48,12 +48,14 @@ ISRAEL = [("Jeroboam", "b3-0018", None), ("Nadab", "b3-0023", None), ("Baasha", 
           ("Zechariah", "b3-0061", None), ("Shallum", "b3-0062", None), ("Menahem", "b3-0063", None),
           ("Pekahiah", "b3-0064", None), ("Pekah", "b3-0065", None), ("Hoshea", "b3-0071", "b3-0076")]
 # printed length in the title describes only part of the reign -> compute from endpoints instead
-IGNORE_PRINTED = {"Omri"}
+IGNORE_PRINTED = {"Omri", "Zechariah"}
 REIGN_NOTES = {
     ("Israel", "Omri"): "Starts with the 4-year rivalry with Tibni (c. 951 B.C.E., b3-0029); Omri ruled alone from c. 947 B.C.E. for 8 years (b3-0030).",
     ("Israel", "Jehoahaz"): "Includes c. 3 years of joint rule with his son Jehoash (c. 862–859 B.C.E., b3-0047).",
     ("Israel", "Hoshea"): "NWT App. A6 gives 9 years counted from c. 748 B.C.E., when his rule became fully established (b3-0072).",
-    ("Israel", "Zechariah"): "NWT App. A6: 'recorded reign of only 6 months'. Sources differ on when it began (c. 803 vs c. 792 B.C.E.); see conflicts.",
+    ("Israel", "Zechariah"): "NWT App. A6 starts Zechariah c. 803 B.C.E. and runs his bar to Shallum (c. 791): his kingship was 'not fully confirmed' until c. 792 B.C.E. (b16-0001), and his recorded reign is only 6 months.",
+    ("Judah", "Jehoshaphat"): "Bar ends where NWT App. A6 starts Jehoram (913 B.C.E.); Jehoshaphat died c. 911 B.C.E. (b3-0041) while Jehoram shared the rule.",
+    ("Judah", "Josiah"): "Bar ends where NWT App. A6 starts Jehoahaz (628 B.C.E.); Insight dates Josiah's death c. 629 B.C.E. (b3-0094).",
     ("Judah", "Jehoram"): "Associated with Jehoshaphat in the government from c. 919 B.C.E. (b3-0037).",
     ("Judah", "Uzziah (Azariah)"): "Becomes king 'in a special sense' c. 818 B.C.E. (b3-0058).",
 }
