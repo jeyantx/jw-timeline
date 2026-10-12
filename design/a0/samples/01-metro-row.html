@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A0 Sample 01 — Metro row</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Noto+Sans+Tamil:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,800&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; padding: 16px 20px 60px; font: 14px/1.45 Inter, system-ui, sans-serif; background: #e9e6df; color: #222; }
+  h1 { font: 800 22px 'Source Serif 4', serif; margin: 0 0 4px; }
+  .note { max-width: 980px; color: #555; margin: 0 0 14px; }
+  .bar { display: flex; gap: 8px; align-items: center; margin: 0 0 18px; flex-wrap: wrap; }
+  .bar button { font: 600 13px Inter; padding: 6px 12px; border: 1px solid #999; background: #fff; border-radius: 6px; cursor: pointer; }
+  .bar button.on { background: #222; color: #fff; border-color: #222; }
+  .opt { margin: 0 0 26px; }
+  .opt h2 { font: 700 16px Inter; margin: 0 0 2px; }
+  .opt p { margin: 0 0 8px; color: #555; max-width: 1100px; }
+  .frame { overflow-x: auto; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,.18); display: inline-block; max-width: 100%; }
+  svg { display: block; }
+  svg text { font-family: Inter, sans-serif; }
+  svg .ta { font-family: 'Noto Sans Tamil', sans-serif; }
+  svg .serif { font-family: 'Source Serif 4', serif; }
+</style>
+</head>
+<body>
+<h1>Sample 01 · One metro-row segment (≈2100–1440 B.C.E.)</h1>
+<p class="note">Real poster records (tier 1 + 2) from <code>data/merged/timeline.json</code>. Drawn in millimetres at a provisional 0.6 mm per year: this strip is about 420 mm wide, roughly one third of an A0 width. Shown here at about 3.2× zoom. The palette buttons recolour all three options.</p>
+<div class="bar" id="pal"></div>
+<div id="out"></div>
+<script src="slice_patriarchs.js"></script>
+<script>
+const PALETTES = {
+  parchment: { name: 'P1 · Parchment', bg:'#fbf6ea', ink:'#3b2a1a', muted:'#7a6650', rule:'#b9a587', paper2:'#f3ead6',
+    era:['#e8c98f','#d9a58a','#c9c28a','#a9bdc4'], life:'#8a6a4a', lifeLite:'#e6d6bd',
+    s:{ covenants:'#b8860b', 'promised-offspring':'#a8322d', 'messianic-line':'#6b4c8a', 'seven-heads-of-the-beast':'#2f6f73', main:'#3b2a1a', 'exodus-route':'#2d5f8a' } },
+  metro: { name: 'P2 · Bright metro', bg:'#ffffff', ink:'#1a1a1a', muted:'#666', rule:'#bbb', paper2:'#f4f4f4',
+    era:['#ffd25a','#ff9a62','#8fd18b','#7cc4ee'], life:'#444', lifeLite:'#e3e3e3',
+    s:{ covenants:'#f2a900', 'promised-offspring':'#e4002b', 'messianic-line':'#8a2be2', 'seven-heads-of-the-beast':'#00843d', main:'#1a1a1a', 'exodus-route':'#0072ce' } },
+  soft: { name: 'P3 · Soft modern', bg:'#f7f9fb', ink:'#1f2a37', muted:'#5f6b7a', rule:'#c4ccd6', paper2:'#eef2f6',
+    era:['#cfe3d4','#f3d9c4','#d8d3ef','#cde3f0'], life:'#4a5d73', lifeLite:'#dde4ec',
+    s:{ covenants:'#c98a1b', 'promised-offspring':'#c2414b', 'messianic-line':'#6c5bb3', 'seven-heads-of-the-beast':'#2a8a83', main:'#1f2a37', 'exodus-route':'#2f6db5' } },
+};
+let P = PALETTES.parchment;
+
+const LO = -2100, HI = -1440, K = 0.6, M = 12, W = M * 2 + (HI - LO) * K, Z = 3.2;
+const X = sk => M + (sk - LO) * K;
+const ERAS = [ [-2100,-1728,'Abraham, Isaac and Jacob','ஆபிரகாம், ஈசாக்கு, யாக்கோபு'], [-1728,-1513,'Israel in Egypt','எகிப்தில் இஸ்ரவேலர்'], [-1513,-1473,'Exodus & wilderness','யாத்திரை'], [-1473,-1440,'Conquest','கானான்'] ];
+const SERIES_NAMES = { covenants:['Covenants','ஒப்பந்தங்கள்'], 'promised-offspring':['Promised offspring','வாக்குக் கொடுக்கப்பட்ட சந்ததி'], 'messianic-line':['Line of the Messiah',''], 'seven-heads-of-the-beast':['World powers',''] };
+const SYM = { covenants:'◆', 'promised-offspring':'★', 'messianic-line':'●' };
+
+// ---------- data shaping ----------
+const isPoint = r => r.timing === 'point' || (r.e != null && r.e - r.s < 2);
+const books = SLICE.filter(r => r.cat === 'bible.book_writing');
+const pts = SLICE.filter(r => isPoint(r) && !books.includes(r)).map(r => ({ ...r, tx: X(r.s) }));
+const spans = SLICE.filter(r => !isPoint(r));
+const lives = spans.filter(r => /^Life of /.test(r.en));
+const periods = spans.filter(r => !lives.includes(r));
+// poster short names (data has no short_en field yet — proposed)
+const SHORT = { 'b12-0002':'Abrahamic covenant → Law', 'b12-0003':'“about 450 years” (Acts 13:20)', 'b12-0004':'affliction of Abraham’s offspring', 'b12-0005':'Israel in Egypt', 'b12-0007':'in the wilderness', 'b12-0008':'conquest of Canaan', 'b2-0057':'period of the Judges' };
+const stackYears = g => { const ys = g.items.map(r => r.y).filter(Boolean), a = Math.min(...ys), b = Math.max(...ys); return (a === b ? '' : b + '–') + a + ' B.C.E.'; };
+const clampX = (x, w) => Math.max(M - 2, Math.min(x, W - M + 2 - w));
+function bookStrip(y) {
+  let s = `<text x="${M - 4}" y="${y + 2.9}" font-size="1.8" font-weight="700" fill="${P.muted}">Bible books</text>`;
+  const bs = books.map(r => ({ ...r, tx: X(r.s), ab: r.en.replace('Writing of ', '').replace(' completed', '') }));
+  spread(bs, 9);
+  bs.forEach(r => {
+    s += `<path d="M${r.tx} ${y + 4.2}L${r.dx} ${y + 3.6}" stroke="${P.rule}" stroke-width="0.2"/>`;
+    s += `<rect x="${r.dx - 4.3}" y="${y}" width="8.6" height="3.6" rx="0.6" fill="${P.s['exodus-route']}"/>`;
+    s += `<text x="${r.dx}" y="${y + 2.6}" font-size="2" font-weight="700" text-anchor="middle" fill="#fff">${esc(r.ab.slice(0, 7))}</text>`;
+  });
+  return s;
+}
+function short(t) { // poster needs short titles; data has none yet
+  t = t.split(/;| — |: /)[0].replace(/\s*\(.*?\)\s*/g, ' ').trim();
+  return t.length > 40 ? t.slice(0, 38).replace(/\s\S*$/, '') + '…' : t;
+}
+const esc = s => (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+const tw = (s, fs, ta) => (s || '').length * fs * (ta ? 0.66 : 0.53);
+const bce = sk => Math.round(-sk + (sk % 1 ? 0.75 : 0)); // sort_key → printed B.C.E. year (approx.)
+function durLabel(r) { if (r.dur) return r.dur.replace(' years', ' yrs'); return Math.round(r.e - r.s) + ' yrs'; }
+
+function lanes(items, x0, x1, gap) { // greedy interval packing
+  const ends = [];
+  items.forEach(it => {
+    let i = ends.findIndex(e => x0(it) > e + gap);
+    if (i < 0) { i = ends.length; ends.push(0); }
+    ends[i] = x1(it); it.lane = i;
+  });
+  return ends.length;
+}
+function spread(items, gap) { // 1-D de-overlap keeping groups centred on their true mean
+  items.sort((a, b) => a.tx - b.tx);
+  let B = items.map(it => ({ items: [it], c: it.tx }));
+  for (let ch = true; ch;) {
+    ch = false;
+    for (let i = 0; i < B.length - 1; i++) {
+      const a = B[i], b = B[i + 1];
+      if ((b.c - (b.items.length - 1) * gap / 2) - (a.c + (a.items.length - 1) * gap / 2) < gap) {
+        const its = a.items.concat(b.items);
+        B.splice(i, 2, { items: its, c: its.reduce((s, t) => s + t.tx, 0) / its.length }); ch = true; break;
+      }
+    }
+  }
+  B.forEach(b => b.items.forEach((it, j) => it.dx = b.c + (j - (b.items.length - 1) / 2) * gap));
+}
+function placeSkyline(boxes, yBase, yTop) { // put each box as low as possible without overlap
+  const placed = [];
+  boxes.forEach(b => {
+    for (let y = yBase; y - b.h >= yTop - 40; y -= 0.5) {
+      if (!placed.some(p => b.x < p.x + p.w + 1.2 && p.x < b.x + b.w + 1.2 && y - b.h < p.y + 0.6 && p.y - p.h < y + 0.6)) { b.y = y; break; }
+    }
+    if (b.y == null) b.y = yTop; placed.push(b);
+  });
+}
+
+// ---------- shared drawing ----------
+function ruler(y, opts = {}) {
+  let s = `<line x1="${M - 4}" y1="${y}" x2="${W - M + 4}" y2="${y}" stroke="${P.ink}" stroke-width="0.35"/>`;
+  for (let Y = 2100; Y >= 1450; Y -= 10) {
+    const x = X(-(Y - 1)), big = Y % 50 === 0;
+    s += `<line x1="${x}" y1="${y}" x2="${x}" y2="${y + (big ? 2 : 0.9)}" stroke="${P.ink}" stroke-width="${big ? 0.3 : 0.15}"/>`;
+    if (big) s += `<text x="${x}" y="${y + 4.6}" font-size="2.2" text-anchor="middle" fill="${P.muted}">${Y}</text>`;
+  }
+  s += `<text x="${M - 5}" y="${y + 4.6}" font-size="1.9" text-anchor="end" fill="${P.muted}">B.C.E.</text>`;
+  return s;
+}
+function eraBand(y, h, label = true, faint = false) {
+  return ERAS.map(([a, b, en, ta], i) => {
+    const x = X(a), w = X(b) - X(a);
+    return `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${P.era[i]}" opacity="${faint ? 0.28 : 1}"/>` +
+      (label ? `<text x="${x + 1.5}" y="${y + h - 1.6}" font-size="2.6" font-weight="800" fill="${P.ink}" class="serif">${esc(tw(en, 2.6) > w - 2 ? en.split(' ')[0] : en)}</text>` +
+        (w > 70 ? `<text x="${x + 2 + tw(en, 2.6) + 2}" y="${y + h - 1.6}" font-size="2.1" fill="${P.muted}" class="ta">${esc(ta)}</text>` : '') : '');
+  }).join('');
+}
+function lifeBars(y0, style) {
+  const n = lanes(lives.sort((a, b) => a.s - b.s), r => X(r.s), r => X(Math.min(r.e, HI)) + tw(r.en.replace('Life of ', ''), 2.3) * (style === 'line' ? 0 : 0), 2);
+  let s = '';
+  lives.forEach(r => {
+    const x1 = X(r.s), x2 = X(Math.min(r.e, HI)), y = y0 + r.lane * 6.2, name = r.en.replace('Life of ', ''), cut = r.e > HI;
+    const t1 = r.tier === 1;
+    if (style === 'bar') {
+      s += `<rect x="${x1}" y="${y}" width="${x2 - x1}" height="4.4" rx="2.2" fill="${t1 ? P.life : P.lifeLite}" stroke="${P.life}" stroke-width="0.25"/>`;
+      s += `<text x="${x1 + 2}" y="${y + 3.2}" font-size="2.6" font-weight="${t1 ? 700 : 600}" fill="${t1 ? P.bg : P.ink}">${esc(name)} <tspan font-weight="400" font-size="2.1">${durLabel(r)}${cut ? ' →' : ''}</tspan></text>`;
+    } else {
+      s += `<line x1="${x1}" y1="${y + 3}" x2="${x2}" y2="${y + 3}" stroke="${P.life}" stroke-width="${t1 ? 0.9 : 0.5}" stroke-linecap="round"/>`;
+      s += `<circle cx="${x1}" cy="${y + 3}" r="0.9" fill="${P.life}"/>` + (cut ? '' : `<path d="M${x2 - 0.9} ${y + 2.1}h1.8v1.8h-1.8z" fill="${P.life}"/>`);
+      s += `<text x="${x1 + 1.6}" y="${y + 1.9}" font-size="2.4" font-weight="${t1 ? 700 : 500}" fill="${P.ink}">${esc(name)} <tspan font-weight="400" fill="${P.muted}" font-size="2">${durLabel(r)}</tspan></text>`;
+    }
+  });
+  return { svg: s, h: n * 6.2 };
+}
+function brackets(y0) {
+  const ps = periods.filter(r => r.id !== 'b12-0006').sort((a, b) => a.s - b.s);
+  const n = lanes(ps, r => X(r.s), r => Math.max(X(Math.min(r.e, HI)), (X(r.s) + X(Math.min(r.e, HI))) / 2 + tw(SHORT[r.id] || short(r.en), 2.2) / 2 + 6), 1.5);
+  let s = '';
+  ps.forEach(r => {
+    const x1 = X(r.s), x2 = X(Math.min(r.e, HI)), y = y0 + r.lane * 6.4, c = P.s.covenants;
+    s += `<path d="M${x1} ${y}v2.2H${x2}v-2.2" fill="none" stroke="${P.muted}" stroke-width="0.35"/>`;
+    s += `<text x="${(x1 + x2) / 2}" y="${y + 5}" font-size="2.2" text-anchor="middle" fill="${P.ink}"><tspan font-weight="700">${durLabel(r)}</tspan> · ${esc(SHORT[r.id] || short(r.en))}</text>`;
+  });
+  return { svg: s, h: n * 6.4 };
+}
+const Q = new URLSearchParams(location.search);
+function svgWrap(h, body, title) {
+  const z = +(Q.get('z') || Z), vx = +(Q.get('vx') || 0), vw = +(Q.get('vw') || W);
+  return `<svg width="${vw * z}" height="${h * z}" viewBox="${vx} 0 ${vw} ${h}" xmlns="http://www.w3.org/2000/svg">
+  <rect width="${W}" height="${h}" fill="${P.bg}"/>${body}</svg>`;
+}
+const inS = (r, id) => r.series.includes(id);
+
+// ---------- OPTION A: schematic metro, rotated station names ----------
+function optionA() {
+  const H = 150, yMain = 62, LINES = [['main', yMain], ['covenants', yMain + 4.2], ['promised-offspring', yMain + 8.4]];
+  const P2 = pts.map(r => ({ ...r })); spread(P2, 3.8);
+  let s = eraBand(0, 7);
+  // series line bundle
+  LINES.forEach(([id, y]) => s += `<line x1="${M - 4}" y1="${y}" x2="${W - M + 4}" y2="${y}" stroke="${P.s[id]}" stroke-width="${id === 'main' ? 1.6 : 1.1}" stroke-linecap="round"/>`);
+  LINES.slice(1).forEach(([id, y]) => s += `<text x="${M - 4}" y="${y - 0.9}" font-size="1.8" font-weight="700" fill="${P.s[id]}">${SERIES_NAMES[id][0]}</text>`);
+  const yR = 82;
+  P2.forEach(r => {
+    const onC = inS(r, 'covenants'), onP = inS(r, 'promised-offspring'), t1 = r.tier === 1;
+    const yEnd = onP ? yMain + 8.4 : onC ? yMain + 4.2 : yMain;
+    // connector to true year on ruler
+    s += `<path d="M${r.dx} ${yEnd + 1.6} L${r.dx} ${yEnd + 3} L${r.tx} ${yR - 1.5} L${r.tx} ${yR}" fill="none" stroke="${P.rule}" stroke-width="0.18"/>`;
+    if (yEnd > yMain) s += `<rect x="${r.dx - 1.3}" y="${yMain - 1.3}" width="2.6" height="${yEnd - yMain + 2.6}" rx="1.3" fill="#fff" stroke="${P.ink}" stroke-width="0.4"/>`;
+    else s += `<circle cx="${r.dx}" cy="${yMain}" r="${t1 ? 1.4 : 0.9}" fill="#fff" stroke="${P.ink}" stroke-width="${t1 ? 0.5 : 0.35}"/>`;
+    const lbl = short(r.en);
+    s += `<text transform="translate(${r.dx + 0.6},${yMain - 2.4}) rotate(-52)" font-size="${t1 ? 2.5 : 2.05}" font-weight="${t1 ? 800 : 400}" fill="${P.ink}">${esc(lbl)}${t1 && r.ta ? '' : ''}</text>`;
+  });
+  s += ruler(yR) + bookStrip(yR + 6);
+  const L = lifeBars(yR + 12, 'bar'); s += L.svg;
+  const B = brackets(yR + 14 + L.h); s += B.svg;
+  return svgWrap(Math.max(H, yR + 18 + L.h + B.h), s);
+}
+
+// ---------- OPTION B: chart style — horizontal labels, date-stack cards, badges ----------
+function stacks(gapMM) { // group points that sit within gapMM of the first in group
+  const out = []; let cur = null;
+  pts.forEach(r => { if (cur && r.tx - cur.tx0 < gapMM) cur.items.push(r); else { cur = { tx0: r.tx, items: [r] }; out.push(cur); } });
+  return out.map(g => {
+    g.tx = g.items.reduce((s, t) => s + t.tx, 0) / g.items.length;
+    g.items.sort((a, b) => a.s - b.s);
+    return g;
+  });
+}
+function badge(r) { return ['covenants', 'promised-offspring', 'messianic-line'].filter(id => inS(r, id)).map(id => `<tspan fill="${P.s[id]}">${SYM[id]}</tspan>`).join(''); }
+function optionB(withTamil = true) {
+  const yR = 92; let s = eraBand(0, 7);
+  const boxes = stacks(2.2).map(g => {
+    if (g.items.length >= 3) { // date-stack card
+      const cols = g.items.length > 8 ? 2 : 1, rows = Math.ceil(g.items.length / cols);
+      const w = cols * 44, h = 4.4 + rows * 2.75 + 1;
+      return { kind: 'stack', g, w, h, x: clampX(g.tx - w / 2, w) };
+    }
+    return g.items.map(r => {
+      const t1 = r.tier === 1, fs = t1 ? 2.7 : 2.2, lbl = short(r.en);
+      const w = tw(lbl, fs) + 3 + (t1 && withTamil && r.ta ? 0 : 0), h = t1 && withTamil && r.ta ? 6.4 : 3.4;
+      return { kind: 'one', r, w: Math.max(w, t1 && r.ta && withTamil ? tw(r.ta, 2.1, 1) : 0), h, x: r.tx - 1.2, fs, lbl };
+    });
+  }).flat();
+  // place most important first so tier 1 sits nearest the ruler
+  const order = boxes.slice().sort((a, b) => (a.kind === 'stack' ? -1 : a.r.tier) - (b.kind === 'stack' ? -1 : b.r.tier) || a.x - b.x);
+  placeSkyline(order, yR - 4, 12);
+  boxes.forEach(b => {
+    if (b.kind === 'stack') {
+      const { g } = b, cols = b.w > 50 ? 2 : 1, rows = Math.ceil(g.items.length / cols);
+      s += `<line x1="${g.tx}" y1="${b.y}" x2="${g.tx}" y2="${yR}" stroke="${P.ink}" stroke-width="0.25"/>`;
+      s += `<rect x="${b.x}" y="${b.y - b.h}" width="${b.w}" height="${b.h}" rx="1.2" fill="${P.paper2}" stroke="${P.ink}" stroke-width="0.3"/>`;
+      s += `<rect x="${b.x}" y="${b.y - b.h}" width="${b.w}" height="3.8" rx="1.2" fill="${P.ink}"/>`;
+      s += `<text x="${b.x + 1.5}" y="${b.y - b.h + 2.8}" font-size="2.4" font-weight="800" fill="${P.bg}">${stackYears(g)}</text>`;
+      g.items.forEach((r, i) => {
+        const c = Math.floor(i / rows), rr = i % rows, t1 = r.tier === 1;
+        s += `<text x="${b.x + 1.5 + c * 44}" y="${b.y - b.h + 6.6 + rr * 2.75}" font-size="2.05" font-weight="${t1 ? 700 : 400}" fill="${P.ink}">${badge(r)}${badge(r) ? ' ' : ''}${esc(short(r.en))}</text>`;
+      });
+      s += `<circle cx="${g.tx}" cy="${yR}" r="1.1" fill="${P.ink}"/>`;
+    } else {
+      const { r } = b, t1 = r.tier === 1;
+      s += `<line x1="${r.tx}" y1="${b.y + 0.4}" x2="${r.tx}" y2="${yR}" stroke="${P.rule}" stroke-width="0.2"/>`;
+      s += `<circle cx="${r.tx}" cy="${yR}" r="${t1 ? 1 : 0.6}" fill="${t1 ? P.ink : P.bg}" stroke="${P.ink}" stroke-width="0.3"/>`;
+      const yT = b.y - b.h + (t1 ? 2.7 : 2.4);
+      s += `<text x="${b.x}" y="${yT}" font-size="${b.fs}" font-weight="${t1 ? 800 : 400}" fill="${P.ink}">${badge(r)}${badge(r) ? ' ' : ''}${esc(b.lbl)}</text>`;
+      if (t1 && withTamil && r.ta) s += `<text x="${b.x}" y="${yT + 3}" font-size="2.05" fill="${P.muted}" class="ta">${esc(r.ta.length > 34 ? r.ta.slice(0, 34).replace(/\s\S*$/, '') + '…' : r.ta)}</text>`;
+    }
+  });
+  s += ruler(yR) + bookStrip(yR + 6);
+  const L = lifeBars(yR + 12, 'bar'); s += L.svg;
+  const Bk = brackets(yR + 14 + L.h); s += Bk.svg;
+  s += legend(yR + 18 + L.h + Bk.h);
+  return svgWrap(yR + 26 + L.h + Bk.h, s);
+}
+function legend(y) {
+  return `<text x="${M}" y="${y}" font-size="2" fill="${P.muted}">` + ['covenants', 'promised-offspring', 'messianic-line'].map(id => `<tspan fill="${P.s[id]}" font-size="2.4">${SYM[id]}</tspan> ${SERIES_NAMES[id][0]}   `).join('') + `<tspan font-weight="800" fill="${P.ink}">Bold</tspan> = tier 1 landmark · black card = several events in one year</text>`;
+}
+
+// ---------- OPTION C: metro lines that dive to their stations + illustrated tier 1 ----------
+function optionC() {
+  const yR = 96; let s = eraBand(0, yR + 6, false, true) + eraBand(0, 7);
+  const ser = [['covenants', yR + 10], ['promised-offspring', yR + 14], ['messianic-line', yR + 18]];
+  const boxes = stacks(2.2).map(g => {
+    if (g.items.length >= 3) {
+      const cols = g.items.length > 8 ? 2 : 1, rows = Math.ceil(g.items.length / cols), w = cols * 44, h = 4.4 + rows * 2.75 + 1;
+      return { kind: 'stack', g, w, h, x: clampX(g.tx - w / 2, w) };
+    }
+    return g.items.map(r => {
+      const t1 = r.tier === 1, fs = t1 ? 2.7 : 2.2, lbl = short(r.en);
+      return t1 ? { kind: 'one', r, w: Math.max(tw(lbl, fs), 12) + 2, h: 13.5, x: r.tx - 6, fs, lbl } : { kind: 'one', r, w: tw(lbl, fs) + 2, h: 3.3, x: r.tx - 1, fs, lbl };
+    });
+  }).flat();
+  const order = boxes.slice().sort((a, b) => (a.kind === 'stack' ? -1 : a.r.tier) - (b.kind === 'stack' ? -1 : b.r.tier) || a.x - b.x);
+  placeSkyline(order, yR - 4, 12);
+  boxes.forEach(b => {
+    if (b.kind === 'stack') {
+      const { g } = b, cols = b.w > 50 ? 2 : 1, rows = Math.ceil(g.items.length / cols);
+      s += `<line x1="${g.tx}" y1="${b.y}" x2="${g.tx}" y2="${yR}" stroke="${P.ink}" stroke-width="0.25"/>`;
+      s += `<rect x="${b.x}" y="${b.y - b.h}" width="${b.w}" height="${b.h}" rx="2" fill="${P.bg}" stroke="${P.ink}" stroke-width="0.3"/>`;
+      s += `<text x="${b.x + 1.5}" y="${b.y - b.h + 3}" font-size="2.5" font-weight="800" fill="${P.ink}" class="serif">${stackYears(g)}</text>`;
+      g.items.forEach((r, i) => { const c = Math.floor(i / rows), rr = i % rows; s += `<text x="${b.x + 1.5 + c * 44}" y="${b.y - b.h + 6.6 + rr * 2.75}" font-size="2.05" font-weight="${r.tier === 1 ? 700 : 400}" fill="${P.ink}">${esc(short(r.en))}</text>`; });
+    } else {
+      const { r } = b, t1 = r.tier === 1;
+      s += `<line x1="${r.tx}" y1="${b.y}" x2="${r.tx}" y2="${yR}" stroke="${P.rule}" stroke-width="0.2"/>`;
+      if (t1) {
+        s += `<circle cx="${b.x + 5}" cy="${b.y - b.h + 5}" r="4.8" fill="${P.paper2}" stroke="${P.ink}" stroke-width="0.35"/>`;
+        s += `<text x="${b.x + 5}" y="${b.y - b.h + 6}" font-size="2" text-anchor="middle" fill="${P.muted}">image</text>`;
+        s += `<text x="${b.x}" y="${b.y - 0.9}" font-size="${b.fs}" font-weight="800" fill="${P.ink}">${esc(b.lbl)}</text>`;
+        s += `<text x="${b.x + 11}" y="${b.y - b.h + 4}" font-size="2" font-weight="700" fill="${P.muted}">${esc(r.label)}</text>`;
+      } else s += `<text x="${b.x}" y="${b.y - 0.8}" font-size="${b.fs}" fill="${P.ink}">${esc(b.lbl)}</text>`;
+    }
+  });
+  s += ruler(yR);
+  // series lines below the ruler, diving up to each member's year
+  ser.forEach(([id, y]) => {
+    s += `<line x1="${M - 4}" y1="${y}" x2="${W - M + 4}" y2="${y}" stroke="${P.s[id]}" stroke-width="1.2" stroke-linecap="round"/>`;
+    s += `<text x="${W - M + 5}" y="${y + 0.7}" font-size="2" font-weight="700" fill="${P.s[id]}">${SERIES_NAMES[id][0]}</text>`;
+    SLICE.filter(r => inS(r, id)).forEach(r => {
+      const x = X(r.s);
+      s += `<line x1="${x}" y1="${yR + 0.6}" x2="${x}" y2="${y}" stroke="${P.s[id]}" stroke-width="0.4" stroke-dasharray="0.8 0.6"/>`;
+      s += `<circle cx="${x}" cy="${y}" r="1.25" fill="#fff" stroke="${P.s[id]}" stroke-width="0.55"/>`;
+    });
+  });
+  s += bookStrip(yR + 21);
+  const L = lifeBars(yR + 27, 'line'); s += L.svg;
+  const Bk = brackets(yR + 29 + L.h); s += Bk.svg;
+  return svgWrap(yR + 34 + L.h + Bk.h, s);
+}
+
+const OPTS = [
+  ['A · Schematic metro', 'Every event is a station on one black main line. Series run as parallel coloured lines underneath, and an event in a series becomes a white interchange capsule. Station names are angled like a metro map. Stations are evenly spaced, not to scale; thin fan lines take each one down to its true year on the ruler. Lifespans are filled bars and prophetic periods are measured brackets.', optionA],
+  ['B · Chart style (usefulcharts-like)', 'Horizontal labels sit at their true year on leader lines. Several events in the same year collapse into a black-headed date-stack card. Series show as coloured symbols in front of the title (◆ covenant, ★ promised offspring). Tier 1 is bold, with the Tamil title underneath. Lifespans and brackets are the same as in A.', () => optionB(true)],
+  ['C · Metro lines that dive + illustrated landmarks', 'Each tier 1 event gets an image disc (from jw.org) with its date. Series lines run continuously below the ruler and send a dotted spur up to each member’s true year, so the line itself shows where the series "stops". Era colours wash the whole background. Lifespans are fine life-lines with birth and death marks.', optionC],
+];
+function render() {
+  if (Q.get('pal')) P = PALETTES[Q.get('pal')];
+  if (Q.get('only')) { const o = OPTS['ABC'.indexOf(Q.get('only'))]; document.body.style.padding = '0'; document.body.innerHTML = o[2](); return; }
+  document.getElementById('out').innerHTML = OPTS.map(([t, d, f]) => `<div class="opt"><h2>${t}</h2><p>${d}</p><div class="frame">${f()}</div></div>`).join('');
+  document.getElementById('pal').innerHTML = '<b>Palette:</b> ' + Object.entries(PALETTES).map(([k, v]) => `<button data-k="${k}" class="${v === P ? 'on' : ''}">${v.name}</button>`).join('');
+  document.querySelectorAll('#pal button').forEach(b => b.onclick = () => { P = PALETTES[b.dataset.k]; render(); });
+}
+document.fonts.ready.then(render); render();
+</script>
+</body>
+</html>

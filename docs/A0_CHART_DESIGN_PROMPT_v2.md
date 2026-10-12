@@ -4,7 +4,7 @@
 
 ---
 
-Thank you for the four concepts. **Decision: go with the hybrid of 1b (Serpentine Metro) and 1c (Overview Strip + Magnifiers), as you recommended.** Please produce a **refined wireframe of that hybrid**. It is still a wireframe: greyscale plus series colours and placeholder labels, with no final art. This time it should be sized to the real content budget below and include the new elements described here.
+Thank you for the four concepts. **Decision: go with the hybrid of 1b (Serpentine Metro) and 1c (Overview Strip + Magnifiers). Mostly 1b — the metro rows are the main body — with 1c magnifier panels only in some places.** Please produce a **refined wireframe of that hybrid**. It is still a wireframe: greyscale plus series colours and placeholder labels, with no final art. This time it should be sized to the real content budget below and include the new elements described here.
 
 ## 1. What changed in the brief
 
@@ -168,4 +168,4 @@ Other series appear as structure, not threads: kings of Judah and Israel, Persia
 - CMYK-safe colour with shape backing every colour.
 - An unofficial personal study chart: no jw.org logo or branding.
 - Artwork credited in the footer.
-- English and Tamil: we lean towards **two editions** (same layout, text swapped) unless your Tamil crop shows a bilingual edition works.
+- English and Tamil: **decided — two editions** (same layout, text swapped). Still make one crop in Tamil so we can check text expansion.

@@ -62,7 +62,7 @@ python3 scripts/derive_spans.py && python3 scripts/build_series.py && python3 sc
 ## A0 chart design: where we are
 - Round 1 brief: `docs/A0_CHART_DESIGN_BRIEF.md`.
 - Claude Design produced 4 concepts: 1a River, 1b Serpentine Metro, 1c Overview Strip + Magnifiers, 1d Spiral. The local copy is `/Users/jeyant-10189/Downloads/A0 Chart Concepts.html`, a JS-bundled page; serve it with `python3 -m http.server` to view. Online: https://claude.ai/design/p/e8f3aca5-9a2e-470f-87e2-00721a1e2395?file=A0+Chart+Concepts.html&via=share
-- The round 2 prompt for Claude Design (`docs/A0_CHART_DESIGN_PROMPT_v2.md`) was written but **not used**. **Decision (2026-10-12): Claude, in Claude Code, designs it directly from now on, not Claude Design.**
+- The round 2 prompt for Claude Design (`docs/A0_CHART_DESIGN_PROMPT_v2.md`) was written but **not used**. Claude Code tried designing directly (`design/a0/samples/01-metro-row.html`, options A/B/C); the owner preferred Claude Design's quality. **Decision (2026-10-12): back to Claude Design** with the round 2 prompt. Claude Code supplies data, prompts and checks. Print: **two editions** (English sheet, Tamil sheet).
 - **Owner direction for the design:**
   - **Mostly like 1b (serpentine metro):** four switchback rows with continuous series lines and interchanges.
   - **With some 1c magnifier panels** in places: patriarch lives, kings and prophets (A6), Jesus 29–33, Bible survives, Kingdom activity by decade, the future.
