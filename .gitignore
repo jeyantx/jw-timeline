@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
+
+# local-only (personal use, not published): downloaded jw.org images
+private/

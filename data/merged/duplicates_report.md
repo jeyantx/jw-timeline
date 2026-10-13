@@ -78,8 +78,14 @@ Rules: bible.book_writing → b11 wins; other b11 vs chronology batch → chrono
 - **1868 or 1869** kept [b8-0002] Russell’s wavering faith is reestablished after hearing Jonas Wendell  ← dropped [b7-0229] C. T. Russell begins careful study of the Scriptures
 - **1939-45** kept [b8-0218] 23 British Commonwealth nations ban Witnesses or their literature  ← dropped [b12-0083] Bans in British Empire and Commonwealth lands during World War II
 
-# Needs manual review (0)
+# Needs manual review (3)
 
+- **a. 858 B.C.E.** [b3-0050] Jehoash of Israel captures Amaziah and breaches Jerusalem’s wall
+  vs [b19-0034] Amaziah defeats Edom, then worships Edom’s gods  (title overlap 0.17)
+- **c. 758 B.C.E.** [b3-0071] Hoshea becomes king of Israel (9 years from c. 748)
+  vs [b19-0050] Hoshea becomes Shalmaneser V’s vassal, then conspires with Egypt  (title overlap 0.67)
+- **First year of Hezekiah’s reign (746/745 B.C.E.)** [b18-0040] Hezekiah reopens the temple and holds a great Passover
+  vs [b19-0051] Hezekiah crushes Moses’ copper serpent  (title overlap 0.2)
 
 # Series members not found (0)
 

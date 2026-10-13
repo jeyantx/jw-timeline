@@ -1,0 +1,45 @@
+kingdom,king,start_as_printed,end_as_printed,start_year,end_year,length_as_printed,source_ref,notes
+united,Saul,1117 B.C.E.,1077 B.C.E.,1117,1077,40 years,Insight “Chronology” chart (1200000970); reign span b12-0009,A6 does not cover the united kingdom. Chart prints Saul 1117; end = David’s start at Hebron (1077). Design note “Saul dies 1078” is not printed in this chart (it lists c. 1078 for completion of 1 Samuel).
+united,David,1077 B.C.E.,1038 B.C.E.,1077,1038,40,Insight “Chronology” chart (1200000970); reign span b12-0012,Chart: king of Judah at Hebron 1077; king over all Israel 1070. End per b12-0012 (1077-1038); Solomon’s first regnal year 1037.
+united,Solomon,1037 B.C.E.,998 B.C.E.,1037,998,40,Insight “Chronology” chart (1200000970); “All Scripture” Study 3 (1101990130); span b12-0013,Last of 40 full regnal years ended spring 997 B.C.E. (si Study 3); Rehoboam 997.
+judah,Rehoboam,997 B.C.E.,980,997,980,17 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+judah,Abijah (Abijam),980,978,980,978,3 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+judah,Asa,978,937,978,937,41 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight chart: “evidently began to rule” 978 but first regnal year counted from 977; Insight “Asa” 977-937; si Study 3 table 977.
+judah,Jehoshaphat,937,913,937,913,25 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6 (Jehoram as coregent). Insight: first regnal year 936; si table 936. Insight: Jehoshaphat died c. 911.
+judah,Jehoram,913,c. 906,913,906,8 years,NWT App. A6-A (1001070206),"end = successor’s accession as printed in A6. Insight: associated with father c. 919, official coregent 913, sole ruler c. 911."
+judah,Ahaziah,c. 906,c. 905,906,905,1 year,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight: “perhaps anointed to kingship in c. 907”.
+judah,Queen Athaliah,c. 905,898,905,898,6 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+judah,Jehoash,898,858,898,858,40 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight “Jehoash”: 898 to 859 B.C.E.
+judah,Amaziah,858,829,858,829,29 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+judah,Uzziah (Azariah),829,777,829,777,52 years,NWT App. A6-A (1001070206); NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight “Uzziah”: 829-778; “became king” in a special sense c. 818. si/Insight: Uzziah died about 778.
+judah,Jotham,777 B.C.E.,762,777,762,16 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6
+judah,Ahaz,762,746,762,746,16 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight: first regnal year 761 (“Tiglath-pileser” 761-746); si table c. 761.
+judah,Hezekiah,746,716,746,716,29 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight: first regnal year 745 (“Hezekiah” 745-717); si table 745.
+judah,Manasseh,716,661,716,661,55 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight “Manasseh”: 716-662.
+judah,Amon,661,659,661,659,2 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6
+judah,Josiah,659,628,659,628,31 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight “Jeremiah”: 659-629; Insight “Chronology”: Josiah’s death likely 629.
+judah,Jehoahaz,628,628,628,628,3 months,NWT App. A6-B (1001061215),A6 prints 628 for both Jehoahaz and Jehoiakim.
+judah,Jehoiakim,628,618,628,618,11 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight “Jehoiakim”: 628-618.
+judah,Jehoiachin,618,617,618,617,"3 months, 10 days",NWT App. A6-B (1001061215),"end = successor’s accession as printed in A6. Surrendered in Adar, 617 (b3-0105)."
+judah,Zedekiah,617,607,617,607,11 years,NWT App. A6-B (1001061215),"End printed: 607, Jerusalem destroyed and Zedekiah dethroned."
+israel,Jeroboam,997 B.C.E.,c. 976,997,976,22 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Nadab,c. 976,c. 975,976,975,2 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Baasha,c. 975,c. 952,975,952,24 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Elah,c. 952,c. 951,952,951,2 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Zimri,c. 951,c. 951,951,951,7 days,NWT App. A6-A (1001070206),A6 prints “Zimri: 7 days (c. 951)”.
+israel,Omri and Tibni,c. 951,c. 947,951,947,4 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight chart: Omri began c. 951 (12 years); Tibni rival king c. 951; Omri sole ruler c. 947.
+israel,Omri (alone),c. 947,c. 940,947,940,8 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Ahab,c. 940,c. 920,940,920,22 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Ahaziah,c. 920,c. 917,920,917,2 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight: “evidently his father was still living”; years may count from c. 919; si table c. 919.
+israel,Jehoram,c. 917,c. 905,917,905,12 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6
+israel,Jehu,c. 905,876,905,876,28 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight chart: kingship counted from c. 904; Insight “Shalmaneser”: c. 904-877.
+israel,Jehoahaz,876,c. 859,876,859,14 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6 (Jehoash alone). A6 also shows “Jehoahaz and Jehoash: 3 years” from c. 862. DIFFERENCE: Insight “Chronology” chart prints Jehoahaz (17) — i.e. 17 years (2 Ki. 13:1); Insight “Ben-hadad”: 876-c. 860.
+israel,Jehoahaz and Jehoash (jointly),c. 862,c. 859,862,859,3 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight chart: Jehoash associated with father c. 862.
+israel,Jehoash (alone),c. 859,c. 844,859,844,16 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight “Ben-hadad”: c. 859-845.
+israel,Jeroboam II,c. 844,c. 803,844,803,41 years,NWT App. A6-A (1001070206),end = successor’s accession as printed in A6. Insight “Ben-hadad”: c. 844-804.
+israel,Zechariah,c. 803 B.C.E.,c. 791,803,791,recorded reign of only 6 months,NWT App. A6-B (1001061215),"end = successor’s accession as printed in A6. A6: began in some sense c. 803; kingship evidently not fully confirmed until c. 792 (si table: rules c. 792, 6 months)."
+israel,Shallum,c. 791,c. 791,791,791,1 month,NWT App. A6-B (1001061215),A6 lists Shallum and Menahem under c. 791.
+israel,Menahem,c. 791,c. 780,791,780,10 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6. Insight chart: years counted from c. 790; Insight “Tiglath-pileser”: c. 790-781.
+israel,Pekahiah,c. 780,c. 778,780,778,2 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6
+israel,Pekah,c. 778,c. 758,778,758,20 years,NWT App. A6-B (1001061215),end = successor’s accession as printed in A6
+israel,Hoshea,c. 758,740,758,740,9 years from c. 748,NWT App. A6-B (1001061215),"End printed: 740, Assyria conquers Samaria. A6: rule fully established (or backed by Tiglath-pileser III) c. 748."

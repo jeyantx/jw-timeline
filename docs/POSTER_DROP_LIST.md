@@ -1,11 +1,12 @@
-# A0 poster — records not on the poster (1347)
+# A0 poster — records not on the poster (1418)
 
-Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing below (rubric: `docs/POSTER_TIER_RUBRIC.md`). Everything here stays in the data and the app. To change a record's tier, use the yellow column in `exports/poster_selection.xlsx` or add it to `data/curation/tier_overrides.json`.
+Rule: the poster shows **every tier 1 and tier 2 record (659)** and nothing below (rubric: `docs/POSTER_TIER_RUBRIC.md`). Everything here stays in the data and the app. To change a record's tier, use the yellow column in `exports/poster_selection.xlsx` or add it to `data/curation/tier_overrides.json`.
 
-## Tier 3 — Notable detail (app) (1088)
+## Tier 3 — Notable detail (app) (1154)
 
-### Row 1 · 4026–1000 B.C.E. (24)
+### Row 1 · 4026–1000 B.C.E. (25)
 
+- Before the six creative “days” (date not stated) — The earth formless and desolate, in darkness `b21-0004` · Earth's state before day 1; descriptive context
 - 3152 B.C.E. — Birth of Lamech `b1-0008` · Minor genealogy birth; Lamech has no bar
 - 2470 B.C.E. — Birth of Japheth `b1-0015` · Minor genealogy birth
 - after 2470 B.C.E. — Birth of Ham `b1-0016` · Minor genealogy birth
@@ -31,23 +32,71 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - Before 1117 B.C.E. (20 years) — Ark returned; kept at Kiriath-jearim 20 years `b2-0077` · Ark's return; aftermath detail
 - c. 1078 B.C.E. (shortly before Saul’s death) — Saul consults the spirit medium at En-dor `b18-0018` · Prelude to Saul's death; context
 
-### Row 2 · 1000–1 B.C.E. (95)
+### Row 2 · 1000–1 B.C.E. (143)
 
+- During Jeroboam’s reign (997–c. 976 B.C.E.; year not stated) — Ahijah foretells the end of Jeroboam’s house `b19-0002` · Judgment on Jeroboam's house; calves record carries his story
+- During Abijah’s reign (980–978 B.C.E.; year not stated) — Abijah’s Judah defeats Jeroboam’s larger army `b19-0003` · Judah–Israel war; Abijah's victory is lesser known
+- 963 B.C.E. (Asa’s 15th year) — Great assembly makes a covenant to seek Jehovah `b19-0005` · Covenant assembly within Asa's reform; reform record carries it
 - 962 B.C.E. — Baasha comes up to build Ramah `b3-0026` · Border war detail between Asa and Baasha
+- about 962 B.C.E. — Asa bribes Ben-hadad I to attack Israel `b19-0006` · Border-war detail, like Baasha building Ramah (T3)
+- After Asa’s bribe to Ben-hadad (c. 962 B.C.E.) — Hanani the seer rebukes Asa and is jailed `b19-0007` · Rebuke within Asa's reign; lesser-known
+- During Ahab’s reign (c. 940–c. 920 B.C.E.; year not stated) — Hiel the Bethelite rebuilds Jericho `b19-0009` · Joshua's curse fulfilled; brief note
+- About the fifth year before Ahab’s death (during his reign, c. 940–c. 920 B.C.E.; year not stated) — Ahab routs Ben-hadad II’s 32-king coalition at Samaria `b19-0010` · Ahab–Syria war detail
+- The following year (during Ahab’s reign, c. 940–c. 920 B.C.E.; year not stated) — Israel defeats Syria at Aphek; Ahab spares Ben-hadad `b19-0011` · Ahab–Syria war detail
+- After the battle at Ramoth-gilead (c. 920 B.C.E.; year not stated) — Jehoshaphat, rebuked by Jehu, tours Judah and appoints judges `b19-0013` · Jehoshaphat's teachers record (T2) carries his reform
+- During Ahaziah’s reign over Israel (c. 920–c. 917 B.C.E.; year not stated) — Jehoshaphat’s ships wrecked at Ezion-geber `b19-0015` · Minor alliance judgment
+- After Ahab’s death (c. 920 B.C.E.) — Mesha of Moab revolts against Israel `b19-0016` · Moab's revolt; Moabite Stone is archaeology context
 - During Elisha’s activity (c. 917–c. 857 B.C.E.; year not stated) — Elisha multiplies a widow’s oil `b18-0032` · Lesser-known Elisha miracle
+- Early in Jehoram’s reign over Israel, while Jehoshaphat lived (c. 917–c. 911 B.C.E.; year not stated) — Israel, Judah, and Edom march on Moab; water like blood `b19-0017` · Lesser-known Elisha miracle, like the widow's oil (T3)
+- During Jehoram’s reign over Israel (c. 917–c. 905 B.C.E.; year not stated) — Siege and famine in Samaria end as Syrians flee `b19-0018` · Elisha prophecy fulfilled; less known than Naaman, Dothan
+- During Jehoram’s reign over Judah (913–c. 906 B.C.E.; year not stated) — Jehoram of Judah kills his six brothers `b19-0020` · Jehoram's crimes; context within reign
+- During Jehoram’s reign over Judah (913–c. 906 B.C.E.; year not stated) — Edom, then Libnah, revolt against Judah `b19-0021` · Revolts within Jehoram's reign
+- During Jehoram’s reign over Judah (913–c. 906 B.C.E.; year not stated) — Elijah’s letter condemns Jehoram of Judah `b19-0022` · Elijah's letter; lesser-known detail
+- c. 906 B.C.E. (end of Jehoram’s 8-year reign, when Ahaziah became king) — Philistines and Arabs plunder Judah; Jehoram dies of disease `b19-0023` · Fulfilment of Elijah's letter; reign bar shows the end
+- During Jehu’s reign (c. 905–876 B.C.E.; year not stated) — Hazael begins cutting off Israel’s land east of the Jordan `b19-0025` · Territorial loss detail
+- During Jehu’s reign (c. 905–876 B.C.E.; event not recorded in the Bible) — Black Obelisk of Shalmaneser III names Jehu `b19-0026` · Archaeology context; Bible does not mention the tribute
+- 898 B.C.E. (after Jehoash’s coronation) — Jehoiada renews the covenant; Baal’s house torn down `b19-0028` · Follow-up to Jehoash's coronation
 - During Jehoash’s reign (898–858 B.C.E.; year not stated) — Jehoash and Jehoiada repair the temple `b18-0037` · Temple restoration; context within reign
+- Late in Jehoash’s reign (898–858 B.C.E.; year not stated) — Hazael takes Gath; Jehoash buys him off `b19-0030` · Syrian raid detail
+- During Jehoahaz’ reign (876–c. 859 B.C.E.; year not stated) — Hazael and Ben-hadad III oppress Israel `b19-0031` · Background oppression under Jehoahaz
+- During Jehoash’s reign over Israel (c. 859–c. 844 B.C.E.; year not stated) — Jehoash of Israel defeats Syria three times `b19-0033` · Fulfilment detail of Elisha's arrows prophecy
+- During Amaziah’s reign (858–829 B.C.E.; year not stated) — Amaziah defeats Edom, then worships Edom’s gods `b19-0034` · Amaziah's reign detail
 - a. 858 B.C.E. — Jehoash of Israel captures Amaziah and breaches Jerusalem’s wall `b3-0050` · Israel–Judah war detail under Amaziah
+- During Jeroboam II’s reign (c. 844–c. 803 B.C.E.; year not stated) — Jeroboam II restores Israel’s borders, as Jonah foretold `b19-0035` · Jeroboam II's expansion; Jonah's record carries Jonah
+- 829 B.C.E. (end of Amaziah’s reign; his son Uzziah became king) — Amaziah assassinated at Lachish `b19-0036` · King's assassination; reign bar shows the end
+- During Uzziah’s reign, before his leprosy (829–777 B.C.E.; year not stated) — Uzziah’s victories, towers, and farming `b19-0037` · Uzziah's achievements; context within reign
+- Evidently earlier in Uzziah’s reign (within 829–about 804 B.C.E.) — Great earthquake in the days of Uzziah `b19-0039` · Dating note; earthquake recalled in Amos and Zechariah
 - During Uzziah’s reign (829–777 B.C.E.; year not stated) — King Uzziah is struck with leprosy for burning incense `b18-0039` · Notable judgment; context within reign
+- During Menahem’s reign (c. 791–c. 780 B.C.E.; year not stated) — Menahem pays Pul (Tiglath-pileser III) 1,000 talents `b19-0040` · First Assyrian tribute; background to Assyrian advance
+- During Jotham’s reign (777–762 B.C.E.; year not stated) — Jotham serves Jehovah `b19-0043` · Reign summary; Jotham's reign bar shows him
+- During Ahaz’ reign (762–746 B.C.E.; year not stated) — Rezin and Pekah attack Judah; Ahaz turns to Assyria `b19-0044` · Syro-Israelite war; Immanuel sign record carries it
+- During Ahaz’ reign (762–746 B.C.E.; year not stated) — Ahaz offers his own sons in fire `b19-0046` · Ahaz's apostasy; altar record carries it
+- c. 760 B.C.E. — Tiglath-pileser III exiles the tribes east of the Jordan `b19-0049` · Exile of eastern tribes; 740 fall carries Israel's exile
 - c. 759 B.C.E. — Ahaz becomes tributary to Tiglath-pileser III `b3-0070` · Ahaz's vassalage to Assyria; background to Isaiah 7
+- During Hoshea’s reign, before the siege of Samaria (c. 758–742 B.C.E.; year not stated) — Hoshea becomes Shalmaneser V’s vassal, then conspires with Egypt `b19-0050` · Lead-up to Samaria's siege
+- During Hezekiah’s reign (746–716 B.C.E.; year not stated) — Micah warns “Zion will be plowed”; Hezekiah repents `b19-0052` · Micah's warning; Micah's activity bar shows him
 - 742 B.C.E. — Assyrian siege of Samaria begins `b3-0075` · Siege start; the 740 fall carries the event
+- At or shortly after the fall of Samaria (740 B.C.E.) — Sargon II becomes king of Assyria `b19-0054` · Foreign accession; no bar
+- Later than 732 B.C.E. (the Bible gives no year) — Sennacherib killed by his sons in Nisroch’s temple `b19-0057` · Follow-up to the T1 732 deliverance
 - During Manasseh’s reign (716–661 B.C.E.; year not stated) — Manasseh repents and is restored to his throne `b18-0042` · Notable repentance; context within reign
 - 652 B.C.E. — Josiah begins to search for Jehovah `b3-0085` · Josiah's personal start; campaign and Law find carry story
+- 628 B.C.E. (after Jehoahaz’ 3-month reign) — Pharaoh Necho deposes Jehoahaz and installs Jehoiakim `b19-0061` · Succession detail; reign bars show it
+- Early in Jehoiakim’s reign (628–618 B.C.E.; year not stated) — Jehoiakim has the prophet Urijah killed `b19-0062` · Lesser-known prophet's death
+- Early in Jehoiakim’s reign (628–618 B.C.E.; year not stated) — Jeremiah vindicated `b19-0063` · Temple sermon trial; cistern record carries Jeremiah's endurance
+- 624 B.C.E. (Nebuchadnezzar’s first official year) — Nebuchadnezzar captures and sacks Ashkelon `b19-0067` · Babylonian campaign known from inscriptions
 - 620 B.C.E. — Nebuchadnezzar makes Jehoiakim a tributary king `b3-0101` · Step toward exile; deportations carry the story
 - 618 B.C.E. — Jehoiakim rebels; Nebuchadnezzar comes against Jerusalem `b3-0102` · Step toward exile; deportations carry the story
 - 617 B.C.E.–580 B.C.E. — Jehoiachin’s captivity in Babylon `b12-0021` · Captivity bar; deportation point and release carry it
+- After the 617 B.C.E. deportation, during Zedekiah’s reign (617–607 B.C.E.; year not stated) — Comfort for the exiles in Babylon `b19-0069` · Repeats the 70 years; b19-0064 carries the prophecy
+- 612 B.C.E. — Ezekiel’s vision of apostate Jerusalem `b19-0071` · Vision detail; Ezekiel's temple vision holds T2
 - 609 B.C.E., Tebeth 10 — Nebuchadnezzar begins the final siege of Jerusalem `b3-0110` · Siege start (Tebeth 10); siege bar shows it
+- During the final siege of Jerusalem (609–607 B.C.E.; year not stated) — Babylonians briefly lift the siege as Egypt’s army comes `b19-0072` · Siege interlude; siege bar shows the siege
+- During the final siege of Jerusalem (609–607 B.C.E.; year not stated) — Jeremiah seized as a deserter and imprisoned `b19-0073` · Imprisonment; cistern record carries Jeremiah's endurance
+- During the final siege of Jerusalem (609–607 B.C.E.; year not stated) — Jeremiah buys a field at Anathoth as a sign of restoration `b19-0074` · Sign of restoration; lesser-known
 - 607 B.C.E., Tammuz 9 — Jerusalem’s walls breached; Zedekiah captured `b3-0111` · Siege end; destruction record carries the event
 - 607 B.C.E. — Gedaliah appointed governor of Judah `b3-0114` · Governor appointment; administrative aftermath
+- Sometime after the fall of Jerusalem in 607 B.C.E. — Nebuchadnezzar begins a 13-year siege of Tyre `b19-0075` · Partial fulfilment; island Tyre 332 (T2) carries Ezekiel's prophecy
+- After the flight to Egypt (607 B.C.E.) — Jeremiah hides stones at Tahpanhes: Babylon will rule Egypt `b19-0076` · Prophetic sign in Egypt; minor
 - 607 B.C.E., seventh month — Gedaliah murdered `b3-0115` · Aftermath; desolation start carries the outcome
 - 607 B.C.E., tenth month, 5th day — Ezekiel told that Jerusalem has been struck down `b4-0007` · Report reaching Ezekiel; detail
 - 591 B.C.E. — Ezekiel foretells Egypt given to Nebuchadnezzar `b4-0010` · Minor prophecy detail on Egypt
@@ -129,8 +178,9 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 18/17 B.C.E.–c. 64 C.E. — Herod’s rebuilding of the temple `b12-0041` · Bar duplicates Herod's rebuilding start (T2)
 - 12 B.C.E. — Augustus becomes Pontifex Maximus `b4-0135` · Roman political title
 
-### S Bible books strip (1)
+### S Bible books strip (2)
 
+- 625 B.C.E. (4th year of Jehoiakim) — Jeremiah begins dictating his prophecies to Baruch `b19-0065` · Scroll-burning record carries this account
 - c. 62 C.E. — James, Jesus' brother and writer of James, stoned (per Josephus) `b11-0062` · Death of James per Josephus; extra-biblical person detail
 
 ### P4 Jesus 2 B.C.E.–33 C.E. (85)
@@ -269,7 +319,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - a. 96 C.E. (after Domitian’s death) — John released from Patmos after Domitian’s death `b6-0101` · John released from Patmos; follow-on detail
 - 98-117 C.E. — Reign of Trajan, Roman emperor `b12-0057` · Trajan not in Bible; emperor context
 
-### P5 Bible survives / wheat & weeds (188)
+### P5 Bible survives / wheat & weeds (192)
 
 - c. 150 B.C.E. (2nd century B.C.E.) — Septuagint translation completed `b4-0116` · Completion of Septuagint; the start marker represents it
 - 125–100 B.C.E. — Dead Sea Scroll of Isaiah copied (125–100 B.C.E.) `b17-0001` · Copying date; the 1947 discovery is the poster marker
@@ -442,9 +492,13 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1823 — Torres Amat Spanish Bible from the Vulgate `b7-0207` · Catholic Spanish version
 - 1824 — Judson imprisoned in Burma; manuscript saved in a pillow `b7-0208` · Translator imprisoned
 - 1830 — Moffat prints Gospel of Luke in Tswana `b7-0209` · Tswana Gospel
+- About 1835 — Henry Grew’s pamphlet exposes immortal-soul teaching `b20-0001` · Prelude publication to Bible Students, like Storrs 1853 (T3)
 - 1835 — Judson completes the Burmese Bible `b7-0210` · Burmese Bible; national translations mostly T3
+- 1837 — George Storrs finds Grew’s pamphlet on a train `b20-0002` · Reformer's personal life
+- 1840 — George Storrs resigns from the Methodist Church `b20-0003` · Reformer's personal life
 - 1840 — Sharpe's English translation based on Griesbach `b7-0211` · English version based on Griesbach
 - 1841 — Malayalam Bible published, using "Jehovah" `b7-0212` · Malayalam Bible; divine name marker is Tyndale 1530
+- Early spring of 1842 — Storrs lectures: “Are the Wicked Immortal?” `b20-0004` · Prelude publication to Bible Students
 - 1844 — Tischendorf discovers first portion of Codex Sinaiticus `b7-0213` · Partial discovery; codex itself is on poster
 - 1844, October 22 — Millerites' "Great Disappointment" `b7-0214` · Adventist prelude to the modern era
 - 1847 — Tulu Bible published `b7-0215` · Tulu Bible
@@ -460,7 +514,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1859 — Darwin's "Origin of Species" undermines faith in the Bible `b7-0226` · Evolution theory; ideology context
 - 1862 — Young's translation (1862-98) uses "Jehovah" `b7-0227` · Divine name version; Tyndale 1530 is the marker
 
-### P6 Kingdom activity 1870–2026 (650)
+### P6 Kingdom activity 1870–2026 (662)
 
 - February 16, 1852 – October 31, 1916 — Life of Charles Taze Russell `d1-0029` · individual's lifespan (after Bible times)
 - 1868 or 1869 — Russell’s wavering faith is reestablished after hearing Jonas Wendell `b8-0002` · Doctrinal or practice refinement detail
@@ -742,6 +796,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1953 — 1953: New World Society Assemblies `b9-0038` · Publications Index one-line entry
 - 1953, March 17 — Netherlands Supreme Court: Havenaar case `b9-0039` · Individual legal case or step; not a kr landmark
 - 1953, June 19 — Nicaragua Supreme Court rules for the Witnesses `b9-0040` · Individual legal case or step; not a kr landmark
+- July 19 to 26, 1953 — New World Society Assembly at Yankee Stadium `b20-0007` · Individual convention; not a kr landmark like 1922, 1935
 - 1953, September 1 — Program of training in house-to-house preaching begins `b9-0041` · Training arrangement detail
 - 1953, October 6 — Supreme Court of Canada: Saumur case `b9-0042` · Saumur: second Quebec ruling; Boucher holds T2
 - 1954 — 1954: District Assemblies `b9-0043` · Publications Index one-line entry
@@ -807,6 +862,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - September 1977–June 16, 1988 — Martin Poetzinger serves on the Governing Body `b12-0098` · individual tenure (Kingdom over persons)
 - 1978 — 1978: “Victorious Faith” International Conventions `b9-0114` · Publications Index one-line entry
 - 1978 — Making Your Family Life Happy published `b9-0115` · Individual publication or magazine detail
+- 1979 — MEPS development begins `b20-0008` · Printing technology detail
 - 1979 — Argentine court reverses expulsion of Witness children `b9-0116` · Individual legal case or step; not a kr landmark
 - 1979 — Understanding clarified: “keys of the kingdom” (Matt. 16:19) `b9-0117` · Publications Index one-line entry
 - 1979 — 1979: “Living Hope” District Conventions `b9-0118` · Publications Index one-line entry
@@ -861,6 +917,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1991 — Witnesses registered in the Soviet Union `b9-0178` · Individual legal case or step; not a kr landmark
 - 1991 — The Soviet Union collapses; God’s people there enjoy “a little help” `b14-0013` · Soviet collapse; freedom covered by 1991 bans-lifted record
 - a. 1991– — Russia and its allies as “the king of the north” `b14-0014` · King of north identity; Daniel 11 context
+- 1992 — First sign-language videocassette released `b20-0009` · Sign-language publication detail
 - 1992 — Understanding clarified: Nethinim and sons of the servants of Solomon after exile `b9-0179` · Publications Index one-line entry
 - 1992 — “Light Bearers” Convention in St. Petersburg `b9-0181` · Individual convention or assembly detail
 - 1992 — Ohio Supreme Court considers custody case `b9-0183` · Individual legal case or step; not a kr landmark
@@ -878,6 +935,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - July 1, 1994– — Gerrit Lösch serves on the Governing Body `b12-0101` · individual tenure (Kingdom over persons)
 - 1995 — 1995: “Joyful Praisers” District Conventions `b9-0200` · Publications Index one-line entry
 - 1995 — Knowledge That Leads to Everlasting Life published `b9-0201` · Study book; Truth and Bible Teach hold the tier
+- April 1995 — Gilead School moves to Patterson `b20-0010` · School relocation; 1943 Gilead holds school tier
 - 1996 — Understanding clarified: acceptability of customary (tribal) marriage `b9-0202` · Publications Index one-line entry
 - 1996 — Understanding clarified: civilian service in lieu of military service `b9-0203` · Publications Index one-line entry
 - 1996 — Understanding clarified: “flesh” saved through great tribulation (Matt. 24:22) `b9-0204` · Publications Index one-line entry
@@ -906,6 +964,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2000 — ECHR Grand Chamber rules for Thlimmenos `b9-0225` · Individual legal case or step; not a kr landmark
 - 2000 — Training program for all translation teams authorized `b9-0226` · Training arrangement detail
 - 2000, February 29 — Japan Supreme Court upholds right to refuse blood `b9-0227` · Individual legal case or step; not a kr landmark
+- October 7, 2000 — Governing Body members leave corporate boards `b20-0011` · Follow-up to 1971 separation (T2)
 - 2001 — Understanding clarified: “divorce certificate” for Judah (Isa. 50:1) `b9-0229` · Publications Index one-line entry
 - 2001 — Understanding clarified: ‘doves to birdhouse holes’ (Isa. 60:8, 9) `b9-0230` · Publications Index one-line entry
 - 2001 — Understanding clarified: worshipping Jehovah “with spirit” (John 4:24) `b9-0231` · Publications Index one-line entry
@@ -950,6 +1009,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2010 — 2010: “Remain Close to Jehovah!” District Conventions `b9-0273` · Publications Index one-line entry
 - 2010 — ECHR rules on Moscow liquidation case `b9-0274` · Individual legal case or step; not a kr landmark
 - 2010, December 4 — Death of Governing Body member John E. Barr `b9-0277` · Individual person's event or talk (C4)
+- 2011 (“Let God’s Kingdom Come!” District Convention) — Listen to God brochures released `b20-0014` · Individual publication detail
 - 2011 — Understanding clarified: entering Jehovah’s rest (Heb. 4) `b9-0278` · Publications Index one-line entry
 - 2011 — Understanding clarified: Jesus “a corresponding ransom” (1 Tim. 2:6) `b9-0279` · Publications Index one-line entry
 - 2011 — Understanding clarified: olive tree (Rom. 11) `b9-0280` · Publications Index one-line entry
@@ -980,6 +1040,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2013 — 2013: “God’s Word Is Truth!” District Conventions `b9-0308` · Publications Index one-line entry
 - 2013 — School for Kingdom Evangelizers approved `b9-0311` · Secondary school; Gilead and TMS hold school tier
 - 2013–January 2017 — Construction of the world headquarters at Warwick, New York `b12-0109` · Warwick construction; HQ bar holds T2
+- October 2013 — JW Library app released `b20-0015` · Digital tool; jw.org 2012 (T2) carries the digital shift
 - 2013, November — Last imprisoned objectors released in Armenia `b9-0315` · Individual legal case or step; not a kr landmark
 - 2013, November 19 — Kyrgyzstan court rules alternative service law unconstitutional `b9-0316` · Individual legal case or step; not a kr landmark
 - 2014 — Understanding clarified: appointment of elders and ministerial servants `b9-0317` · Publications Index one-line entry
@@ -1002,6 +1063,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2015, May 27 — New Local Religious Organization registered in Moscow `b9-0341` · Individual legal case or step; not a kr landmark
 - 2015, June 24 — Namibia Supreme Court upholds patient’s right to refuse blood `b9-0342` · Individual legal case or step; not a kr landmark
 - 2015, September 23 — Organizational changes announced to worldwide Bethel family `b9-0343` · Organizational or preaching detail; context
+- October 2015 — NWT study edition: Matthew released (English) `b20-0017` · NWT edition detail; 2013 revision holds T1
 - 2015, December 21 — Bremen grants Witnesses higher legal status `b9-0345` · Individual legal case or step; not a kr landmark
 - 2016 — Understanding clarified: anointed zealously active during World War I `b9-0346` · Publications Index one-line entry
 - 2016 — Understanding clarified: captivity of anointed to Babylon the Great `b9-0347` · Publications Index one-line entry
@@ -1037,6 +1099,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2019 — 2019: “Love Never Fails!” Conventions `b9-0379` · Publications Index one-line entry
 - 2019, February 28 — Last imprisoned Korean conscientious objector released `b9-0380` · Individual legal case or step; not a kr landmark
 - 2019, October 5 — Ramapo media production facility announced `b9-0381` · Construction or printing detail
+- November 4, 2019 — jw.org reaches 1,000 languages `b20-0018` · Language milestone statistic, like NWT language counts (T3)
 - 2020 — Understanding clarified: fishermen and hunters (Jer. 16:16, 18) `b9-0382` · Publications Index one-line entry
 - 2020 — Understanding clarified: fruitage of God’s spirit (Gal. 5:22, 23) `b9-0383` · Publications Index one-line entry
 - 2020 — Understanding clarified: how righteous may “fall” (Prov. 24:16) `b9-0384` · Publications Index one-line entry
@@ -1046,7 +1109,9 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2020 — Understanding clarified: validation and inauguration of new covenant `b9-0388` · Publications Index one-line entry
 - 2020 — 2020: “Always Rejoice!” Conventions `b9-0389` · Publications Index one-line entry
 - 2020, March — Congregations begin meeting by videoconference `b9-0390` · Start of videoconference bar (T2)
+- March 2020 — Ministry by telephone and letters in the pandemic `b20-0019` · Pandemic ministry; videoconference meetings bar (T2) carries it
 - 2020, March 18 — First Governing Body Update on the pandemic `b9-0392` · Video update with a notable adjustment
+- 2020 — Complete NWT in American Sign Language `b20-0020` · NWT language edition; 1963 record carries NWT in many languages
 - 2021 — Understanding clarified: King Ahab not repentant (1 Ki. 21:19-29; 2 Chron. 19:1, 2) `b9-0393` · Publications Index one-line entry
 - 2021 — Understanding clarified: Paul’s statement, “through law I died toward law” (Gal. 2:19) `b9-0394` · Publications Index one-line entry
 - 2021 — Understanding clarified: ‘shaking of the nations’ causes ‘precious things to come in’ (Hag. 2:7) `b9-0395` · Publications Index one-line entry
@@ -1111,9 +1176,10 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2026, June 26 — Blue Lake property purchased near Warwick `b9-0469` · Construction or printing detail
 - 2026, July 9 — ECHR rules in Barsuk and Gyl v. Ukraine `b9-0470` · Individual legal case or step; not a kr landmark
 - 2026, August 8-26 — First special preaching campaign in Moldova `b9-0473` · Organizational or preaching detail; context
+- August 21, 2026 — NWT in 350 languages `b20-0022` · NWT language count, like 2025 320-language record (T3)
 - 2026, September 18 — Adjustment to position on blood components `b9-0474` · Video update with a notable adjustment
 
-## Tier 4 — Fine detail / redundant (app) (259)
+## Tier 4 — Fine detail / redundant (app) (264)
 
 ### Row 1 · 4026–1000 B.C.E. (50)
 
@@ -1168,7 +1234,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1037 B.C.E. — Solomon succeeds David as king of Israel `b3-0011` · shown by its life/reign/office bar
 - spring 1034 B.C.E.–fall 1027 B.C.E. — Construction of Solomon’s temple `b12-0014` · Bar duplicates T1 begun/completed points, like Flood bar
 
-### Row 2 · 1000–1 B.C.E. (56)
+### Row 2 · 1000–1 B.C.E. (58)
 
 - 997 B.C.E. — Rehoboam becomes king of Judah (17 years) `b3-0017` · shown by its life/reign/office bar
 - 997 B.C.E. — Jeroboam becomes king of Israel (22 years) `b3-0018` · shown by its life/reign/office bar
@@ -1207,10 +1273,12 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 746 B.C.E. — Hezekiah becomes king of Judah (29 years) `b3-0073` · shown by its life/reign/office bar
 - 716 B.C.E. — Manasseh becomes king of Judah (55 years) `b3-0081` · shown by its life/reign/office bar
 - 661 B.C.E. — Amon becomes king of Judah (2 years) `b3-0082` · shown by its life/reign/office bar
+- 659 B.C.E. (end of Amon’s 2-year reign; Josiah made king) — Amon assassinated after two years `b19-0059` · Reign end shown by Amon's reign bar
 - 659 B.C.E. — Josiah becomes king of Judah (31 years) `b3-0083` · shown by its life/reign/office bar
 - 628 B.C.E. — Jehoahaz (of Judah) becomes king of Judah (3 months) `b3-0095` · shown by its life/reign/office bar
 - 628 B.C.E. — Jehoiakim becomes king of Judah (11 years) `b3-0096` · shown by its life/reign/office bar
 - 625 B.C.E. — Nebuchadnezzar becomes king of Babylon `b3-0100` · shown by its life/reign/office bar
+- 618 B.C.E. (evidently early in the Babylonian siege) — Jehoiakim dies during the siege of Jerusalem `b19-0068` · King's death shown by Jehoiakim's reign bar
 - 618 B.C.E. — Jehoiachin becomes king of Judah (3 months, 10 days) `b3-0104` · shown by its life/reign/office bar
 - 617 B.C.E. — Zedekiah becomes king of Judah (11 years) `b3-0108` · shown by its life/reign/office bar
 - 607 B.C.E., Tammuz 9 — Babylonians breach Jerusalem's wall `b4-0006` · Duplicates b3-0111 wall breach
@@ -1270,7 +1338,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - c. 65 C.E. — Titus leaves for Dalmatia `b6-0086` · Titus to Dalmatia; one-line travel detail
 - 68 C.E. — Nero commits suicide `b6-0094` · shown by its life/reign/office bar
 
-### P5 Bible survives / wheat & weeds (26)
+### P5 Bible survives / wheat & weeds (27)
 
 - c. 100 C.E. — Apostle John, the last of the apostles, dies `b6-0107` · Duplicates b7-0001 (John dies, apostasy unrestrained)
 - 382 C.E. — Synod in Constantinople affirms full divinity of the holy spirit `b7-0034` · Minor synod; doctrinal detail
@@ -1298,8 +1366,9 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1711 — Third edition of Almeida's New Testament financed for Tranquebar missionaries `b7-0174` · Reprint financing detail
 - 1796, December 13 — George Storrs born `b7-0186` · shown by its life/reign/office bar
 - by 1800 — Bible available in about 70 languages `b7-0190` · Statistic
+- Mid-1800’s — Grew, Stetson, Storrs expose immortal-soul doctrine `b20-0005` · Summarises b20-0001, -0002, -0004
 
-### P6 Kingdom activity 1870–2026 (96)
+### P6 Kingdom activity 1870–2026 (98)
 
 - February 16, 1852 — Charles Taze Russell is born `b8-0001` · shown by its life/reign/office bar
 - November 8, 1869 — Joseph F. Rutherford is born `b8-0003` · shown by its life/reign/office bar
@@ -1358,6 +1427,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 1999, October 2 — Guy H. Pierce appointed to the Governing Body `b9-0221` · shown by its life/reign/office bar
 - 2001 — Benefit From Theocratic Ministry School Education published `b9-0228` · School textbook release
 - 2001 — Report: 18,300 Kingdom Halls needed in 88 lands `b9-0233` · Yearly or numeric statistic
+- 2002 — First sign-language DVD released `b20-0012` · Format change; videocassette record carries sign-language start
 - 2005, September 1 — Geoffrey Jackson and Anthony Morris added to Governing Body `b9-0248` · shown by its life/reign/office bar
 - 2006, April 18 — Death of Governing Body member Daniel Sydlik `b9-0251` · shown by its life/reign/office bar
 - 2010 — Bethel buildings in Papua New Guinea dedicated `b9-0275` · Single branch dedication
@@ -1367,6 +1437,7 @@ Rule: the poster shows **every tier 1 and tier 2 record (619)** and nothing belo
 - 2013 — Peak of 7,965,954 publishers; 19.2 million at Memorial `b9-0310` · Yearly or numeric statistic
 - 2013, June — Brochure Jehovah’s Witnesses and Disaster Relief released `b9-0312` · Single brochure release
 - 2013, August 10 — Printing of revised NWT begins `b9-0313` · Printing start; revised NWT release is the event
+- 2013 — JW Library Sign Language app released `b20-0016` · Variant of JW Library app
 - 2014 — Over 44 million Awake! and 46 million Watchtower copies monthly `b9-0325` · Yearly or numeric statistic
 - 2014, January 11 — Sri Lanka branch facilities dedicated `b9-0326` · Single branch dedication
 - 2014, March 18 — Death of Governing Body member Guy H. Pierce `b9-0327` · shown by its life/reign/office bar

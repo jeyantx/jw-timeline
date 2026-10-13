@@ -1,0 +1,1778 @@
+{
+ "batch": "b20",
+ "scope": "Modern-era confirmations and gaps for the A0 chart (Turn 3, Row 4, §6 JW list), 1835–2026",
+ "generated": "2026-10-14",
+ "schema_version": 2,
+ "sources_consulted": [
+  {
+   "docid": "2000766",
+   "title_en": "Working in the “Field”—Before the Harvest",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2000766",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2000766"
+  },
+  {
+   "docid": "2023404",
+   "title_en": "Keep Traveling on “the Way of Holiness”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2023404",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2023404"
+  },
+  {
+   "docid": "1102014241",
+   "title_en": "The Kingdom Is Born in Heaven",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241"
+  },
+  {
+   "docid": "1101993006",
+   "title_en": "Proclaiming the Lord’s Return (1870-1914)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993006",
+   "url_ta": null
+  },
+  {
+   "docid": "302004006",
+   "title_en": "Moldova",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/302004006",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/302004006"
+  },
+  {
+   "docid": "1968002",
+   "title_en": "How Great a Witness?",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1968002",
+   "url_ta": null
+  },
+  {
+   "docid": "1101993036",
+   "title_en": "Producing Bible Literature for Use in the Ministry",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993036",
+   "url_ta": null
+  },
+  {
+   "docid": "502500219",
+   "title_en": "The Deaf Have Not Been Forgotten",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500219",
+   "url_ta": null
+  },
+  {
+   "docid": "1200271562",
+   "title_en": "Dates (Calendar)",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+   "url_ta": null
+  },
+  {
+   "docid": "1995407",
+   "title_en": "Gilead Graduates—“Real Missionaries!”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1995407",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1995407"
+  },
+  {
+   "docid": "301999006",
+   "title_en": "Highlights of the Past Year",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/301999006",
+   "url_ta": null
+  },
+  {
+   "docid": "2001053",
+   "title_en": "A Special Announcement",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2001053",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2001053"
+  },
+  {
+   "docid": "2010282",
+   "title_en": "Holy Spirit’s Role in the Outworking of Jehovah’s Purpose",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2010282",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2010282"
+  },
+  {
+   "docid": "1102014240",
+   "title_en": "“Let Your Kingdom Come”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014240",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014240"
+  },
+  {
+   "docid": "202012246",
+   "title_en": "Help People to Listen to God",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/202012246",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/202012246"
+  },
+  {
+   "docid": "502500213",
+   "title_en": "A Library in the Palm of Your Hand",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500213",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/502500213"
+  },
+  {
+   "docid": "jw.org/online-help/using-jw-org/nwt-study-bible",
+   "title_en": "Online Study Bible—NWT Features & Tutorials",
+   "url_en": "https://www.jw.org/en/online-help/using-jw-org/nwt-study-bible/",
+   "url_ta": null
+  },
+  {
+   "docid": "jw.org/news/region/global/Jehovahs-Witnesses-Reach-New-Preaching-Milestone-JWORG-Now-Features-Content-in-1000-Languages",
+   "title_en": "Jehovah’s Witnesses Reach New Preaching Milestone—JW.ORG Now Features Content in 1,000 Languages",
+   "url_en": "https://www.jw.org/en/news/region/global/Jehovahs-Witnesses-Reach-New-Preaching-Milestone-JWORG-Now-Features-Content-in-1000-Languages/",
+   "url_ta": null
+  },
+  {
+   "docid": "jw.org/news/region/global/The-Worldwide-Brotherhood-Uses-Innovative-Preaching-Methods-as-Pandemic-Continues",
+   "title_en": "The Worldwide Brotherhood Uses Innovative Preaching Methods as Pandemic Continues",
+   "url_en": "https://www.jw.org/en/news/region/global/The-Worldwide-Brotherhood-Uses-Innovative-Preaching-Methods-as-Pandemic-Continues/",
+   "url_ta": null
+  },
+  {
+   "docid": "jw.org/news/region/global/jw-coronavirus-update-and-response",
+   "title_en": "Jehovah’s Witnesses—Coronavirus Update and Response",
+   "url_en": "https://www.jw.org/en/news/region/global/jw-coronavirus-update-and-response/",
+   "url_ta": null
+  },
+  {
+   "docid": "jw.org/news/region/global/Jehovahs-Witnesses-Resume-House-to-House-Ministry",
+   "title_en": "Jehovah’s Witnesses Resume House-to-House Ministry",
+   "url_en": "https://www.jw.org/en/news/region/global/Jehovahs-Witnesses-Resume-House-to-House-Ministry/",
+   "url_ta": null
+  },
+  {
+   "docid": "502500218",
+   "title_en": "A Very Different Bible Study Aid",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500218",
+   "url_ta": null
+  },
+  {
+   "docid": "2022481",
+   "title_en": "Support Our Overseer Jesus",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022481",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022481"
+  },
+  {
+   "docid": "jw.org/news/region/global/Bible-Books-Released-in-14-Languages-During-August-2026",
+   "title_en": "Bible Books Released in 14 Languages During August 2026",
+   "url_en": "https://www.jw.org/en/news/region/global/Bible-Books-Released-in-14-Languages-During-August-2026/",
+   "url_ta": null
+  }
+ ],
+ "events": [
+  {
+   "id": "b20-0001",
+   "slug": "grew-pamphlet-condition-of-dead",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "About 1835",
+   "date_label_ta": "சுமார் 1835",
+   "start": {
+    "display_en": "About 1835",
+    "display_ta": "சுமார் 1835",
+    "year": 1835,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "latest": null,
+    "sort_key": 1835.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Henry Grew’s pamphlet exposes immortal-soul teaching",
+   "title_ta": null,
+   "description_en": "Henry Grew of Philadelphia published a pamphlet showing from the Scriptures that the immortality of the soul and hellfire are unscriptural, and that immortality is a gift from God.",
+   "description_ta": "சுமார் 1835-⁠ல், க்ரூ முக்கியமான துண்டுப்பிரதியை வெளியிட்டார்; அதில் ஆத்துமா அழியாதது, நரக அக்கினி ஆகிய போதனைகள் பைபிளில் இல்லாதவை என வெட்டவெளிச்சமாக்கினார்.",
+   "category": "history.reform",
+   "event_kind": "publication",
+   "tags": [
+    "immortality of the soul",
+    "truths recovered"
+   ],
+   "people": [
+    "Henry Grew"
+   ],
+   "places": [
+    "Philadelphia, Pennsylvania"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2000766",
+     "publication": "The Watchtower, October 15, 2000 (w00 10/15)",
+     "title_en": "Working in the “Field”—Before the Harvest",
+     "title_ta": "‘வயலை’ அறுவடைக்கு தயார்படுத்துதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2000766",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2000766",
+     "finder_url": "https://www.jw.org/finder?docid=2000766&wtlocale=E",
+     "par": null,
+     "quote_en": "About 1835, Grew penned an important pamphlet that exposed the teachings of the immortality of the soul and hellfire as unscriptural.",
+     "supports": null
+    },
+    {
+     "docid": "2023404",
+     "publication": "The Watchtower (Study), May 2023 (w23.05)",
+     "title_en": "Keep Traveling on “the Way of Holiness”",
+     "title_ta": "‘பரிசுத்தமான வழியில்’ தொடர்ந்து பயணம் செய்யுங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2023404",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2023404",
+     "finder_url": "https://www.jw.org/finder?docid=2023404&wtlocale=E",
+     "par": 13,
+     "quote_en": "About 1835 a God-fearing man named Henry Grew published a tract discussing the condition of the dead.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0002",
+   "slug": "storrs-finds-grew-pamphlet",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1837",
+   "date_label_ta": "1837",
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": 1837,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1837.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "George Storrs finds Grew’s pamphlet on a train",
+   "title_ta": null,
+   "description_en": "George Storrs, a Methodist minister then living in Utica, New York, found a copy of Grew’s pamphlet on a train and became convinced it taught a vital truth.",
+   "description_ta": "1837-⁠ல், 40 வயதானவரான ஜார்ஜ் ஸ்டார்ஸ், ரயிலில் இந்தத் துண்டுப்பிரதி ஒன்றைக் கண்டெடுத்தார்.",
+   "category": "history.reform",
+   "event_kind": "other",
+   "tags": [
+    "immortality of the soul",
+    "truths recovered"
+   ],
+   "people": [
+    "George Storrs",
+    "Henry Grew"
+   ],
+   "places": [
+    "Utica, New York"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2000766",
+     "publication": "The Watchtower, October 15, 2000 (w00 10/15)",
+     "title_en": "Working in the “Field”—Before the Harvest",
+     "title_ta": "‘வயலை’ அறுவடைக்கு தயார்படுத்துதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2000766",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2000766",
+     "finder_url": "https://www.jw.org/finder?docid=2000766&wtlocale=E",
+     "par": null,
+     "quote_en": "In 1837, 40-year-old George Storrs found a copy on a train.",
+     "supports": null
+    },
+    {
+     "docid": "2023404",
+     "publication": "The Watchtower (Study), May 2023 (w23.05)",
+     "title_en": "Keep Traveling on “the Way of Holiness”",
+     "title_ta": "‘பரிசுத்தமான வழியில்’ தொடர்ந்து பயணம் செய்யுங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2023404",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2023404",
+     "finder_url": "https://www.jw.org/finder?docid=2023404&wtlocale=E",
+     "par": 13,
+     "quote_en": "In 1837 a minister named George Storrs found a copy of that tract while riding a train.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0003",
+   "slug": "storrs-resigns-methodist-church",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1840",
+   "date_label_ta": "1840",
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": 1840,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1840.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "George Storrs resigns from the Methodist Church",
+   "title_ta": null,
+   "description_en": "After studying the matter for three years, George Storrs concluded that he could not remain faithful to God in the Methodist Church; he resigned and moved to Albany, New York.",
+   "description_ta": "1840-⁠ல் சர்ச்சுக்கு ராஜினாமா கடிதத்தை கொடுத்துவிட்டு நியூ யார்க்கிலுள்ள அல்பேனியாவுக்கு குடிமாறினார்.",
+   "category": "history.reform",
+   "event_kind": "other",
+   "tags": [
+    "truths recovered"
+   ],
+   "people": [
+    "George Storrs"
+   ],
+   "places": [
+    "Albany, New York"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2000766",
+     "publication": "The Watchtower, October 15, 2000 (w00 10/15)",
+     "title_en": "Working in the “Field”—Before the Harvest",
+     "title_ta": "‘வயலை’ அறுவடைக்கு தயார்படுத்துதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2000766",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2000766",
+     "finder_url": "https://www.jw.org/finder?docid=2000766&wtlocale=E",
+     "par": null,
+     "quote_en": "He resigned in 1840 and moved to Albany, New York.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0004",
+   "slug": "storrs-lectures-are-the-wicked-immortal",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "Early spring of 1842",
+   "date_label_ta": "1842-ன் வசந்த காலத்தின் ஆரம்பம்",
+   "start": {
+    "display_en": "Early spring of 1842",
+    "display_ta": "1842-ன் வசந்த காலத்தின் ஆரம்பம்",
+    "year": 1842,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": "spring",
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1842.2
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Storrs lectures: “Are the Wicked Immortal?”",
+   "title_ta": null,
+   "description_en": "George Storrs gave six lectures in six weeks on the theme “An Inquiry—Are the Wicked Immortal?” The printed version reached a circulation of 200,000 over the next 40 years.",
+   "description_ta": "1842-⁠ன் வசந்த காலத்தின் ஆரம்பத்தில், “ஓர் ஆய்வு​—⁠அக்கிரமக்காரரின் ஆத்துமா அழியாதா?” என்ற தலைப்பில் ஸ்டார்ஸ், ஆறு வாரங்களில் வரிசையாக ஆறு சொற்பொழிவுகளை நிகழ்த்தினார்.",
+   "category": "history.reform",
+   "event_kind": "lecture",
+   "tags": [
+    "immortality of the soul",
+    "truths recovered"
+   ],
+   "people": [
+    "George Storrs"
+   ],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2000766",
+     "publication": "The Watchtower, October 15, 2000 (w00 10/15)",
+     "title_en": "Working in the “Field”—Before the Harvest",
+     "title_ta": "‘வயலை’ அறுவடைக்கு தயார்படுத்துதல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2000766",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2000766",
+     "finder_url": "https://www.jw.org/finder?docid=2000766&wtlocale=E",
+     "par": null,
+     "quote_en": "In the early spring of 1842, Storrs gave a series of six lectures in six weeks on the subject “An Inquiry—Are the Wicked Immortal?”",
+     "supports": null
+    },
+    {
+     "docid": "2023404",
+     "publication": "The Watchtower (Study), May 2023 (w23.05)",
+     "title_en": "Keep Traveling on “the Way of Holiness”",
+     "title_ta": "‘பரிசுத்தமான வழியில்’ தொடர்ந்து பயணம் செய்யுங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2023404",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2023404",
+     "finder_url": "https://www.jw.org/finder?docid=2023404&wtlocale=E",
+     "par": 13,
+     "quote_en": "In 1842 he gave a series of lectures on the intriguing theme “An Inquiry—Are the Wicked Immortal?”",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0005",
+   "slug": "grew-stetson-storrs-expose-immortal-soul",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "Mid-1800’s",
+   "date_label_ta": "சுமார் 1850",
+   "start": {
+    "display_en": "Mid-1800’s",
+    "display_ta": "சுமார் 1850",
+    "year": 1850,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "approx",
+    "latest": null,
+    "sort_key": 1850.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Grew, Stetson, Storrs expose immortal-soul doctrine",
+   "title_ta": "ஹென்றி க்ரூ, ஜார்ஜ் ஸ்டெட்சன், ஜார்ஜ் ஸ்டார்ஸ் ஆகியவர்கள் ஆத்துமா அழியாது என்ற போதனையை ஆராய்ந்து பார்த்து அது பொய் என்பதை அம்பலப்படுத்துகிறார்கள்",
+   "description_en": "Henry Grew, George Stetson, and George Storrs scrutinized the doctrine of the immortality of the human soul and exposed it as false; their work had a profound impact on C. T. Russell and his associates.",
+   "description_ta": "ஹென்றி க்ரூ, ஜார்ஜ் ஸ்டெட்சன், ஜார்ஜ் ஸ்டார்ஸ் ஆகியவர்கள் ஆத்துமா அழியாது என்ற போதனையை ஆராய்ந்து பார்த்து அது பொய் என்பதை அம்பலப்படுத்துகிறார்கள்",
+   "category": "history.reform",
+   "event_kind": "period_summary",
+   "tags": [
+    "immortality of the soul",
+    "truths recovered",
+    "kr timeline"
+   ],
+   "people": [
+    "Henry Grew",
+    "George Stetson",
+    "George Storrs"
+   ],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1102014241",
+     "publication": "God’s Kingdom Rules! (kr) ch. 2",
+     "title_en": "The Kingdom Is Born in Heaven",
+     "title_ta": "கடவுளுடைய அரசாங்கம் பரலோகத்தில் நிறுவப்படுகிறது",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014241",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014241",
+     "finder_url": "https://www.jw.org/finder?docid=1102014241&wtlocale=E",
+     "par": null,
+     "quote_en": "Mid-1800’s — Henry Grew, George Stetson, and George Storrs scrutinize and expose the falseness of the doctrine of the immortality of the human soul",
+     "supports": null
+    },
+    {
+     "docid": "1101993006",
+     "publication": "Proclaimers (jv) ch. 5",
+     "title_en": "Proclaiming the Lord’s Return (1870-1914)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993006",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1101993006&wtlocale=E",
+     "par": null,
+     "quote_en": "Russell said of these two men: “The study of the Word of God with these dear brethren led, step by step, into greener pastures.”",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "1102014241",
+     "value": "சுமார் 1850 (Tamil kr)",
+     "note": "English kr timeline prints “Mid-1800’s”; the Tamil edition of the same box prints “சுமார் 1850” (about 1850)."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b20-0001",
+    "b20-0002",
+    "b20-0004"
+   ],
+   "notes": "kr ch. 2 timeline box ‘Prepared for the Birth of the Kingdom’. No jw.org page prints the range 1835–1845; the dated steps are c. 1835 (Grew), 1837 and 1842 (Storrs). sort_key 1850 is an ordering estimate for ‘Mid-1800’s’."
+  },
+  {
+   "id": "b20-0006",
+   "slug": "operation-north-deportation",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1951",
+   "date_label_ta": "1951",
+   "start": {
+    "display_en": "1951",
+    "display_ta": "1951",
+    "year": 1951,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1951.25
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Operation North: Witnesses deported to Siberia",
+   "title_ta": "1951: ஆப்ரேஷன் நார்த்தை ஸ்டாலின் தொடங்குகிறார்.",
+   "description_en": "In a deportation ordered by Stalin and called Operation North, only Jehovah’s Witnesses were targeted; over 720 Witness families—some 2,600 persons—were sent from Moldova to Tomsk in western Siberia. One family boarded a boxcar on April 1, 1951.",
+   "description_ta": "இரண்டாம் முறையாக, ஆட்கள் 1951-⁠ல் நாடுகடத்தப்பட்டார்கள், ஆனால் இந்த தடவை யெகோவாவின் சாட்சிகள் மாத்திரமே குறி வைக்கப்பட்டார்கள். ஸ்டாலினே இவர்களை நாடுகடத்துமாறு கட்டளை பிறப்பித்தார்; இது ஆப்ரேஷன் நார்த் என்றழைக்கப்பட்டது.",
+   "category": "jw.persecution",
+   "event_kind": "deportation",
+   "tags": [
+    "Soviet Union",
+    "deportation"
+   ],
+   "people": [
+    "Joseph Stalin"
+   ],
+   "places": [
+    "Moldova",
+    "Tomsk",
+    "Siberia"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "302004006",
+     "publication": "2004 Yearbook of Jehovah’s Witnesses (yb04)",
+     "title_en": "Moldova",
+     "title_ta": "மால்டோவா",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/302004006",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/302004006",
+     "finder_url": "https://www.jw.org/finder?docid=302004006&wtlocale=E",
+     "par": null,
+     "quote_en": "Stalin personally ordered this deportation, which was called Operation North. Over 720 Witness families—some 2,600 persons—were sent from Moldova to Tomsk",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "yb04 timeline: “1951: Stalin begins Operation North.” Same report: a family boarded a boxcar for Siberia on April 1, 1951 (used for sort_key; label kept as printed)."
+  },
+  {
+   "id": "b20-0007",
+   "slug": "new-world-society-assembly-yankee-stadium",
+   "timing": "span",
+   "span_kind": "convention",
+   "date_label_en": "July 19 to 26, 1953",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "July 19, 1953",
+    "display_ta": null,
+    "year": 1953,
+    "era": "CE",
+    "month": 7,
+    "day": 19,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1953.5493
+   },
+   "end": {
+    "display_en": "July 26, 1953",
+    "display_ta": null,
+    "year": 1953,
+    "era": "CE",
+    "month": 7,
+    "day": 26,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1953.5685
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": 8,
+    "display_en": "8 days",
+    "display_ta": null,
+    "approx": false,
+    "derived": true
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "New World Society Assembly at Yankee Stadium",
+   "title_ta": null,
+   "description_en": "The eight-day New World Society Assembly of Jehovah’s Witnesses was held at Yankee Stadium, New York. N. H. Knorr’s talk “After Armageddon—God’s New World” was heard by 165,829.",
+   "description_ta": null,
+   "category": "jw.convention",
+   "event_kind": "convention",
+   "tags": [],
+   "people": [
+    "N. H. Knorr"
+   ],
+   "places": [
+    "Yankee Stadium, New York"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1968002",
+     "publication": "The Watchtower, January 1, 1968 (w68 1/1)",
+     "title_en": "How Great a Witness?",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1968002",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1968002&wtlocale=E",
+     "par": 59,
+     "quote_en": "Another great assembly was the New World Society Assembly of Jehovah’s Witnesses at Yankee Stadium, July 19 to 26, 1953.",
+     "supports": "whole"
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0038"
+   ],
+   "notes": "b9-0038 is the dx index entry for the 1953 assemblies; this record gives the printed dates of the New York international assembly."
+  },
+  {
+   "id": "b20-0008",
+   "slug": "meps-development-begins",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1979",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": 1979,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1979.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "MEPS development begins",
+   "title_ta": null,
+   "description_en": "A team of Witnesses based at Watchtower Farms, Wallkill, New York, began to design and build the Multilanguage Electronic Phototypesetting System (MEPS); by May 1986 it could process material in 186 languages.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "technology",
+   "tags": [
+    "MEPS",
+    "translation",
+    "printing"
+   ],
+   "people": [],
+   "places": [
+    "Watchtower Farms, Wallkill, New York"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1101993036",
+     "publication": "Proclaimers (jv) ch. 26",
+     "title_en": "Producing Bible Literature for Use in the Ministry",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101993036",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1101993036&wtlocale=E",
+     "par": null,
+     "quote_en": "Thus, in 1979 a group of Jehovah’s Witnesses with their base of operations at Watchtower Farms, Wallkill, New York, began to design and build the Multilanguage Electronic Phototypesetting System (MEPS).",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0009",
+   "slug": "first-sign-language-videocassette",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "1992",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": 1992,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1992.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "First sign-language videocassette released",
+   "title_ta": null,
+   "description_en": "Jehovah’s Witnesses released their first sign-language videocassette.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "sign language"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500219",
+     "publication": "How Your Donations Are Used (hdu) article 22",
+     "title_en": "The Deaf Have Not Been Forgotten",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500219",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=502500219&wtlocale=E",
+     "par": null,
+     "quote_en": "1992: Release of our first sign-language videocassette",
+     "supports": null
+    },
+    {
+     "docid": "1200271562",
+     "publication": "Watch Tower Publications Index 1986-2026 (dx86-26)",
+     "title_en": "Dates (Calendar)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200271562&wtlocale=E",
+     "par": null,
+     "quote_en": "Witnesses release first sign-language videocassette: hdu article 22",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0010",
+   "slug": "gilead-moves-to-patterson",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "April 1995",
+   "date_label_ta": "ஏப்ரல் 1995",
+   "start": {
+    "display_en": "April 1995",
+    "display_ta": "ஏப்ரல் 1995",
+    "year": 1995,
+    "era": "CE",
+    "month": 4,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 1995.2884
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Gilead School moves to Patterson",
+   "title_ta": null,
+   "description_en": "After six and a half years at Wallkill, New York, Gilead School moved to the new Watchtower Educational Center in Patterson, New York.",
+   "description_ta": "என்றாலும், ஏப்ரல் 1995-ல், அந்தப் பள்ளி, நியூ யார்க்கின் பாட்டர்ஸனிலுள்ள புதிய உவாட்ச்டவர் கல்வி மையத்திற்கு மாற்றப்பட்டது.",
+   "category": "jw.education",
+   "event_kind": "relocation",
+   "tags": [
+    "Gilead"
+   ],
+   "people": [],
+   "places": [
+    "Patterson, New York",
+    "Wallkill, New York"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "1995407",
+     "publication": "The Watchtower, June 1, 1995 (w95 6/1)",
+     "title_en": "Gilead Graduates—“Real Missionaries!”",
+     "title_ta": "கிலியட் பட்டதாரிகள்—“உண்மையான மிஷனரிகள்!”",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1995407",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1995407",
+     "finder_url": "https://www.jw.org/finder?docid=1995407&wtlocale=E",
+     "par": null,
+     "quote_en": "In April 1995, however, the school was moved to the new Watchtower Educational Center in Patterson, New York.",
+     "supports": null
+    },
+    {
+     "docid": "1200271562",
+     "publication": "Watch Tower Publications Index 1986-2026 (dx86-26)",
+     "title_en": "Dates (Calendar)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200271562&wtlocale=E",
+     "par": null,
+     "quote_en": "1995, April, Gilead School moves to Watchtower Educational Center, Patterson, New York: w95 6/1 19",
+     "supports": null
+    },
+    {
+     "docid": "301999006",
+     "publication": "1999 Yearbook of Jehovah’s Witnesses (yb99)",
+     "title_en": "Highlights of the Past Year",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/301999006",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=301999006&wtlocale=E",
+     "par": null,
+     "quote_en": "In March 1995, Gilead School was moved from Wallkill to the new facilities at Patterson.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [
+    {
+     "docid": "301999006",
+     "value": "March 1995",
+     "note": "yb99 says March 1995; w95 6/1 (contemporary report) and the 2026 Index give April 1995. April kept."
+    }
+   ],
+   "importance": null,
+   "related_ids": [
+    "b8-0246"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b20-0011",
+   "slug": "governing-body-steps-aside-from-corporations",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "October 7, 2000",
+   "date_label_ta": "அக்டோபர் 7, 2000",
+   "start": {
+    "display_en": "October 7, 2000",
+    "display_ta": "அக்டோபர் 7, 2000",
+    "year": 2000,
+    "era": "CE",
+    "month": 10,
+    "day": 7,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2000.7664
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Governing Body members leave corporate boards",
+   "title_ta": null,
+   "description_en": "At the annual meeting, John E. Barr announced that members of the Governing Body serving as directors and officers had voluntarily stepped aside from the boards of all the corporations used in the United States; brothers of the other sheep were elected in their place.",
+   "description_ta": "அக்டோபர் 7, 2000 அன்று நடைபெற்ற உவாட்ச் டவர் பைபிள் அண்ட் டிராக்ட் சொஸைட்டி ஆஃப் பென்ஸில்வேனியாவின் வருடாந்தர கூட்டத்தின் முடிவில் ஓர் முக்கிய அறிவிப்பு செய்யப்பட்டது. இயக்குநர்களாகவும் அதிகாரிகளாகவும் சேவித்துவந்த யெகோவாவின் சாட்சிகளது ஆளும் குழு அங்கத்தினர்கள், ஐக்கிய மாகாணங்களில் ‘உண்மையும் விவேகமுமுள்ள அடிமை’ பயன்படுத்தும் அனைத்து சட்டப்பூர்வ நிறுவனங்களின் இயக்குநர் குழுக்களிலிருந்தும் சமீபத்தில் ராஜினாமா செய்ததாக சகோதரர் பார் குறிப்பிட்டார்.",
+   "category": "jw.organization",
+   "event_kind": "announcement",
+   "tags": [
+    "Governing Body",
+    "legal corporations"
+   ],
+   "people": [
+    "John E. Barr"
+   ],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "2001053",
+     "publication": "The Watchtower, January 15, 2001 (w01 1/15)",
+     "title_en": "A Special Announcement",
+     "title_ta": "ஓர் முக்கிய அறிவிப்பு",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2001053",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2001053",
+     "finder_url": "https://www.jw.org/finder?docid=2001053&wtlocale=E",
+     "par": null,
+     "quote_en": "certain members of the Governing Body of Jehovah’s Witnesses who had been serving as directors and officers voluntarily stepped aside from the boards of directors of all the corporations",
+     "supports": null
+    },
+    {
+     "docid": "1200271562",
+     "publication": "Watch Tower Publications Index 1986-2026 (dx86-26)",
+     "title_en": "Dates (Calendar)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200271562&wtlocale=E",
+     "par": null,
+     "quote_en": "2000, board of directors of Watch Tower Society changed: w02 7/1 17; w01 1/15 31; ip-2 317-318",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0092"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b20-0012",
+   "slug": "first-sign-language-dvd",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2002",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": 2002,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2002.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "First sign-language DVD released",
+   "title_ta": null,
+   "description_en": "Jehovah’s Witnesses released their first sign-language DVD.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "sign language"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500219",
+     "publication": "How Your Donations Are Used (hdu) article 22",
+     "title_en": "The Deaf Have Not Been Forgotten",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500219",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=502500219&wtlocale=E",
+     "par": null,
+     "quote_en": "2002: Release of our first sign-language DVD",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0013",
+   "slug": "this-generation-overlapping-anointed",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2010 (The Watchtower, April 15)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "2010",
+    "display_ta": null,
+    "year": 2010,
+    "era": "CE",
+    "month": 4,
+    "day": 15,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2010.2884
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "“This generation”: two overlapping groups of anointed",
+   "title_ta": null,
+   "description_en": "The Watchtower explained that Jesus evidently meant that the lives of anointed ones on hand when the sign became evident in 1914 would overlap with the lives of other anointed ones who would see the start of the great tribulation.",
+   "description_ta": "1914-ல் கடைசி நாட்களுக்கான அடையாளம் ஆரம்பமானதைப் பார்த்த பரலோக நம்பிக்கையுள்ளவர்களில் சிலரும் மிகுந்த உபத்திரவத்தின் ஆரம்பத்தைப் பார்க்கப்போகிற பரலோக நம்பிக்கையுள்ளவர்களில் சிலரும் ஒரே காலகட்டத்தில் வாழ்வார்கள் என்று அவர் அர்த்தப்படுத்தியிருக்க வேண்டும் எனப் புரிந்துகொள்கிறோம்.",
+   "category": "jw.doctrine",
+   "event_kind": "understanding_clarified",
+   "tags": [
+    "this generation",
+    "understanding clarified"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Matt. 24:34",
+     "ref_ta": "மத். 24:34",
+     "book": "Matthew",
+     "book_num": 40,
+     "chapter": 24,
+     "verses": "34"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "2010282",
+     "publication": "The Watchtower, April 15, 2010 (w10 4/15)",
+     "title_en": "Holy Spirit’s Role in the Outworking of Jehovah’s Purpose",
+     "title_ta": "யெகோவாவின் நோக்கத்தை நிறைவேற்றுவதில் அவரது சக்தியின் பங்கு",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2010282",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2010282",
+     "finder_url": "https://www.jw.org/finder?docid=2010282&wtlocale=E",
+     "par": 14,
+     "quote_en": "He evidently meant that the lives of the anointed who were on hand when the sign began to become evident in 1914 would overlap with the lives of other anointed ones",
+     "supports": null
+    },
+    {
+     "docid": "1102014240",
+     "publication": "God’s Kingdom Rules! (kr) ch. 1",
+     "title_en": "“Let Your Kingdom Come”",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014240",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102014240",
+     "finder_url": "https://www.jw.org/finder?docid=1102014240&wtlocale=E",
+     "par": 18,
+     "quote_en": "The generation consists of two overlapping groups of anointed ones",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0199",
+    "b9-0261"
+   ],
+   "notes": "Date is the issue date of the source article (w10 4/15). kr ch. 1 (2014) restates the explanation without a date."
+  },
+  {
+   "id": "b20-0014",
+   "slug": "listen-to-god-brochures-released",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2011 (“Let God’s Kingdom Come!” District Convention)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "2011",
+    "display_ta": null,
+    "year": 2011,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2011.0
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Listen to God brochures released",
+   "title_ta": null,
+   "description_en": "At the “Let God’s Kingdom Come!” District Convention, two brochures with little text were released: Listen to God and Live Forever and a simplified version, Listen to God. The first was approved for translation into 431 languages on release.",
+   "description_ta": "“கடவுளது அரசாங்கம் வருக!” மாவட்ட மாநாட்டில் இரண்டு சிற்றேடுகள் வெளியிடப்பட்டன.",
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "Bible study aid"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "202012246",
+     "publication": "Our Kingdom Ministry, July 2012 (km 7/12)",
+     "title_en": "Help People to Listen to God",
+     "title_ta": "கடவுள் சொல்வதைக் கேட்க மக்களுக்கு உதவுங்கள்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/202012246",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/202012246",
+     "finder_url": "https://www.jw.org/finder?docid=202012246&wtlocale=E",
+     "par": 1,
+     "quote_en": "At the “Let God’s Kingdom Come!” District Convention, two new brochures were released, Listen to God and Live Forever and a simplified version, Listen to God.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0283"
+   ],
+   "notes": "Convention year 2011 from b9-0283 and the dx86-26 abbreviation list “Listen to God and Live Forever (2011)”."
+  },
+  {
+   "id": "b20-0015",
+   "slug": "jw-library-app-released",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "October 2013",
+   "date_label_ta": "அக்டோபர் 2013",
+   "start": {
+    "display_en": "October 2013",
+    "display_ta": "அக்டோபர் 2013",
+    "year": 2013,
+    "era": "CE",
+    "month": 10,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2013.761
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "JW Library app released",
+   "title_ta": "அக்டோபர் 2013—திருத்தப்பட்ட புதிய உலக மொழிபெயர்ப்பு பைபிள் இருக்கிற ஆப் வெளியிடப்பட்டது",
+   "description_en": "Five months after the Governing Body asked MEPS Programming to develop it, an app containing the revised New World Translation was released at the annual meeting. By January 2015 other publications were added.",
+   "description_ta": "அக்டோபர் 2013—திருத்தப்பட்ட புதிய உலக மொழிபெயர்ப்பு பைபிள் இருக்கிற ஆப் வெளியிடப்பட்டது",
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "JW Library",
+    "app"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500213",
+     "publication": "How Your Donations Are Used (hdu) article 16",
+     "title_en": "A Library in the Palm of Your Hand",
+     "title_ta": "உங்கள் கையிலேயே ஒரு நூலகம்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500213",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/502500213",
+     "finder_url": "https://www.jw.org/finder?docid=502500213&wtlocale=E",
+     "par": null,
+     "quote_en": "October 2013—App released containing the revised New World Translation",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0314"
+   ],
+   "notes": "hdu: released “at the annual meeting just five months later” than May 2013; day not printed (sort_key uses Oct. 5, 2013, the annual meeting of b9-0314)."
+  },
+  {
+   "id": "b20-0016",
+   "slug": "jw-library-sign-language-app-released",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2013",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "2013",
+    "display_ta": null,
+    "year": 2013,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2013.8717
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "JW Library Sign Language app released",
+   "title_ta": null,
+   "description_en": "The JW Library Sign Language app was released, first for American Sign Language, allowing sign-language videos to be downloaded to phones and tablets; in 2017 it was updated to support all sign languages.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "sign language",
+    "app"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500219",
+     "publication": "How Your Donations Are Used (hdu) article 22",
+     "title_en": "The Deaf Have Not Been Forgotten",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500219",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=502500219&wtlocale=E",
+     "par": null,
+     "quote_en": "In 2013, Jehovah’s organization released the JW Library Sign Language app",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0017",
+   "slug": "nwt-study-edition-matthew",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "October 2015",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "October 2015",
+    "display_ta": null,
+    "year": 2015,
+    "era": "CE",
+    "month": 10,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2015.7884
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "NWT study edition: Matthew released (English)",
+   "title_ta": null,
+   "description_en": "The study edition of the book of Matthew in the New World Translation of the Holy Scriptures (Study Edition) was published in English; more content is added as each book is completed.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "New World Translation",
+    "study edition"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "jw.org/online-help/using-jw-org/nwt-study-bible",
+     "publication": "jw.org Online Help",
+     "title_en": "Online Study Bible—NWT Features & Tutorials",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/online-help/using-jw-org/nwt-study-bible/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "The study edition of the book of Matthew was published in English in October 2015.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0018",
+   "slug": "jw-org-1000-languages",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "November 4, 2019",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "November 4, 2019",
+    "display_ta": null,
+    "year": 2019,
+    "era": "CE",
+    "month": 11,
+    "day": 4,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2019.8416
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "jw.org reaches 1,000 languages",
+   "title_ta": null,
+   "description_en": "The Governing Body announced that jw.org had articles, videos, and audio in 1,000 languages, including 100 sign languages, up from 508 languages in January 2013.",
+   "description_ta": null,
+   "category": "jw.preaching",
+   "event_kind": "milestone",
+   "tags": [
+    "jw.org",
+    "languages"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "jw.org/news/region/global/Jehovahs-Witnesses-Reach-New-Preaching-Milestone-JWORG-Now-Features-Content-in-1000-Languages",
+     "publication": "jw.org Newsroom, Nov. 4, 2019",
+     "title_en": "Jehovah’s Witnesses Reach New Preaching Milestone—JW.ORG Now Features Content in 1,000 Languages",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/news/region/global/Jehovahs-Witnesses-Reach-New-Preaching-Milestone-JWORG-Now-Features-Content-in-1000-Languages/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "JW.ORG now has articles, videos, and audio content available in 1,000 languages, including 100 sign languages.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://cms-imgp.jw-cdn.org/img/p/702019225/univ/art/702019225_univ_sqr_xl.jpg",
+     "caption_en": "News image: JW.ORG content in 1,000 languages",
+     "caption_ta": null,
+     "source_docid": "jw.org/news/region/global/Jehovahs-Witnesses-Reach-New-Preaching-Milestone-JWORG-Now-Features-Content-in-1000-Languages",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0309"
+   ],
+   "notes": null
+  },
+  {
+   "id": "b20-0019",
+   "slug": "pandemic-ministry-by-letter-and-phone",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "March 2020",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "March 2020",
+    "display_ta": null,
+    "year": 2020,
+    "era": "CE",
+    "month": 3,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2020.205
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Ministry by telephone and letters in the pandemic",
+   "title_ta": null,
+   "description_en": "As the COVID-19 pandemic spread, Witnesses in affected lands turned to telephone witnessing, letters, and videoconferences; house-to-house ministry was suspended until September 1, 2022.",
+   "description_ta": null,
+   "category": "jw.preaching",
+   "event_kind": "ministry_method",
+   "tags": [
+    "COVID-19",
+    "letter writing",
+    "telephone witnessing"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "jw.org/news/region/global/The-Worldwide-Brotherhood-Uses-Innovative-Preaching-Methods-as-Pandemic-Continues",
+     "publication": "jw.org Newsroom, Mar. 26, 2020",
+     "title_en": "The Worldwide Brotherhood Uses Innovative Preaching Methods as Pandemic Continues",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/news/region/global/The-Worldwide-Brotherhood-Uses-Innovative-Preaching-Methods-as-Pandemic-Continues/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "In branch territories acutely affected by the virus, our brothers and sisters are using creative methods to continue their ministry.",
+     "supports": null
+    },
+    {
+     "docid": "jw.org/news/region/global/jw-coronavirus-update-and-response",
+     "publication": "jw.org Newsroom, Mar. 3, 2020",
+     "title_en": "Jehovah’s Witnesses—Coronavirus Update and Response",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/news/region/global/jw-coronavirus-update-and-response/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "In some affected areas, publishers may choose to participate in alternative forms of the ministry, such as telephone witnessing",
+     "supports": null
+    },
+    {
+     "docid": "jw.org/news/region/global/Jehovahs-Witnesses-Resume-House-to-House-Ministry",
+     "publication": "jw.org Newsroom, Sept. 14, 2022",
+     "title_en": "Jehovah’s Witnesses Resume House-to-House Ministry",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/news/region/global/Jehovahs-Witnesses-Resume-House-to-House-Ministry/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "the Witnesses had written letters and made phone calls during the pandemic to encourage and comfort others.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://cms-imgp.jw-cdn.org/img/p/702020185/univ/art/702020185_univ_sqr_xl.jpg",
+     "caption_en": "News image: innovative preaching methods during the pandemic (letter writing, telephone witnessing)",
+     "caption_ta": null,
+     "source_docid": "jw.org/news/region/global/The-Worldwide-Brotherhood-Uses-Innovative-Preaching-Methods-as-Pandemic-Continues",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0390",
+    "b9-0411",
+    "b12-0113"
+   ],
+   "notes": "No jw.org page gives a single date on which door-to-door ministry was suspended worldwide; March 2020 reports describe the change."
+  },
+  {
+   "id": "b20-0020",
+   "slug": "nwt-american-sign-language-complete",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "2020",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "2020",
+    "display_ta": null,
+    "year": 2020,
+    "era": "CE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2020.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Complete NWT in American Sign Language",
+   "title_ta": null,
+   "description_en": "The New World Translation in American Sign Language was released—described as the world’s first complete sign-language Bible.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "sign language",
+    "New World Translation"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500219",
+     "publication": "How Your Donations Are Used (hdu) article 22",
+     "title_en": "The Deaf Have Not Been Forgotten",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500219",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=502500219&wtlocale=E",
+     "par": null,
+     "quote_en": "2020: Release of the world’s first complete sign-language Bible, the New World Translation in American Sign Language",
+     "supports": null
+    },
+    {
+     "docid": "1200271562",
+     "publication": "Watch Tower Publications Index 1986-2026 (dx86-26)",
+     "title_en": "Dates (Calendar)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200271562&wtlocale=E",
+     "par": null,
+     "quote_en": "New World Translation in American Sign Language released: hdu article 22",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": null
+  },
+  {
+   "id": "b20-0021",
+   "slug": "enjoy-life-forever-released",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "January 2021",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "January 2021",
+    "display_ta": null,
+    "year": 2021,
+    "era": "CE",
+    "month": 1,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2021.0384
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Enjoy Life Forever! released",
+   "title_ta": null,
+   "description_en": "The Governing Body announced the release of the new Bible study aid Enjoy Life Forever! on JW Broadcasting during the program held in conjunction with the annual meeting; printing began in March 2021. The Watchtower later called it “our main study tool for making disciples.”",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "release",
+   "tags": [
+    "Bible study aid",
+    "study-book relay"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "502500218",
+     "publication": "How Your Donations Are Used (hdu) article 21",
+     "title_en": "A Very Different Bible Study Aid",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/502500218",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=502500218&wtlocale=E",
+     "par": null,
+     "quote_en": "In January 2021, the Governing Body announced the release of a new Bible study aid, Enjoy Life Forever!",
+     "supports": null
+    },
+    {
+     "docid": "2022481",
+     "publication": "The Watchtower (Study), July 2022 (w22.07)",
+     "title_en": "Support Our Overseer Jesus",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2022481",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2022481",
+     "finder_url": "https://www.jw.org/finder?docid=2022481&wtlocale=E",
+     "par": 7,
+     "quote_en": "the Enjoy Life Forever! book—our main study tool for making disciples",
+     "supports": null
+    },
+    {
+     "docid": "1200271562",
+     "publication": "Watch Tower Publications Index 1986-2026 (dx86-26)",
+     "title_en": "Dates (Calendar)",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200271562",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200271562&wtlocale=E",
+     "par": null,
+     "quote_en": "Enjoy Life Forever! (book and brochure) released at annual meeting: hdu article 21",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/w22/2022/451",
+     "caption_en": "Artwork: study publications from The Harp of God to Enjoy Life Forever! (w22.07, par. 10)",
+     "caption_ta": null,
+     "source_docid": "2022481",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0463"
+   ],
+   "notes": "The dx86-26 Dates (Calendar) list places this release under 2020 (the annual meeting of that year was broadcast in January 2021). hdu gives January 2021."
+  },
+  {
+   "id": "b20-0022",
+   "slug": "nwt-350-languages",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "August 21, 2026",
+   "date_label_ta": null,
+   "start": {
+    "display_en": "August 21, 2026",
+    "display_ta": null,
+    "year": 2026,
+    "era": "CE",
+    "month": 8,
+    "day": 21,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "exact",
+    "latest": null,
+    "sort_key": 2026.6381
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "NWT in 350 languages",
+   "title_ta": null,
+   "description_en": "With the release of the complete New World Translation in Kwanyama and the Christian Greek Scriptures in Ndonga at Windhoek, Namibia, the New World Translation became available in whole or in part in 350 languages.",
+   "description_ta": null,
+   "category": "jw.publication",
+   "event_kind": "milestone",
+   "tags": [
+    "New World Translation",
+    "languages"
+   ],
+   "people": [
+    "Geoffrey Jackson"
+   ],
+   "places": [
+    "Windhoek, Namibia"
+   ],
+   "scriptures": [],
+   "sources": [
+    {
+     "docid": "jw.org/news/region/global/Bible-Books-Released-in-14-Languages-During-August-2026",
+     "publication": "jw.org Newsroom, Sept. 25, 2026",
+     "title_en": "Bible Books Released in 14 Languages During August 2026",
+     "title_ta": null,
+     "url_en": "https://www.jw.org/en/news/region/global/Bible-Books-Released-in-14-Languages-During-August-2026/",
+     "url_ta": null,
+     "finder_url": null,
+     "par": null,
+     "quote_en": "the New World Translation of the Holy Scriptures is now available in whole or in part in 350 languages.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://cms-imgp.jw-cdn.org/img/p/702026112/univ/art/702026112_univ_sqr_xl.jpg",
+     "caption_en": "News image: Bible books released in 14 languages during August 2026",
+     "caption_ta": null,
+     "source_docid": "jw.org/news/region/global/Bible-Books-Released-in-14-Languages-During-August-2026",
+     "kind": "photo"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b9-0453"
+   ],
+   "notes": "Date of the Kwanyama/Ndonga release that the report links to the 350 total; report dated September 25, 2026."
+  }
+ ]
+}

@@ -1,0 +1,1671 @@
+{
+ "batch": "b21",
+ "schema_version": 2,
+ "scope": "A0 research request (final) — Bible items: Opening (the Word, angels, heavens, earth, creative days 1–7), Adam and Eve's sin, Daniel 8 vision; gaps found while confirming §4/§6 items",
+ "generated": "2026-10-14",
+ "sources_consulted": [
+  {
+   "docid": "1200001061",
+   "title_en": "Insight “Creation”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+   "url_ta": null
+  },
+  {
+   "docid": "1102016011",
+   "title_en": "lfb lesson 1",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016011",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016011"
+  },
+  {
+   "docid": "1102016013",
+   "title_en": "lfb lesson 3",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016013",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016013"
+  },
+  {
+   "docid": "1001061221",
+   "title_en": "NWT App. B1",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061221",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061221"
+  },
+  {
+   "docid": "1001061229",
+   "title_en": "NWT App. B9",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061229",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061229"
+  },
+  {
+   "docid": "1001061237",
+   "title_en": "NWT App. B15",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061237",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061237"
+  },
+  {
+   "docid": "1101990130",
+   "title_en": "si Study 3",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990130",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990130"
+  },
+  {
+   "docid": "1200000970",
+   "title_en": "Insight “Chronology”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000970",
+   "url_ta": null
+  },
+  {
+   "docid": "1101999023",
+   "title_en": "dp chap. 4",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999023",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999023"
+  },
+  {
+   "docid": "1101999025",
+   "title_en": "dp chap. 6",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999025",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999025"
+  },
+  {
+   "docid": "1101999028",
+   "title_en": "dp chap. 9",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999028",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999028"
+  },
+  {
+   "docid": "1101999029",
+   "title_en": "dp chap. 10",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999029",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999029"
+  },
+  {
+   "docid": "2012442",
+   "title_en": "w12 6/15 “Revealer of Secrets”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012442",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012442"
+  },
+  {
+   "docid": "2012443",
+   "title_en": "w12 6/15 “Must Shortly Take Place”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2012443",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2012443"
+  },
+  {
+   "docid": "2015204",
+   "title_en": "w15 3/15 Questions From Readers",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2015204",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2015204"
+  },
+  {
+   "docid": "2013530",
+   "title_en": "w13 7/15 “Tell Us, When Will These Things Be?”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2013530",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2013530"
+  },
+  {
+   "docid": "2016203",
+   "title_en": "w16.03 Questions From Readers",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2016203",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2016203"
+  },
+  {
+   "docid": "1102017938",
+   "title_en": "rr Box 10B",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017938",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017938"
+  },
+  {
+   "docid": "1102017189",
+   "title_en": "rr Summary of Clarifications",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102017189",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102017189"
+  },
+  {
+   "docid": "2020364",
+   "title_en": "w20.04 “An Attack Coming From the North!”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/2020364",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/2020364"
+  },
+  {
+   "docid": "1200002482",
+   "title_en": "Insight “Joel, Book of”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200002482",
+   "url_ta": null
+  },
+  {
+   "docid": "1102000024",
+   "title_en": "ip-1 chap. 4",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102000024",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102000024"
+  },
+  {
+   "docid": "1101988030",
+   "title_en": "re chap. 30",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101988030",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101988030"
+  },
+  {
+   "docid": "1101999026",
+   "title_en": "dp chap. 7",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999026",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999026"
+  },
+  {
+   "docid": "1200004359",
+   "title_en": "Insight “Temple”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004359",
+   "url_ta": null
+  },
+  {
+   "docid": "1200003200",
+   "title_en": "Insight “Nebuchadnezzar”",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003200",
+   "url_ta": null
+  },
+  {
+   "docid": "1101990088",
+   "title_en": "si Bible book No. 27—Daniel",
+   "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990088",
+   "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990088"
+  }
+ ],
+ "events": [
+  {
+   "id": "b21-0001",
+   "slug": "word-the-firstborn-created",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "Before all other creation (date not stated)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -9000
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The Word, Jehovah’s only-begotten Son, created first",
+   "title_ta": "கடவுளுடைய படைப்புகளிலேயே முதல் படைப்பு",
+   "description_en": "Jehovah’s first creation was his only-begotten Son, “the firstborn of all creation” and “the beginning of the creation by God.” Jehovah used this Son, the Word, as his “master worker” in creating all other things.",
+   "description_ta": "யெகோவா படைத்த முதல் தேவதூதர் அவருக்கு உதவியாளராக இருந்தார். நட்சத்திரங்களையும் கோள்களையும் மற்ற எல்லாவற்றையும் படைப்பதற்கு இந்தத் தேவதூதர் யெகோவாவுக்கு உதவி செய்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creation",
+   "tags": [
+    "creation",
+    "opening",
+    "the Word",
+    "firstborn"
+   ],
+   "people": [
+    "Jesus Christ (the Word)"
+   ],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Col. 1:15-17",
+     "ref_ta": "கொலோ. 1:15-17",
+     "book": "Colossians",
+     "book_num": 51,
+     "chapter": 1,
+     "verses": "15-17"
+    },
+    {
+     "ref_en": "Rev. 3:14",
+     "ref_ta": "வெளி. 3:14",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 3,
+     "verses": "14"
+    },
+    {
+     "ref_en": "John 1:1-3",
+     "ref_ta": "யோவா. 1:1-3",
+     "book": "John",
+     "book_num": 43,
+     "chapter": 1,
+     "verses": "1-3"
+    },
+    {
+     "ref_en": "Prov. 8:22, 30",
+     "ref_ta": "நீதி. 8:22, 30",
+     "book": "Proverbs",
+     "book_num": 20,
+     "chapter": 8,
+     "verses": "22, 30"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 9,
+     "quote_en": "Jehovah’s first creation was his “only-begotten Son” ( Joh 3:16 ), “the beginning of the creation by God.” ( Re 3:14 )",
+     "supports": null
+    },
+    {
+     "docid": "1102016011",
+     "publication": "Lessons You Can Learn From the Bible (lfb) lesson 1",
+     "title_en": "God Made Heaven and Earth",
+     "title_ta": "கடவுள் வானத்தையும் பூமியையும் படைத்தார்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016011",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016011",
+     "finder_url": "https://www.jw.org/finder?docid=1102016011&wtlocale=E",
+     "par": null,
+     "quote_en": "The first angel Jehovah made became his helper. That angel helped when Jehovah made the stars, the planets, and all other things.",
+     "supports": null
+    },
+    {
+     "docid": "nwtsty-51-1",
+     "publication": "New World Translation (Study Edition), Colossians 1",
+     "title_en": "Colossians 1",
+     "title_ta": "கொலோசெயர் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/51/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/51/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "He is the image of the invisible God, the firstborn of all creation",
+     "supports": null
+    },
+    {
+     "docid": "nwtsty-66-3",
+     "publication": "New World Translation (Study Edition), Revelation 3",
+     "title_en": "Revelation 3",
+     "title_ta": "வெளிப்படுத்துதல் 3",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/66/3",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/66/3",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "the beginning of the creation by God",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Tamil title is the phrase of Rev. 3:14 (Tamil NWT); Tamil description is from lfb lesson 1 (Tamil). Insight “Creation” has no Tamil page."
+  },
+  {
+   "id": "b21-0002",
+   "slug": "angels-created",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "After the Word, before the earth was founded (date not stated)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8900
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Angels created through the Son",
+   "title_ta": "நிறைய தேவதூதர்களைப் படைத்தார்",
+   "description_en": "After creating his only-begotten Son, Jehovah used him in bringing the angels into existence. This preceded the founding of the earth, when “all the sons of God began shouting in applause.”",
+   "description_ta": "நம் கண்ணுக்குத் தெரிகிற எல்லாவற்றையும் படைப்பதற்கு முன்பாக, நிறைய தேவதூதர்களைப் படைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creation",
+   "tags": [
+    "creation",
+    "opening",
+    "angels"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Job 38:4-7",
+     "ref_ta": "யோபு 38:4-7",
+     "book": "Job",
+     "book_num": 18,
+     "chapter": 38,
+     "verses": "4-7"
+    },
+    {
+     "ref_en": "Col. 1:16",
+     "ref_ta": "கொலோ. 1:16",
+     "book": "Colossians",
+     "book_num": 51,
+     "chapter": 1,
+     "verses": "16"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 10,
+     "quote_en": "After creating his only-begotten Son, Jehovah used him in bringing the heavenly angels into existence. This preceded the founding of the earth",
+     "supports": null
+    },
+    {
+     "docid": "1102016011",
+     "publication": "Lessons You Can Learn From the Bible (lfb) lesson 1",
+     "title_en": "God Made Heaven and Earth",
+     "title_ta": "கடவுள் வானத்தையும் பூமியையும் படைத்தார்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016011",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016011",
+     "finder_url": "https://www.jw.org/finder?docid=1102016011&wtlocale=E",
+     "par": null,
+     "quote_en": "Before he made the things we can see, he made many, many angels.",
+     "supports": null
+    },
+    {
+     "docid": "nwtsty-18-38",
+     "publication": "New World Translation (Study Edition), Job 38",
+     "title_en": "Job 38",
+     "title_ta": "யோபு 38",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/18/38",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/18/38",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "When the morning stars joyfully cried out together",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0001"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year."
+  },
+  {
+   "id": "b21-0003",
+   "slug": "heavens-and-earth-created",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "“In the beginning” (time indefinite; may have been billions of years ago)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8800
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "God creates the heavens and the earth",
+   "title_ta": "ஆரம்பத்தில் கடவுள் வானத்தையும் பூமியையும் படைத்தார்",
+   "description_en": "“In the beginning God created the heavens and the earth.” Insight notes that Genesis 1:1 leaves the time indefinite; the sun, moon, and stars were created then, and this may have been billions of years ago.",
+   "description_ta": "ஆரம்பத்தில் கடவுள் வானத்தையும் பூமியையும் படைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creation",
+   "tags": [
+    "creation",
+    "opening",
+    "universe"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:1",
+     "ref_ta": "ஆதி. 1:1",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "1"
+    },
+    {
+     "ref_en": "Ps. 33:6",
+     "ref_ta": "சங். 33:6",
+     "book": "Psalms",
+     "book_num": 19,
+     "chapter": 33,
+     "verses": "6"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 11,
+     "quote_en": "The actual time of creation of the material heavens and earth may have been billions of years ago.",
+     "supports": null
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "In the beginning God created the heavens and the earth.",
+     "supports": null
+    },
+    {
+     "docid": "1102016011",
+     "publication": "Lessons You Can Learn From the Bible (lfb) lesson 1",
+     "title_en": "God Made Heaven and Earth",
+     "title_ta": "கடவுள் வானத்தையும் பூமியையும் படைத்தார்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016011",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016011",
+     "finder_url": "https://www.jw.org/finder?docid=1102016011&wtlocale=E",
+     "par": null,
+     "quote_en": "That angel helped when Jehovah made the stars, the planets, and all other things.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0001",
+    "b21-0002"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Tamil description is Gen. 1:1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0004",
+   "slug": "earth-formless-and-desolate",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "Before the six creative “days” (date not stated)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8700
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "The earth formless and desolate, in darkness",
+   "title_ta": "பூமி ஒழுங்கில்லாமல் வெறுமையாக இருந்தது",
+   "description_en": "Before the six creative “days,” the earth was “formless and desolate,” with darkness upon the watery deep, and God’s active force was moving about over the waters.",
+   "description_ta": "பூமி ஒழுங்கில்லாமல் வெறுமையாக இருந்தது, எங்கு பார்த்தாலும் ஆழமான தண்ணீரும் இருட்டுமாக இருந்தது. தண்ணீருக்கு மேலே கடவுளுடைய சக்தி செயல்பட்டுக்கொண்டு இருந்தது.",
+   "category": "bible.creation",
+   "event_kind": "creation",
+   "tags": [
+    "creation",
+    "opening",
+    "earth"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:2",
+     "ref_ta": "ஆதி. 1:2",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "2"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 36,
+     "quote_en": "Genesis 1:1, 2 relates to a time before the six “days” outlined above.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0003"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Wording: NWT (2013) reads “formless and desolate”; Insight (1988) quotes the older rendering “formless and waste”. Use the NWT wording. Tamil from Gen. 1:2 (Tamil NWT; footnote marks removed)."
+  },
+  {
+   "id": "b21-0005",
+   "slug": "creative-day-1-light-division-of-day-and-night",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 1 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8600
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8500
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 1: Light; division between day and night",
+   "title_ta": "முதலாம் நாள்",
+   "description_en": "God said: “Let there be light.” Diffused light evidently penetrated the cloud layers, and God divided the light, Day, from the darkness, Night.",
+   "description_ta": "பின்பு கடவுள், “வெளிச்சம் வரட்டும்” என்று சொன்னார். அப்போது வெளிச்சம் வந்தது.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:3-5",
+     "ref_ta": "ஆதி. 1:3-5",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "3-5"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 37,
+     "quote_en": "When God said on Day One, “Let light come to be,” diffused light evidently penetrated the cloud layers",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "1 Light; division between day and night Ge 1:3-5",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a first day.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0004"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0006",
+   "slug": "creative-day-2-expanse",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 2 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8500
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8400
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 2: Expanse, a division between waters beneath the expanse and waters above it",
+   "title_ta": "இரண்டாம் நாள்",
+   "description_en": "God made an expanse, dividing the waters beneath it from the waters above it, and called the expanse Heaven.",
+   "description_ta": "அவர் ஆகாயவிரிவுக்கு வானம் என்று பெயர் வைத்தார். சாயங்காலமும் விடியற்காலையும் வந்தது, இரண்டாம் நாள் முடிந்தது.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:6-8",
+     "ref_ta": "ஆதி. 1:6-8",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "6-8"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 38,
+     "quote_en": "On Day Two God made an expanse by causing a division to occur “between the waters and the waters.”",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "2 Expanse, a division between waters beneath the expanse and waters above it Ge 1:6-8",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a second day.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0005"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0007",
+   "slug": "creative-day-3-dry-land-vegetation",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 3 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8400
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8300
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 3: Dry land; vegetation",
+   "title_ta": "மூன்றாம் நாள்",
+   "description_en": "The waters were collected together and dry land appeared, which God called Earth; grass, seed-bearing plants, and fruit trees were brought into existence, each to reproduce according to its kind.",
+   "description_ta": "காய்ந்த தரைக்கு நிலம் என்று கடவுள் பெயர் வைத்தார். ஒருபக்கமாக ஒதுங்கிய தண்ணீருக்குக் கடல் என்று பெயர் வைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:9-13",
+     "ref_ta": "ஆதி. 1:9-13",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "9-13"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 39,
+     "quote_en": "On Day Three by God’s miracle-working power the waters on the earth were brought together and dry land appeared",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "3 Dry land; vegetation Ge 1:9-13",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a third day.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0006"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0008",
+   "slug": "creative-day-4-luminaries-discernible",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 4 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8300
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8200
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 4: Heavenly luminaries become discernible from earth",
+   "title_ta": "நான்காம் நாள்",
+   "description_en": "The sun, moon, and stars, already created “in the beginning,” were made to become discernible from the earth, to serve as signs for seasons, days, and years.",
+   "description_ta": "பின்பு, கடவுள் இரண்டு மிகப் பெரிய ஒளிச்சுடர்களைத் தெரியும்படி செய்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:14-19",
+     "ref_ta": "ஆதி. 1:14-19",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "14-19"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 42,
+     "quote_en": "Since the sun, moon, and stars are included in “the heavens” mentioned in Genesis 1:1 , they were created long before Day Four.",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "4 Heavenly luminaries become discernible from earth Ge 1:14-19",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a fourth day.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0007"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0009",
+   "slug": "creative-day-5-aquatic-souls-and-flying-creatures",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 5 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8200
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8100
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 5: Aquatic souls and flying creatures",
+   "title_ta": "ஐந்தாம் நாள்",
+   "description_en": "Swarms of sea creatures and every winged flying creature were created, the first nonhuman living souls on earth, each able to reproduce according to its kind.",
+   "description_ta": "கடலில் வாழும் மிகப் பெரிய உயிரினங்களையும் கூட்டங்கூட்டமாக நீந்தும் உயிரினங்களையும் அந்தந்த இனத்தின்படியே கடவுள் படைத்தார். பறக்கும் எல்லா பறவைகளையும் அந்தந்த இனத்தின்படியே படைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:20-23",
+     "ref_ta": "ஆதி. 1:20-23",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "20-23"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 43,
+     "quote_en": "Day Five was marked by the creation of the first nonhuman souls on earth.",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "5 Aquatic souls and flying creatures Ge 1:20-23",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a fifth day.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0008"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT)."
+  },
+  {
+   "id": "b21-0010",
+   "slug": "creative-day-6-land-animals-and-man",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "Creative day 6 (length not stated; at least thousands of years)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -8100
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -4025.249
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "at least thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Creative day 6: Land animals; man",
+   "title_ta": "ஆறாம் நாள்",
+   "description_en": "God made the wild beasts, domestic animals, and moving animals; toward the end of this day he created man in his image and then the woman, and saw that everything he had made was “very good.”",
+   "description_ta": "மனிதனைக் கடவுள் தன்னுடைய சாயலில் படைத்தார். தன்னுடைய சாயலிலேயே அவனைப் படைத்தார். ஆணையும் பெண்ணையும் அவர் படைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 1:24-31",
+     "ref_ta": "ஆதி. 1:24-31",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 1,
+     "verses": "24-31"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 45,
+     "quote_en": "Toward the end of the sixth day of creative activity, God brought into existence an entirely new kind of creature",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”), chart “Earthly Creative Works of Jehovah”",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 14,
+     "quote_en": "6 Land animals; man Ge 1:24-31",
+     "supports": "whole"
+    },
+    {
+     "docid": "nwtsty-1-1",
+     "publication": "New World Translation (Study Edition), Genesis 1",
+     "title_en": "Genesis 1",
+     "title_ta": "ஆதியாகமம் 1",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/1",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/1",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "And there was evening and there was morning, a sixth day.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/lfb/2017/7",
+     "caption_en": "The garden of Eden",
+     "caption_ta": null,
+     "source_docid": "1102016011",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0009",
+    "b1-0001"
+   ],
+   "notes": "jw.org gives no date; sort_key is an ordering placeholder only (before 4026 B.C.E.), not a year. Day length: Insight says each creative day “was at least thousands of years in length.” Tamil title is the day name and the Tamil description quotes Genesis 1 (Tamil NWT). Adam’s creation (b1-0001, 4026 B.C.E.) came toward the end of this day; the day ends after Eve’s creation (not dated)."
+  },
+  {
+   "id": "b21-0011",
+   "slug": "seventh-day-gods-rest",
+   "timing": "span",
+   "span_kind": "period",
+   "date_label_en": "From after the creation of man and woman (4026 B.C.E. or later) — still continuing; ends after the Thousand Year Reign (not dated)",
+   "date_label_ta": null,
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -4025.249
+   },
+   "end": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": null,
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "undated",
+    "latest": null,
+    "sort_key": 100015.5
+   },
+   "duration": {
+    "years": null,
+    "months": null,
+    "days": null,
+    "display_en": "thousands of years",
+    "display_ta": null,
+    "approx": true,
+    "derived": false
+   },
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Day 7: God’s rest day begins",
+   "title_ta": "ஏழாம் நாளில் ஓய்வெடுக்கத் தொடங்கினார்",
+   "description_en": "Having completed his earthly creative work, God began to rest on the seventh day, which he blessed and declared sacred. Insight explains that this day was still in progress in Paul’s time and that Christ’s Thousand Year Reign is evidently part of it.",
+   "description_ta": "இதையெல்லாம் முடித்துவிட்டு ஏழாம் நாளில் ஓய்வெடுக்கத் தொடங்கினார். அந்த ஏழாம் நாளை ஆசீர்வதித்து, அதைப் புனித நாளாக அறிவித்தார்.",
+   "category": "bible.creation",
+   "event_kind": "creative_day",
+   "tags": [
+    "creation",
+    "opening",
+    "creative days",
+    "sabbath"
+   ],
+   "people": [],
+   "places": [],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 2:1-3",
+     "ref_ta": "ஆதி. 2:1-3",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 2,
+     "verses": "1-3"
+    },
+    {
+     "ref_en": "Heb. 4:1-11",
+     "ref_ta": "எபி. 4:1-11",
+     "book": "Hebrews",
+     "book_num": 58,
+     "chapter": 4,
+     "verses": "1-11"
+    },
+    {
+     "ref_en": "Rev. 20:1-6",
+     "ref_ta": "வெளி. 20:1-6",
+     "book": "Revelation",
+     "book_num": 66,
+     "chapter": 20,
+     "verses": "1-6"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 48,
+     "quote_en": "By the apostle’s time, the seventh day had been continuing for thousands of years and had not yet ended.",
+     "supports": null
+    },
+    {
+     "docid": "1200001061",
+     "publication": "Insight on the Scriptures, Vol. 1 (it-1 “Creation”)",
+     "title_en": "Creation",
+     "title_ta": null,
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001061",
+     "url_ta": null,
+     "finder_url": "https://www.jw.org/finder?docid=1200001061&wtlocale=E",
+     "par": 48,
+     "quote_en": "The Thousand Year Reign of Jesus Christ, who is Scripturally identified as “Lord of the sabbath” ( Mt 12:8 ), is evidently part of the great sabbath, God’s rest day.",
+     "supports": null
+    },
+    {
+     "docid": "nwtsty-1-2",
+     "publication": "New World Translation (Study Edition), Genesis 2",
+     "title_en": "Genesis 2",
+     "title_ta": "ஆதியாகமம் 2",
+     "url_en": "https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/1/2",
+     "url_ta": "https://wol.jw.org/ta/wol/b/r122/lp-tl/nwtsty/1/2",
+     "finder_url": null,
+     "par": null,
+     "quote_en": "and he began to rest on the seventh day from all his work that he had been doing.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b21-0010",
+    "b1-0001",
+    "b12-0121"
+   ],
+   "notes": "Start sort_key placed just after Adam’s creation (b1-0001); jw.org gives no date for Eve’s creation or the start of day 7. End is undated (future): Insight says the Thousand Year Reign is “evidently part of” the rest day; sort_key 100015.5 only places it after the Reign (b12-0121)."
+  },
+  {
+   "id": "b21-0012",
+   "slug": "adam-and-eve-disobey",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "After 4026 B.C.E.",
+   "date_label_ta": "கி.மு. 4026-க்குப் பின்",
+   "start": {
+    "display_en": "After 4026 B.C.E.",
+    "display_ta": "கி.மு. 4026-க்குப் பின்",
+    "year": 4026,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "after",
+    "latest": null,
+    "sort_key": -4025.245
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Adam and Eve disobey and are put out of Eden",
+   "title_ta": "ஆதாமும் ஏவாளும் கீழ்ப்படியவில்லை",
+   "description_en": "Speaking through a serpent, Satan questioned Jehovah’s right to rule and deceived Eve; she ate the forbidden fruit and gave some to Adam, who ate it too. Jehovah put them out of the garden of Eden and posted angels and a sword of fire at its entrance.",
+   "description_ta": "அவர்கள் யெகோவாவுக்குக் கீழ்ப்படியாததால், ஏதேன் தோட்டத்திலிருந்து அவர்களை யெகோவா துரத்திவிட்டார். அவர்கள் அந்தத் தோட்டத்துக்குத் திரும்பி வராமல் இருப்பதற்காக, அதன் வாசலில் தேவதூதர்களை நிறுத்தினார், சுற்றிக்கொண்டே இருக்கிற நெருப்பு வாளையும் வைத்தார்.",
+   "category": "bible.creation",
+   "event_kind": "rebellion",
+   "tags": [
+    "Eden",
+    "sin",
+    "Satan",
+    "opening"
+   ],
+   "people": [
+    "Adam",
+    "Eve",
+    "Satan"
+   ],
+   "places": [
+    "Eden"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Gen. 3:1-6",
+     "ref_ta": "ஆதி. 3:1-6",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 3,
+     "verses": "1-6"
+    },
+    {
+     "ref_en": "Gen. 3:22-24",
+     "ref_ta": "ஆதி. 3:22-24",
+     "book": "Genesis",
+     "book_num": 1,
+     "chapter": 3,
+     "verses": "22-24"
+    },
+    {
+     "ref_en": "John 8:44",
+     "ref_ta": "யோவா. 8:44",
+     "book": "John",
+     "book_num": 43,
+     "chapter": 8,
+     "verses": "44"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1001061221",
+     "publication": "New World Translation (2013) App. B1",
+     "title_en": "B1 The Message of the Bible",
+     "title_ta": "B1 பைபிளின் செய்தி",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001061221",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1001061221",
+     "finder_url": "https://www.jw.org/finder?docid=1001061221&wtlocale=E",
+     "par": null,
+     "quote_en": "After 4026 B.C.E. “The serpent” questions Jehovah’s right to rule and his way of ruling.",
+     "supports": null
+    },
+    {
+     "docid": "1102016013",
+     "publication": "Lessons You Can Learn From the Bible (lfb) lesson 3",
+     "title_en": "Adam and Eve Disobeyed God",
+     "title_ta": "ஆதாமும் ஏவாளும் கீழ்ப்படியவில்லை",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016013",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1102016013",
+     "finder_url": "https://www.jw.org/finder?docid=1102016013&wtlocale=E",
+     "par": null,
+     "quote_en": "Because Adam and Eve had disobeyed him, Jehovah put them out of the garden.",
+     "supports": null
+    }
+   ],
+   "images": [
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/lfb/2017/24",
+     "caption_en": "Adam holds the forbidden fruit that Eve gave him",
+     "caption_ta": null,
+     "source_docid": "1102016013",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/lfb/2017/26",
+     "caption_en": "As Adam and Eve leave the garden of Eden, angels and a sword of fire guard the entrance",
+     "caption_ta": null,
+     "source_docid": "1102016013",
+     "kind": "illustration"
+    },
+    {
+     "url": "https://wol.jw.org/en/wol/mp/r1/lp-e/lfb/2017/23",
+     "caption_en": "Adam and Eve leave the garden of Eden",
+     "caption_ta": null,
+     "source_docid": "1102016013",
+     "kind": "illustration"
+    }
+   ],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b1-0001",
+    "b1-0002"
+   ],
+   "notes": "B1 dates the serpent’s challenge “After 4026 B.C.E.”; the existing record b1-0002 covers the promise of Gen. 3:15 at the same time. sort_key placed between b1-0001 and b1-0002. Suggested image slot story-1."
+  },
+  {
+   "id": "b21-0013",
+   "slug": "daniel-vision-ram-and-goat",
+   "timing": "point",
+   "span_kind": null,
+   "date_label_en": "“The third year of the kingship of Belshazzar” (57 years after 607 B.C.E.; year not printed)",
+   "date_label_ta": "பெல்ஷாத்சாருடைய ஆட்சிக்காலத்தின் மூன்றாம் வருடத்தில்",
+   "start": {
+    "display_en": null,
+    "display_ta": null,
+    "year": null,
+    "era": "BCE",
+    "month": null,
+    "day": null,
+    "hebrew_month": null,
+    "hebrew_day": null,
+    "season": null,
+    "precision": "unknown",
+    "latest": null,
+    "sort_key": -550.5
+   },
+   "end": null,
+   "duration": null,
+   "start_event_id": null,
+   "end_event_id": null,
+   "parent_id": null,
+   "derived": null,
+   "title_en": "Daniel’s vision of the ram and the he-goat",
+   "title_ta": "பெல்ஷாத்சாருடைய ஆட்சிக்காலத்தின் மூன்றாம் வருடத்தில் தானியேல் கண்ட தரிசனம்",
+   "description_en": "In the third year of Belshazzar, Daniel saw a two-horned ram overcome by a he-goat with a great horn. Gabriel identified the ram as the kings of Media and Persia and the he-goat as the king of Greece, its great horn being the first king.",
+   "description_ta": null,
+   "category": "bible.prophet",
+   "event_kind": "prophecy_given",
+   "tags": [
+    "Daniel",
+    "world powers",
+    "ram",
+    "goat",
+    "small horn"
+   ],
+   "people": [
+    "Daniel",
+    "Belshazzar",
+    "Gabriel"
+   ],
+   "places": [
+    "Shushan",
+    "Ulai"
+   ],
+   "scriptures": [
+    {
+     "ref_en": "Dan. 8:1-27",
+     "ref_ta": "தானி. 8:1-27",
+     "book": "Daniel",
+     "book_num": 27,
+     "chapter": 8,
+     "verses": "1-27"
+    }
+   ],
+   "sources": [
+    {
+     "docid": "1101999029",
+     "publication": "Pay Attention to Daniel’s Prophecy! (dp) chap. 10",
+     "title_en": "Who Can Stand Against the Prince of Princes?",
+     "title_ta": "அதிபதிகளுக்கெல்லாம் அதிபதிக்கு முன்பாக நிற்க துணிந்தவர் யார்?",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101999029",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101999029",
+     "finder_url": "https://www.jw.org/finder?docid=1101999029&wtlocale=E",
+     "par": 6,
+     "quote_en": "FIFTY-SEVEN years have passed since the destruction of Jehovah’s temple in Jerusalem. … during “the third year of the kingship of Belshazzar the king,”",
+     "supports": null
+    },
+    {
+     "docid": "1101990088",
+     "publication": "“All Scripture Is Inspired of God and Beneficial” (si) Bible book No. 27—Daniel",
+     "title_en": "Bible Book Number 27—Daniel",
+     "title_ta": "பைபிள் புத்தக எண் 27—தானியேல்",
+     "url_en": "https://wol.jw.org/en/wol/d/r1/lp-e/1101990088",
+     "url_ta": "https://wol.jw.org/ta/wol/d/r122/lp-tl/1101990088",
+     "finder_url": "https://www.jw.org/finder?docid=1101990088&wtlocale=E",
+     "par": 33,
+     "quote_en": "We return to “the first year of Belshazzar,” whose reign evidently began in 553 B.C.E.",
+     "supports": null
+    }
+   ],
+   "images": [],
+   "conflicts": [],
+   "importance": null,
+   "related_ids": [
+    "b4-0020",
+    "b3-0103",
+    "b4-0024",
+    "b4-0087"
+   ],
+   "notes": "Year not printed. dp chap. 10 places the vision 57 years after the 607 B.C.E. destruction, and si dates Belshazzar’s first year to 553 B.C.E.; no year is computed here (sort_key -550.5 only orders it). Tamil description left null (no Tamil summary sentence copied)."
+  }
+ ]
+}

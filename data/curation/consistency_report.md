@@ -2,7 +2,7 @@
 
 Groups of similar records (same era, category, event kind, point/span) where some are on the poster and some are not. This is expected when the rubric distinguishes them (landmark vs detail); check that each 'why' justifies the difference.
 
-90 mixed groups.
+97 mixed groups.
 
 ### bible · bible.apostolic · - · span — 4 on poster, 7 off
 
@@ -73,6 +73,14 @@ Groups of similar records (same era, category, event kind, point/span) where som
 
 - off T3 1473 B.C.E., Nisan 11-13 — Israelite males circumcised at Gilgal `b2-0046` — Gilgal circumcision; detail of entry
 - **ON** T2 During the Judges (about 11 years; exact time not stated) — Events of the book of Ruth `b2-0064` — Ruth; rubric T2 example
+
+### bible · bible.creation · creation · point — 4 on poster, 1 off
+
+- **ON** T1 Before all other creation (date not stated) — The Word, Jehovah’s only-begotten Son, created first `b21-0001` — First creation: the Word; opens all history
+- **ON** T2 After the Word, before the earth was founded (date not stated) — Angels created through the Son `b21-0002` — Angels created before the earth; opening sequence
+- **ON** T1 “In the beginning” (time indefinite; may have been billions of years ago) — God creates the heavens and the earth `b21-0003` — Genesis 1:1 beginning; landmark start of the universe
+- off T3 Before the six creative “days” (date not stated) — The earth formless and desolate, in darkness `b21-0004` — Earth's state before day 1; descriptive context
+- **ON** T1 4026 B.C.E. — Creation of Adam `b1-0001` — Creation of Adam; listed T1 anchor
 
 ### bible · bible.exile_return · - · span — 7 on poster, 1 off
 
@@ -290,37 +298,84 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - off T4 2370–2369 B.C.E. — The Deluge: the global Flood of Noah’s day `b12-0001` — One-year bar duplicates T1 Flood begin/end points
 - **ON** T2 609 B.C.E.–607 B.C.E. — Babylonian siege of Jerusalem `b12-0022` — Final 18-month siege of Jerusalem; bar on poster
 
-### bible · bible.monarchy · accession · point — 2 on poster, 5 off
+### bible · bible.monarchy · accession · point — 3 on poster, 6 off
 
 - **ON** T1 1117 B.C.E. — Samuel anoints Saul as king of Israel `b3-0001` — Saul anointed; listed T1 anchor
 - off T4 1077 B.C.E. — David becomes king of Judah at Hebron `b3-0006` — Accession shown by Hebron reign bar
 - **ON** T1 1070 B.C.E. — David becomes king over all Israel; Jerusalem made capital `b3-0007` — David king of all Israel, Jerusalem capital; anchor
 - off T4 c. 947 B.C.E. — Omri becomes sole king of Israel (8 years) `b3-0030` — Accession shown by Omri's reign bar
+- **ON** T2 Probably toward the close of Jehoram’s reign (c. 917–905 B.C.E.; year not stated) — Elisha foretells Hazael’s kingship; Hazael seizes Syria `b19-0019` — Hazael made Syria's king as foretold; Israel's oppressor
 - off T4 c. 862 B.C.E. — Jehoahaz and Jehoash rule Israel jointly (3 years) `b3-0047` — Joint-rule chronology shown by reign bars
 - off T4 c. 818 B.C.E. — Uzziah ‘becomes king’ in a special sense `b3-0058` — Regnal-count technicality; Uzziah reign bar covers it
 - off T4 c. 748 B.C.E. — Hoshea’s rule becomes fully established `b3-0072` — Regnal-count technicality; Hoshea reign bar covers it
+- off T3 At or shortly after the fall of Samaria (740 B.C.E.) — Sargon II becomes king of Assyria `b19-0054` — Foreign accession; no bar
 
-### bible · bible.monarchy · apostasy · point — 1 on poster, 1 off
+### bible · bible.monarchy · apostasy · point — 4 on poster, 2 off
 
 - off T3 c. 1078 B.C.E. (shortly before Saul’s death) — Saul consults the spirit medium at En-dor `b18-0018` — Prelude to Saul's death; context
 - **ON** T2 c. 997 B.C.E. (immediately after the kingdom divided) — Jeroboam sets up golden calves at Dan and Bethel `b18-0024` — Defining sin of the northern kingdom
+- **ON** T2 Early in Ahab’s reign (from c. 940 B.C.E.; year not stated) — Ahab marries Jezebel; Baal temple built in Samaria `b19-0008` — Baal worship made state religion; defines Ahab's era like golden calves
+- off T3 During Ahaz’ reign (762–746 B.C.E.; year not stated) — Ahaz offers his own sons in fire `b19-0046` — Ahaz's apostasy; altar record carries it
+- **ON** T2 After the fall of Damascus, during Ahaz’ reign (762–746 B.C.E.; year not stated) — Ahaz copies the pagan altar of Damascus `b19-0048` — Well-known apostasy of Ahaz; pagan altar at the temple
+- **ON** T2 During Manasseh’s reign, before his captivity (716–661 B.C.E.; year not stated) — Manasseh rebuilds high places and fills the temple with idols `b19-0058` — Manasseh's apostasy; cause given for Jerusalem's fall (2 Ki 24:3)
 
-### bible · bible.monarchy · battle · point — 3 on poster, 1 off
+### bible · bible.monarchy · assassination · point — 1 on poster, 2 off
+
+- **ON** T2 c. 905 B.C.E. (at the start of Jehu’s reign) — Jehu kills Jehoram of Israel and Ahaziah of Judah `b19-0024` — Jehu's famous ride; two kings slain, Ahab's house ends
+- off T3 829 B.C.E. (end of Amaziah’s reign; his son Uzziah became king) — Amaziah assassinated at Lachish `b19-0036` — King's assassination; reign bar shows the end
+- off T4 659 B.C.E. (end of Amon’s 2-year reign; Josiah made king) — Amon assassinated after two years `b19-0059` — Reign end shown by Amon's reign bar
+
+### bible · bible.monarchy · battle · point — 3 on poster, 7 off
 
 - **ON** T2 During Saul’s reign, not long after David’s anointing (year not stated) — David kills Goliath `b18-0015` — Famous account; same fame as fiery furnace and lions' pit (C1)
+- off T3 During Abijah’s reign (980–978 B.C.E.; year not stated) — Abijah’s Judah defeats Jeroboam’s larger army `b19-0003` — Judah–Israel war; Abijah's victory is lesser known
 - **ON** T2 967 B.C.E. — Zerah the Ethiopian comes against Judah `b3-0025` — Asa relies on Jehovah against Zerah's huge army; well-known account
+- off T3 About the fifth year before Ahab’s death (during his reign, c. 940–c. 920 B.C.E.; year not stated) — Ahab routs Ben-hadad II’s 32-king coalition at Samaria `b19-0010` — Ahab–Syria war detail
+- off T3 The following year (during Ahab’s reign, c. 940–c. 920 B.C.E.; year not stated) — Israel defeats Syria at Aphek; Ahab spares Ben-hadad `b19-0011` — Ahab–Syria war detail
+- off T3 Early in Jehoram’s reign over Israel, while Jehoshaphat lived (c. 917–c. 911 B.C.E.; year not stated) — Israel, Judah, and Edom march on Moab; water like blood `b19-0017` — Lesser-known Elisha miracle, like the widow's oil (T3)
+- off T3 During Jehoash’s reign over Israel (c. 859–c. 844 B.C.E.; year not stated) — Jehoash of Israel defeats Syria three times `b19-0033` — Fulfilment detail of Elisha's arrows prophecy
+- off T3 During Amaziah’s reign (858–829 B.C.E.; year not stated) — Amaziah defeats Edom, then worships Edom’s gods `b19-0034` — Amaziah's reign detail
 - off T3 a. 858 B.C.E. — Jehoash of Israel captures Amaziah and breaches Jerusalem’s wall `b3-0050` — Israel–Judah war detail under Amaziah
 - **ON** T2 625 B.C.E. — Nebuchadnezzar defeats Egypt at Carchemish `b3-0099` — Carchemish: Babylon's rise, dated in Jeremiah 46:2
 
-### bible · bible.monarchy · death · point — 2 on poster, 1 off
+### bible · bible.monarchy · conquest · point — 1 on poster, 1 off
+
+- **ON** T2 In Pekah’s days, after Ahaz’ appeal (Ahaz 762–746; Pekah c. 778–c. 758 B.C.E.; year not stated) — Assyria takes Galilee and Gilead; Damascus falls, Rezin slain `b19-0047` — Damascus falls, Syria ends; Galilee exiled (Isa 9:1)
+- off T3 624 B.C.E. (Nebuchadnezzar’s first official year) — Nebuchadnezzar captures and sacks Ashkelon `b19-0067` — Babylonian campaign known from inscriptions
+
+### bible · bible.monarchy · construction · point — 2 on poster, 1 off
+
+- **ON** T2 c. 945 B.C.E. — Omri buys the mountain of Samaria and builds his capital `b3-0031` — Samaria founded as Israel's capital; frames its 740 fall
+- off T3 During Ahab’s reign (c. 940–c. 920 B.C.E.; year not stated) — Hiel the Bethelite rebuilds Jericho `b19-0009` — Joshua's curse fulfilled; brief note
+- **ON** T2 In preparation for Sennacherib’s attack (732 B.C.E.; year not stated) — Hezekiah’s water tunnel to the Pool of Siloam `b19-0055` — Renowned Bible-recorded work; tunnel still visible today
+
+### bible · bible.monarchy · covenant · point — 1 on poster, 1 off
+
+- **ON** T2 During Saul’s reign, soon after Goliath’s death (year not stated) — Jonathan and David make a covenant of friendship `b18-0016` — Well-known friendship; lfb lesson
+- off T3 963 B.C.E. (Asa’s 15th year) — Great assembly makes a covenant to seek Jehovah `b19-0005` — Covenant assembly within Asa's reform; reform record carries it
+
+### bible · bible.monarchy · death · point — 3 on poster, 4 off
 
 - **ON** T2 c. 1078 B.C.E. — Saul and Jonathan die in battle at Mount Gilboa `b18-0019` — End of Israel's first king; opens David's reign
+- **ON** T2 Ahab’s final year of rule (c. 920 B.C.E.; year not printed) — Ahab killed at Ramoth-gilead, as Micaiah foretold `b19-0012` — Well-known account: Micaiah's warning, Ahab's death foretold
 - off T4 c. 911 B.C.E. — Jehoshaphat dies; Jehoram becomes sole ruler of Judah `b3-0041` — Death/succession shown by reign bars
+- off T3 c. 906 B.C.E. (end of Jehoram’s 8-year reign, when Ahaziah became king) — Philistines and Arabs plunder Judah; Jehoram dies of disease `b19-0023` — Fulfilment of Elijah's letter; reign bar shows the end
+- off T3 Later than 732 B.C.E. (the Bible gives no year) — Sennacherib killed by his sons in Nisroch’s temple `b19-0057` — Follow-up to the T1 732 deliverance
 - **ON** T2 c. 629 B.C.E. — Josiah dies in battle against Pharaoh Necho `b3-0094` — Last faithful king killed at Megiddo; well-known turning point
+- off T4 618 B.C.E. (evidently early in the Babylonian siege) — Jehoiakim dies during the siege of Jerusalem `b19-0068` — King's death shown by Jehoiakim's reign bar
 
-### bible · bible.monarchy · judgment · point — 1 on poster, 1 off
+### bible · bible.monarchy · invasion · point — 2 on poster, 2 off
+
+- **ON** T2 993 B.C.E. — Shishak of Egypt invades Judah and plunders the temple `b3-0020` — Shishak's invasion — listed T2 example
+- off T3 During Jehu’s reign (c. 905–876 B.C.E.; year not stated) — Hazael begins cutting off Israel’s land east of the Jordan `b19-0025` — Territorial loss detail
+- off T3 Late in Jehoash’s reign (898–858 B.C.E.; year not stated) — Hazael takes Gath; Jehoash buys him off `b19-0030` — Syrian raid detail
+- **ON** T1 732 B.C.E. — Sennacherib invades Judah `b3-0077` — Sennacherib; Jerusalem delivered (732) — listed T1 anchor
+
+### bible · bible.monarchy · judgment · point — 2 on poster, 2 off
 
 - **ON** T2 During Saul’s reign (1117–1077 B.C.E.; year not stated) — Saul disobeys and Jehovah rejects him as king `b18-0013` — Turning point from Saul to David
+- **ON** T2 During Ahaziah’s reign over Israel (c. 920–c. 917 B.C.E.; year not stated) — Ahaziah consults Baal-zebub; Elijah foretells his death `b19-0014` — Well-known Elijah account: fire on the fifties
+- off T3 During Ahaziah’s reign over Israel (c. 920–c. 917 B.C.E.; year not stated) — Jehoshaphat’s ships wrecked at Ezion-geber `b19-0015` — Minor alliance judgment
 - off T3 During Uzziah’s reign (829–777 B.C.E.; year not stated) — King Uzziah is struck with leprosy for burning incense `b18-0039` — Notable judgment; context within reign
 
 ### bible · bible.monarchy · rebellion · point — 1 on poster, 1 off
@@ -328,9 +383,13 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - **ON** T2 During David’s reign in Jerusalem (1070–1037 B.C.E.; year not stated) — Absalom’s rebellion against David `b18-0021` — Major crisis of David's reign
 - off T3 618 B.C.E. — Jehoiakim rebels; Nebuchadnezzar comes against Jerusalem `b3-0102` — Step toward exile; deportations carry the story
 
-### bible · bible.monarchy · reform · point — 2 on poster, 1 off
+### bible · bible.monarchy · reform · point — 4 on poster, 3 off
 
+- **ON** T2 Early in Asa’s reign, before Zerah’s attack (978–967 B.C.E.; year not stated) — Asa removes idols and deposes Queen Mother Maacah `b19-0004` — Asa's purge of idolatry; like Hezekiah's and Josiah's reforms (C1)
+- off T3 After the battle at Ramoth-gilead (c. 920 B.C.E.; year not stated) — Jehoshaphat, rebuked by Jehu, tours Judah and appoints judges `b19-0013` — Jehoshaphat's teachers record (T2) carries his reform
+- off T3 898 B.C.E. (after Jehoash’s coronation) — Jehoiada renews the covenant; Baal’s house torn down `b19-0028` — Follow-up to Jehoash's coronation
 - **ON** T2 First year of Hezekiah’s reign (746/745 B.C.E.) — Hezekiah reopens the temple and holds a great Passover `b18-0040` — Rubric T2 example 'Hezekiah's Passover and reforms'
+- **ON** T2 After the great Passover of Hezekiah’s first year (746/745 B.C.E.) — Hezekiah crushes Moses’ copper serpent `b19-0051` — Memorable reform act; Moses' copper serpent destroyed
 - off T3 652 B.C.E. — Josiah begins to search for Jehovah `b3-0085` — Josiah's personal start; campaign and Law find carry story
 - **ON** T2 648 B.C.E. — Josiah begins his campaign against idolatry `b3-0086` — Josiah's purge of idolatry; major reform like Hezekiah's
 
@@ -409,8 +468,16 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - **ON** T2 During the reign of Jehoram of Israel (c. 917–c. 905 B.C.E.; year not stated) — Naaman is cured of leprosy `b18-0034` — Best-known Elisha miracle; cited by Jesus (Luke 4:27)
 - **ON** T2 During the reign of Jehoram of Israel (c. 917–c. 905 B.C.E.; year not stated) — Elisha and the angelic fiery army at Dothan `b18-0035` — Well-known account of angelic protection
 
-### bible · bible.prophet · prophecy · point — 4 on poster, 2 off
+### bible · bible.prophet · prophecy · point — 8 on poster, 6 off
 
+- **ON** T2 During Jeroboam’s reign (997–c. 976 B.C.E.; year not stated) — Man of God foretells Josiah at Jeroboam’s altar `b19-0001` — Well-known prophecy naming Josiah; fulfilment b15-0001 is T2
+- off T3 During Jeroboam’s reign (997–c. 976 B.C.E.; year not stated) — Ahijah foretells the end of Jeroboam’s house `b19-0002` — Judgment on Jeroboam's house; calves record carries his story
+- off T3 During Jehoram’s reign over Judah (913–c. 906 B.C.E.; year not stated) — Elijah’s letter condemns Jehoram of Judah `b19-0022` — Elijah's letter; lesser-known detail
+- **ON** T2 During Isaiah’s prophetic activity (c. 778–a. 732 B.C.E.), nearly 200 years before Cyrus — Isaiah names Cyrus as Babylon’s conqueror `b19-0042` — Famous prophecy naming Cyrus some 200 years ahead
+- **ON** T2 During Ahaz’ reign (762–746 B.C.E.; year not stated) — Isaiah gives Ahaz the Immanuel sign `b19-0045` — Well-known Messianic sign quoted at Matt 1:23
+- off T3 During Hezekiah’s reign (746–716 B.C.E.; year not stated) — Micah warns “Zion will be plowed”; Hezekiah repents `b19-0052` — Micah's warning; Micah's activity bar shows him
+- **ON** T2 625 B.C.E. (4th year of Jehoiakim; 1st year of Nebuchadnezzar) — Jeremiah foretells 70 years of serving Babylon `b19-0064` — 70-years prophecy given; basis of 607–537 chronology
+- off T3 After the flight to Egypt (607 B.C.E.) — Jeremiah hides stones at Tahpanhes: Babylon will rule Egypt `b19-0076` — Prophetic sign in Egypt; minor
 - off T3 591 B.C.E. — Ezekiel foretells Egypt given to Nebuchadnezzar `b4-0010` — Minor prophecy detail on Egypt
 - **ON** T2 539 B.C.E., night of Oct. 5/6 — Belshazzar's feast: Daniel interprets the handwriting on the wall `b4-0023` — Belshazzar's feast — listed T2 example
 - **ON** T2 539/538 B.C.E. — First year of Darius the Mede: Daniel receives the 70 weeks prophecy `b4-0026` — 70 weeks prophecy given; key Daniel prophecy
@@ -418,8 +485,9 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - **ON** T2 520 B.C.E., eighth month (Oct./Nov.) — Zechariah begins to prophesy `b4-0041` — Zechariah's prophesying; equals a prophet's activity record (C1)
 - off T3 c. Dec. 1, 518 B.C.E. (Chislev 4) — Question about fasting brought to Zechariah `b4-0045` — Sub-date within Zechariah's ministry
 
-### bible · bible.prophet · vision · point — 3 on poster, 1 off
+### bible · bible.prophet · vision · point — 3 on poster, 2 off
 
+- off T3 612 B.C.E. — Ezekiel’s vision of apostate Jerusalem `b19-0071` — Vision detail; Ezekiel's temple vision holds T2
 - **ON** T2 593 B.C.E. — Ezekiel's vision of a great temple `b4-0009` — Ezekiel's temple vision; major well-known vision
 - **ON** T2 553 B.C.E. — First year of Belshazzar: Daniel's dream of four beasts `b4-0020` — Daniel 7 four beasts; key world-power prophecy
 - **ON** T2 536/535 B.C.E. (third year of Cyrus) — Daniel's final vision (third year of Cyrus) `b4-0032` — Daniel 10–12 vision; key prophecy like Dan 7 and 9
@@ -650,7 +718,7 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - off T3 March 1, 1922 — Printing moves to 18 Concord Street, Brooklyn `b8-0139` — Construction or printing detail
 - off T3 February 1927 — Society moves into its own factory at 117 Adams Street, Brooklyn `b8-0158` — Construction or printing detail
 
-### modern · jw.convention · convention · span — 1 on poster, 7 off
+### modern · jw.convention · convention · span — 1 on poster, 8 off
 
 - off T3 April 19-25, 1891 — First gathering called a convention, in Allegheny `b8-0050` — Individual convention or assembly detail
 - off T3 April 7-14, 1892 — Convention of about 400 at Allegheny `b8-0052` — Individual convention or assembly detail
@@ -660,6 +728,7 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - off T4 July 24-30, 1931 — Columbus, Ohio, convention broadcast over vast radio network `b8-0175` — Same 1931 convention as name adoption b8-0176
 - off T3 August 6-10, 1941 — St. Louis Theocratic Assembly; book Children released `b8-0233` — Individual convention or assembly detail
 - off T3 September 18-20, 1942 — New World Theocratic Assembly; talk “Peace—Can It Last?” `b8-0240` — Individual convention or assembly detail
+- off T3 July 19 to 26, 1953 — New World Society Assembly at Yankee Stadium `b20-0007` — Individual convention; not a kr landmark like 1922, 1935
 
 ### modern · jw.doctrine · - · point — 1 on poster, 5 off
 
@@ -702,6 +771,11 @@ Groups of similar records (same era, category, event kind, point/span) where som
 - off T4 May 31, 1935 — Great multitude identified as an earthly class (Washington, D.C.) `b8-0197` — Same 1935 great-crowd talk as b10-0008
 - off T3 1936 — Jesus shown to have died on a stake, not a cross `b8-0201` — Doctrinal or practice refinement detail
 - **ON** T2 1944 — Watchtower indicates transfusion is a way of eating blood `b8-0253` — Blood stand 1944/45; well-known refinement
+
+### modern · jw.doctrine · understanding_clarified · point — 1 on poster, 1 off
+
+- **ON** T2 2010 (The Watchtower, April 15) — “This generation”: two overlapping groups of anointed `b20-0013` — Outstanding clarification: overlapping generations, current understanding
+- off T3 2018 — Governing Body identifies Russia and its allies as “the king of the north” `b14-0015` — Prophetic clarification detail
 
 ### modern · jw.education · school · point — 1 on poster, 1 off
 

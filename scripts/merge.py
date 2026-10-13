@@ -192,7 +192,10 @@ events.sort(key=lambda e: (e["start"]["sort_key"], (e.get("end") or e["start"])[
 csvp = os.path.join(ROOT, "research/Bible Timeline Tamil - Sheet.csv")
 bn = os.path.join(ROOT, "data/raw/book_names.json")
 enriched = 0
-if os.path.exists(csvp) and os.path.exists(bn):
+# 2026-10-14: disabled — year+verse matching attached wrong Tamil titles (e.g. Saul's death got
+# "1 Samuel completed"). Tamil titles now come only from the batches' own Tamil jw.org pages.
+ENRICH_FROM_SHEET = False
+if ENRICH_FROM_SHEET and os.path.exists(csvp) and os.path.exists(bn):
     books = json.load(open(bn, encoding="utf-8"))
     books = books.get("books", []) if isinstance(books, dict) else books
     ta2num = {}
@@ -242,6 +245,11 @@ if os.path.exists(csvp) and os.path.exists(bn):
                 enriched += 1
                 break
 
+# Tamil titles that are paragraph text or belong to a neighbouring record (data/curation/tamil_title_null.json)
+_tn = os.path.join(ROOT, "data/curation/tamil_title_null.json")
+for ev in events:
+    if os.path.exists(_tn) and ev["id"] in json.load(open(_tn))["ids"]:
+        ev["title_ta"] = None
 for ev in events:
     if children.get(ev["id"]):
         ev["child_ids"] = children[ev["id"]]

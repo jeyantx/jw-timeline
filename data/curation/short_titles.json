@@ -1,0 +1,1979 @@
+{
+ "b1-0001": {
+  "en": "Creation of Adam"
+ },
+ "d1-0001": {
+  "en": "Life of Adam"
+ },
+ "b1-0002": {
+  "en": "Edenic covenant made; first prophecy"
+ },
+ "b1-0003": {
+  "en": "Cain slays Abel"
+ },
+ "d1-0002": {
+  "en": "Life of Seth"
+ },
+ "d1-0003": {
+  "en": "Life of Jared"
+ },
+ "d1-0004": {
+  "en": "Life of Enoch (until God took him)"
+ },
+ "d1-0005": {
+  "en": "Life of Methuselah"
+ },
+ "d1-0006": {
+  "en": "Life of Noah"
+ },
+ "b1-0014": {
+  "en": "God’s 120-year pronouncement"
+ },
+ "d1-0007": {
+  "en": "Life of Shem"
+ },
+ "b18-0001": {
+  "en": "Noah and his family build the ark"
+ },
+ "b1-0019": {
+  "en": "The global Flood begins"
+ },
+ "b1-0020": {
+  "en": "Noah and family leave the ark"
+ },
+ "b1-0021": {
+  "en": "Rainbow covenant after the Flood"
+ },
+ "d1-0008": {
+  "en": "Life of Shelah"
+ },
+ "d1-0009": {
+  "en": "Life of Peleg"
+ },
+ "b1-0025": {
+  "en": "Tower of Babel; languages confused"
+ },
+ "d1-0010": {
+  "en": "Life of Reu"
+ },
+ "d1-0011": {
+  "en": "Life of Serug"
+ },
+ "d1-0012": {
+  "en": "Life of Nahor"
+ },
+ "d1-0013": {
+  "en": "Life of Abraham"
+ },
+ "b1-0036": {
+  "en": "Abraham crosses the Euphrates"
+ },
+ "b1-0037": {
+  "en": "Abrahamic covenant validated"
+ },
+ "b12-0002": {
+  "en": "430 years: covenant to Law"
+ },
+ "b1-0039": {
+  "en": "Abraham visits Melchizedek"
+ },
+ "d1-0014": {
+  "en": "Life of Ishmael"
+ },
+ "b1-0041": {
+  "en": "Covenant of circumcision made"
+ },
+ "b1-0042": {
+  "en": "Judgment of Sodom and Gomorrah"
+ },
+ "d1-0015": {
+  "en": "Life of Isaac"
+ },
+ "b12-0003": {
+  "en": "The “about 450 years” of Acts 13:17-20"
+ },
+ "b1-0046": {
+  "en": "Ishmael and Hagar sent away"
+ },
+ "b12-0004": {
+  "en": "400 years of affliction"
+ },
+ "b18-0002": {
+  "en": "Abraham offers up Isaac on Mount Moriah"
+ },
+ "b1-0050": {
+  "en": "Marriage of Isaac and Rebekah"
+ },
+ "b1-0052": {
+  "en": "Birth of Esau and Jacob"
+ },
+ "d1-0072": {
+  "en": "Life of Jacob"
+ },
+ "b18-0003": {
+  "en": "Jacob receives Isaac’s blessing"
+ },
+ "b1-0057": {
+  "en": "Jacob's vision at Bethel"
+ },
+ "b1-0058": {
+  "en": "Jacob marries Leah and Rachel"
+ },
+ "d1-0016": {
+  "en": "Life of Joseph"
+ },
+ "b1-0061": {
+  "en": "Jacob wrestles an angel"
+ },
+ "b2-0001": {
+  "en": "Joseph sold as a slave by his brothers"
+ },
+ "b2-0004": {
+  "en": "Joseph made prime minister of Egypt"
+ },
+ "b18-0004": {
+  "en": "Joseph reveals himself to his brothers"
+ },
+ "b2-0005": {
+  "en": "Jacob with his whole family enters Egypt"
+ },
+ "b12-0005": {
+  "en": "Israel’s residence in Egypt"
+ },
+ "b2-0006": {
+  "en": "Death of Jacob"
+ },
+ "b2-0008": {
+  "en": "Job’s trial"
+ },
+ "b2-0009": {
+  "en": "Egypt, first world power"
+ },
+ "b12-0006": {
+  "en": "Egypt, first world power"
+ },
+ "d1-0017": {
+  "en": "Life of Aaron"
+ },
+ "d1-0018": {
+  "en": "Life of Moses"
+ },
+ "b18-0005": {
+  "en": "Baby Moses hidden in the Nile"
+ },
+ "d1-0019": {
+  "en": "Life of Joshua"
+ },
+ "b2-0013": {
+  "en": "Moses flees to Midian"
+ },
+ "d1-0020": {
+  "en": "Life of Caleb"
+ },
+ "b2-0015": {
+  "en": "Moses at the burning thornbush"
+ },
+ "b11-0002": {
+  "en": "Genesis written"
+ },
+ "b2-0016": {
+  "en": "Ten plagues on Egypt"
+ },
+ "b2-0017": {
+  "en": "Passover; Israelites leave Egypt"
+ },
+ "b12-0007": {
+  "en": "Israel’s 40 years in the wilderness"
+ },
+ "b2-0019": {
+  "en": "Red Sea deliverance"
+ },
+ "b2-0020": {
+  "en": "Joshua defeats the Amalekites"
+ },
+ "b2-0021": {
+  "en": "Manna first provided"
+ },
+ "b2-0022": {
+  "en": "Law covenant at Mount Sinai"
+ },
+ "b18-0006": {
+  "en": "Golden calf at Mount Sinai"
+ },
+ "b2-0023": {
+  "en": "Ark of the covenant made"
+ },
+ "b11-0003": {
+  "en": "Exodus written"
+ },
+ "b11-0004": {
+  "en": "Leviticus written"
+ },
+ "b2-0025": {
+  "en": "Tabernacle set up"
+ },
+ "b2-0026": {
+  "en": "Installation of the Aaronic priesthood"
+ },
+ "b2-0028": {
+  "en": "Twelve spies sent into Canaan"
+ },
+ "b2-0029": {
+  "en": "Israel sentenced to wander 40 years"
+ },
+ "b18-0007": {
+  "en": "Korah’s rebellion"
+ },
+ "d1-0021": {
+  "en": "Life of Rahab"
+ },
+ "b18-0008": {
+  "en": "Moses and Aaron fail at Meribah"
+ },
+ "b18-0009": {
+  "en": "Moses makes the copper serpent"
+ },
+ "b2-0035": {
+  "en": "Amorite kingdoms conquered"
+ },
+ "b2-0036": {
+  "en": "Balaam attempts to curse Israel"
+ },
+ "b2-0040": {
+  "en": "Covenant with Israel at Moab"
+ },
+ "b11-0005": {
+  "en": "Numbers written"
+ },
+ "b11-0006": {
+  "en": "Deuteronomy written"
+ },
+ "b11-0007": {
+  "en": "Job written"
+ },
+ "b2-0042": {
+  "en": "Joshua commissioned to succeed Moses"
+ },
+ "b2-0045": {
+  "en": "Israel crosses the Jordan"
+ },
+ "b12-0008": {
+  "en": "Israel’s conquest of Canaan under Joshua"
+ },
+ "b2-0049": {
+  "en": "Fall of Jericho"
+ },
+ "b2-0050": {
+  "en": "Defeat at Ai, then Ai captured"
+ },
+ "b18-0010": {
+  "en": "Sun stands still at Gibeon"
+ },
+ "b2-0052": {
+  "en": "Tribes receive land after the conquest"
+ },
+ "b11-0009": {
+  "en": "Joshua written"
+ },
+ "b2-0057": {
+  "en": "Period of the Judges"
+ },
+ "b2-0058": {
+  "en": "Othniel delivers Israel"
+ },
+ "b2-0060": {
+  "en": "Ehud delivers Israel from Moab"
+ },
+ "b2-0062": {
+  "en": "Shamgar saves Israel"
+ },
+ "b2-0063": {
+  "en": "Deborah and Barak defeat Sisera"
+ },
+ "b2-0064": {
+  "en": "Events of the book of Ruth"
+ },
+ "b2-0065": {
+  "en": "Gideon delivers Israel from Midian"
+ },
+ "b2-0067": {
+  "en": "Tola judges Israel 23 years"
+ },
+ "b2-0068": {
+  "en": "Jair judges Israel 22 years"
+ },
+ "b2-0069": {
+  "en": "Birth of Samuel (approximate)"
+ },
+ "b18-0011": {
+  "en": "Hannah prays for a son"
+ },
+ "b18-0012": {
+  "en": "Jehovah speaks to young Samuel"
+ },
+ "b2-0070": {
+  "en": "Eli judges Israel 40 years"
+ },
+ "b2-0071": {
+  "en": "Jephthah defeats Ammon"
+ },
+ "b2-0072": {
+  "en": "Ibzan judges Israel 7 years"
+ },
+ "b2-0073": {
+  "en": "Elon judges Israel 10 years"
+ },
+ "b2-0074": {
+  "en": "Abdon judges Israel 8 years"
+ },
+ "b2-0075": {
+  "en": "Samson judges Israel 20 years"
+ },
+ "b2-0076": {
+  "en": "Ark captured; Eli dies"
+ },
+ "b2-0078": {
+  "en": "Samuel judges; Mizpah victory"
+ },
+ "b3-0001": {
+  "en": "Samuel anoints Saul as king of Israel"
+ },
+ "b12-0009": {
+  "en": "Reign of Saul over Israel"
+ },
+ "b12-0010": {
+  "en": "United kingdom of Israel"
+ },
+ "b18-0013": {
+  "en": "Jehovah rejects Saul as king"
+ },
+ "b12-0011": {
+  "en": "Life of David"
+ },
+ "b18-0014": {
+  "en": "Samuel anoints young David"
+ },
+ "b18-0015": {
+  "en": "David kills Goliath"
+ },
+ "b18-0016": {
+  "en": "Jonathan and David’s covenant"
+ },
+ "b18-0017": {
+  "en": "David spares Saul’s life"
+ },
+ "b11-0011": {
+  "en": "Judges written"
+ },
+ "b11-0012": {
+  "en": "Ruth written"
+ },
+ "b18-0019": {
+  "en": "Saul and Jonathan die at Gilboa"
+ },
+ "b11-0013": {
+  "en": "1 Samuel written"
+ },
+ "d1-0071": {
+  "en": "David reigns in Hebron over Judah"
+ },
+ "b12-0012": {
+  "en": "Reign of David"
+ },
+ "b3-0007": {
+  "en": "David king over all Israel"
+ },
+ "b3-0008": {
+  "en": "The Ark is brought into Jerusalem"
+ },
+ "b18-0020": {
+  "en": "David’s sin with Bath-sheba"
+ },
+ "b3-0009": {
+  "en": "Covenant with David for a kingdom"
+ },
+ "b18-0021": {
+  "en": "Absalom’s rebellion against David"
+ },
+ "b11-0014": {
+  "en": "2 Samuel written"
+ },
+ "b12-0013": {
+  "en": "Reign of Solomon"
+ },
+ "b18-0022": {
+  "en": "Solomon asks Jehovah for wisdom"
+ },
+ "b3-0012": {
+  "en": "Solomon begins building the temple"
+ },
+ "b3-0013": {
+  "en": "Solomon’s temple completed"
+ },
+ "b12-0015": {
+  "en": "Solomon’s temple in service"
+ },
+ "b18-0023": {
+  "en": "The queen of Sheba visits Solomon"
+ },
+ "b3-0014": {
+  "en": "Inauguration of Solomon’s temple"
+ },
+ "b11-0015": {
+  "en": "Song of Solomon written"
+ },
+ "b11-0016": {
+  "en": "Ecclesiastes written"
+ },
+ "d1-0032": {
+  "en": "Reign of Rehoboam (Judah)"
+ },
+ "d1-0052": {
+  "en": "Reign of Jeroboam (Israel)"
+ },
+ "b3-0019": {
+  "en": "Kingdom divided: Judah and Israel"
+ },
+ "b12-0016": {
+  "en": "Northern ten-tribe kingdom of Israel"
+ },
+ "b12-0017": {
+  "en": "Southern kingdom of Judah"
+ },
+ "b12-0018": {
+  "en": "390 years of Israel’s error"
+ },
+ "b18-0024": {
+  "en": "Jeroboam’s golden calves"
+ },
+ "b3-0020": {
+  "en": "Shishak invades Judah"
+ },
+ "d1-0033": {
+  "en": "Reign of Abijah (Judah)"
+ },
+ "d1-0034": {
+  "en": "Reign of Asa (Judah)"
+ },
+ "d1-0053": {
+  "en": "Reign of Nadab (Israel)"
+ },
+ "d1-0054": {
+  "en": "Reign of Baasha (Israel)"
+ },
+ "b3-0025": {
+  "en": "Zerah the Ethiopian comes against Judah"
+ },
+ "d1-0055": {
+  "en": "Reign of Elah (Israel)"
+ },
+ "d1-0056": {
+  "en": "Reign of Zimri (Israel)"
+ },
+ "d1-0057": {
+  "en": "Reign of Omri (Israel)"
+ },
+ "b3-0031": {
+  "en": "Omri builds Samaria"
+ },
+ "b3-0032": {
+  "en": "Prophetic activity of Elijah"
+ },
+ "d1-0058": {
+  "en": "Reign of Ahab (Israel)"
+ },
+ "b18-0025": {
+  "en": "Elijah announces a drought"
+ },
+ "b18-0026": {
+  "en": "Elijah resurrects widow’s son"
+ },
+ "b18-0027": {
+  "en": "Elijah’s test of godship on Mount Carmel"
+ },
+ "b18-0028": {
+  "en": "Elijah flees from Jezebel"
+ },
+ "b18-0029": {
+  "en": "Naboth killed for his vineyard"
+ },
+ "d1-0035": {
+  "en": "Reign of Jehoshaphat (Judah)"
+ },
+ "b18-0030": {
+  "en": "Jehovah saves Jehoshaphat"
+ },
+ "b3-0035": {
+  "en": "Priests begin teaching the Law in Judah"
+ },
+ "d1-0059": {
+  "en": "Reign of Ahaziah (Israel)"
+ },
+ "b3-0038": {
+  "en": "Prophetic activity of Elisha"
+ },
+ "b18-0031": {
+  "en": "Elijah taken up; Elisha succeeds"
+ },
+ "b18-0033": {
+  "en": "Elisha resurrects Shunammite’s son"
+ },
+ "b18-0034": {
+  "en": "Naaman is cured of leprosy"
+ },
+ "b18-0035": {
+  "en": "Elisha and the fiery army"
+ },
+ "d1-0060": {
+  "en": "Reign of Jehoram (Israel)"
+ },
+ "d1-0036": {
+  "en": "Reign of Jehoram (Judah)"
+ },
+ "d1-0037": {
+  "en": "Reign of Ahaziah (Judah)"
+ },
+ "d1-0061": {
+  "en": "Reign of Jehu (Israel)"
+ },
+ "d1-0038": {
+  "en": "Reign of Athaliah (Judah)"
+ },
+ "b18-0036": {
+  "en": "Jehu executes Jezebel"
+ },
+ "d1-0039": {
+  "en": "Reign of Jehoash (Judah)"
+ },
+ "d1-0062": {
+  "en": "Reign of Jehoahaz (Israel)"
+ },
+ "d1-0063": {
+  "en": "Reign of Jehoash (Israel)"
+ },
+ "d1-0040": {
+  "en": "Reign of Amaziah (Judah)"
+ },
+ "b3-0051": {
+  "en": "Prophetic activity of Jonah"
+ },
+ "b11-0017": {
+  "en": "Jonah written"
+ },
+ "b18-0038": {
+  "en": "Jonah and the big fish"
+ },
+ "d1-0064": {
+  "en": "Reign of Jeroboam II (Israel)"
+ },
+ "b3-0054": {
+  "en": "Prophetic activity of Amos"
+ },
+ "d1-0041": {
+  "en": "Reign of Uzziah (Azariah) (Judah)"
+ },
+ "b3-0056": {
+  "en": "Prophetic activity of Joel"
+ },
+ "b11-0018": {
+  "en": "Joel written"
+ },
+ "b3-0059": {
+  "en": "Prophetic activity of Hosea"
+ },
+ "b11-0019": {
+  "en": "Amos written"
+ },
+ "d1-0065": {
+  "en": "Reign of Zechariah (Israel)"
+ },
+ "d1-0066": {
+  "en": "Reign of Shallum (Israel)"
+ },
+ "d1-0067": {
+  "en": "Reign of Menahem (Israel)"
+ },
+ "d1-0068": {
+  "en": "Reign of Pekahiah (Israel)"
+ },
+ "d1-0069": {
+  "en": "Reign of Pekah (Israel)"
+ },
+ "b3-0066": {
+  "en": "Prophetic activity of Isaiah"
+ },
+ "d1-0042": {
+  "en": "Reign of Jotham (Judah)"
+ },
+ "b3-0068": {
+  "en": "Prophetic activity of Micah"
+ },
+ "d1-0043": {
+  "en": "Reign of Ahaz (Judah)"
+ },
+ "b12-0019": {
+  "en": "Assyria, second world power"
+ },
+ "d1-0070": {
+  "en": "Reign of Hoshea (Israel)"
+ },
+ "d1-0044": {
+  "en": "Reign of Hezekiah (Judah)"
+ },
+ "b18-0040": {
+  "en": "Hezekiah’s Passover"
+ },
+ "b11-0020": {
+  "en": "Hosea written"
+ },
+ "b3-0076": {
+  "en": "Samaria falls to Assyria"
+ },
+ "b11-0021": {
+  "en": "Isaiah written"
+ },
+ "b3-0077": {
+  "en": "Sennacherib invades Judah"
+ },
+ "b18-0041": {
+  "en": "Hezekiah’s life extended"
+ },
+ "b11-0022": {
+  "en": "Micah written"
+ },
+ "b11-0023": {
+  "en": "Proverbs written"
+ },
+ "d1-0045": {
+  "en": "Reign of Manasseh (Judah)"
+ },
+ "d1-0046": {
+  "en": "Reign of Amon (Judah)"
+ },
+ "d1-0047": {
+  "en": "Reign of Josiah (Judah)"
+ },
+ "b3-0084": {
+  "en": "Prophetic activity of Zephaniah"
+ },
+ "b11-0024": {
+  "en": "Zephaniah written"
+ },
+ "b3-0086": {
+  "en": "Josiah’s campaign vs. idolatry"
+ },
+ "b3-0088": {
+  "en": "Prophetic activity of Jeremiah"
+ },
+ "b3-0089": {
+  "en": "Book of the Law found"
+ },
+ "b3-0090": {
+  "en": "Josiah’s great Passover"
+ },
+ "b15-0001": {
+  "en": "Josiah tears down Bethel’s altar"
+ },
+ "b11-0025": {
+  "en": "Nahum written"
+ },
+ "b3-0091": {
+  "en": "Nineveh falls to the Chaldeans and Medes"
+ },
+ "b3-0092": {
+  "en": "Prophetic activity of Nahum"
+ },
+ "b3-0094": {
+  "en": "Josiah dies in battle"
+ },
+ "b11-0026": {
+  "en": "Habakkuk written"
+ },
+ "d1-0048": {
+  "en": "Reign of Jehoahaz (Judah)"
+ },
+ "d1-0049": {
+  "en": "Reign of Jehoiakim (Judah)"
+ },
+ "b3-0097": {
+  "en": "Prophetic activity of Habakkuk"
+ },
+ "b3-0099": {
+  "en": "Battle of Carchemish"
+ },
+ "b12-0020": {
+  "en": "Reign of Nebuchadnezzar II"
+ },
+ "b3-0103": {
+  "en": "Prophetic activity of Daniel"
+ },
+ "d1-0050": {
+  "en": "Reign of Jehoiachin (Judah)"
+ },
+ "b3-0105": {
+  "en": "Jehoiachin surrenders"
+ },
+ "b3-0106": {
+  "en": "Daniel taken captive to Babylon"
+ },
+ "b3-0107": {
+  "en": "Ezekiel taken captive to Babylon"
+ },
+ "b18-0043": {
+  "en": "Daniel refuses the king’s delicacies"
+ },
+ "d1-0051": {
+  "en": "Reign of Zedekiah (Judah)"
+ },
+ "b3-0109": {
+  "en": "Prophetic activity of Ezekiel"
+ },
+ "b12-0022": {
+  "en": "Babylonian siege of Jerusalem"
+ },
+ "b18-0044": {
+  "en": "Jeremiah in the miry cistern"
+ },
+ "b11-0027": {
+  "en": "Lamentations written"
+ },
+ "b11-0028": {
+  "en": "Obadiah written"
+ },
+ "b3-0112": {
+  "en": "Zedekiah dethroned"
+ },
+ "b3-0113": {
+  "en": "Jerusalem destroyed"
+ },
+ "b12-0023": {
+  "en": "Babylon, third world power"
+ },
+ "b3-0116": {
+  "en": "70-year desolation begins"
+ },
+ "b12-0024": {
+  "en": "The 70 years of Judah’s desolation"
+ },
+ "b3-0117": {
+  "en": "Appointed times of the nations begin"
+ },
+ "b12-0025": {
+  "en": "“Seven times” of the nations"
+ },
+ "b3-0120": {
+  "en": "Prophetic activity of Obadiah"
+ },
+ "b4-0008": {
+  "en": "Nebuchadnezzar’s dream of the image"
+ },
+ "b18-0045": {
+  "en": "The fiery furnace"
+ },
+ "b18-0046": {
+  "en": "Nebuchadnezzar’s dream of the tree"
+ },
+ "b4-0009": {
+  "en": "Ezekiel's vision of a great temple"
+ },
+ "b11-0029": {
+  "en": "Ezekiel written"
+ },
+ "b11-0030": {
+  "en": "1 Kings written"
+ },
+ "b11-0031": {
+  "en": "2 Kings written"
+ },
+ "b11-0032": {
+  "en": "Jeremiah written"
+ },
+ "b12-0026": {
+  "en": "Reign of Cyrus the Great"
+ },
+ "b4-0020": {
+  "en": "Daniel’s dream of four beasts"
+ },
+ "b4-0023": {
+  "en": "Handwriting on the wall"
+ },
+ "b4-0024": {
+  "en": "Babylon falls to the Medes and Persians"
+ },
+ "b12-0027": {
+  "en": "Medo-Persia, fourth world power"
+ },
+ "b4-0026": {
+  "en": "Daniel’s 70 weeks prophecy"
+ },
+ "b18-0047": {
+  "en": "Daniel is thrown into the lions’ pit"
+ },
+ "b4-0027": {
+  "en": "Cyrus issues decree freeing the Jews"
+ },
+ "b4-0028": {
+  "en": "Jews return to Jerusalem"
+ },
+ "b4-0029": {
+  "en": "Altar set up at Jerusalem"
+ },
+ "b11-0033": {
+  "en": "Daniel written"
+ },
+ "b4-0031": {
+  "en": "Foundation of the second temple laid"
+ },
+ "b4-0032": {
+  "en": "Daniel’s final vision"
+ },
+ "b12-0029": {
+  "en": "Ban on the rebuilding of the temple"
+ },
+ "b12-0030": {
+  "en": "Reign of Darius I (the Great) of Persia"
+ },
+ "b4-0039": {
+  "en": "Haggai urges temple building"
+ },
+ "b4-0041": {
+  "en": "Zechariah begins to prophesy"
+ },
+ "b11-0034": {
+  "en": "Haggai written"
+ },
+ "b11-0035": {
+  "en": "Zechariah written"
+ },
+ "b4-0047": {
+  "en": "Zerubbabel completes the second temple"
+ },
+ "b4-0054": {
+  "en": "Ahasuerus' banquet; Queen Vashti deposed"
+ },
+ "b18-0048": {
+  "en": "Esther is chosen as queen of Persia"
+ },
+ "b12-0031": {
+  "en": "Reign of Xerxes I (Ahasuerus)"
+ },
+ "b4-0058": {
+  "en": "Purim instituted"
+ },
+ "b4-0059": {
+  "en": "Haman's extermination decree issued"
+ },
+ "b18-0049": {
+  "en": "Esther appeals; Haman hanged"
+ },
+ "b11-0036": {
+  "en": "Esther written"
+ },
+ "b12-0032": {
+  "en": "Reign of Artaxerxes I (Longimanus)"
+ },
+ "b4-0064": {
+  "en": "Ezra and priests return to Jerusalem"
+ },
+ "b11-0037": {
+  "en": "1 Chronicles written"
+ },
+ "b11-0038": {
+  "en": "2 Chronicles written"
+ },
+ "b11-0039": {
+  "en": "Ezra written"
+ },
+ "b11-0040": {
+  "en": "Psalms written"
+ },
+ "b4-0069": {
+  "en": "Nehemiah commissioned"
+ },
+ "b12-0033": {
+  "en": "Nehemiah’s first term"
+ },
+ "b12-0034": {
+  "en": "The 69 weeks to “Messiah the Leader”"
+ },
+ "b12-0035": {
+  "en": "The 70 weeks of years (Daniel 9)"
+ },
+ "b4-0071": {
+  "en": "Jerusalem's wall completed in 52 days"
+ },
+ "b18-0050": {
+  "en": "Ezra reads the Law"
+ },
+ "b11-0041": {
+  "en": "Nehemiah written"
+ },
+ "b11-0042": {
+  "en": "Malachi written"
+ },
+ "d1-0022": {
+  "en": "Life of Alexander the Great"
+ },
+ "b4-0085": {
+  "en": "Alexander destroys island Tyre"
+ },
+ "b4-0087": {
+  "en": "Persian Empire falls"
+ },
+ "b12-0037": {
+  "en": "Greece, fifth world power"
+ },
+ "b4-0095": {
+  "en": "Alexander’s empire divided"
+ },
+ "b4-0098": {
+  "en": "Greek Septuagint translation begun"
+ },
+ "b4-0112": {
+  "en": "Antiochus IV desecrates the temple"
+ },
+ "b4-0113": {
+  "en": "Temple rededicated"
+ },
+ "b4-0122": {
+  "en": "Pompey takes Jerusalem; Rome rules"
+ },
+ "b12-0038": {
+  "en": "Reign of Herod the Great over Judea"
+ },
+ "b12-0039": {
+  "en": "Reign of Augustus"
+ },
+ "b4-0131": {
+  "en": "Ptolemaic Egypt falls to Rome"
+ },
+ "b12-0040": {
+  "en": "Rome, sixth world power"
+ },
+ "b4-0134": {
+  "en": "Herod begins rebuilding the temple"
+ },
+ "b5-0001": {
+  "en": "Gabriel foretells John’s birth"
+ },
+ "b5-0002": {
+  "en": "Gabriel foretells Jesus’ birth"
+ },
+ "d1-0023": {
+  "en": "Life of John the Baptist"
+ },
+ "b14-0001": {
+  "en": "Augustus orders a registration"
+ },
+ "b5-0006": {
+  "en": "Jesus born; “the Word became flesh”"
+ },
+ "d1-0024": {
+  "en": "Jesus' earthly life"
+ },
+ "b5-0007": {
+  "en": "Angels announce Jesus’ birth"
+ },
+ "b5-0009": {
+  "en": "Jesus presented at the temple"
+ },
+ "b5-0010": {
+  "en": "Astrologers visit"
+ },
+ "b5-0011": {
+  "en": "Family flees to Egypt"
+ },
+ "b5-0012": {
+  "en": "Herod kills young boys"
+ },
+ "b5-0014": {
+  "en": "Boy Jesus at the temple"
+ },
+ "b12-0042": {
+  "en": "Reign of Tiberius, Roman emperor"
+ },
+ "b12-0043": {
+  "en": "Ministry of John the Baptizer"
+ },
+ "b5-0017": {
+  "en": "Jesus baptized and anointed"
+ },
+ "b12-0044": {
+  "en": "Jesus’ earthly ministry"
+ },
+ "b12-0045": {
+  "en": "The 70th week of years"
+ },
+ "b5-0018": {
+  "en": "Tempted by the Devil"
+ },
+ "b5-0019": {
+  "en": "John identifies the Lamb of God"
+ },
+ "b5-0020": {
+  "en": "First disciples join Jesus"
+ },
+ "b5-0021": {
+  "en": "Water turned into wine"
+ },
+ "b5-0023": {
+  "en": "Cleanses the temple"
+ },
+ "b5-0024": {
+  "en": "Talks with Nicodemus"
+ },
+ "b5-0029": {
+  "en": "Jesus teaches the Samaritans"
+ },
+ "b5-0030": {
+  "en": "“The Kingdom has drawn near”"
+ },
+ "b5-0032": {
+  "en": "Jesus reads from Isaiah scroll"
+ },
+ "b5-0034": {
+  "en": "Jesus calls four disciples"
+ },
+ "b5-0038": {
+  "en": "Heals a paralytic"
+ },
+ "b5-0042": {
+  "en": "Jesus heals sick man at Bethzatha"
+ },
+ "b5-0046": {
+  "en": "Chooses 12 apostles"
+ },
+ "b5-0047": {
+  "en": "Gives Sermon on the Mount"
+ },
+ "b5-0048": {
+  "en": "Heals army officer’s servant"
+ },
+ "b5-0049": {
+  "en": "Resurrects widow’s son"
+ },
+ "b5-0058": {
+  "en": "Jesus gives Kingdom illustrations"
+ },
+ "b5-0059": {
+  "en": "Calms a storm from the boat"
+ },
+ "b5-0060": {
+  "en": "Sends demons into swine"
+ },
+ "b5-0061": {
+  "en": "Jesus heals woman’s flow of blood"
+ },
+ "b5-0062": {
+  "en": "Jesus resurrects Jairus’ daughter"
+ },
+ "b5-0065": {
+  "en": "Third tour of Galilee"
+ },
+ "b5-0066": {
+  "en": "Herod beheads John the Baptist"
+ },
+ "b5-0069": {
+  "en": "Jesus feeds 5,000 men"
+ },
+ "b5-0070": {
+  "en": "People try to make Jesus king"
+ },
+ "b5-0071": {
+  "en": "Jesus walks on sea"
+ },
+ "b5-0080": {
+  "en": "Keys of the Kingdom"
+ },
+ "b5-0081": {
+  "en": "Jesus foretells his death"
+ },
+ "b5-0082": {
+  "en": "Transfiguration; Jehovah speaks"
+ },
+ "b5-0091": {
+  "en": "Jesus heals man born blind"
+ },
+ "b5-0092": {
+  "en": "Sends out the 70; they return joyful"
+ },
+ "b5-0093": {
+  "en": "Neighborly Samaritan illustration"
+ },
+ "b5-0094": {
+  "en": "Jesus visits Mary and Martha’s home"
+ },
+ "b5-0102": {
+  "en": "Fine shepherd and sheepfold illustration"
+ },
+ "b5-0111": {
+  "en": "Lost sheep, coin, and son"
+ },
+ "b5-0112": {
+  "en": "Steward; rich man and Lazarus"
+ },
+ "b5-0114": {
+  "en": "Lazarus dies and is resurrected"
+ },
+ "b5-0117": {
+  "en": "Jesus heals ten lepers"
+ },
+ "b5-0122": {
+  "en": "Rich man’s question"
+ },
+ "b5-0127": {
+  "en": "Jesus visits Zacchaeus"
+ },
+ "b5-0129": {
+  "en": "Jesus arrives six days before Passover"
+ },
+ "b5-0130": {
+  "en": "Mary pours oil on his head and feet"
+ },
+ "b5-0131": {
+  "en": "Jesus enters Jerusalem"
+ },
+ "b5-0132": {
+  "en": "Jesus curses fig tree"
+ },
+ "b5-0133": {
+  "en": "Jesus cleanses temple again"
+ },
+ "b5-0135": {
+  "en": "Jehovah speaks; Jews disbelieve"
+ },
+ "b5-0140": {
+  "en": "Jesus answers questions in temple"
+ },
+ "b5-0143": {
+  "en": "Observes widow’s contribution"
+ },
+ "b5-0144": {
+  "en": "Gives sign of future presence"
+ },
+ "b5-0145": {
+  "en": "Virgins, talents, sheep and goats"
+ },
+ "b5-0147": {
+  "en": "Judas arranges betrayal"
+ },
+ "b5-0149": {
+  "en": "Eats Passover with apostles"
+ },
+ "b5-0150": {
+  "en": "Washes feet of apostles"
+ },
+ "b5-0152": {
+  "en": "Institutes the Lord’s Evening Meal"
+ },
+ "b5-0154": {
+  "en": "Last prayer with apostles"
+ },
+ "b5-0155": {
+  "en": "Agony in the garden"
+ },
+ "b5-0156": {
+  "en": "Jesus’ betrayal and arrest"
+ },
+ "b5-0157": {
+  "en": "Jesus before Annas and Caiaphas"
+ },
+ "b5-0158": {
+  "en": "Peter denies Jesus"
+ },
+ "b5-0159": {
+  "en": "Judas the betrayer hangs himself"
+ },
+ "b5-0160": {
+  "en": "Jesus before Pilate and Herod"
+ },
+ "b5-0161": {
+  "en": "Barabbas chosen over Jesus"
+ },
+ "b5-0162": {
+  "en": "Jesus sentenced to death"
+ },
+ "b5-0163": {
+  "en": "Dies on torture stake"
+ },
+ "b5-0164": {
+  "en": "Jesus’ body placed in tomb"
+ },
+ "b5-0166": {
+  "en": "Jesus resurrected"
+ },
+ "b5-0167": {
+  "en": "Jesus appears five times to disciples"
+ },
+ "b5-0168": {
+  "en": "Disciple-making commission"
+ },
+ "b6-0001": {
+  "en": "Holy spirit poured out at Pentecost"
+ },
+ "b17-0002": {
+  "en": "Wheat and weeds grow together"
+ },
+ "b6-0002": {
+  "en": "Christian congregation founded"
+ },
+ "b6-0003": {
+  "en": "About 3,000 baptized"
+ },
+ "b5-0169": {
+  "en": "Jesus’ ascension"
+ },
+ "b18-0052": {
+  "en": "Peter heals a lame beggar"
+ },
+ "b18-0053": {
+  "en": "Ananias and Sapphira die"
+ },
+ "b18-0054": {
+  "en": "Apostles freed by an angel"
+ },
+ "b6-0004": {
+  "en": "Stephen martyred"
+ },
+ "b18-0056": {
+  "en": "Philip preaches in Samaria"
+ },
+ "b6-0005": {
+  "en": "Ethiopian eunuch baptized by Philip"
+ },
+ "b6-0006": {
+  "en": "Saul converted near Damascus"
+ },
+ "b18-0057": {
+  "en": "Peter raises Dorcas"
+ },
+ "b6-0010": {
+  "en": "Cornelius becomes a Christian"
+ },
+ "b6-0011": {
+  "en": "End of the 70 weeks of years"
+ },
+ "b11-0043": {
+  "en": "Matthew written"
+ },
+ "b12-0048": {
+  "en": "Reign of Claudius, Roman emperor"
+ },
+ "b6-0016": {
+  "en": "Disciples called Christians"
+ },
+ "b6-0017": {
+  "en": "Apostle James executed"
+ },
+ "b6-0018": {
+  "en": "Peter freed by an angel"
+ },
+ "b6-0019": {
+  "en": "Herod Agrippa I dies"
+ },
+ "b6-0021": {
+  "en": "Famine relief to Jerusalem"
+ },
+ "b6-0022": {
+  "en": "Paul’s first missionary journey"
+ },
+ "b6-0024": {
+  "en": "Governing body on circumcision"
+ },
+ "b6-0026": {
+  "en": "Paul’s second missionary journey"
+ },
+ "b6-0029": {
+  "en": "Timothy joins Paul at Lystra"
+ },
+ "b11-0044": {
+  "en": "Galatians written"
+ },
+ "b11-0045": {
+  "en": "1 Thessalonians written"
+ },
+ "b6-0030": {
+  "en": "Paul crosses into Europe"
+ },
+ "b18-0059": {
+  "en": "Paul and Silas jailed at Philippi"
+ },
+ "b6-0034": {
+  "en": "Philippian congregation founded"
+ },
+ "b6-0035": {
+  "en": "Thessalonian congregation founded"
+ },
+ "b18-0060": {
+  "en": "The Beroeans examine Scriptures"
+ },
+ "b6-0036": {
+  "en": "Paul preaches in Athens"
+ },
+ "b6-0037": {
+  "en": "Paul spends 18 months in Corinth"
+ },
+ "b11-0046": {
+  "en": "2 Thessalonians written"
+ },
+ "b6-0046": {
+  "en": "Paul’s third missionary journey"
+ },
+ "b6-0047": {
+  "en": "Paul ministers in Ephesus"
+ },
+ "b12-0049": {
+  "en": "Reign of Nero, Roman emperor"
+ },
+ "b11-0047": {
+  "en": "1 Corinthians written"
+ },
+ "b11-0048": {
+  "en": "2 Corinthians written"
+ },
+ "b18-0061": {
+  "en": "Riot against Paul in Ephesus"
+ },
+ "b11-0049": {
+  "en": "Luke written"
+ },
+ "b11-0050": {
+  "en": "Romans written"
+ },
+ "b6-0054": {
+  "en": "Paul resurrects Eutychus in Troas"
+ },
+ "b18-0062": {
+  "en": "Paul’s farewell at Miletus"
+ },
+ "b6-0058": {
+  "en": "Paul arrested at the temple in Jerusalem"
+ },
+ "b6-0059": {
+  "en": "Paul in custody at Caesarea"
+ },
+ "b6-0062": {
+  "en": "Paul appeals to Caesar before Festus"
+ },
+ "b6-0063": {
+  "en": "Agrippa II hears Paul’s defense"
+ },
+ "b16-0007": {
+  "en": "Paul’s trip to Rome and imprisonment"
+ },
+ "b6-0065": {
+  "en": "Shipwreck on Malta; Paul winters there"
+ },
+ "b11-0051": {
+  "en": "Mark written"
+ },
+ "b11-0052": {
+  "en": "Ephesians written"
+ },
+ "b11-0053": {
+  "en": "Philippians written"
+ },
+ "b11-0054": {
+  "en": "Colossians written"
+ },
+ "b11-0055": {
+  "en": "Philemon written"
+ },
+ "b11-0056": {
+  "en": "Acts written"
+ },
+ "b11-0057": {
+  "en": "1 Timothy written"
+ },
+ "b11-0058": {
+  "en": "Titus written"
+ },
+ "b11-0059": {
+  "en": "Hebrews written"
+ },
+ "b11-0060": {
+  "en": "James written"
+ },
+ "b11-0061": {
+  "en": "1 Peter written"
+ },
+ "b11-0063": {
+  "en": "2 Peter written"
+ },
+ "b6-0084": {
+  "en": "Nero’s persecution of Christians"
+ },
+ "b11-0064": {
+  "en": "2 Timothy written"
+ },
+ "b11-0065": {
+  "en": "Jude written"
+ },
+ "b6-0089": {
+  "en": "Paul executed in Rome"
+ },
+ "b12-0050": {
+  "en": "Jewish revolt against Rome"
+ },
+ "b6-0092": {
+  "en": "Cestius Gallus surrounds Jerusalem"
+ },
+ "b6-0093": {
+  "en": "Christians flee to Pella"
+ },
+ "b12-0053": {
+  "en": "Roman siege and conquest of Jerusalem"
+ },
+ "b6-0096": {
+  "en": "Jerusalem and temple destroyed"
+ },
+ "b11-0067": {
+  "en": "Revelation written"
+ },
+ "b6-0099": {
+  "en": "John receives the Revelation"
+ },
+ "b11-0068": {
+  "en": "John written"
+ },
+ "b11-0069": {
+  "en": "1 John written"
+ },
+ "b11-0070": {
+  "en": "2 John written"
+ },
+ "b11-0071": {
+  "en": "3 John written"
+ },
+ "b7-0001": {
+  "en": "Last apostle, John, dies"
+ },
+ "b17-0003": {
+  "en": "The weeds appear"
+ },
+ "b7-0002": {
+  "en": "Rylands Papyrus 457 (P52) copied"
+ },
+ "b17-0004": {
+  "en": "Weedlike Christians multiply"
+ },
+ "b7-0018": {
+  "en": "Diocletian orders Scriptures burned"
+ },
+ "b7-0021": {
+  "en": "Constantine legalizes “Christianity”"
+ },
+ "b7-0023": {
+  "en": "Council of Nicaea"
+ },
+ "b7-0025": {
+  "en": "Codex Vaticanus produced"
+ },
+ "b7-0026": {
+  "en": "Codex Sinaiticus produced"
+ },
+ "b7-0042": {
+  "en": "Jerome completes the Latin Vulgate"
+ },
+ "b7-0050": {
+  "en": "Masoretes preserve Hebrew text"
+ },
+ "b7-0057": {
+  "en": "Slavonic Bible translation begun"
+ },
+ "b7-0066": {
+  "en": "Leningrad Codex copied"
+ },
+ "b7-0079": {
+  "en": "Toulouse bans vernacular Bibles"
+ },
+ "b7-0086": {
+  "en": "Wycliffe's English Bible released"
+ },
+ "b7-0096": {
+  "en": "Gutenberg prints the first Bible"
+ },
+ "b7-0105": {
+  "en": "Erasmus publishes printed Greek text"
+ },
+ "b7-0113": {
+  "en": "Luther’s German New Testament"
+ },
+ "b7-0118": {
+  "en": "Tyndale’s New Testament printed"
+ },
+ "b7-0122": {
+  "en": "Tyndale’s Pentateuch published"
+ },
+ "b7-0133": {
+  "en": "Tyndale strangled and burned"
+ },
+ "b7-0140": {
+  "en": "Trent condemns vernacular Bibles"
+ },
+ "b7-0145": {
+  "en": "Numbered verses introduced"
+ },
+ "b7-0163": {
+  "en": "King James Version published"
+ },
+ "b7-0175": {
+  "en": "Tamil Christian Greek Scriptures"
+ },
+ "b7-0177": {
+  "en": "Complete Bible in Tamil appears"
+ },
+ "b7-0184": {
+  "en": "William Carey sails for India"
+ },
+ "b7-0191": {
+  "en": "British and Foreign Bible Society"
+ },
+ "b7-0228": {
+  "en": "Emphatic Diaglott completed"
+ },
+ "b8-0004": {
+  "en": "Russell begins Bible study group"
+ },
+ "b8-0009": {
+  "en": "Russell points to 1914"
+ },
+ "b8-0018": {
+  "en": "Zion’s Watch Tower first issued"
+ },
+ "b8-0027": {
+  "en": "Colporteur (pioneer) work begins"
+ },
+ "b8-0038": {
+  "en": "Watch Tower Society chartered"
+ },
+ "b8-0040": {
+  "en": "The Divine Plan of the Ages published"
+ },
+ "b12-0064": {
+  "en": "Headquarters at Bible House"
+ },
+ "b8-0069": {
+  "en": "First branch office opened, in London"
+ },
+ "b12-0065": {
+  "en": "World headquarters in Brooklyn, New York"
+ },
+ "b8-0095": {
+  "en": "“Photo-Drama of Creation” shown"
+ },
+ "b12-0066": {
+  "en": "Anglo-American world power"
+ },
+ "b10-0001": {
+  "en": "Gentile Times end"
+ },
+ "b10-0002": {
+  "en": "God’s Kingdom born in heaven"
+ },
+ "b12-0067": {
+  "en": "Christ’s presence; Kingdom rule"
+ },
+ "b13-0001": {
+  "en": "Satan hurled out of heaven"
+ },
+ "b12-0068": {
+  "en": "World War I"
+ },
+ "b12-0069": {
+  "en": "The last days (time of the end)"
+ },
+ "b10-0004": {
+  "en": "Harvest: wheat separated from weeds"
+ },
+ "b12-0070": {
+  "en": "The harvest season"
+ },
+ "b10-0005": {
+  "en": "Spiritual temple inspected"
+ },
+ "b12-0071": {
+  "en": "Three and a half times"
+ },
+ "b12-0073": {
+  "en": "Rutherford and associates imprisoned"
+ },
+ "b12-0075": {
+  "en": "The 1,290 days of Daniel 12:11"
+ },
+ "b10-0007": {
+  "en": "Faithful and discreet slave appointed"
+ },
+ "b17-0009": {
+  "en": "Wheat gathered into storehouse"
+ },
+ "b8-0128": {
+  "en": "First issue of The Golden Age"
+ },
+ "b8-0129": {
+  "en": "Society begins own printing"
+ },
+ "b14-0007": {
+  "en": "League of Nations"
+ },
+ "b8-0142": {
+  "en": "Cedar Point convention"
+ },
+ "b12-0078": {
+  "en": "The 1,335 days of Daniel 12:12"
+ },
+ "b12-0079": {
+  "en": "Radio station WBBR"
+ },
+ "b8-0150": {
+  "en": "“Birth of the Nation” article"
+ },
+ "b8-0176": {
+  "en": "Name Jehovah’s Witnesses adopted"
+ },
+ "b12-0080": {
+  "en": "Nazi ban on Jehovah’s Witnesses"
+ },
+ "b8-0190": {
+  "en": "Portable phonographs used"
+ },
+ "b8-0193": {
+  "en": "First “Kingdom Hall”"
+ },
+ "b10-0008": {
+  "en": "Great crowd identified"
+ },
+ "b8-0213": {
+  "en": "Lovell v. City of Griffin"
+ },
+ "b12-0082": {
+  "en": "2,300 evenings and mornings"
+ },
+ "b8-0215": {
+  "en": "Theocratic appointments begin"
+ },
+ "b12-0084": {
+  "en": "World War II"
+ },
+ "b8-0223": {
+  "en": "Landmark Watchtower article “Neutrality”"
+ },
+ "b8-0227": {
+  "en": "Cantwell v. Connecticut"
+ },
+ "b8-0246": {
+  "en": "First Gilead class begins"
+ },
+ "b8-0247": {
+  "en": "Theocratic Ministry School"
+ },
+ "b8-0248": {
+  "en": "Murdock v. Pennsylvania"
+ },
+ "b8-0249": {
+  "en": "Barnette overturns Gobitis"
+ },
+ "b8-0253": {
+  "en": "Watchtower on blood transfusion"
+ },
+ "b14-0010": {
+  "en": "The United Nations"
+ },
+ "b8-0262": {
+  "en": "European relief campaign"
+ },
+ "b9-0001": {
+  "en": "Awake! magazine begins publication"
+ },
+ "b17-0010": {
+  "en": "Dead Sea Scrolls discovered"
+ },
+ "b9-0027": {
+  "en": "NWT Greek Scriptures released"
+ },
+ "b9-0028": {
+  "en": "Canada’s Supreme Court: Boucher"
+ },
+ "b9-0061": {
+  "en": "Complete NWT released"
+ },
+ "b9-0068": {
+  "en": "NWT Greek Scriptures in six languages"
+ },
+ "b9-0069": {
+  "en": "Witnesses exceed one million"
+ },
+ "b12-0094": {
+  "en": "Ban on Jehovah’s Witnesses in Malawi"
+ },
+ "b9-0083": {
+  "en": "“Truth That Leads to Eternal Life”"
+ },
+ "b9-0092": {
+  "en": "Governing Body enlarged"
+ },
+ "b9-0097": {
+  "en": "Bodies of elders oversee congregations"
+ },
+ "b9-0099": {
+  "en": "Tobacco made disfellowshipping offense"
+ },
+ "b9-0104": {
+  "en": "Governing Body committees formed"
+ },
+ "b17-0011": {
+  "en": "NWT reference edition released"
+ },
+ "b9-0146": {
+  "en": "Regional Building Committees appointed"
+ },
+ "b9-0170": {
+  "en": "Voluntary donation arrangement"
+ },
+ "b9-0175": {
+  "en": "Bans lifted in Eastern Europe and Africa"
+ },
+ "b9-0182": {
+  "en": "Watchtower in 111 languages"
+ },
+ "b9-0191": {
+  "en": "ECHR rules for Minos Kokkinakis (Greece)"
+ },
+ "b9-0198": {
+  "en": "“Sheep” and “goats” clarified"
+ },
+ "b9-0199": {
+  "en": "“This generation” clarified"
+ },
+ "b9-0218": {
+  "en": "Kingdom Hall building program"
+ },
+ "b9-0238": {
+  "en": "Stratton permit ordinance struck down"
+ },
+ "b9-0246": {
+  "en": "“What Does the Bible Really Teach?”"
+ },
+ "b9-0269": {
+  "en": "Midweek meetings combined"
+ },
+ "b9-0284": {
+  "en": "Metropolitan public witnessing begins"
+ },
+ "b9-0286": {
+  "en": "ECHR upholds Bayatyan"
+ },
+ "b9-0296": {
+  "en": "Redesigned jw.org released"
+ },
+ "b9-0302": {
+  "en": "Faithful slave clarified"
+ },
+ "b9-0314": {
+  "en": "Revised NWT released"
+ },
+ "b9-0330": {
+  "en": "JW Broadcasting launched"
+ },
+ "b9-0344": {
+  "en": "“Our Christian Life and Ministry”"
+ },
+ "b12-0110": {
+  "en": "World headquarters at Warwick, New York"
+ },
+ "b9-0363": {
+  "en": "Russia bans Jehovah’s Witnesses"
+ },
+ "b12-0113": {
+  "en": "Meetings by videoconference"
+ },
+ "b9-0409": {
+  "en": "ECHR: Russia’s ban unlawful"
+ },
+ "b9-0426": {
+  "en": "Disfellowshipping clarified"
+ },
+ "b9-0449": {
+  "en": "2025 Memorial attendance report"
+ },
+ "b10-0009": {
+  "en": "Proclamation of “Peace and security!”"
+ },
+ "b10-0010": {
+  "en": "Sealing of the anointed completed"
+ },
+ "b10-0011": {
+  "en": "Great tribulation begins"
+ },
+ "b12-0119": {
+  "en": "The great tribulation"
+ },
+ "b10-0012": {
+  "en": "Attack on religion cut short"
+ },
+ "b10-0013": {
+  "en": "Signs in sun, moon, and stars"
+ },
+ "b10-0014": {
+  "en": "Sign of the Son of man"
+ },
+ "b10-0015": {
+  "en": "Attack by Gog of Magog on God's people"
+ },
+ "b10-0016": {
+  "en": "Anointed gathered to heaven"
+ },
+ "b10-0017": {
+  "en": "War of Armageddon"
+ },
+ "b10-0018": {
+  "en": "Marriage of the Lamb"
+ },
+ "b10-0019": {
+  "en": "Satan and demons abyssed"
+ },
+ "b12-0120": {
+  "en": "Satan abyssed for 1,000 years"
+ },
+ "b10-0020": {
+  "en": "Christ's Thousand Year Reign begins"
+ },
+ "b12-0121": {
+  "en": "Christ’s Thousand Year Reign"
+ },
+ "b10-0021": {
+  "en": "Earthly resurrection"
+ },
+ "b10-0022": {
+  "en": "New scrolls opened"
+ },
+ "b10-0023": {
+  "en": "Christ hands Kingdom to God"
+ },
+ "b10-0024": {
+  "en": "Satan released; final test"
+ },
+ "b10-0025": {
+  "en": "Satan and rebels destroyed"
+ },
+ "b21-0001": {
+  "en": "The Word created first"
+ },
+ "b21-0002": {
+  "en": "Angels created through the Son"
+ },
+ "b21-0003": {
+  "en": "God creates the heavens and the earth"
+ },
+ "b21-0005": {
+  "en": "Day 1: light"
+ },
+ "b21-0006": {
+  "en": "Day 2: the expanse"
+ },
+ "b21-0007": {
+  "en": "Day 3: dry land and vegetation"
+ },
+ "b21-0008": {
+  "en": "Day 4: luminaries become discernible"
+ },
+ "b21-0009": {
+  "en": "Day 5: sea creatures and birds"
+ },
+ "b21-0010": {
+  "en": "Day 6: land animals and man"
+ },
+ "b21-0011": {
+  "en": "Day 7: God’s rest day begins"
+ },
+ "b21-0012": {
+  "en": "Adam and Eve disobey"
+ },
+ "b19-0001": {
+  "en": "Josiah foretold at Jeroboam’s altar"
+ },
+ "b19-0004": {
+  "en": "Asa removes idols"
+ },
+ "b19-0008": {
+  "en": "Ahab marries Jezebel"
+ },
+ "b19-0012": {
+  "en": "Ahab killed at Ramoth-gilead"
+ },
+ "b19-0014": {
+  "en": "Ahaziah consults Baal-zebub"
+ },
+ "b19-0019": {
+  "en": "Elisha foretells Hazael’s kingship"
+ },
+ "b19-0024": {
+  "en": "Jehu kills Jehoram and Ahaziah"
+ },
+ "b19-0027": {
+  "en": "Jehoiada crowns Jehoash"
+ },
+ "b19-0029": {
+  "en": "Zechariah son of Jehoiada stoned"
+ },
+ "b19-0032": {
+  "en": "Elisha’s arrows of victory; Elisha dies"
+ },
+ "b19-0038": {
+  "en": "Amos sent to prophesy against Israel"
+ },
+ "b19-0041": {
+  "en": "Isaiah: “Here I am! Send me”"
+ },
+ "b19-0042": {
+  "en": "Isaiah names Cyrus"
+ },
+ "b19-0045": {
+  "en": "Isaiah gives Ahaz the Immanuel sign"
+ },
+ "b19-0047": {
+  "en": "Assyria takes Galilee; Damascus falls"
+ },
+ "b19-0048": {
+  "en": "Ahaz copies the altar of Damascus"
+ },
+ "b19-0051": {
+  "en": "Hezekiah crushes the copper serpent"
+ },
+ "b19-0053": {
+  "en": "Assyria resettles Samaria"
+ },
+ "b19-0055": {
+  "en": "Hezekiah’s water tunnel"
+ },
+ "b19-0056": {
+  "en": "Hezekiah shows Babylon’s envoys"
+ },
+ "b19-0058": {
+  "en": "Manasseh fills the temple with idols"
+ },
+ "b19-0060": {
+  "en": "Jeremiah commissioned as prophet"
+ },
+ "b19-0064": {
+  "en": "Jeremiah foretells 70 years"
+ },
+ "b19-0066": {
+  "en": "Jehoiakim burns Jeremiah’s scroll"
+ },
+ "b19-0070": {
+  "en": "Ezekiel commissioned as watchman"
+ },
+ "b21-0013": {
+  "en": "Daniel’s vision of the ram and the goat"
+ },
+ "b20-0006": {
+  "en": "Operation North: deported to Siberia"
+ },
+ "b20-0013": {
+  "en": "“This generation”: overlapping groups"
+ },
+ "b20-0021": {
+  "en": "Enjoy Life Forever! released"
+ }
+}

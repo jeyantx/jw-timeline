@@ -1,0 +1,561 @@
+{
+ "era": "b19_b21",
+ "graded_by": "rubric v1",
+ "tiers": {
+  "b19-0001": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known prophecy naming Josiah; fulfilment b15-0001 is T2"
+  },
+  "b19-0002": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Judgment on Jeroboam's house; calves record carries his story"
+  },
+  "b19-0003": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Judah–Israel war; Abijah's victory is lesser known"
+  },
+  "b19-0004": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Asa's purge of idolatry; like Hezekiah's and Josiah's reforms (C1)"
+  },
+  "b19-0005": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Covenant assembly within Asa's reform; reform record carries it"
+  },
+  "b19-0006": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Border-war detail, like Baasha building Ramah (T3)"
+  },
+  "b19-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Rebuke within Asa's reign; lesser-known"
+  },
+  "b19-0008": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Baal worship made state religion; defines Ahab's era like golden calves"
+  },
+  "b19-0009": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Joshua's curse fulfilled; brief note"
+  },
+  "b19-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ahab–Syria war detail"
+  },
+  "b19-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ahab–Syria war detail"
+  },
+  "b19-0012": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account: Micaiah's warning, Ahab's death foretold"
+  },
+  "b19-0013": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Jehoshaphat's teachers record (T2) carries his reform"
+  },
+  "b19-0014": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known Elijah account: fire on the fifties"
+  },
+  "b19-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Minor alliance judgment"
+  },
+  "b19-0016": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Moab's revolt; Moabite Stone is archaeology context"
+  },
+  "b19-0017": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lesser-known Elisha miracle, like the widow's oil (T3)"
+  },
+  "b19-0018": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Elisha prophecy fulfilled; less known than Naaman, Dothan"
+  },
+  "b19-0019": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Hazael made Syria's king as foretold; Israel's oppressor"
+  },
+  "b19-0020": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Jehoram's crimes; context within reign"
+  },
+  "b19-0021": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Revolts within Jehoram's reign"
+  },
+  "b19-0022": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Elijah's letter; lesser-known detail"
+  },
+  "b19-0023": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Fulfilment of Elijah's letter; reign bar shows the end"
+  },
+  "b19-0024": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jehu's famous ride; two kings slain, Ahab's house ends"
+  },
+  "b19-0025": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Territorial loss detail"
+  },
+  "b19-0026": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Archaeology context; Bible does not mention the tribute"
+  },
+  "b19-0027": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known: hidden boy king crowned, Athaliah executed"
+  },
+  "b19-0028": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Follow-up to Jehoash's coronation"
+  },
+  "b19-0029": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Zechariah's murder cited by Jesus (Matt 23:35)"
+  },
+  "b19-0030": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Syrian raid detail"
+  },
+  "b19-0031": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Background oppression under Jehoahaz"
+  },
+  "b19-0032": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Elisha's final prophecy and death; well-known arrows lesson"
+  },
+  "b19-0033": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Fulfilment detail of Elisha's arrows prophecy"
+  },
+  "b19-0034": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Amaziah's reign detail"
+  },
+  "b19-0035": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Jeroboam II's expansion; Jonah's record carries Jonah"
+  },
+  "b19-0036": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "King's assassination; reign bar shows the end"
+  },
+  "b19-0037": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Uzziah's achievements; context within reign"
+  },
+  "b19-0038": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Prophet's commission; like Isaiah, Jeremiah, Ezekiel calls (C1)"
+  },
+  "b19-0039": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Dating note; earthquake recalled in Amos and Zechariah"
+  },
+  "b19-0040": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "First Assyrian tribute; background to Assyrian advance"
+  },
+  "b19-0041": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Isaiah's famous commission: 'Here I am! Send me'"
+  },
+  "b19-0042": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Famous prophecy naming Cyrus some 200 years ahead"
+  },
+  "b19-0043": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Reign summary; Jotham's reign bar shows him"
+  },
+  "b19-0044": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Syro-Israelite war; Immanuel sign record carries it"
+  },
+  "b19-0045": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known Messianic sign quoted at Matt 1:23"
+  },
+  "b19-0046": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Ahaz's apostasy; altar record carries it"
+  },
+  "b19-0047": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Damascus falls, Syria ends; Galilee exiled (Isa 9:1)"
+  },
+  "b19-0048": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known apostasy of Ahaz; pagan altar at the temple"
+  },
+  "b19-0049": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Exile of eastern tribes; 740 fall carries Israel's exile"
+  },
+  "b19-0050": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lead-up to Samaria's siege"
+  },
+  "b19-0051": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Memorable reform act; Moses' copper serpent destroyed"
+  },
+  "b19-0052": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Micah's warning; Micah's activity bar shows him"
+  },
+  "b19-0053": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Origin of the Samaritans; aftermath of Samaria's fall"
+  },
+  "b19-0054": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Foreign accession; no bar"
+  },
+  "b19-0055": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Renowned Bible-recorded work; tunnel still visible today"
+  },
+  "b19-0056": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known; Isaiah foretells the Babylonian exile"
+  },
+  "b19-0057": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Follow-up to the T1 732 deliverance"
+  },
+  "b19-0058": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Manasseh's apostasy; cause given for Jerusalem's fall (2 Ki 24:3)"
+  },
+  "b19-0059": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "Reign end shown by Amon's reign bar"
+  },
+  "b19-0060": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Jeremiah's well-known commission; like Isaiah, Ezekiel (C1)"
+  },
+  "b19-0061": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Succession detail; reign bars show it"
+  },
+  "b19-0062": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Lesser-known prophet's death"
+  },
+  "b19-0063": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Temple sermon trial; cistern record carries Jeremiah's endurance"
+  },
+  "b19-0064": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "70-years prophecy given; basis of 607–537 chronology"
+  },
+  "b19-0065": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Scroll-burning record carries this account"
+  },
+  "b19-0066": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Well-known account: Jehoiakim burns Jeremiah's scroll"
+  },
+  "b19-0067": {
+   "tier": 3,
+   "rule": "T3-politics",
+   "why": "Babylonian campaign known from inscriptions"
+  },
+  "b19-0068": {
+   "tier": 4,
+   "rule": "T4-covered",
+   "why": "King's death shown by Jehoiakim's reign bar"
+  },
+  "b19-0069": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Repeats the 70 years; b19-0064 carries the prophecy"
+  },
+  "b19-0070": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Ezekiel's commission and chariot vision; like Isaiah, Jeremiah (C1)"
+  },
+  "b19-0071": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Vision detail; Ezekiel's temple vision holds T2"
+  },
+  "b19-0072": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Siege interlude; siege bar shows the siege"
+  },
+  "b19-0073": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Imprisonment; cistern record carries Jeremiah's endurance"
+  },
+  "b19-0074": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sign of restoration; lesser-known"
+  },
+  "b19-0075": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Partial fulfilment; island Tyre 332 (T2) carries Ezekiel's prophecy"
+  },
+  "b19-0076": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prophetic sign in Egypt; minor"
+  },
+  "b20-0001": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude publication to Bible Students, like Storrs 1853 (T3)"
+  },
+  "b20-0002": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's personal life"
+  },
+  "b20-0003": {
+   "tier": 3,
+   "rule": "T3-person",
+   "why": "Reformer's personal life"
+  },
+  "b20-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Prelude publication to Bible Students"
+  },
+  "b20-0005": {
+   "tier": 4,
+   "rule": "T4-duplicate",
+   "why": "Summarises b20-0001, -0002, -0004"
+  },
+  "b20-0006": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Mass Soviet deportation; major persecution like Nazi, Malawi bans"
+  },
+  "b20-0007": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual convention; not a kr landmark like 1922, 1935"
+  },
+  "b20-0008": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Printing technology detail"
+  },
+  "b20-0009": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Sign-language publication detail"
+  },
+  "b20-0010": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "School relocation; 1943 Gilead holds school tier"
+  },
+  "b20-0011": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Follow-up to 1971 separation (T2)"
+  },
+  "b20-0012": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Format change; videocassette record carries sign-language start"
+  },
+  "b20-0013": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Outstanding clarification: overlapping generations, current understanding"
+  },
+  "b20-0014": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Individual publication detail"
+  },
+  "b20-0015": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Digital tool; jw.org 2012 (T2) carries the digital shift"
+  },
+  "b20-0016": {
+   "tier": 4,
+   "rule": "T4-detail",
+   "why": "Variant of JW Library app"
+  },
+  "b20-0017": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT edition detail; 2013 revision holds T1"
+  },
+  "b20-0018": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Language milestone statistic, like NWT language counts (T3)"
+  },
+  "b20-0019": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Pandemic ministry; videoconference meetings bar (T2) carries it"
+  },
+  "b20-0020": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT language edition; 1963 record carries NWT in many languages"
+  },
+  "b20-0021": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Enjoy Life Forever! (2021); listed T2 example"
+  },
+  "b20-0022": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "NWT language count, like 2025 320-language record (T3)"
+  },
+  "b21-0001": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "First creation: the Word; opens all history"
+  },
+  "b21-0002": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Angels created before the earth; opening sequence"
+  },
+  "b21-0003": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Genesis 1:1 beginning; landmark start of the universe"
+  },
+  "b21-0004": {
+   "tier": 3,
+   "rule": "T3-context",
+   "why": "Earth's state before day 1; descriptive context"
+  },
+  "b21-0005": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0006": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0007": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0008": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0009": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0010": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0011": {
+   "tier": 2,
+   "rule": "T2-major",
+   "why": "Creative day; all seven days share one tier (C1)"
+  },
+  "b21-0012": {
+   "tier": 1,
+   "rule": "T1-defines",
+   "why": "Sin enters; sovereignty issue raised; pairs with Gen 3:15 (T1)"
+  },
+  "b21-0013": {
+   "tier": 2,
+   "rule": "T2-series",
+   "why": "Daniel 8 vision; key world-power prophecy like Dan 7, 9, 10–12"
+  }
+ }
+}
