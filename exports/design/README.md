@@ -194,3 +194,25 @@ The rule comes from *w15* 3/15 "Questions From Readers": a type is applied only 
 ## §10 Images
 
 See `images.csv`. The files are for personal and congregation use only, are not published, and are credited "© Watch Tower Bible and Tract Society of Pennsylvania".
+
+**Coverage:** 63 of 66 slots are filled, 153 files in all (a primary plus up to 2 alternatives, `<slot_id>__alt1.jpg`).
+
+**Resolution:** jw.org art mostly tops out at **1200 × 600 px**.
+- `paradise`: the best found is 1200 × 1133 (*Enjoy Life Forever!* lesson 60, with a river and a path). The 312 mm print needs about 3,700 px, so it will need upscaling.
+- `eden`: 1200 px wide against the about 1,725 px needed.
+- `ev-bible-class-in-allegheny`: 900 px.
+
+**Weak or stand-in images:**
+- `creation-day-1…6`: the primary is one collage that needs cropping. alt2 has a separate image for each day.
+- `story-1…7`: the B1 panels are only 120 × 229, so they are alt1. The primaries are 1200 px art in the same style from the "Bible's message" brochure.
+- Daniel beasts: small chart icons only.
+- Off-subject stand-ins:
+  - `ev-gutenberg-bible`: an old Bible, not confirmed as Gutenberg.
+  - `ev-isaiah`: a generic prophet.
+  - `ev-saul-dies`: shows Saul rejected, not his death.
+  - `ev-name-jehovah-s-witnesses`: the 1931 programme cover.
+  - `pre-1`: the archangel with angels.
+- **Do not use** `pre-3__alt1` or `ev-jerusalem-destroyed-70__alt2`: they carry a third-party credit line.
+
+**None found:** `ev-tamil-new-testament`, `ref-daniel-ram`, `ref-daniel-goat`. Please draw these as icons.
+
