@@ -19,7 +19,7 @@ All data comes from **wol.jw.org / jw.org only**, and every row carries its sour
 | `pairs.csv` | 7 | Paired fulfilments: stated / not_stated / withdrawn |
 | `journeys.csv` | 8 | 14 journeys, 160 stops, in order. lat/lon are blank (see below) |
 | `map_sources.csv` | 8 | 33 jw.org maps to follow for the outlines and routes |
-| `images.csv` | 10 | Image slots: source URL, publication, caption, credit. The image files are delivered separately |
+| `images.csv` | 10 | Image slots: jw.org image URL, the page it appears on, publication, caption, credit. Edited image files can be sent on request |
 
 **Row and lane values:** `opening`, `row1` (→1200 B.C.E.), `turn1`, `row2` (997–332), `turn2`, `row3` (2 B.C.E.–1700), `turn3`, `row4` (1870–2026), `future`. Row 2 lanes are `judah`, `israel`, `prophet`, `nations` and `books`.
 
@@ -193,9 +193,9 @@ The rule comes from *w15* 3/15 "Questions From Readers": a type is applied only 
 
 ## §10 Images
 
-See `images.csv`. The files are for personal and congregation use only, are not published, and are credited "© Watch Tower Bible and Tract Society of Pennsylvania".
+See `images.csv`: each slot links to the image on jw.org (`source_url`) and the page it comes from (`page_url`). We have not edited any image. If a slot needs a crop or blend, tell us the `slot_id` and we will prepare that file. Images are for personal and congregation use only, credited "© Watch Tower Bible and Tract Society of Pennsylvania".
 
-**Coverage:** 63 of 66 slots are filled, 153 files in all (a primary plus up to 2 alternatives, `<slot_id>__alt1.jpg`).
+**Coverage:** 63 of 66 slots are filled, 153 images in all (a primary plus up to 2 alternatives, listed as `<slot_id>__alt1`).
 
 **Resolution:** jw.org art mostly tops out at **1200 × 600 px**.
 - `paradise`: the best found is 1200 × 1133 (*Enjoy Life Forever!* lesson 60, with a river and a path). The 312 mm print needs about 3,700 px, so it will need upscaling.
