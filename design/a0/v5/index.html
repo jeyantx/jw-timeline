@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>A0 Wall Chart · Round 3 · v0.4</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<script src="image-slot.js"></script>
+<script src="a0v5/core.js"></script>
+<script src="a0v5/data.js"></script>
+<script src="a0v5/real.js"></script>
+<script src="a0v5/draw.js"></script>
+<script src="a0v5/draw2.js"></script>
+<script src="a0v5/maps.js"></script>
+<script src="a0v5/map.js"></script>
+<style>
+body{margin:0;background:#e4e3de;color:#1d1d1b;font-family:'Noto Sans',sans-serif}
+a{color:#6e4a12}a:hover{color:#1d1d1b}
+svg text{font-family:'Noto Sans',sans-serif}
+</style>
+</head>
+<body>
+<div style="padding:48px 56px;display:flex;flex-direction:column;gap:44px">
+  <header style="display:flex;flex-direction:column;gap:8px;max-width:1200px">
+    <div style="font-size:13px;letter-spacing:.14em;font-weight:700;color:#6e6c67">A0 WALL CHART · v0.5 · ENGLISH · DATA FROM THIS REPO (scripts/build_a0_sheet.py)</div>
+    <div style="font-size:40px;font-weight:800;letter-spacing:-.01em">First pass with the real research data</div>
+    <div style="font-size:17px;line-height:1.55;color:#3d3c39;text-wrap:pretty">Layout locked from v0.4. Events, reigns, Bible books, growth series, the B15 calendar and the images now come from the research CSVs (jw.org / wol.jw.org only). Each label leads with its year as printed; "year not stated" is shown where jw.org gives none. Row 2 sorts labels by lane: Israel and prophets above the line, Judah and nations below. Records already shown by a bar or a book tab are dots only. Images load from jw.org (personal and congregation use, © Watch Tower Bible and Tract Society of Pennsylvania).</div>
+  </header>
+
+  <section id="sheet" data-screen-label="Full A0 sheet" style="display:flex;flex-direction:column;gap:10px">
+    <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap"><span style="background:#1d1d1b;color:#fff;font-weight:800;font-size:15px;padding:3px 9px;border-radius:5px">3a</span><span style="font-size:24px;font-weight:800;white-space:nowrap">Full sheet · 1189 × 841 mm</span>
+      <label style="font-size:14px;color:#3d3c39;display:flex;gap:8px;align-items:center">Map on the sheet:
+        <select id="mapSel" style="font:inherit;padding:4px 8px;border-radius:6px;border:1px solid #c8c6bf;background:#fff">
+          <option value="d">M-d · World + magnified (chosen)</option><option value="a">M-a · Classic atlas</option><option value="b">M-b · Story map</option><option value="c">M-c · Era-coloured names</option>
+        </select></label>
+      </div>
+    <div id="full" style="position:relative;background:#f7f6f2;box-shadow:0 2px 24px rgba(0,0,0,.14);max-width:2200px"></div>
+  </section>
+
+  <section data-screen-label="True-size crops" style="display:flex;flex-direction:column;gap:14px">
+    <div style="font-size:24px;font-weight:800">True-size crops <span style="font-size:14px;font-weight:400;color:#6e6c67">print size at 100% zoom on a 96-dpi screen</span></div>
+    <div id="crops" style="display:flex;flex-wrap:wrap;gap:40px"></div>
+  </section>
+
+  <section data-screen-label="Notes" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(520px,1fr));gap:40px;max-width:1800px">
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="font-size:24px;font-weight:800">What changed in this round</div>
+      <ol style="margin:0;padding-left:20px;font-size:14px;line-height:1.55;display:flex;flex-direction:column;gap:6px">
+        <li><b>Daniel 2:</b> the large image is gone. A small panel in the left gutter shows each part, its kingdom, dates and scripture, and the metals also show as colour under the red world-power line.</li>
+        <li><b>The stone:</b> a dotted arc leaves the 1914 Kingdom station, crosses over Row 4 and strikes the line at Armageddon with a burst. The mountain panel is removed.</li>
+        <li><b>The walking path:</b> past Armageddon the red, blue and black rails fade one after another. The gold line carries on as the edge of a widening sandy path, with the 11 future milestones on either side and the Thousand Year Reign written inside it. The path runs into the paradise image slot, which fades in from the top.</li>
+        <li><b>Images:</b> 31 major events are marked for a round image slot (the fit report counts how many found room), and the throne and six creation days have slots too. Drag the jw.org artwork onto them on the full sheet; it is saved with the file.</li>
+        <li><b>The opening</b> follows Insight “Creation” and the NWT study notes on Col 1:15 and Re 3:14: Jehovah → the Word → the angels (Job 38:4-7) → the heavens, with the sun, moon and stars (Ge 1:1) → the formless earth (Ge 1:2) → Days 1–6 → Day 7. Each one is a station with an image slot.</li>
+        <li><b>The turns are used like the rows.</b> Each turn is a stretch of time: 1200–997 B.C.E. (the last judges, then Saul, David and Solomon as bars round the outside, with labels both inside and outside the curve), 332–2 B.C.E., and 1700–1870. Row labels can now run into the inside of a turn wherever the curve leaves room.</li>
+        <li><b>Growth:</b> Row 4’s track bed holds a log-scale curve of peak publishers, tagged at 1 lakh, 10 lakh, 50 lakh and 92 lakh (2025). Gridlines show 10, 100, 1,000 and 10,000, because early counts were not reported.</li>
+        <li><b>Counts panel</b> (top right): the 2025 totals in Indian numbering, and two language charts drawn on one shared time scale so that jw.org’s 13 years take a narrow strip.</li>
+        <li><b>Modern milestones added:</b> WBBR radio, phonograph talks, the Theocratic Ministry School, MEPS, the NWT Reference Bible, the Listen to God brochures, JW Library, JW Broadcasting, the study edition, jw.org in 1,000 languages, the pandemic ministry, the return to the public ministry, and the NWT in 350 languages. The main study books (Divine Plan → Enjoy Life Forever!) run as a relay of bars.</li>
+      </ol>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="font-size:24px;font-weight:800">Please check</div>
+      <ul style="margin:0;padding-left:20px;font-size:14px;line-height:1.55;display:flex;flex-direction:column;gap:6px">
+        <li><b>Publisher counts before 2024</b> are from memory of the Yearbooks and need checking. 2024 (9,043,460) and 2025 (9,205,326) are from the jw.org service year reports.</li>
+        <li><b>NWT language counts between 1961 and 2026</b> are not yet researched. 121 in 2013 is a placeholder, shown as a hollow point.</li>
+        <li><b>Dates to verify:</b> the year MEPS began (c. 1979) and the JW Library launch (c. 2013) are marked “c.”, and so are the dates of the study-book relay.</li>
+        <li><b>QR codes per row</b> were removed from the turns to make room for events. The single QR code stays in the legend.</li>
+        <li><b>The map</b> is a single map with four samples to choose from in Claude Design (A0 Map Samples). Use the menu above to try each one on the sheet.</li>
+      </ul>
+      <div style="font-size:24px;font-weight:800;margin-top:10px">Fit report</div>
+      <div id="fit" style="font-size:14px;line-height:1.5"></div>
+    </div>
+  </section>
+</div>
+<script>
+const DEFS=`<defs>
+<pattern id="hatch" width="2" height="2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="2" height="2" fill="#e2e0d9"/><rect width="1" height="2" fill="#cdcac2"/></pattern>
+<pattern id="clay" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="3" fill="#6c7077"/><rect width="1.5" height="1.5" fill="#a8805c"/><rect x="1.5" y="1.5" width="1.5" height="1.5" fill="#a8805c"/></pattern>
+<pattern id="qr" width="2" height="2" patternUnits="userSpaceOnUse"><rect width="2" height="2" fill="#fff"/><rect width="1" height="1" fill="#1d1d1b"/><rect x="1" y="1" width="1" height="1" fill="#1d1d1b"/></pattern>
+<linearGradient id="fadeR"><stop offset="0" stop-color="#b3b0a8"/><stop offset="1" stop-color="#b3b0a8" stop-opacity="0"/></linearGradient>
+<linearGradient id="fadeL" x1="1" x2="0"><stop offset="0" stop-color="#b3b0a8"/><stop offset="1" stop-color="#b3b0a8" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#fff3c4"/><stop offset="0.35" stop-color="#f6dc8a" stop-opacity="0.7"/><stop offset="1" stop-color="#f7f6f2" stop-opacity="0"/></radialGradient>
+<radialGradient id="feather"><stop offset="0.5" stop-color="#d9d5cb"/><stop offset="1" stop-color="#d9d5cb" stop-opacity="0"/></radialGradient>
+<linearGradient id="sand" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#efe2bf"/><stop offset="1" stop-color="#e6d3a2"/></linearGradient></defs>`;
+const MM=3.7795;let TOPO=null;
+function build(){
+  const style=document.getElementById('mapSel').value;
+  A0.slots=[];const s=new A0.SVG();
+  s.rect(0,0,1189,841,'#f7f6f2',{},'bg');s.rect(20,20,1149,801,'none',{stroke:'#b8cbd3',stroke_width:0.5,stroke_dasharray:'3 2'},'bg');
+  A0.drawBeds(s);A0.drawGrowth(s);A0.drawLines(s);A0.drawStructure(s);A0.drawEvents(s);A0.drawArcs(s);A0.drawCaptions(s);A0.drawStone(s);A0.drawFuture(s);A0.drawTop(s);A0.drawBeasts(s);A0.drawCalendar(s);A0.drawCollage(s);A0.drawDaniel2(s);
+  let ov=0;if(TOPO){ov=A0.drawMap(s,style,345,612,640,186)}else s.text(500,700,'Map data could not load',5,{fill:'#c0392b'},'top');
+  A0.drawLegend(s);A0.drawFooter(s);
+  let host=document.getElementById('sheetHost');if(!host){host=document.createElement('div');host.id='sheetHost';host.style.cssText='position:absolute;width:0;height:0;overflow:hidden';document.body.appendChild(host)}
+  host.innerHTML=`<svg width="0" height="0">${DEFS}<defs><g id="sheetG">${s.out()}</g></defs></svg>`;
+  const use='<use href="#sheetG"/>',full=document.getElementById('full');
+  full.innerHTML=`<svg viewBox="0 0 1189 841" style="display:block;width:100%;height:auto">${use}</svg>`;
+  const FOC=(A0.D.focus||{});
+  const maskC=(a)=>{const m=a.join(',');return '-webkit-mask-image:'+m+';mask-image:'+m+';-webkit-mask-composite:source-in;mask-composite:intersect;'};
+  const LG=(dir,e)=>`linear-gradient(to ${dir},transparent,#000 ${e}%,#000 ${100-e}%,transparent)`;
+  A0.slots.forEach(sl=>{const d=document.createElement('div'),id=sl.id;let ms='',ring='',rad=sl.shape==='circle'?'50%':sl.shape==='rounded'?'6%':'0';
+    if(id==='throne'){ms='-webkit-mask-image:radial-gradient(circle closest-side,#000 58%,transparent 100%);mask-image:radial-gradient(circle closest-side,#000 58%,transparent 100%);';rad='0'}
+    else if(sl.feather){ms='-webkit-mask-image:radial-gradient(circle closest-side,#000 55%,transparent 100%);mask-image:radial-gradient(circle closest-side,#000 55%,transparent 100%);'}
+    else if(id==='eden'){ms=maskC([LG('right',7),LG('bottom',22)]);rad='0'}
+    else if(id==='paradise'){ms=maskC([LG('right',5),'linear-gradient(to bottom,transparent,#000 32%,#000 90%,transparent)']);rad='0'}
+    else if(/^(pre|creation-day)/.test(id))ring='box-shadow:0 0 0 calc(.5*var(--mm)) #f7f6f2,0 0 0 calc(.95*var(--mm)) rgba(201,149,18,.4);';
+    else if(/^ev-/.test(id))ring='box-shadow:0 0 0 calc(.6*var(--mm)) #f7f6f2,0 0 0 calc(.9*var(--mm)) rgba(29,29,27,.55),0 calc(.5*var(--mm)) calc(1.4*var(--mm)) rgba(60,48,24,.28);';
+    d.style.cssText=`position:absolute;left:${sl.x/1189*100}%;top:${sl.y/841*100}%;width:${sl.w/1189*100}%;height:${sl.h/841*100}%;`+ms;
+    const im=(A0.D.img||{})[id],f=FOC[id]||(/^ev-/.test(id)?[50,26,1]:[50,40,1]);
+    d.innerHTML=im&&im.src?`<div style="width:100%;height:100%;overflow:hidden;border-radius:${rad};${ring}"><img src="${im.src}" alt="${(sl.ph||'').replace(/"/g,'')}" title="${(sl.ph||'')+' · '+(im.credit||'').replace(/"/g,'')}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="if(this.dataset.r){this.src=this.dataset.r;this.dataset.r=''}" data-r="${im.remote&&im.remote!==im.src?im.remote:''}" style="width:100%;height:100%;object-fit:cover;object-position:${f[0]}% ${f[1]}%;transform:scale(${f[2]||1});transform-origin:${f[0]}% ${f[1]}%;display:block;filter:saturate(.92) sepia(.07)"></div>`:`<image-slot id="${id}" shape="${sl.shape}" ${sl.shape==='rect'?'':'fit="cover"'} placeholder=""></image-slot>`;full.appendChild(d)});
+  const setMM=()=>full.style.setProperty('--mm',(full.clientWidth/1189)+'px');setMM();new ResizeObserver(setMM).observe(full);
+  const fitSlots=()=>{const k=full.clientWidth/1189;full.querySelectorAll('image-slot').forEach(el=>{const small=el.parentElement.clientHeight<90&&!el.getAttribute('src');el.style.opacity=small?'0.01':'1';el.parentElement.title=(A0.slots.find(x=>x.id===el.id)||{}).ph||''})};fitSlots();if(!window.__fitR){window.__fitR=1;new ResizeObserver(()=>fitSlots()).observe(full)}
+  const crops=[['3b','Opening: the throne, the light and the six creative days',20,20,300,200],['3c','After Armageddon: fading rails, the walking path and the paradise slot',20,545,340,290],['3d','Row 4 in the 1910s–1940s, with the growth curve in the bed and the stone arc above',690,480,320,210],['3e','Right-hand turn 1700–1870: events inside and outside the loop',930,410,259,200],['3f','Row 2 lanes: Israel and prophets above, Judah and nations below',560,240,400,260]];
+  document.getElementById('crops').innerHTML=crops.map(([id,t,x,y,w,h])=>`<div id="${id}" style="display:flex;flex-direction:column;gap:8px"><div style="display:flex;gap:6px 10px;align-items:baseline;flex-wrap:wrap;flex-shrink:0;max-width:${w*MM}px"><span style="background:#1d1d1b;color:#fff;font-weight:800;font-size:14px;padding:2px 8px;border-radius:5px">${id}</span><span style="font-size:16px;font-weight:700">${t}</span><span style="font-size:13px;color:#6e6c67;white-space:nowrap">${w} × ${h} mm · 1:1</span></div><div style="box-shadow:0 2px 18px rgba(0,0,0,.14);background:#f7f6f2;width:${w*MM}px"><svg viewBox="${x} ${y} ${w} ${h}" width="${w*MM}" height="${h*MM}" style="display:block">${use}</svg></div></div>`).join('');
+  const st=A0.stats,Z=[['R1','Row 1 + turn',107],['R2','Row 2 + turn',85],['J','Jesus 2 B.C.E.–33',91],['R3','Row 3 + turn',77],['R4','Row 4',87+16]];
+  document.getElementById('fit').innerHTML=Z.map(([z,n,b])=>{const p=st.placed[z]||0,d=st.dropped[z]||0,t=p+d;return `<div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center"><b>${n}</b><div style="height:10px;background:#dedcd5;border-radius:5px;overflow:hidden"><div style="height:100%;width:${t?p/t*100:0}%;background:${d?'#c0392b':'#2e8b57'}"></div></div><span>${p} / ${t} labelled${d?` · <b style="color:#c0392b">${d} no room</b>`:''}</span></div>`}).join('')+
+   `<div style="margin-top:8px;color:#3d3c39">${A0.slots.length} image slots on the sheet. Map: ${A0.MAPINFO.places} places, ${A0.MAPINFO.events} events${ov?`, ${ov} labels still overlapping`:''}.</div>`;
+}
+document.getElementById('mapSel').addEventListener('change',build);
+Promise.all([document.fonts.load('800 10px "Noto Sans"'),document.fonts.load('400 10px "Noto Sans"'),document.fonts.load('500 10px "Noto Sans"')]).then(()=>{A0.fontsOK=true},()=>{}).then(()=>Promise.all(['land-50m','land-110m'].map(f=>fetch(`https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/${f}.json`).then(r=>r.json())))).then(([a,b])=>{A0.setLand(a,b);TOPO=1;build()}).catch(e=>{console.error(e);build()});
+</script>
+</body>
+</html>

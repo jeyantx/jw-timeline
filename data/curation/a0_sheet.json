@@ -1,0 +1,136 @@
+{
+ "_note": "Settings for the A0 sheet (design/a0/v5). Read by scripts/build_a0_sheet.py.",
+ "slot_for": {
+  "b1-0001": "ev-adam-created",
+  "b1-0019": "ev-the-flood",
+  "b1-0036": "ev-abraham-crosses-the-euphrates",
+  "b2-0019": "ev-red-sea-crossing",
+  "b2-0022": "ev-law-covenant-at-sinai",
+  "b2-0049": "ev-jericho-falls",
+  "b2-0065": "ev-gideon-s-300",
+  "b18-0013": "ev-saul-dies",
+  "b18-0015": "ev-david-and-goliath",
+  "b3-0013": "ev-temple-completed",
+  "b18-0023": "ev-queen-of-sheba",
+  "b3-0089": "ev-josiah",
+  "b3-0019": "ev-kingdom-divided",
+  "b18-0027": "ev-elijah-on-mount-carmel",
+  "b18-0038": "ev-jonah-in-nineveh",
+  "b19-0041": "ev-isaiah",
+  "b18-0040": "ev-hezekiah",
+  "b19-0060": "ev-jeremiah",
+  "b3-0113": "ev-jerusalem-destroyed",
+  "b18-0045": "ev-fiery-furnace",
+  "b4-0024": "ev-babylon-falls",
+  "b18-0047": "ev-daniel-in-the-lions-pit",
+  "b18-0048": "ev-esther-made-queen",
+  "b5-0006": "ev-jesus-born",
+  "b6-0001": "ev-pentecost-sowing-begins",
+  "b6-0036": "ev-paul-at-the-areopagus",
+  "b6-0096": "ev-jerusalem-destroyed-70",
+  "b7-0096": "ev-gutenberg-bible",
+  "b7-0175": "ev-tamil-new-testament",
+  "b8-0004": "ev-bible-class-in-allegheny",
+  "b8-0018": "ev-watch-tower-1879",
+  "b8-0095": "ev-photo-drama-of-creation",
+  "b10-0002": "ev-kingdom-born-1914",
+  "b8-0142": "ev-advertise-the-king",
+  "b8-0176": "ev-name-jehovah-s-witnesses",
+  "b8-0246": "ev-gilead-school-opens",
+  "b9-0314": "ev-revised-nwt",
+  "b9-0330": "ev-jw-broadcasting-begins"
+ },
+ "_slot_note": "Changed from Claude Design's v5: ev-josiah now marks the Law book found (642), not 'Josiah foretold'; ev-saul-dies marks Saul rejected (the image shows that); Gideon and Cedar Point 1922 added.",
+ "image_choice": {
+  "creation-day-1": "alt2",
+  "creation-day-2": "alt2",
+  "creation-day-3": "alt2",
+  "creation-day-4": "alt2",
+  "creation-day-5": "alt2",
+  "creation-day-6": "alt2"
+ },
+ "_image_note": "creation-day primary is one collage; alt2 is one image per day (handoff §4). Never pre-3 alt1 or ev-jerusalem-destroyed-70 alt2 (third-party credit).",
+ "future": [
+  [
+   "“Peace and security!”",
+   "1Th 5:3"
+  ],
+  [
+   "Great tribulation begins",
+   "Mt 24:21"
+  ],
+  [
+   "Attack by Gog of Magog",
+   "Eze 38:2"
+  ],
+  [
+   "Anointed gathered to heaven",
+   "Mt 24:31"
+  ],
+  [
+   "Marriage of the Lamb",
+   "Re 19:9"
+  ],
+  [
+   "Satan abyssed for 1,000 years",
+   "Re 20:1-3"
+  ],
+  [
+   "Thousand Year Reign begins",
+   "Re 20:6"
+  ],
+  [
+   "Earthly resurrection",
+   "Ac 24:15"
+  ],
+  [
+   "New scrolls opened",
+   "Re 20:12"
+  ],
+  [
+   "Satan released; final test",
+   "Re 20:7"
+  ],
+  [
+   "Satan and rebels destroyed",
+   "Re 20:10"
+  ],
+  [
+   "Christ hands Kingdom to God",
+   "1Co 15:24-28"
+  ]
+ ],
+ "extra_ev": [
+  [
+   2030,
+   1,
+   "Armageddon",
+   "future",
+   "Re 16:16",
+   "grnw",
+   4,
+   {
+    "arm": 1,
+    "med": 1,
+    "slot": "ev-armageddon",
+    "yr": "",
+    "ref0": "b10-0017"
+   }
+  ]
+ ],
+ "opts": {
+  "b10-0002": {
+   "x": "1914"
+  }
+ },
+ "skip": [
+  "b21-0001",
+  "b21-0002",
+  "b21-0003"
+ ],
+ "_skip_note": "Drawn by the opening sequence, not as labels.",
+ "data_patches": [
+  "D.pre[3][1]='formless and desolate';D.creation[3][0]='Luminaries discernible';"
+ ],
+ "focus": {}
+}
