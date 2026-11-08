@@ -1,0 +1,11 @@
+# alt-C · "Understandable prophecy" (partial, deadline-cut)
+- New `a0v5/links.js` (generated one-off by scratchpad gen_links.py): D.links from pairs.csv status=stated (p01–p04, p06, p07, p09, p13, p14; p10 has no event ids) + series.json `pairs_with` of role=prophecy members; D.desc (repo descriptions); D.futureRaw (future.prophecy in sort_key order).
+- New `a0v5/alt.js`, loaded after map.js; index.html calls `A0.drawStart`.
+- `drawArcs` replaced: green arcs now join the real prophecy event to its fulfilment (resolved by `ref0`), with the verse at the arc top. It draws stated pairs whose two ends are on the sheet, plus Ge 49:10 → Jesus' birth and Da 9 → 29 C.E. / 36 C.E. The round-robin arcs are gone; the magenta nation arcs are unchanged.
+- Rulers: start and end years printed (607–537 = 70 years; 455 B.C.E. / 29 / 36 C.E. = 70 weeks; 607 B.C.E. / 1914 = seven times; the 1,260/1,290/1,335/2,300 days use the date ranges from timeline.json).
+- Callouts on paper chips: 1914, 1919 slave and 29 C.E. Messiah, worded from the b12-0025/b10-0002/b17-0009/b5-0017 data. "START HERE →" at row 1. Big grey row numbers 1→, ←2, 3→, ←4. One legend line for the green arcs.
+- NOT done (time): the 33 C.E. callout, the full legend rework, ending option C (fifth row + Armageddon gate). D.futureRaw is ready for the correct 8 + 1 + 8 order. The pairs with a future end (p01, p02 → great tribulation) are not drawn because the future is not on a row yet.
+- Known issues:
+  - Some arc verse labels sit high over row 2/3 labels.
+  - The row numbers at the turns are faint.
+  - The 1,290/1,335 date lines alternate in two lines and still crowd the 1914–1926 stretch.

@@ -1,0 +1,20 @@
+(function(){const {C,X,ly,O,D,RY}=A0;
+// alt-C: true prophecy -> fulfilment links (D.links from links.js), ruler end years, start cue
+A0.drawArcs=s=>{const by={};A0.items.forEach(it=>{if(it.o&&it.o.ref0&&!by[it.o.ref0])by[it.o.ref0]=it});
+  const keep=l=>l.kind==='pair'||['b2-0006>b5-0006','b4-0069>b5-0017','b4-0026>b6-0011'].includes(l.a+'>'+l.b);
+  D.links.filter(keep).forEach(l=>{const a=by[l.a],b=by[l.b];if(!a||!b)return;const mx=(a.x+b.x)/2,top=Math.min(a.y,b.y)-18;
+    s.path(`M${a.x} ${a.y-3}C${a.x} ${top} ${b.x} ${top} ${b.x} ${b.y-3}`,C.green,0.6,{opacity:0.85},'arcs');s.circ(b.x,b.y-3,1,C.green,{},'arcs');
+    s.text(mx,top+5,l.scr,2.4,{text_anchor:'middle',fill:C.green,font_weight:800,stroke:C.paper,stroke_width:0.6,paint_order:'stroke'},'top')})};
+const _dl=A0.drawLines;A0.drawLines=s=>{_dl(s);const lab=(t,o,txt,anc)=>{const p=A0.pos(t,o);s.text(p[0],p[1]-2.4,txt,2.4,{text_anchor:anc||'middle',fill:C.violet,font_weight:800,stroke:C.paper,stroke_width:0.6,paint_order:'stroke'},'top')};
+  lab(-607,O.v2,'607 B.C.E. · 70 years begin');lab(-537,O.v2,'537 · 70 years end (Jer 25:11)');
+  lab(-455,O.v2,'455 B.C.E. · 70 weeks begin (Da 9:25)');lab(29.75,O.v2,'29 C.E. · 69 weeks end: Messiah');lab(36.5,O.v2,'36 C.E. · 70 weeks end');
+  lab(-606,O.v,'607 B.C.E. · seven times begin (Da 4:16)');lab(1914.8,O.v,'1914 · seven times end');
+  [[1914.95,'Dec 1914–June 1918 · 1,260 days'],[1919,'Jan 1919–Sept 1922 · 1,290 days'],[1922.7,'Sept 1922–May 1926 · 1,335 days'],[1938.45,'1938–1944 · 2,300 days']].forEach(([t,x],i)=>{const p=A0.pos(t,O.v2);s.text(p[0],p[1]+4.2+i%2*3,x,2.3,{text_anchor:'middle',fill:C.violet,font_weight:700,stroke:C.paper,stroke_width:0.6,paint_order:'stroke'},'top')})};
+A0.drawStart=s=>{s.text(232,153,'START HERE →',7,{fill:C.gold,font_weight:800},'top');
+  [[0,'1  →'],[1,'←  2'],[2,'3  →'],[3,'←  4']].forEach(([r,t])=>{const x=r%2?1040:120,y=RY[r]+3;s.text(x,y,t,9,{fill:C.g4,font_weight:800},'top')});
+  const g=(x,y,a,b)=>{const w=Math.max(A0.tw(a,3.2,1),A0.tw(b,2.5))+3;s.rect(x-1.5,y-4,w,9.2,C.card,{stroke:C.gold,stroke_width:0.35,rx:1.6},'top');s.text(x,y,a,3.2,{fill:C.ink,font_weight:800,stroke:C.paper,stroke_width:0.8,paint_order:'stroke'},'top');s.text(x,y+3.6,b,2.5,{fill:C.g1,stroke:C.paper,stroke_width:0.8,paint_order:'stroke'},'top')};
+  g(X(3,1914.8)+28,RY[3]-63,'1914: Gentile Times end; Kingdom born in heaven','seven times of Da 4 = 2,520 yrs from 607 B.C.E. · Lu 21:24; Re 12:5');
+  g(X(3,1919.2)-60,RY[3]+60,'1919: faithful and discreet slave appointed · Mt 24:45-47','anointed gathered into the restored congregation');
+  g(X(2,29.75)-8,RY[2]-58,'29 C.E.: Jesus baptized and anointed — the Messiah','69 weeks end · Da 9:25 · Mt 3:13-17');
+  s.text(980,640,'GREEN ARC = prophecy → fulfilment (stated pairs only; verse at the arc top)',2.6,{fill:C.green,font_weight:800},'top')};
+})();

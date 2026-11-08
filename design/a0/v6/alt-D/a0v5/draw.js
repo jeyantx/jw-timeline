@@ -25,23 +25,23 @@ A0.drawBeds=s=>{
 // ---------- series lines
 A0.drawLines=s=>{
   const L=(t0,t1,o,col,w,ex)=>s.path(pd(tr(t0,t1,o)),col,w,Object.assign({stroke_linecap:'butt'},ex||{}),'lines');
-  L(-4026,2030,O.h,C.ink,0.8);
-  A0.POW.forEach(([nm,a,b,m])=>{if(m)L(a,b,O.r,C[m],2.6);L(a,b,O.r,C.red,0.9);const p=A0.pos(a,O.r);s.line(p[0]-p[2]*1.8,p[1]-p[3]*1.8,p[0]+p[2]*1.8,p[1]+p[3]*1.8,C.red,0.6,{},'lines')});
+  L(-4026,2030,O.h,C.g2,0.5);
+  A0.POW.forEach(([nm,a,b,m])=>{if(m)L(a,b,O.r,C[m],1.6,{opacity:0.45});L(a,b,O.r,C.red,0.6);const p=A0.pos(a,O.r);s.line(p[0]-p[2]*1.8,p[1]-p[3]*1.8,p[0]+p[2]*1.8,p[1]+p[3]*1.8,C.red,0.6,{},'lines')});
   A0.POW.forEach(([nm,a,b])=>{if(A0.loopOf(a)<0)return;const id='pw'+Math.round(-a),t0=a+(a<-100?40:1.5),t1=Math.min(b,t0+45),f=A0.pos(t0,O.r),g=A0.pos(t1,O.r),rev=g[0]<f[0],P=tr(t0,t1,O.r+(rev?-3.4:-1.5));s.raw(`<path id="${id}" d="${pd(rev?P.reverse():P)}" fill="none"/>`,'lines');s.raw(`<text font-size="1.9" font-weight="800" fill="${C.red}" letter-spacing="0.15"><textPath href="#${id}">${nm} ${Math.abs(a)}</textPath></text>`,'lines')});
-  L(-323,272,O.n+1,C.blueN,1);L(-323,272,O.n-1,C.blueS,1);
+  L(-323,272,O.n+1,C.blueN,0.7);L(-323,272,O.n-1,C.blueS,0.7);
   L(272,1871,O.n+1,C.blueN,0.5,{stroke_dasharray:'0.6 1.6'});L(272,1871,O.n-1,C.blueS,0.5,{stroke_dasharray:'0.6 1.6'});
-  L(1871,2030,O.n+1,C.blueN,1);L(1871,2030,O.n-1,C.blueS,1);
+  L(1871,2030,O.n+1,C.blueN,0.7);L(1871,2030,O.n-1,C.blueS,0.7);
   L(-4026,33.26,O.c,C.sepia,0.6,{stroke_dasharray:'2 1.2'});
   L(33.4,100,O.w,C.wheat,1.3);L(100,1870,O.w,C.wheat,0.7,{stroke_dasharray:'0.8 1.2'});L(1870,1919.2,O.w,C.wheat,1.7);
-  L(33.4,100,O.wd,C.weeds,0.5);L(100,2027.2,O.wd,C.weeds,1.6);
+  L(33.4,100,O.wd,C.weeds,0.4);L(100,2027.2,O.wd,C.weeds,0.9);
   for(let r=2;r<4;r++){const a=Math.max(100,ROWS[r].t0),b=Math.min(2027.2,ROWS[r].t1),x0=Math.min(X(r,a),X(r,b)),x1=Math.max(X(r,a),X(r,b)),y=ly(r,O.wd),dy=-ROWS[r].dir*1.6;
-    for(let x=x0+1;x<x1;x+=2.6)s.line(x,y,x+1,y+dy,C.weeds,0.45,{},'lines')}
+    for(let x=x0+1;x<x1;x+=6)s.line(x,y,x+1,y+dy,C.weeds,0.3,{},'lines')}
   const wx=X(3,1919.2);s.path(`M${wx} ${ly(3,O.w)}C${wx-3} ${ly(3,O.w)} ${wx-3} ${ly(3,O.g)} ${wx-7} ${ly(3,O.g)}`,C.wheat,1.7,{},'lines');
-  L(-4026,2030,O.g,C.gold,2.2);
+  L(-4026,2030,O.g,'#f3dc95',6,{opacity:0.55,stroke_linecap:'round'});L(-4026,2030,O.g,C.gold,2.2);
   // rulers (violet): seven times, 70 weeks, 70 years, day prophecies
   const tOf=(st,nY)=>{let t=st+nY;if(st<0&&t>=0)t+=1;return t};
-  const tag=(t,o,txt,dx)=>{let [x,y]=A0.pos(t,o);const w=A0.tw(txt,2.3,1)+1.6;if(dx)x+=dx*(w/2+3.2);s.rect(x-w/2,y-1.5,w,3,C.paper,{stroke:C.violet,stroke_width:0.3,rx:1.5},'lines');s.text(x,y+0.85,txt,2.3,{text_anchor:'middle',fill:C.violet,font_weight:800},'lines')};
-  const ruler=(st,len,o,step,major,tags)=>{const t1=tOf(st,len);L(st,t1,o,C.violet,1.1);
+  const tag=(t,o,txt,dx)=>{let [x,y]=A0.pos(t,o);const w=A0.tw(txt,2.3,1)+1.6;if(dx)x+=dx*(w/2+3.2);s.rect(x-w/2,y-1.5,w,3,C.paper,{stroke:C.violet,stroke_width:0.2,rx:1.5},'lines');s.text(x,y+0.85,txt,2.3,{text_anchor:'middle',fill:C.violet,font_weight:800},'lines')};
+  const ruler=(st,len,o,step,major,tags)=>{const t1=tOf(st,len);L(st,t1,o,C.violet,0.7);
     for(let k=0;k<=len;k+=step){const t=tOf(st,k),p=A0.pos(t,o),h=k%major===0?1.8:0.9;s.line(p[0]-p[2]*h,p[1]-p[3]*h,p[0]+p[2]*h,p[1]+p[3]*h,C.violet,0.35,{},'lines')}
     tags.forEach(([k,txt,dx])=>tag(tOf(st,k),o,txt,dx))};
   ruler(-607,2520,O.v,100,500,[[500,'500 YRS'],[1000,'1,000'],[1500,'1,500'],[2000,'2,000'],[2520,'2,520 · SEVEN TIMES',1]]);

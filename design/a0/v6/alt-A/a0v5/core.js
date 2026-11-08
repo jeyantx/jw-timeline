@@ -24,7 +24,7 @@ A0.SVG=class{
 const _twc={};let _ctx=null;try{_ctx=document.createElement('canvas').getContext('2d')}catch(e){}
 A0.tw=(t,fs,b)=>{t=String(t);if(!A0.fontsOK||!_ctx)return t.length*fs*(b?0.57:0.51);const k=t+'|'+fs+'|'+(b?1:0);let v=_twc[k];if(v==null){_ctx.font=`${b?800:400} 100px "Noto Sans"`;v=_twc[k]=_ctx.measureText(t).width/100*fs*1.02}return v};
 // ---- type sizes (mm): 9pt / 11pt / 7.5pt
-A0.T={t2:3.175,t1:3.9,meta:2.65,pitch:7.4};
+A0.T={t2:3.4,t1:4.6,meta:2.7,pitch:8.4};
 // ---- layout
 const XL=A0.XL=190,XR=A0.XR=1035,RY=A0.RY=[180,305,430,555];
 const ROWS=A0.ROWS=[

@@ -28,14 +28,14 @@ const labW=(it,i)=>{const fs=it.tier===1?T.t1:T.t2,yr=yrOf(it),meta=it.o.meta!=n
 // draw a label in box [a,b] at top; anchor 'start' (text from a) or 'end' (text to b)
 function drawLabel(s,it,a,b,top,anchor,meta,fs){
   const med=!!it.o.med;let tx=anchor==='start'?a+0.9:b-0.9;const ty=med?top+8.6:top;
-  if(med){const cx=anchor==='start'?a+11.2:b-11.2,cy=top+11.1;s.circ(cx,cy,9.8,'url(#hatch)',{stroke:C.g2,stroke_width:0.5},'lab');s.text(cx,cy+0.8,'IMAGE',2.2,{text_anchor:'middle',fill:C.g2,font_weight:700},'lab');
+  if(med){const cx=anchor==='start'?a+11.2:b-11.2,cy=top+11.1;
     A0.slots.push({id:it.o.slot||'ev-'+slug(it.title||it.ref),x:cx-9.8,y:cy-9.8,w:19.6,h:19.6,shape:'circle',ph:it.title||it.ref});tx=anchor==='start'?a+22.5:b-22.5}
   const yr=yrOf(it);
   if(it.title&&it._sp){const fw=it.tier===1?800:500,H=`stroke="${C.paper}" stroke-width="${fs>3.5?0.8:0.6}" paint-order="stroke" stroke-linejoin="round"`;
-    s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+(it.tier===1?3.6:3.0))}" font-size="${fs}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${fw}" ${H}>${yr?`<tspan fill="#8a5f00" font-weight="800">${A0.esc(yr)}</tspan> `:''}${A0.esc(it._sp[0])}</text>`,'lab');
-    s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+6.6)}" font-size="${A0.n(fs*0.9)}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${fw}" ${H}>${A0.esc(it._sp[1])}<tspan font-size="${T.meta}" fill="${C.g2}" font-weight="400">  ${A0.esc(meta+(isDiff(it)?'  ≠':''))}</tspan></text>`,'lab')}
-  else if(it.title){s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+(it.tier===1?3.6:3.0))}" font-size="${fs}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${it.tier===1?800:500}" stroke="${C.paper}" stroke-width="${fs>3.5?0.8:0.6}" paint-order="stroke" stroke-linejoin="round">${yr?`<tspan fill="#8a5f00" font-weight="800">${A0.esc(yr)}</tspan> `:''}${A0.esc(it.title)}</text>`,'lab');
-    s.text(tx,ty+6.4,meta+(isDiff(it)?'  ≠':''),T.meta,Object.assign({text_anchor:anchor,fill:C.g2},HALO),'lab')}
+    s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+fs*0.86)}" font-size="${fs}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${fw}" ${H}>${yr?`<tspan fill="#8a5f00" font-weight="800">${A0.esc(yr)}</tspan> `:''}${A0.esc(it._sp[0])}</text>`,'lab');
+    s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+T.pitch*0.88)}" font-size="${A0.n(fs*0.9)}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${fw}" ${H}>${A0.esc(it._sp[1])}<tspan font-size="${T.meta}" fill="${C.g1}" font-weight="400">  ${A0.esc(meta+(isDiff(it)?'  ≠':''))}</tspan></text>`,'lab')}
+  else if(it.title){s.raw(`<text x="${A0.n(tx)}" y="${A0.n(ty+fs*0.86)}" font-size="${fs}" text-anchor="${anchor}" fill="${C.ink}" font-weight="${it.tier===1?800:500}" stroke="${C.paper}" stroke-width="${fs>3.5?0.8:0.6}" paint-order="stroke" stroke-linejoin="round">${yr?`<tspan fill="#8a5f00" font-weight="800">${A0.esc(yr)}</tspan> `:''}${A0.esc(it.title)}</text>`,'lab');
+    s.text(tx,ty+T.pitch*0.86,meta+(isDiff(it)?'  ≠':''),T.meta,Object.assign({text_anchor:anchor,fill:C.g1},HALO),'lab')}
   else{const yw=A0.tw(yr+' ',T.t2,1),bw=b-a-1.6-(med?21:0)-yw,bx=anchor==='start'?tx+yw:tx-bw-yw;s.text(anchor==='start'?tx:tx-bw-yw,ty+3,yr,T.t2,{fill:'#8a5f00',font_weight:800},'lab');s.rect(bx,ty+0.9,bw*0.85,it.tier===1?2.8:2.2,it.tier===1?C.g2:C.g3,{rx:0.5},'lab');s.text(tx,ty+6.4,it.ref,T.meta,{text_anchor:anchor,fill:C.g3},'lab')}}
 function station(s,it){const r=it.r;
   if(it.loop!=null){A0.glyph(s,it.x,it.y,it.g,it.tier===1);return}
@@ -49,8 +49,8 @@ A0.drawEvents=s=>{
   for(let k=0;k<5;k++)pk.take(`0u${k}`,0,A0.X(0,-1657)+4);
   for(let k=0;k<4;k++)pk.take(`3d${k}`,0,345);for(let k=0;k<3;k++)pk.take(`0d${k}`,0,188);rects.push({x:22,y:194,w:168,h:104});rects.push({x:22,y:299,w:96,h:138});rects.push({x:22,y:439,w:168,h:92});rects.push({x:XR-14,y:RY[1]-41.5,w:14,h:9});rects.push({x:580,y:RY[1]-32.5,w:XR-580,h:11});
   {const LC=[];false&&[[true,0,'ISRAEL'],[true,4,'PROPHETS'],[false,0,'JUDAH'],[false,3,'NATIONS']];LC.forEach(([up,k,t])=>{const top=A0.laneTop(1,up,k),x=XR-2,tw=A0.tw(t,2.4,1)+1.5;rects.push({x:x-tw,y:top,w:tw,h:T.pitch});pk.take(`1${up?'u':'d'}${k}`,x-tw-1,x+1);s.rect(x-tw,top+1.2,tw,3.6,C.paper,{stroke:C.g3,stroke_width:0.25,rx:1.8},'lab');s.text(x-tw/2,top+3.8,t,2.4,{text_anchor:'middle',fill:C.g1,font_weight:800,letter_spacing:0.3},'lab')})}
-  {const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1){const p=A0.pos(t,0),cw=A0.tw(txt,4.2,1)+0.25*txt.length;rects.push({x:p[0]-cw,y:p[1]-6,w:cw*2,h:9,cap:1});return}const d=ROWS[r].dir,R=ROWS[r],cw=A0.tw(txt,4.2,1)+0.25*txt.length;let x=X(r,t)+d*1;const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*cw;const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;rects.push({x:d===1?x:x-cw,y:y-3.2,w:cw,h:3.2,cap:1})})}
-  const tally=(it,ok)=>{A0.stats.total[it.zone]=(A0.stats.total[it.zone]||0)+1;const k=ok?'placed':'dropped';A0.stats[k][it.zone]=(A0.stats[k][it.zone]||0)+1};
+  {const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1){const p=A0.pos(t,0),cw=A0.tw(txt,6,1)+0.4*txt.length;rects.push({x:p[0]-cw,y:p[1]-6,w:cw*2,h:9,cap:1});return}const d=ROWS[r].dir,R=ROWS[r],cw=A0.tw(txt,6,1)+0.4*txt.length;let x=X(r,t)+d*1;const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*cw;const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;rects.push({x:d===1?x:x-cw,y:y-4.8,w:cw,h:5,cap:1})})}
+  const tally=(it,ok)=>{A0.stats.total[it.zone]=(A0.stats.total[it.zone]||0)+1;const k=ok?'placed':'dropped';if(!ok&&it.tier===1&&it.title)(A0.stats.t1d=A0.stats.t1d||[]).push(it.title);A0.stats[k][it.zone]=(A0.stats[k][it.zone]||0)+1};
   const hit=b=>rects.some(q=>b.x<q.x+q.w&&b.x+b.w>q.x&&b.y<q.y+q.h&&b.y+b.h>q.y);
   const segX=(a,b,c,d)=>{const o=(p,q,r)=>Math.sign((q[0]-p[0])*(r[1]-p[1])-(q[1]-p[1])*(r[0]-p[0]));return o(a,b,c)!==o(a,b,d)&&o(c,d,a)!==o(c,d,b)};
   const segBox=(p,q,b)=>{const e=[[b.x,b.y],[b.x+b.w,b.y],[b.x+b.w,b.y+b.h],[b.x,b.y+b.h]];for(let i=0;i<4;i++)if(segX(p,q,e[i],e[(i+1)%4]))return true;return false};
@@ -64,7 +64,7 @@ A0.drawEvents=s=>{
         let box;if(sgn===1){const outside=side===1;if(outside){const ro=LP.ro||92;const dyo=Math.min(Math.abs(top-cy),Math.abs(top+h-cy));const xo=dyo<ro?XR+Math.sqrt(ro*ro-dyo*dyo)+1:XR+1;if(xo+w>1168)continue;box={x:xo,y:top,w,h,anc:'start',out:1}}else{if(dy>39)continue;const xr=XR+Math.sqrt(39*39-dy*dy)-1;box={x:xr-w,y:top,w,h,anc:'end'}}}else{if(dy>(LP.ld||40))continue;const xl=XL-(dy<37?Math.sqrt(37*37-dy*dy):0)+1;box={x:xl,y:top,w,h,anc:'start'}}
         if(box.x<25||hit(box))continue;{const lq=[box.anc==='end'?box.x+box.w+0.3:box.x-0.3,box.y+(it.o.med?11:it.tier===1?2.4:2.0)];if(!LP.nox&&LL.some(L=>Math.hypot(L[0][0]-it.x,L[0][1]-it.y)>1.5&&segX([it.x,it.y],lq,L[0],L[1]))||!LP.nob&&rects.some(R2=>R2.lab&&segBox([it.x,it.y],lq,{x:R2.x+0.3,y:R2.y+0.4,w:R2.w-0.6,h:R2.h-1.2})))continue;box.lq=lq}got=box}
       station(s,it);tally(it,!!got);if(!got)return;got.lab=1;rects.push(got);LL.push([[it.x,it.y],got.lq]);
-      s.line(it.x,it.y,got.lq[0],got.lq[1],'#9d9a92',0.16,{},'lead');
+      s.line(it.x,it.y,got.lq[0],got.lq[1],'#8d8a83',0.25,{},'lead');
       drawLabel(s,it,got.x,got.x+got.w,got.y,got.anc,meta,fs)})});
 
   // ---- free placement (any direction, nearest free space, straight slanted leaders; exact years on the gold line)
@@ -117,13 +117,13 @@ A0.drawEvents=s=>{
         if(ok){for(let j=0;j<m;j++)pk.take(`${r}${up?'u':'d'}${k+j}`,ra,rb);for(let j=0;j<k;j++)pk.take(`${r}${up?'u':'d'}${j}s`,it.x-0.2,it.x+0.2);got={up,k,right,a,b,top,h,sh};break}}}
       if(!got&&med&&rt!==1){it.o=Object.assign({},it.o,{med:0});return place(it,i,1)}
       station(s,it);tally(it,!!got);if(!got)return;rects.push({x:got.a,y:got.top,w:got.b-got.a,h:got.h});
-      if(got.sh){const yy=got.top+(it.o.med?11:it.tier===1?2.4:2.0);s.path(`M${A0.n(it.x)} ${A0.n(ly(r,0))}V${A0.n(yy)}H${A0.n(got.right?got.a+0.3:got.b-0.3)}`,'#9d9a92',0.16,{},'lead')}else s.line(it.x,ly(r,0),it.x,got.up?got.top+got.h-0.4:got.top+0.4,'#9d9a92',0.16,{},'lead');
+      if(got.sh){const yy=got.top+(it.o.med?11:it.tier===1?2.4:2.0);s.path(`M${A0.n(it.x)} ${A0.n(ly(r,0))}V${A0.n(yy)}H${A0.n(got.right?got.a+0.3:got.b-0.3)}`,'#8d8a83',0.25,{},'lead')}else s.line(it.x,ly(r,0),it.x,got.up?got.top+got.h-0.4:got.top+0.4,'#8d8a83',0.25,{},'lead');
       drawLabel(s,it,got.a,got.b,got.top,got.right?'start':'end',meta,fs)})}
-  for(let r=0;r<4;r++){const d=ROWS[r].dir;for(let x=XL+60;x<XR-20;x+=120){const y=ly(r,0);s.path(`M${x-d*1.4} ${y-1.6}L${x+d*0.6} ${y}L${x-d*1.4} ${y+1.6}`,C.ink,0.5,{},'lines')}}
+  for(let r=0;r<4;r++){const d=ROWS[r].dir;for(let x=XL+60;x<XR-20;x+=120){const y=ly(r,0);const yg=ly(r,O.g);s.path(`M${x-d*2} ${yg-2.2}L${x+d*1} ${yg}L${x-d*2} ${yg+2.2}`,'#7a5a00',0.8,{stroke_linejoin:'round'},'top')}}
 };
-A0.drawCaptions=s=>{const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1)return;const d=ROWS[r].dir,R=ROWS[r],w=A0.tw(txt,4.2,1)+0.25*txt.length;let x=X(r,t)+d*1;
+A0.drawCaptions=s=>{const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1)return;const d=ROWS[r].dir,R=ROWS[r],w=A0.tw(txt,6,1)+0.4*txt.length;let x=X(r,t)+d*1;
     const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(r===0&&!lives)x=Math.max(x,193);if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*w;
-    const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;s.text(x,y,txt,4.2,{text_anchor:d===1?'start':'end',fill:C.g1,font_weight:800,letter_spacing:0.25},'top')});
+    const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;s.rect(d===1?x-1.5:x-w-1.5,y-5.6,w+3,7.4,C.gold,{opacity:0.09,rx:1.2},'bg');s.text(x,y,txt,6,{text_anchor:d===1?'start':'end',fill:C.ink,font_weight:800,letter_spacing:0.4},'top')});
   [-1513,-997,-607,-537,29.75,33.235+6.5/9*0.025,70,1914.8].forEach(t=>{const r=A0.rowOf(t),x=X(r,t);s.path(`M${x-1.4} ${RY[r]-21}L${x+1.4} ${RY[r]-21}L${x} ${RY[r]-18.6}Z`,'none',0,{fill:C.violet},'top')})};
 A0.drawArcs=s=>{const its=A0.items;
   const tg=its.filter(it=>it.zone==='J'&&it.ser.includes('m')).map(it=>it.x);let k=0;

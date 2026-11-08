@@ -155,15 +155,15 @@ A0.drawFuture=s=>{const l='top';
   for(let i=6;i<G.length-1;i+=3){const m=[(G[i][0]+E[i][0])/2,(G[i][1]+E[i][1])/2],u=L[i]/TL,r=0.4+u*1.2;s.el('ellipse',{cx:m[0]+(i%2?-1:1)*u*6,cy:m[1],rx:r*1.3,ry:r*0.6,fill:'#cdb47e',opacity:0.6},'','bg')}
   const atY=(arr,y)=>{for(let i=1;i<arr.length;i++)if(arr[i][1]>=y){const a=arr[i-1],b=arr[i],t=(y-a[1])/((b[1]-a[1])||1);return[a[0]+(b[0]-a[0])*t,y]}return arr[arr.length-1]};
   const n=D.future.length,ys=D.future.map((_,i)=>587+i*(60/(n-1)));
-  D.future.forEach(([t,sc],i)=>{const y=ys[i],g=atY(G,y),west=i%2===0,big=/^Great tribulation|^Thousand Year Reign begins|^Earthly resurrection/.test(t);A0.glyph(s,g[0],g[1],4,big,'st');
+  D.future.forEach(([t,sc],i)=>{const y=ys[i],g=atY(G,y),west=i%2===0,big=/^War of Armageddon|^Thousand Year Reign begins|^Earthly resurrection/.test(t);A0.glyph(s,g[0],g[1],4,big,'st');
     const ref=sc;
     if(west){s.text(g[0]-(big?4.6:3.4),y+0.4,t,T.t2,Object.assign({text_anchor:'end',fill:C.ink,font_weight:big?800:600},HALO),l);s.text(g[0]-(big?4.6:3.4),y+3.6,ref,T.meta,Object.assign({text_anchor:'end',fill:C.g2},HALO),l)}
     else{const e=atY(E,y)[0]+2.5;s.line(g[0]+2,y,e-0.6,y,C.g3,0.25,{},'lead');s.text(e,y+0.4,t,T.t2,Object.assign({fill:C.ink,font_weight:big?800:600},HALO),l);s.text(e,y+3.6,ref,T.meta,Object.assign({fill:C.g2},HALO),l)}});
   const mid=[];for(let i=0;i<G.length;i++)if(G[i][1]>=ys[1]-2&&G[i][1]<=ys[9])mid.push([(G[i][0]*0.4+E[i][0]*0.6),(G[i][1]*0.4+E[i][1]*0.6)]);
-  s.raw(`<path id="tyrPath" d="${A0.pd(mid)}" fill="none"/>`,'bars');s.path(A0.pd(mid),C.gold,4.2,{opacity:0.9,stroke_linecap:'round'},'bars');
-  s.raw(`<text font-size="2.4" font-weight="800" fill="#fff"><textPath href="#tyrPath" startOffset="50%" text-anchor="middle">THOUSAND YEAR REIGN</textPath></text>`,'bars');
+  // alt-B ending A: the Reign as a wide gold band across the sky of the paradise panorama
+  s.rect(25,703,312,8,C.gold,{opacity:0.92},'top');s.text(181,708.6,'CHRIST’S THOUSAND YEAR REIGN · Re 20:4, 6',4.2,{text_anchor:'middle',fill:'#fff',font_weight:800,letter_spacing:0.4},'top');
   const g0=X(3,2027.2),g1=X(3,2030);s.rect(g1,RY[3]+24.5,g0-g1,4.4,C.g1,{rx:0.6},'bars');s.text(g1+1,RY[3]+27.9,'Great tribulation',2.65,{fill:'#fff',font_weight:800},'bars');
-  if(!(D.img||{}).paradise)s.rect(25,655,312,143,'url(#hatch)',{opacity:0.5},'bg');s.text(181,730,'PARADISE ARTWORK',4,{text_anchor:'middle',fill:C.g2,font_weight:800},'bg');
+  if(!(D.img||{}).paradise)s.rect(25,655,312,143,'url(#hatch)',{opacity:0.5},'bg');if(!(D.img||{}).paradise)s.text(181,730,'PARADISE ARTWORK',4,{text_anchor:'middle',fill:C.g2,font_weight:800},'bg');
   A0.slots.push({id:'paradise',x:25,y:655,w:312,h:143,shape:'rect',fade:1,ph:'Paradise artwork: the path leads in here'});
   s.text(25,804,'PARADISE ON EARTH · Lu 23:43 · Re 21:3, 4',3.4,{fill:C.ink,font_weight:800},l);
 };

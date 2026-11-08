@@ -16,6 +16,8 @@
 <script src="a0v5/draw2.js"></script>
 <script src="a0v5/maps.js"></script>
 <script src="a0v5/map.js"></script>
+<script src="a0v5/links.js"></script>
+<script src="a0v5/alt.js"></script>
 <style>
 body{margin:0;background:#e4e3de;color:#1d1d1b;font-family:'Noto Sans',sans-serif}
 a{color:#6e4a12}a:hover{color:#1d1d1b}
@@ -91,7 +93,7 @@ function build(){
   s.rect(0,0,1189,841,'#f7f6f2',{},'bg');s.rect(20,20,1149,801,'none',{stroke:'#b8cbd3',stroke_width:0.5,stroke_dasharray:'3 2'},'bg');
   A0.drawBeds(s);A0.drawGrowth(s);A0.drawLines(s);A0.drawStructure(s);A0.drawEvents(s);A0.drawArcs(s);A0.drawCaptions(s);A0.drawStone(s);A0.drawFuture(s);A0.drawTop(s);A0.drawBeasts(s);A0.drawCalendar(s);A0.drawCollage(s);A0.drawDaniel2(s);
   let ov=0;if(TOPO){ov=A0.drawMap(s,style,345,612,640,186)}else s.text(500,700,'Map data could not load',5,{fill:'#c0392b'},'top');
-  A0.drawLegend(s);A0.drawFooter(s);
+  A0.drawLegend(s);A0.drawFooter(s);A0.drawStart&&A0.drawStart(s);
   let host=document.getElementById('sheetHost');if(!host){host=document.createElement('div');host.id='sheetHost';host.style.cssText='position:absolute;width:0;height:0;overflow:hidden';document.body.appendChild(host)}
   host.innerHTML=`<svg width="0" height="0">${DEFS}<defs><g id="sheetG">${s.out()}</g></defs></svg>`;
   const use='<use href="#sheetG"/>',full=document.getElementById('full');

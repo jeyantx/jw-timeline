@@ -28,7 +28,7 @@ const labW=(it,i)=>{const fs=it.tier===1?T.t1:T.t2,yr=yrOf(it),meta=it.o.meta!=n
 // draw a label in box [a,b] at top; anchor 'start' (text from a) or 'end' (text to b)
 function drawLabel(s,it,a,b,top,anchor,meta,fs){
   const med=!!it.o.med;let tx=anchor==='start'?a+0.9:b-0.9;const ty=med?top+8.6:top;
-  if(med){const cx=anchor==='start'?a+11.2:b-11.2,cy=top+11.1;s.circ(cx,cy,9.8,'url(#hatch)',{stroke:C.g2,stroke_width:0.5},'lab');s.text(cx,cy+0.8,'IMAGE',2.2,{text_anchor:'middle',fill:C.g2,font_weight:700},'lab');
+  if(med){const cx=anchor==='start'?a+11.2:b-11.2,cy=top+11.1;const _id=it.o.slot||'ev-'+slug(it.title||it.ref);if(!((D.img||{})[_id]||{}).src){s.circ(cx,cy,9.8,'url(#hatch)',{opacity:0.5},'lab');s.text(cx,cy+0.8,'IMAGE',2.2,{text_anchor:'middle',fill:C.g2,font_weight:700},'lab')}
     A0.slots.push({id:it.o.slot||'ev-'+slug(it.title||it.ref),x:cx-9.8,y:cy-9.8,w:19.6,h:19.6,shape:'circle',ph:it.title||it.ref});tx=anchor==='start'?a+22.5:b-22.5}
   const yr=yrOf(it);
   if(it.title&&it._sp){const fw=it.tier===1?800:500,H=`stroke="${C.paper}" stroke-width="${fs>3.5?0.8:0.6}" paint-order="stroke" stroke-linejoin="round"`;
@@ -49,7 +49,7 @@ A0.drawEvents=s=>{
   for(let k=0;k<5;k++)pk.take(`0u${k}`,0,A0.X(0,-1657)+4);
   for(let k=0;k<4;k++)pk.take(`3d${k}`,0,345);for(let k=0;k<3;k++)pk.take(`0d${k}`,0,188);rects.push({x:22,y:194,w:168,h:104});rects.push({x:22,y:299,w:96,h:138});rects.push({x:22,y:439,w:168,h:92});rects.push({x:XR-14,y:RY[1]-41.5,w:14,h:9});rects.push({x:580,y:RY[1]-32.5,w:XR-580,h:11});
   {const LC=[];false&&[[true,0,'ISRAEL'],[true,4,'PROPHETS'],[false,0,'JUDAH'],[false,3,'NATIONS']];LC.forEach(([up,k,t])=>{const top=A0.laneTop(1,up,k),x=XR-2,tw=A0.tw(t,2.4,1)+1.5;rects.push({x:x-tw,y:top,w:tw,h:T.pitch});pk.take(`1${up?'u':'d'}${k}`,x-tw-1,x+1);s.rect(x-tw,top+1.2,tw,3.6,C.paper,{stroke:C.g3,stroke_width:0.25,rx:1.8},'lab');s.text(x-tw/2,top+3.8,t,2.4,{text_anchor:'middle',fill:C.g1,font_weight:800,letter_spacing:0.3},'lab')})}
-  {const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1){const p=A0.pos(t,0),cw=A0.tw(txt,4.2,1)+0.25*txt.length;rects.push({x:p[0]-cw,y:p[1]-6,w:cw*2,h:9,cap:1});return}const d=ROWS[r].dir,R=ROWS[r],cw=A0.tw(txt,4.2,1)+0.25*txt.length;let x=X(r,t)+d*1;const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*cw;const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;rects.push({x:d===1?x:x-cw,y:y-3.2,w:cw,h:3.2,cap:1})})}
+  {const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1){const p=A0.pos(t,0),cw=A0.tw(txt,5,1)+0.9*txt.length;rects.push({x:p[0]-cw,y:p[1]-6,w:cw*2,h:9,cap:1});return}const d=ROWS[r].dir,R=ROWS[r],cw=A0.tw(txt,5,1)+0.9*txt.length;let x=X(r,t)+d*1;const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*cw;const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;rects.push({x:d===1?x:x-cw,y:y-3.2,w:cw,h:3.2,cap:1})})}
   const tally=(it,ok)=>{A0.stats.total[it.zone]=(A0.stats.total[it.zone]||0)+1;const k=ok?'placed':'dropped';A0.stats[k][it.zone]=(A0.stats[k][it.zone]||0)+1};
   const hit=b=>rects.some(q=>b.x<q.x+q.w&&b.x+b.w>q.x&&b.y<q.y+q.h&&b.y+b.h>q.y);
   const segX=(a,b,c,d)=>{const o=(p,q,r)=>Math.sign((q[0]-p[0])*(r[1]-p[1])-(q[1]-p[1])*(r[0]-p[0]));return o(a,b,c)!==o(a,b,d)&&o(c,d,a)!==o(c,d,b)};
@@ -60,7 +60,7 @@ A0.drawEvents=s=>{
     if(ROWS[L.r].dir===1)mx=Math.max(mx,XR+ext-1);else mn=Math.min(mn,XL-ext+1)});return[mn,mx]};
   const LL=[];A0.LOOPS.forEach((L,li)=>{const sgn=ROWS[L.r].dir,cy=cyL[li];let nx=0;
     items.filter(it=>it.loop===li).sort((a,b)=>(b.o.med?1:0)-(a.o.med?1:0)||(a.o.extra?1:0)-(b.o.extra?1:0)||a.tier-b.tier||a.t-b.t).forEach((it,i)=>{const {w,meta,fs}=labW(it,i),h=it.o.med?3*P:P+(it.tier===1&&it._sp?1.2:0);let got=null;
-      const sd0=it.o.extra?0:nx++%2;for(const side of [sd0,1-sd0])for(let k=0;k<LP.lk*(it.tier===1?1.5:1)&&!got;k++){const dyc=(k%2?1:-1)*Math.ceil(k/2)*P*(LP.ls||1),top=it.y+dyc-h/2,dy=Math.max(Math.abs(top-cy),Math.abs(top+h-cy));
+      const sd0=it.o.extra?0:nx++%2;for(const side of [sd0,1-sd0])for(let k=0;k<LP.lk*(it.tier===1?1.5:0.35)&&!got;k++){const dyc=(k%2?1:-1)*Math.ceil(k/2)*P*(LP.ls||1),top=it.y+dyc-h/2,dy=Math.max(Math.abs(top-cy),Math.abs(top+h-cy));
         let box;if(sgn===1){const outside=side===1;if(outside){const ro=LP.ro||92;const dyo=Math.min(Math.abs(top-cy),Math.abs(top+h-cy));const xo=dyo<ro?XR+Math.sqrt(ro*ro-dyo*dyo)+1:XR+1;if(xo+w>1168)continue;box={x:xo,y:top,w,h,anc:'start',out:1}}else{if(dy>39)continue;const xr=XR+Math.sqrt(39*39-dy*dy)-1;box={x:xr-w,y:top,w,h,anc:'end'}}}else{if(dy>(LP.ld||40))continue;const xl=XL-(dy<37?Math.sqrt(37*37-dy*dy):0)+1;box={x:xl,y:top,w,h,anc:'start'}}
         if(box.x<25||hit(box))continue;{const lq=[box.anc==='end'?box.x+box.w+0.3:box.x-0.3,box.y+(it.o.med?11:it.tier===1?2.4:2.0)];if(!LP.nox&&LL.some(L=>Math.hypot(L[0][0]-it.x,L[0][1]-it.y)>1.5&&segX([it.x,it.y],lq,L[0],L[1]))||!LP.nob&&rects.some(R2=>R2.lab&&segBox([it.x,it.y],lq,{x:R2.x+0.3,y:R2.y+0.4,w:R2.w-0.6,h:R2.h-1.2})))continue;box.lq=lq}got=box}
       station(s,it);tally(it,!!got);if(!got)return;got.lab=1;rects.push(got);LL.push([[it.x,it.y],got.lq]);
@@ -100,7 +100,7 @@ A0.drawEvents=s=>{
       s.line(got.p[0],got.p[1],got.q[0],got.q[1],'#4d4a45',0.25,{},'lead');
       let yy=got.b.y;c.forEach((it,i)=>{drawLabel(s,it,got.b.x,got.b.x+got.b.w,yy,got.cd.anc,ws[i].meta,ws[i].fs);yy+=hs[i]})};
     cl.forEach(c=>doC(c));
-    tags.forEach(b=>{s.rect(b.x,b.y,b.w,b.h,'#8a5f00',{rx:1.8},'top');s.text(b.x+b.w/2,b.y+2.65,b.t,2.65,{text_anchor:'middle',fill:'#fff',font_weight:800},'top')});
+    tags.forEach(b=>{s.rect(b.x,b.y,b.w,b.h,C.card,{rx:1.8,stroke:'#b8955a',stroke_width:0.25},'top');s.text(b.x+b.w/2,b.y+2.65,b.t,2.65,{text_anchor:'middle',fill:'#7a5c22',font_weight:700},'top')});
   };
   for(let r=0;r<4;r++){const R=ROWS[r];if(FREE.has(r)){placeFree(r);continue}
     items.filter(it=>it.r===r&&it.loop==null).sort((a,b)=>{const p=i=>i.o.extra?3:i.o.med?1:i.tier===1?0:2;return p(a)-p(b)||a.x-b.x}).forEach(function place(it,i,rt){
@@ -109,7 +109,7 @@ A0.drawEvents=s=>{
       else if(ln){const ord=[];const N=Math.max(R.U,R.D);const ks=far?[...Array(N).keys()].map(k=>N-1-k):[...Array(N).keys()];ks.forEach(k=>ord.push([first,k]));ks.forEach(k=>ord.push([!first,k]));ord.forEach(([up,kk])=>{if(kk<(up?R.U:R.D))cands.push([up,kk])})}
       else for(let k=0;k<Math.max(R.U,R.D);k++)[[first,k],[!first,k]].forEach(([up,kk])=>{if(kk<(up?R.U:R.D))cands.push([up,kk])});
       let got=null;
-      for(const strict of [1,0])for(const sh of [0,7,15,25,38,54,75,100,130])for(const [up,k] of cands){if(got)break;const top=up?A0.laneTop(r,true,k+m-1):A0.laneTop(r,false,k),h=m*P,[mn,mx]=lim(r,top,h);
+      for(const strict of [1,0])for(const sh of [0,7,15,25,38,54,75,100,130])for(const [up,k] of cands){if(got)break;if(it.tier>1&&!med&&(k>1||sh>15))continue;const top=up?A0.laneTop(r,true,k+m-1):A0.laneTop(r,false,k),h=m*P,[mn,mx]=lim(r,top,h);
         for(const right of [true,false]){const a=right?it.x+sh:it.x-w-sh,b=right?it.x+w+sh:it.x-sh;
         if(b>mx||a<mn||a<24)continue;if(rects.some(q=>!q.cap&&a-0.6<q.x+q.w&&b+0.6>q.x&&top+0.2<q.y+q.h&&top+h-0.2>q.y))continue;if(rects.some(q=>q.cap&&a<q.x+q.w&&b>q.x&&top<q.y+q.h&&top+h>q.y))continue;
         const ra=Math.min(a,it.x),rb=Math.max(b,it.x);let ok=true;for(let j=0;j<m;j++)if(!pk.free(`${r}${up?'u':'d'}${k+j}`,ra-0.8,rb+0.8)){ok=false;break}
@@ -121,9 +121,9 @@ A0.drawEvents=s=>{
       drawLabel(s,it,got.a,got.b,got.top,got.right?'start':'end',meta,fs)})}
   for(let r=0;r<4;r++){const d=ROWS[r].dir;for(let x=XL+60;x<XR-20;x+=120){const y=ly(r,0);s.path(`M${x-d*1.4} ${y-1.6}L${x+d*0.6} ${y}L${x-d*1.4} ${y+1.6}`,C.ink,0.5,{},'lines')}}
 };
-A0.drawCaptions=s=>{const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1)return;const d=ROWS[r].dir,R=ROWS[r],w=A0.tw(txt,4.2,1)+0.25*txt.length;let x=X(r,t)+d*1;
+A0.drawCaptions=s=>{const last={};D.captions.forEach(([r,t,txt])=>{if(t>=ROWS[r].t1)return;const d=ROWS[r].dir,R=ROWS[r],w=A0.tw(txt,5,1)+0.9*txt.length;let x=X(r,t)+d*1;
     const lives=r===0&&x<A0.X(0,-1657)+2,key=lives?'L':r;if(r===0&&!lives)x=Math.max(x,193);if(last[key]!=null)x=d===1?Math.max(x,last[key]+5):Math.min(x,last[key]-5);last[key]=x+d*w;
-    const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;s.text(x,y,txt,4.2,{text_anchor:d===1?'start':'end',fill:C.g1,font_weight:800,letter_spacing:0.25},'top')});
+    const y=lives?105:RY[r]-R.su-R.U*T.pitch-2.2;s.text(x,y,txt,5,{text_anchor:d===1?'start':'end',fill:'#7a5c22',font_weight:600,letter_spacing:0.9},'top')});
   [-1513,-997,-607,-537,29.75,33.235+6.5/9*0.025,70,1914.8].forEach(t=>{const r=A0.rowOf(t),x=X(r,t);s.path(`M${x-1.4} ${RY[r]-21}L${x+1.4} ${RY[r]-21}L${x} ${RY[r]-18.6}Z`,'none',0,{fill:C.violet},'top')})};
 A0.drawArcs=s=>{const its=A0.items;
   const tg=its.filter(it=>it.zone==='J'&&it.ser.includes('m')).map(it=>it.x);let k=0;
@@ -162,7 +162,7 @@ A0.drawFuture=s=>{const l='top';
   const mid=[];for(let i=0;i<G.length;i++)if(G[i][1]>=ys[1]-2&&G[i][1]<=ys[9])mid.push([(G[i][0]*0.4+E[i][0]*0.6),(G[i][1]*0.4+E[i][1]*0.6)]);
   s.raw(`<path id="tyrPath" d="${A0.pd(mid)}" fill="none"/>`,'bars');s.path(A0.pd(mid),C.gold,4.2,{opacity:0.9,stroke_linecap:'round'},'bars');
   s.raw(`<text font-size="2.4" font-weight="800" fill="#fff"><textPath href="#tyrPath" startOffset="50%" text-anchor="middle">THOUSAND YEAR REIGN</textPath></text>`,'bars');
-  const g0=X(3,2027.2),g1=X(3,2030);s.rect(g1,RY[3]+24.5,g0-g1,4.4,C.g1,{rx:0.6},'bars');s.text(g1+1,RY[3]+27.9,'Great tribulation',2.65,{fill:'#fff',font_weight:800},'bars');
+  const g0=X(3,2027.2),g1=X(3,2030);s.rect(g1,RY[3]+24.5,g0-g1,4.4,'#8a6a2a',{rx:2.2},'bars');s.text(g1+1,RY[3]+27.9,'Great tribulation',2.65,{fill:'#fff',font_weight:800},'bars');
   if(!(D.img||{}).paradise)s.rect(25,655,312,143,'url(#hatch)',{opacity:0.5},'bg');s.text(181,730,'PARADISE ARTWORK',4,{text_anchor:'middle',fill:C.g2,font_weight:800},'bg');
   A0.slots.push({id:'paradise',x:25,y:655,w:312,h:143,shape:'rect',fade:1,ph:'Paradise artwork: the path leads in here'});
   s.text(25,804,'PARADISE ON EARTH · Lu 23:43 · Re 21:3, 4',3.4,{fill:C.ink,font_weight:800},l);
