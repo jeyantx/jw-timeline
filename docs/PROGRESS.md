@@ -81,3 +81,11 @@ python3 scripts/derive_spans.py && python3 scripts/build_series.py && python3 sc
 
 ## Key files
 `README.md` · `docs/DATA_SCHEMA.md` · `docs/POSTER_TIER_RUBRIC.md` · `docs/STATUS.md` · `docs/AGENT_BRIEF.md` · `docs/SERIES_BRIEF.md` · `docs/A0_CHART_DESIGN_BRIEF.md` · `docs/A0_CHART_DESIGN_PROMPT_v2.md` · `docs/UI_DESIGN_BRIEF.md`
+
+## Update 2026-10-14: research return for Claude Design (done)
+- Claude Design locked the layout (wireframe v0.4) and sent `docs/A0_RESEARCH_REQUEST_FINAL.md`.
+- Answered in full: `exports/design/` (README + 14 CSVs, built by `scripts/export_design.py`), shared with Claude Design as GitHub links.
+- New batches: b19 (76 events, 997–537 B.C.E., lanes judah/israel/prophet/nations), b20 (22 modern), b21 (13: creation week, Eden, Daniel 8). Tiers in `data/curation/tiers/b19_b21.json`. Short poster titles (≤ 40 chars) in `data/curation/short_titles.json`.
+- Totals: 2,077 records; **659 on the poster**.
+- Images: 153 jw.org images for 63 of 66 slots, in git-ignored `private/images/` (personal use). The repo has URLs only.
+- Waiting on Claude Design: the list of 47 map places, any image slots to edit, and its filled-in design for checking.
