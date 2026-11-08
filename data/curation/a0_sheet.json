@@ -47,7 +47,10 @@
   "creation-day-3": "alt2",
   "creation-day-4": "alt2",
   "creation-day-5": "alt2",
-  "creation-day-6": "alt2"
+  "creation-day-6": "alt2",
+  "ev-jesus-born": "alt1",
+  "ev-jerusalem-destroyed": "alt1",
+  "ev-jonah-in-nineveh": "alt2"
  },
  "_image_note": "creation-day primary is one collage; alt2 is one image per day (handoff §4). Never pre-3 alt1 or ev-jerusalem-destroyed-70 alt2 (third-party credit).",
  "future": [
@@ -132,5 +135,412 @@
  "data_patches": [
   "D.pre[3][1]='formless and desolate';D.creation[3][0]='Luminaries discernible';"
  ],
- "focus": {}
+ "focus": {
+  "throne": [
+   60.0,
+   50.0,
+   1.1,
+   50.0,
+   50.0
+  ],
+  "pre-1": [
+   50.0,
+   50.0,
+   1.2,
+   50.0,
+   35.0
+  ],
+  "pre-2": [
+   70.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "pre-3": [
+   50.0,
+   50.0,
+   1.4,
+   40.0,
+   50.0
+  ],
+  "pre-4": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   35.0
+  ],
+  "creation-day-1": [
+   70.0,
+   50.0,
+   1.0,
+   50.0,
+   55.00000000000001
+  ],
+  "creation-day-2": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "creation-day-3": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "creation-day-4": [
+   30.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "creation-day-5": [
+   50.0,
+   0,
+   1.0,
+   50.0,
+   44.8
+  ],
+  "creation-day-6": [
+   50.0,
+   94.0,
+   1.0,
+   55.00000000000001,
+   50.0
+  ],
+  "eden": [
+   50.0,
+   38.6,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "paradise": [
+   50.0,
+   88.9,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "story-1": [
+   40.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "story-2": [
+   70.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "story-3": [
+   34.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "story-4": [
+   100,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "story-5": [
+   10.0,
+   50.0,
+   1.0,
+   50.0,
+   42.0
+  ],
+  "story-6": [
+   100,
+   50.0,
+   1.7,
+   51.4,
+   62.0
+  ],
+  "story-7": [
+   40.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-adam-created": [
+   100,
+   50.0,
+   1.3,
+   56.0,
+   40.0
+  ],
+  "ev-the-flood": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-abraham-crosses-the-euphrates": [
+   0,
+   50.0,
+   1.2,
+   50.0,
+   45.0
+  ],
+  "ev-red-sea-crossing": [
+   50.0,
+   98.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-law-covenant-at-sinai": [
+   50.0,
+   30.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-jericho-falls": [
+   30.0,
+   50.0,
+   1.0,
+   50.0,
+   40.0
+  ],
+  "ev-gideon-s-300": [
+   40.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-saul-dies": [
+   60.0,
+   50.0,
+   1.2,
+   50.0,
+   45.0
+  ],
+  "ev-david-and-goliath": [
+   60.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-temple-completed": [
+   60.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-queen-of-sheba": [
+   70.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-kingdom-divided": [
+   34.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-elijah-on-mount-carmel": [
+   60.0,
+   50.0,
+   1.0,
+   50.0,
+   40.0
+  ],
+  "ev-jonah-in-nineveh": [
+   50.0,
+   50.0,
+   1.1,
+   50.0,
+   40.0
+  ],
+  "ev-isaiah": [
+   60.0,
+   50.0,
+   1.5,
+   50.0,
+   25.0
+  ],
+  "ev-hezekiah": [
+   10.0,
+   50.0,
+   1.15,
+   50.0,
+   28.000000000000004
+  ],
+  "ev-josiah": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-jeremiah": [
+   50.0,
+   50.0,
+   1.2,
+   50.0,
+   50.0
+  ],
+  "ev-jerusalem-destroyed": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   60.0
+  ],
+  "ev-fiery-furnace": [
+   50.0,
+   50.0,
+   1.3,
+   50.0,
+   50.0
+  ],
+  "ev-babylon-falls": [
+   50.0,
+   100,
+   1.0,
+   50.0,
+   53.4
+  ],
+  "ev-daniel-in-the-lions-pit": [
+   50.0,
+   50.0,
+   1.4,
+   50.0,
+   40.0
+  ],
+  "ev-esther-made-queen": [
+   50.0,
+   0,
+   1.5,
+   25.0,
+   19.7
+  ],
+  "ev-jesus-born": [
+   70.0,
+   50.0,
+   1.2,
+   50.0,
+   55.00000000000001
+  ],
+  "ev-pentecost-sowing-begins": [
+   40.0,
+   50.0,
+   1.2,
+   50.0,
+   45.0
+  ],
+  "ev-paul-at-the-areopagus": [
+   6.0,
+   50.0,
+   1.3,
+   50.0,
+   50.0
+  ],
+  "ev-jerusalem-destroyed-70": [
+   50.0,
+   72.7,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-gutenberg-bible": [
+   70.0,
+   50.0,
+   1.0,
+   50.0,
+   55.00000000000001
+  ],
+  "ev-bible-class-in-allegheny": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   35.0
+  ],
+  "ev-watch-tower-1879": [
+   50.0,
+   0,
+   1.6,
+   50.0,
+   16.5
+  ],
+  "ev-photo-drama-of-creation": [
+   50.0,
+   0,
+   1.0,
+   60.0,
+   49.9
+  ],
+  "ev-kingdom-born-1914": [
+   4.2,
+   50.0,
+   1.0,
+   50.0,
+   45.0
+  ],
+  "ev-advertise-the-king": [
+   100,
+   50.0,
+   1.0,
+   70.0,
+   45.0
+  ],
+  "ev-name-jehovah-s-witnesses": [
+   50.0,
+   9.3,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-gilead-school-opens": [
+   50.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-revised-nwt": [
+   30.0,
+   50.0,
+   1.0,
+   50.0,
+   50.0
+  ],
+  "ev-jw-broadcasting-begins": [
+   50.0,
+   50.0,
+   1.4,
+   50.0,
+   50.0
+  ],
+  "ev-armageddon": [
+   50.0,
+   0,
+   1.3,
+   50.0,
+   46.7
+  ]
+ }
 }

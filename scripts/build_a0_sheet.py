@@ -10,6 +10,7 @@ This script replaces the data it was drawn with, so every data fix flows onto th
   data/research/bible_books.csv      → D.books
   data/research/calendar_b15.csv     → D.cal
   data/research/images.csv           → D.img (jw.org URL, plus the local file in private/images/ when present)
+  data/curation/a0_extra.json        → extra tier-3 records (ids + short labels) for the turns and sparse stretches
   data/curation/a0_sheet.json        → image slots per event, image choices, the future milestones, design-only options
 
 Run after the main pipeline:  python3 scripts/build_a0_sheet.py
@@ -23,6 +24,10 @@ RESEARCH = os.path.join(ROOT, 'data', 'research')
 CUR = json.load(open(os.path.join(ROOT, 'data', 'curation', 'a0_sheet.json'), encoding='utf-8'))
 SHORT = json.load(open(os.path.join(ROOT, 'data', 'curation', 'short_titles.json'), encoding='utf-8'))
 EV = json.load(open(os.path.join(ROOT, 'data', 'merged', 'timeline.json'), encoding='utf-8'))['events']
+# tier-3 records added so the turns and sparse stretches carry content (ids + their short labels)
+_XP = os.path.join(ROOT, 'data', 'curation', 'a0_extra.json')
+EXTRA = json.load(open(_XP, encoding='utf-8')) if os.path.exists(_XP) else {}
+INCLUDE = set(EXTRA.get('include', []))
 
 import sys
 sys.path.insert(0, os.path.join(ROOT, 'scripts'))
@@ -56,15 +61,34 @@ def year_tag(e):
     st, p = e['start'], e['start'].get('precision')
     if p in ('unknown', 'undated') or st.get('year') is None:
         return '', 'year not stated'
+    full = re.sub(r'(\d) to (\d)', r'\1–\2', era_strip(e.get('date_label_en')))
     if p == 'between' and st.get('latest') and st['latest'].get('year') is not None:
-        return f"({st['year']}–{st['latest']['year']})", 'year not stated · within'
+        y0, y1 = st['year'], st['latest']['year']
+        end = (e.get('end') or {}).get('year')
+        if e['timing'] == 'span' and end is not None and end != y0:
+            return f"({y0}–{end})", ''  # a span's window runs to its end, not to the start's latest year
+        if y0 != y1:  # "746/745", "33 or 34", "1914-1918" state the years; a wide inferred window does not
+            stated = abs(y1 - y0) <= 2 or re.match(r'(c\. )?\d+\s*[–-]\s*\d+', full)
+            return f"({y0}–{y1})", ('' if stated else 'year not stated · within')
+        if st.get('era') != st['latest'].get('era'):  # "1 B.C.E. or 1 C.E."
+            return f"({y0} B.C.E./{y1} C.E.)", ''
+        p = 'exact'  # one year, only the day or month is uncertain: fall through
+    if p == 'approx' and (st.get('hebrew_day') or st.get('day')):
+        p = 'exact'  # "33 C.E., Nisan 14 (c. 3:00 p.m.)": the c. is about the hour, not the year
     yr = PREFIX.get(p, '') + str(st['year'])
-    full = era_strip(e.get('date_label_en')).replace(' to ', '–')
-    if e['timing'] == 'span':  # a span shows its range as the year tag ("1943–1513")
-        return (full if len(full) <= 18 and 'not dated' not in full else yr), ''
-    # extra detail only (a month, a day, a note); "After 4026" says nothing the tag "a. 4026" does not
-    bare = re.sub(r'(?i)\b(after|before|about|c\.|a\.|b\.)\s*', '', full).strip()
-    meta = full if full and bare != str(st['year']) and len(full) <= 34 else ''
+    if e['timing'] == 'span':  # a span shows its range as the year tag ("1943–1513"); a dated day is meta
+        if re.fullmatch(r'(c\. )?\d+(–\d+)?', full):
+            return full, ''
+        m = re.sub(rf'(^{st["year"]},\s*|,\s*{st["year"]}$)', '', full)
+        return yr, (m if len(m) <= 34 else '')
+    # extra detail only (a month, a day, a note); the year itself is already in the tag
+    y = re.escape(str(st['year']))
+    meta = re.sub(rf'^{y}(?:,\s*|\s+(?=\())|,\s*{y}$', '', full).strip()
+    meta = re.sub(r'\s*\([^()]*\d+:\d+[^()]*\)', '', meta)  # "near Passover (Joh 6:4)": the ref is printed anyway
+    meta = re.sub(r'^\((.*)\)$', r'\1', meta)
+    meta = re.sub(r'^(After|Before|About)\b', lambda m: m.group(1).lower(), meta)
+    bare = re.sub(r'(?i)\b(after|before|about|by|c\.|a\.|b\.)\s*', '', meta).strip()
+    meta = meta if meta and bare != str(st['year']) and len(meta) <= 34 else ''
     return yr, meta
 
 
@@ -82,8 +106,11 @@ def record(e, first):
     if slot:
         o.update(med=1, slot=slot)
     o.update(CUR.get('opts', {}).get(e['id'], {}))
-    title = (SHORT.get(e['id']) or {}).get('en') or e['title_en']
-    return [first, e['tier'], title, e.get('date_label_en') or '', scripture(e), series(e),
+    if e['id'] in INCLUDE and not e.get('poster'):
+        o['extra'] = 1  # tier-3 fill-in: the label placer should give it the lowest priority
+    title = EXTRA.get('short', {}).get(e['id']) or (SHORT.get(e['id']) or {}).get('en') or e['title_en']
+    date = re.sub(r'(\d)-(\d)', r'\1–\2', e.get('date_label_en') or '')
+    return [first, e['tier'], title, date, scripture(e), series(e),
             GLYPH.get(e['start'].get('precision'), 0), o]
 
 
@@ -99,14 +126,14 @@ def jesus_column(e):
 def events():
     ev, jes = [], []
     for e in sorted(EV, key=lambda x: x['start']['sort_key']):
-        if not e.get('poster') or (e.get('category') or '').startswith('future') or e['id'] in CUR['skip']:
+        if not (e.get('poster') or e['id'] in INCLUDE) or (e.get('category') or '').startswith('future') or e['id'] in CUR['skip']:
             continue
-        if e['timing'] == 'span' and (e['tier'] != 1 or e.get('span_kind') in SPAN_SKIP):
+        if e['timing'] == 'span' and (e['tier'] != 1 or e.get('span_kind') in SPAN_SKIP) and e['id'] not in INCLUDE:
             continue
         if DUP.search(e['title_en']) or e.get('category') == 'bible.book_writing':
             continue
         t = e['start']['sort_key']
-        if e['timing'] == 'point' and 29.7 <= t < 33.3:
+        if e['timing'] == 'point' and 29.7 <= t < 33.3 and not (t >= 33.26 and not e['start'].get('hebrew_day')):
             jes.append(record(e, jesus_column(e)))
         else:
             ev.append(record(e, t))
@@ -138,7 +165,17 @@ def growth():
     counts = {k: ser(s) for k, s in [('cong', 'congregations'), ('studies', 'average_bible_studies'),
               ('pioneers', 'average_pioneers'), ('memorial', 'memorial_attendance'), ('lands', 'lands_reporting'),
               ('baptized', 'baptized'), ('branches', 'branch_offices')]}
-    web = [[y, v] for y, (v, ok) in sorted(by['jworg_languages'].items()) if ok]
+    # jw.org languages: one measure only (home-page / content languages). The 2013 "508" counts translation-production
+    # languages and 2019 "821" counts interface languages, so they are left out; approx rows are drawn hollow.
+    wb = {}
+    for r in csv.DictReader(open(os.path.join(RESEARCH, 'growth.csv'), encoding='utf-8')):
+        n = r.get('note') or ''
+        if r['series'] != 'jworg_languages' or 'not home-page' in n or 'interface' in n:
+            continue
+        y, v, ok = int(r['year']), int(float(r['value'])), r['status'] == 'confirmed'
+        if y not in wb or (ok and not wb[y][1]) or (ok == wb[y][1] and v > wb[y][0]):
+            wb[y] = (v, ok)
+    web = [[y, v] + ([] if ok else [1]) for y, (v, ok) in sorted(wb.items())]
     return ser('peak_publishers', False), counts, ser('nwt_languages_whole_or_part'), web
 
 
@@ -209,6 +246,18 @@ def images():
     return out
 
 
+def loop_spans():
+    """Bars on a turn's outer band (draw.js D.spans loop branch), from a0_extra.json loop_spans."""
+    by = {e['id']: e for e in EV}
+    out = []
+    for a, b, lab in EXTRA.get('loop_spans', []):
+        s0 = by[a]['start']
+        s1 = by[b]['start'] if b else by[a]['end']
+        c = 'c. ' if 'approx' in (s0.get('precision'), s1.get('precision')) or 'c.' in (by[a].get('date_label_en') or '') else ''
+        out.append([s0['sort_key'], s1['sort_key'], lab, f"{c}{abs(s0['year'])}–{abs(s1['year'])}", 'solid', 1])
+    return out
+
+
 def main():
     ev, jes = events()
     peak, counts, nwt, web = growth()
@@ -219,7 +268,7 @@ def main():
           f'D.ev={j(ev)};', f'D.jes={j(jes)};', 'D.jesExtra=[];D.budget.forEach(b=>b.n=0);',
           f"D.future={j(CUR['future'])};", f'D.growth={j(peak)};D.counts={j(counts)};D.langNWT={j(nwt)};D.langWeb={j(web)};',
           f'D.judah={j(judah)};D.israel={j(israel)};D.books={j(books())};D.cal={j(calendar())};',
-          *CUR['data_patches'], f'D.img={j(images())};', f"D.focus={j(CUR['focus'])};", '})();', '']
+          *CUR['data_patches'], *([f'D.spans.push(...{j(loop_spans())});'] if EXTRA.get('loop_spans') else []), f'D.img={j(images())};', f"D.focus={j(CUR['focus'])};", '})();', '']
     open(OUT, 'w', encoding='utf-8').write('\n'.join(js))
     print(f'wrote {os.path.relpath(OUT, ROOT)}: {len(ev)} stations, {len(jes)} in Jesus’ ministry, '
           f'{sum(1 for r in ev + jes if r[7].get("slot"))} with image slots, {len(judah)}+{len(israel)} reigns, '

@@ -1,0 +1,44 @@
+# R-opening: opening and Eden strip (x 20–330, y 20–210 mm)
+
+Reviewer: R-opening · shots taken 21:58–22:02, Z=3–6, at /tmp/sw-ropening-*.png.
+Note: FIX-PANELS was already editing `drawTop` while I shot. The throne's hard rim and hatch, and the rays running down into the Day 5/6 medallions, are **already fixed** in the current `draw2.js` (the throne hatch is now drawn only when there is no image; the rays are capped near y 94). Items below are what remains in the code as of 22:02.
+
+Most visible first.
+
+1. **THE EARTH label runs into the gold line.** At x 166–190, y 54. The text "formless and desolate" is centred on HX[3]=178 and ends at about x 189.7, on top of the vertical gold line at x 188 (its halo spans x 185–191). Cause: `draw2.js` `A0.drawTop`, `HX=[94,122,150,178]` with `lab3`; the line got longer after the data patch `D.pre[3][1]='formless and desolate'` in `a0_sheet.json`. Fix: use HX like `[92,118,144,170]`, or anchor this label 'end' at x 184. Keep the NWT 2013 wording (research `confirm_bible.csv`, Opening/earth: "Use NWT 2013 wording"). **FIX-PANELS**
+
+2. **The Eden strip has no visible caption once the photo loads.** At x 36–182, y 135–176. "THE GARDEN OF EDEN" is drawn in layer 'bg' under the image, so the photo hides it. "Ge 2:8" appears only in the tooltip, never on paper. Every other station has a label and a scripture. Fix: add a small label with a halo on the strip, e.g. "The garden of Eden · Ge 2:8" at the strip's bottom-left (about x 40, y 173), in layer 'top'. **FIX-PANELS**
+
+3. **The hatch pattern shows through Eden's feathered edges.** At x 36–182, y 135–176, the strip has a grey striped frame about 3–8 mm wide where the image fades out (see /tmp/sw-ropening-eden1.png). Cause: `drawTop` always draws `s.rect(36,135,146,41,'url(#hatch)',…)`, but the image mask (`index.html`, `id==='eden'` with `maskC([LG('right',7),LG('bottom',22)])`) fades to transparent, which reveals the hatch rather than the paper. Fix: draw the hatch rect and its text only when `!(D.img||{}).eden`, the same guard the throne now has. **FIX-PANELS**
+
+4. **The "IN THE BEGINNING" caption and the Adam lifespan bar touch the gold line.** At x 188–192, y 100–106. The caption starts at about x 190.8 and the "Adam · 930 yrs" bar at about x 190.2. Both sit on the 6 mm halo of the vertical gold line at x 188 (the halo ends at x 191). See /tmp/sw-ropening-corner.png. Fix: give both a start of at least x 193. Caption: `draw2.js` captions (D.captions at X(-4026)) → **FIX-PANELS**. Lifespan bars: `draw.js` `kb` → **FIX-STRUCT**.
+
+5. **Day 7 is drawn as a single text tag, not as the open bar the research asks for.** At x 120–182, y 178. Research row Opening/Day 7 says: "Draw Day 7 as an open bar running on to the end of the Thousand Year Reign, not as a single station before Adam." There is no bar; only the text "Day 7 · God rests · still continuing · Ge 2:2 →". This is a design decision (one option is a thin gold-tint band labelled "Day 7 continues" along the rows to the Thousand Year Reign). **OWNER** (FIX-PANELS if accepted)
+
+6. **The Day 7 scripture is incomplete.** At x 120–182, y 178. `timeline.json` b21-0011 lists Gen. 2:1-3, Heb. 4:1-11 and Rev. 20:1-6, and the research quote ("By the apostle’s time, the seventh day had been continuing…") comes from Hebrews 4. The label cites only "Ge 2:2". Suggest "Ge 2:2, 3; Heb 4:4-11" so that "still continuing" has its source. The string is hard-coded in `draw2.js` `drawTop` → **FIX-PANELS** (wording: **FIX-TEXT** to confirm).
+
+7. **The creative-day scriptures cite one verse instead of each day's range.** At y 129, x 40–170. The labels show Ge 1:3, 1:6, 1:9, 1:14, 1:20, 1:24. Research (`confirm_bible.csv`, Insight "Creation" chart) gives Gen. 1:3-5, 1:6-8, 1:9-13, 1:14-19, 1:20-23, 1:24-31. The ranges fit, since each day label has about 20 mm. Source: `a0v5/data.js` `D.creation`. **FIX-TEXT**
+
+8. **Day 2's "Expanse · sky" is not the Insight wording.** At x 144, y 126. Insight says "Expanse, a division between waters…", and the NWT text says God called the expanse "Heaven", not "sky". Suggest "Expanse · waters divided". Source: `data.js` `D.creation[1]`. **FIX-TEXT** / **OWNER**
+
+9. **The heavens and the earth are two stations, against the research note.** At x 150 and 178, y 40. Research Opening/heavens: "Put heavens and earth in ONE station (Ge 1:1 names both)". Opening/earth: "This is a state, not a creative act." The sheet has a separate "THE EARTH" station that reads like a fourth creative act. Options: merge them into "THE HEAVENS AND THE EARTH · Ge 1:1", or keep a 4th station labelled as a state, e.g. "EARTH: formless and desolate · Ge 1:2" with lighter styling. Merging would also free x 178 and fix item 1. **OWNER**
+
+10. **The Day 6 medallion shows animals but no man.** At x 40, y 112. Its label is "Animals · man", and research says the slot image is "animals and Adam". The source (`creation-day-6__alt2.jpg`, 900×1800, portrait) is centre-cropped at the default focus [50,40,1], and the crop at 14 mm shows only the waterfall and animals. Fix: add `focus['creation-day-6']` with a lower y% (or a zoom) that brings Adam into the circle. `a0_sheet.json` `focus` is still `{}` for every opening slot. **FIX-IMAGES**
+
+11. **No focal points are set for any opening slot.** At throne, pre-1…4, creation-day-1…6 and eden, every slot uses the default `[50,40,1]` (`index.html`, `FOC[id]||…`). The Eden crop cuts the swan and the lower foreground with a 22 % bottom fade. Day 5 (whale and birds, 1200×1280) is acceptable. Pre-1 "THE WORD" uses the "archangel and myriads" picture, which the handoff lists as a known stand-in. **FIX-IMAGES** (pre-1 image choice: **OWNER**)
+
+12. **The rays still overlap the WORD station.** At x 78–110, y 35–60. Rays to the right reach r=60 (x 110), so their tips end on the "Jesus, the firstborn / Col 1:15; Re 3:14" label and around the pre-1 medallion. See /tmp/sw-ropening-med.png (a ray ends on "Re 3:14"). Fix: cap the rays at about r 40 for angles with cos(a) > 0.5, as was done for the downward rays. Cause: `draw2.js` `drawTop` ray loop. **FIX-PANELS**
+
+13. **There is a large empty area inside the opening loop.** At x 76–184, y 58–100, about 108 × 42 mm of blank paper between the pre-creation row and the Day row. It could hold a short note from research: "Creative days: length not stated; at least thousands of years (it-1 'Creation')" and/or "In the beginning: may have been billions of years ago (it-1)". Both are already in `confirm_bible.csv` / b21-0003 and b21-0005. **OWNER** (content: **FIX-FILL**)
+
+14. **There is empty space around the title block.** At x 430–635, y 24–46, right of the title, and x 200–635, y 72–98, under the intro lines. About 25 mm of blank band separates the intro text from the "IN THE BEGINNING" caption row. Either enlarge the title and intro, or use the band (e.g. a legend of line styles or a key to tiers). **OWNER**
+
+15. **The "Near:" line reads as a stray word.** At x 200, y 68. "Near: every label shows its reference…" has no matching "Far:" line, so "Near:" means nothing to the reader. Suggest "Up close, every label shows…", or add the "From a distance, …" line it implies. `draw2.js` `drawTop` → **FIX-PANELS** (wording **OWNER**)
+
+16. **The Day 7 tag sits close to Eden's bottom edge and the first row's marker.** At x 120–182, y 175–178. The tag's cap height reaches about y 175.8, while Eden's image ends at y 176 (its fade). The arrow "→" ends at x 182, 8 mm before the large Adam station at x 190. It reads acceptably but is tight. If item 3 removes the hatch, it is fine. Otherwise move the tag to ga-1.6. **FIX-PANELS**
+
+17. **The Eden image's resolution is low for print.** The strip is 146 mm wide and needs about 1,725 px at 300 dpi. `eden.jpg` is 1200 px (about 209 dpi), as the handoff warns. The throne (52 mm, 1200 px) is fine. Ask research for a larger source or an edited image. **OWNER**
+
+18. **Image slots render empty in headless shots (tooling, not the design).** In several `shot.sh` runs, creation-day-4/5/6 and eden came out as grey hatch while day 1–3 had images. In a live browser every opening image is `complete` with `naturalWidth` > 0. Cause: `index.html` sets `loading="lazy"` on the slot `<img>`. Chrome's headless virtual-time budget sometimes captures before lazy images load. For the final print/PDF export this is a real risk. Suggest `loading="eager"` (only about 100 images). **FIX-IMAGES**
+
+Checked and fine: "Luminaries discernible" (Day 4) and "formless and desolate" match research corrections. THE WORD (Col 1:15; Re 3:14), ANGELS (Job 38:4-7), THE HEAVENS (Ge 1:1) and the JEHOVAH, THE CREATOR refs (Ps 90:2 · Re 4:11) are consistent with research. The direction arrows at (188,76), (105,112) and (26,150) match the flow. The title "FROM EDEN TO THE KINGDOM" and its subtitle do not clip and stay clear of the counts panel at x 640.

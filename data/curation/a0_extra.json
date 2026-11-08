@@ -1,0 +1,83 @@
+{
+  "_note": "Tier-3 records (all jw.org-sourced, from data/merged/timeline.json) added to the A0 sheet so the turns carry content. Read by scripts/build_a0_sheet.py. 'include' = record ids; 'short' = label text (<= 40 chars) for these records only.",
+  "include": [
+    "b2-0077",
+    "b18-0018",
+    "b7-0173",
+    "b7-0179",
+    "b7-0189",
+    "b7-0200",
+    "b7-0204",
+    "b7-0210",
+    "b7-0212",
+    "b7-0219",
+    "b7-0224",
+    "b7-0227",
+    "b2-0053",
+    "b2-0059",
+    "b4-0073",
+    "b4-0078",
+    "b7-0181",
+    "b20-0004",
+    "b20-0008",
+    "b20-0015",
+    "b20-0018",
+    "b20-0019",
+    "b9-0411",
+    "b20-0022",
+    "b7-0140"
+  ],
+  "short": {
+    "b2-0077": "Ark kept at Kiriath-jearim",
+    "b18-0018": "Saul consults the medium at En-dor",
+    "b7-0173": "Ziegenbalg lands at Tranquebar",
+    "b7-0179": "Cruden’s Bible concordance",
+    "b7-0189": "Mary Jones walks 25 miles for a Bible",
+    "b7-0200": "American Bible Society formed",
+    "b7-0204": "Complete Bible in Chinese",
+    "b7-0210": "Complete Bible in Burmese",
+    "b7-0212": "Malayalam Bible uses “Jehovah”",
+    "b7-0219": "First complete Telugu Bible",
+    "b7-0224": "Codex Sinaiticus found at Sinai",
+    "b7-0227": "Young’s translation uses “Jehovah”",
+    "b2-0053": "Ark moved to Shiloh",
+    "b2-0059": "First Jubilee year begins",
+    "b4-0073": "Nehemiah’s second visit and reforms",
+    "b4-0078": "Rebuilding of Jerusalem completed",
+    "b7-0181": "Inquisition permits annotated Bibles",
+    "b20-0004": "Storrs: “Are the Wicked Immortal?”",
+    "b20-0008": "MEPS development begins",
+    "b20-0015": "JW Library app",
+    "b20-0018": "jw.org in 1,000 languages",
+    "b20-0019": "Ministry by phone and letter",
+    "b9-0411": "House-to-house ministry resumes",
+    "b20-0022": "NWT in 350 languages",
+    "b7-0140": "Trent condemns vernacular Bibles"
+  },
+  "_tried_no_room": {
+    "turn 332–2 B.C.E.": [
+      "b4-0090",
+      "b4-0094",
+      "b4-0100",
+      "b4-0104",
+      "b4-0108",
+      "b4-0116",
+      "b17-0001",
+      "b4-0129",
+      "b4-0130",
+      "b4-0132"
+    ],
+    "why": "inner loop full, outside is the picture panel: these dropped as unlabelled dots (22:01). Re-add when the placer can spill turn labels into row free space.",
+    "b4-0083": "Granicus: its exact-year pill overlapped the 332 Tyre label at the turn mouth",
+    "b20-0001": "Grew 1835: crowded the lower right of turn 3 (crossing leaders)",
+    "b12-0038 span": "Herod span on the lower half of turn 2: draw.js loop-span text ran upside down there (FIX-STRUCT)"
+  },
+  "loop_spans": [
+    [
+      "b4-0098",
+      "b4-0116",
+      "Septuagint translated"
+    ]
+  ],
+  "_loop_spans_note": "Bars on the outer band of a turn: [start record, end record (null = the record's own end), label]. Years come from the records."
+}

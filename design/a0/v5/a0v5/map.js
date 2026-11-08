@@ -7,15 +7,15 @@ const P={Ur:[46.10,30.96],Haran:[39.03,36.86],Babylon:[44.42,32.54],Nineveh:[43.
  Jerusalem:[35.23,31.78],Bethlehem:[35.20,31.70],Jericho:[35.44,31.86],Hebron:[35.10,31.53],Beersheba:[34.79,31.25],Nazareth:[35.30,32.70],Capernaum:[35.57,32.88],Samaria:[35.19,32.28],Shechem:[35.28,32.21],Bethel:[35.22,31.93],Caesarea:[34.89,32.50],Carmel:[35.0,32.73],Shiloh:[35.29,32.06],
  Nicaea:[29.72,40.43],Toulouse:[1.44,43.6],Lutterworth:[-1.2,52.45],Mainz:[8.27,50],Wittenberg:[12.65,51.87],Vilvoorde:[4.43,50.93],Tranquebar:[79.85,11.03],Guangzhou:[113.26,23.13],
  Riblah:[36.55,34.45],Hamath:[36.75,35.13],Carchemish:[38.0,36.83],Mari:[40.89,34.55],Pelusium:[32.55,31.04],Dibon:[35.78,31.50],Gaza:[34.46,31.50],Attalia:[30.70,36.89],Samothrace:[25.53,40.48],Neapolis:[24.41,40.94],Amphipolis:[23.84,40.82],Apollonia:[23.47,40.62],Cenchreae:[22.99,37.88],Assos:[26.34,39.49],Mitylene:[26.55,39.10],Chios:[26.13,38.37],Samos:[26.98,37.70],Miletus:[27.28,37.53],Cos:[27.29,36.89],Rhodes:[28.22,36.44],Patara:[29.32,36.26],Ptolemais:[35.08,32.93],Cnidus:[27.37,36.69],Syracuse:[15.29,37.08],Rhegium:[15.65,38.11],Galatia:[32.85,39.93],GathHepher:[35.33,32.74],Joppa:[34.75,32.05],JonahSea:[31.2,33.7],
- Pittsburgh:[-80,40.44],Sandusky:[-82.68,41.48],Brooklyn:[-73.99,40.70],Warwick:[-74.36,41.26],London:[-0.13,51.5],Magdeburg:[11.6,52.1],Moscow:[37.6,55.75]};
-const NAME={GathHepher:'Gath-hepher',JonahSea:'→ toward Tarshish',Galatia:'Galatia',PAntioch:'Pisidian Antioch',RedSea:'Red Sea crossing',Hor:'Mount Hor',Nebo:'Mount Nebo',Sinai:'Mount Sinai',Kadesh:'Kadesh-barnea',Sandusky:'Cedar Point',Memphis:'Egypt (Memphis)',Carmel:'Mount Carmel',Tranquebar:'Tranquebar',Antioch:'Antioch (Syria)'};
+ Pittsburgh:[-80,40.44],Sandusky:[-82.68,41.48],Brooklyn:[-73.99,40.70],Warwick:[-74.36,41.26],London:[-0.13,51.5],Magdeburg:[11.6,52.1],Moscow:[37.6,55.75],Ramah:[35.23,31.85],Salmone:[26.30,35.31],Cauda:[24.08,34.85]};
+const NAME={GathHepher:'Gath-hepher',JonahSea:'→ toward Tarshish',Galatia:'Galatia',PAntioch:'Pisidian Antioch',RedSea:'Red Sea crossing',Hor:'Mount Hor',Nebo:'Mount Nebo',Sinai:'Mount Sinai',Kadesh:'Kadesh-barnea',Sandusky:'Cedar Point',Memphis:'Egypt (Memphis)',Carmel:'Mount Carmel',Tranquebar:'Tranquebar',Antioch:'Antioch (Syria)',Berea:'Beroea',Salmone:'Cape Salmone'};
 const PEOPLE={Ur:'Abraham, Sarah',Haran:'Abraham, Jacob',Babylon:'Daniel, Nebuchadnezzar',Nineveh:'Jonah',Susa:'Esther, Mordecai',Damascus:'Saul of Tarsus',Tyre:'Alexander',Antioch:'Paul, Barnabas',Ephesus:'Paul, John',Corinth:'Paul, Aquila, Priscilla',Athens:'Paul',Rome:'Paul, Nero',Patmos:'John',Malta:'Paul, Luke',Sinai:'Moses',Memphis:'Joseph, Jacob',Rameses:'Moses, Aaron',Kadesh:'Moses, the 12 spies',Hor:'Aaron',Nebo:'Moses',Jerusalem:'David, Solomon, Nehemiah, Jesus',Bethlehem:'Jesus, Mary, Joseph',Nazareth:'Jesus, Mary',Capernaum:'Jesus, Peter',Jericho:'Joshua, Rahab',Hebron:'David',Samaria:'Ahab, Jezebel',Carmel:'Elijah',Caesarea:'Peter, Cornelius',Shiloh:'Hannah, Samuel',Philippi:'Paul, Lydia',Nicaea:'Constantine',Lutterworth:'Wycliffe',Mainz:'Gutenberg',Wittenberg:'Luther',Vilvoorde:'Tyndale',Tranquebar:'Ziegenbalg',Guangzhou:'Morrison',Pittsburgh:'C. T. Russell',Tarsus:'Paul'};
 const EV=[['Ur',-1945,'before 1943 B.C.E.','Abraham leaves Ur'],['Haran',-1943,'1943 B.C.E.','Abraham sets out for Canaan'],['Haran',-1781,'1781 B.C.E.','Jacob flees to Haran'],
- ['Memphis',-1737,'1737 B.C.E.','Joseph rules Egypt'],['Memphis',-1728,'1728 B.C.E.','Jacob’s family enters'],['Rameses',-1513.1,'Nisan 14, 1513','Exodus begins'],['RedSea',-1513,'1513 B.C.E.','Red Sea parted'],['Sinai',-1512.9,'1513 B.C.E.','Law covenant'],
+ ['Memphis',-1737,'1737 B.C.E.','Joseph rules Egypt'],['Memphis',-1728,'1728 B.C.E.','Jacob’s family enters'],['Rameses',-1513.1,'Nisan 15, 1513 B.C.E.','Exodus begins'],['RedSea',-1513,'1513 B.C.E.','Red Sea parted'],['Sinai',-1512.9,'1513 B.C.E.','Law covenant'],
  ['Kadesh',-1512,'1512 B.C.E.','40 years decreed'],['Hor',-1474,'1474 B.C.E.','Aaron dies'],['Nebo',-1473.5,'1473 B.C.E.','Moses dies'],['Jericho',-1473,'1473 B.C.E.','Jericho falls'],['Shiloh',-1467,'c. 1467 B.C.E.','Tabernacle set up'],
- ['Hebron',-1077,'1077 B.C.E.','David king'],['Jerusalem',-1070,'c. 1070 B.C.E.','David’s capital'],['Jerusalem',-1027,'1027 B.C.E.','Temple completed'],['Carmel',-926,'Ahab’s reign','Elijah vs. Baal'],['Nineveh',-844,'c. 844 B.C.E.','Jonah preaches'],
+ ['Hebron',-1077,'1077 B.C.E.','David king'],['Jerusalem',-1070,'1070 B.C.E.','David’s capital'],['Jerusalem',-1027,'1027 B.C.E.','Temple completed'],['Carmel',-926,'Ahab’s reign','Elijah vs. Baal'],['Nineveh',-844,'c. 844 B.C.E.','Jonah preaches'],
  ['Samaria',-740,'740 B.C.E.','Samaria falls'],['Nineveh',-632,'632 B.C.E.','Nineveh falls'],['Babylon',-617,'617 B.C.E.','Daniel taken'],['Jerusalem',-607,'607 B.C.E.','Destroyed'],['Babylon',-539,'539 B.C.E.','Falls to Cyrus'],['Jerusalem',-537,'537 B.C.E.','Jews return'],
- ['Susa',-493,'c. 493 B.C.E.','Esther made queen'],['Jerusalem',-455,'455 B.C.E.','Walls rebuilt'],['Tyre',-332,'332 B.C.E.','Destroyed by Alexander'],['Bethlehem',-2,'2 B.C.E.','Jesus born'],['Nazareth',1,'year not stated','Jesus grows up'],['Capernaum',31,'30–32 C.E.','Jesus’ home base'],
+ ['Susa',-493,'493–484 B.C.E.','Esther made queen'],['Jerusalem',-455,'455 B.C.E.','Walls rebuilt'],['Tyre',-332,'332 B.C.E.','Destroyed by Alexander'],['Bethlehem',-2,'2 B.C.E.','Jesus born'],['Nazareth',1,'year not stated','Jesus grows up'],['Capernaum',31,'30–32 C.E.','Jesus’ home base'],
  ['Jerusalem',33,'Nisan 14, 33 C.E.','Jesus dies, is raised'],['Jerusalem',33.4,'Sivan 6, 33 C.E.','Pentecost'],['Damascus',34,'c. 34 C.E.','Saul converted'],['Caesarea',36,'36 C.E.','Cornelius baptized'],['Antioch',47,'c. 47 C.E.','Paul’s tours begin'],
  ['Philippi',50,'c. 50 C.E.','First congregation in Europe'],['Athens',50.5,'c. 50 C.E.','Paul at the Areopagus'],['Corinth',51,'c. 50–52 C.E.','Paul stays 18 months'],['Ephesus',53,'c. 52–55 C.E.','Paul teaches'],['Malta',58.6,'c. 58 C.E.','Shipwreck'],
  ['Rome',60,'c. 59–61 C.E.','Paul under house arrest'],['Rome',64,'64 C.E.','Fire; persecution'],['Jerusalem',70,'70 C.E.','Destroyed'],['Patmos',96,'c. 96 C.E.','Revelation given'],['Nicaea',325,'325 C.E.','Council of Nicaea'],
@@ -23,19 +23,19 @@ const EV=[['Ur',-1945,'before 1943 B.C.E.','Abraham leaves Ur'],['Haran',-1943,'
  ['Tranquebar',1714,'1714','Tamil New Testament'],['Guangzhou',1823,'1823','Chinese Bible'],['Pittsburgh',1870,'1870','Bible class begins'],['Pittsburgh',1879,'1879','Watch Tower first issue'],['London',1900,'1900','First branch'],
  ['Brooklyn',1909,'1909–2016','World headquarters'],['Sandusky',1919,'1919, 1922','Cedar Point conventions'],['Magdeburg',1933,'1933–45','Ban in Germany'],['Warwick',2017,'2017–','World headquarters'],['Moscow',2017.3,'2017–','Ban in Russia']];
 const ROUTES=[
- {k:'abr',c:'#8a5a2b',w:0.9,off:0,pts:['Ur','Haran','Shechem','Bethel','Memphis','Bethel','Hebron'],name:'Abraham · Ur → Canaan',when:'c. 1943 B.C.E.',scr:'Ge 11:31–12:10; 13:18'},
- {k:'exo',c:'#16857f',w:0.9,off:0,pts:['Rameses','Succoth','RedSea','Marah','Sin','Rephidim','Sinai','Kadesh','Hor','Nebo','Jericho'],name:'Israel · Egypt → Canaan',when:'1513–1473 B.C.E.',scr:'Ex 12–Jos 3',note:'stops 1–10 = Row 1'},
+ {k:'abr',c:'#8a5a2b',w:0.9,off:0,pts:['Ur','Haran','Carchemish','Damascus','Shechem','Bethel','Memphis','Bethel','Hebron'],name:'Abraham · Ur → Canaan',when:'c. 1943 B.C.E.',scr:'Ge 11:31–12:10; 13:18'},
+ {k:'exo',c:'#16857f',w:0.9,off:0,pts:['Rameses','Succoth','RedSea','Marah','Sin','Rephidim','Sinai','Kadesh','Hor','Nebo','Jericho'],name:'Israel · Egypt → Canaan',when:'1513–1473 B.C.E.',scr:'Ex 12–Jos 3',note:'possible route (B3)'},
  {k:'jon',c:'#2f7fb5',w:0.8,off:0,d:'2 1',pts:['GathHepher','Joppa','JonahSea'],name:'Jonah · flees toward Tarshish',when:'c. 844 B.C.E.',scr:'Jon 1:3'},
- {k:'jon2',c:'#2f7fb5',w:0.7,off:0,d:'0.6 1.2',pts:['GathHepher','Nineveh'],name:'Jonah · sent to Nineveh',when:'route not stated',scr:'Jon 3:3'},
- {k:'exile',c:'#7f5539',w:0.8,off:-0.8,pts:['Jerusalem','Damascus','Riblah','Hamath','Carchemish','Mari','Babylon'],name:'Exiles to Babylon',when:'607 B.C.E.',scr:'2Ki 25:6-11',note:'route as in atlas maps'},
- {k:'ret',c:'#2e8b57',w:0.8,off:0.8,pts:['Babylon','Mari','Carchemish','Hamath','Riblah','Damascus','Jerusalem'],name:'Return from Babylon',when:'537 B.C.E.',scr:'Ezr 1:3, 11'},
- {k:'ezra',c:'#b8860b',w:0.7,off:1.6,d:'2.2 0.9',pts:['Susa','Babylon','Mari','Carchemish','Hamath','Riblah','Damascus','Jerusalem'],name:'Ezra (468) · Nehemiah (455, from Susa)',when:'468 / 455 B.C.E.',scr:'Ezr 7:9; Ne 2:1-11'},
- {k:'fam',c:'#d14d72',w:0.75,off:0,pts:['Bethlehem','Gaza','Pelusium','Gaza','Nazareth'],name:'Jesus’ family · to Egypt and back',when:'c. 1 B.C.E.',scr:'Mt 2:13-23',note:'route not stated'},
+ {k:'jon2',c:'#2f7fb5',w:0.7,off:0,d:'0.6 1.2',pts:['GathHepher','Nineveh'],name:'Jonah · sent to Nineveh',when:'c. 844 B.C.E.',scr:'Jon 3:3',note:'landing place not named; over 800 km'},
+ {k:'exile',c:'#7f5539',w:0.8,off:-0.8,pts:['Jerusalem','Ramah','Riblah','Babylon'],name:'Exiles to Babylon',when:'607 B.C.E.',scr:'2Ki 25:6-11; Jer 40:1',note:'stops from the Bible; route not stated'},
+ {k:'ret',c:'#2e8b57',w:0.8,off:0.8,pts:['Babylon','Mari','Carchemish','Hamath','Riblah','Damascus','Jerusalem'],name:'Return from Babylon',when:'537 B.C.E.',scr:'Ezr 1:3, 11',note:'one possible route (it-2 p. 332)'},
+ {k:'ezra',c:'#b8860b',w:0.7,off:1.6,d:'2.2 0.9',pts:['Susa','Babylon','Mari','Carchemish','Hamath','Riblah','Damascus','Jerusalem'],name:'Ezra (468) · Nehemiah (455, from Susa)',when:'468 / 455 B.C.E.',scr:'Ezr 7:9; Ne 2:1-11',note:'possible route'},
+ {k:'fam',c:'#d14d72',w:0.75,off:0,pts:['Bethlehem','Gaza','Pelusium','Gaza','Nazareth'],name:'Jesus’ family · to Egypt and back',when:'1 B.C.E. or 1 C.E.',scr:'Mt 2:13-23',note:'route not stated'},
  {k:'ruth',c:'#8a6d3b',w:0.75,off:0,d:'1.2 0.8',pts:['Dibon','Jericho','Bethlehem'],name:'Naomi and Ruth · Moab → Bethlehem',when:'days of the Judges',scr:'Ru 1:19, 22',note:'route not stated'},
  {k:'p1',c:'#e07a1f',w:0.75,off:-0.8,pts:['Antioch','Seleucia','Salamis','Paphos','Perga','PAntioch','Iconium','Lystra','Derbe','Lystra','Iconium','PAntioch','Perga','Attalia','Antioch'],name:'Paul · 1st journey',when:'c. 47–48 C.E.',scr:'Ac 13:4–14:26'},
  {k:'p2',c:'#c0392b',w:0.75,off:0,pts:['Antioch','Tarsus','Derbe','Lystra','Iconium','PAntioch','Troas','Samothrace','Neapolis','Philippi','Amphipolis','Apollonia','Thessalonica','Berea','Athens','Corinth','Cenchreae','Ephesus','Caesarea','Jerusalem','Antioch'],name:'Paul · 2nd journey',when:'c. 49–52 C.E.',scr:'Ac 15:36–18:22'},
  {k:'p3',c:'#8e44ad',w:0.75,off:0.8,pts:['Antioch','Galatia','Ephesus','Troas','Philippi','Corinth','Philippi','Troas','Assos','Mitylene','Chios','Samos','Miletus','Cos','Rhodes','Patara','Tyre','Ptolemais','Caesarea','Jerusalem'],name:'Paul · 3rd journey',when:'c. 52–56 C.E.',scr:'Ac 18:23–21:17'},
- {k:'rome',c:'#4d4d4d',w:0.75,off:1.6,d:'1.6 1',pts:['Caesarea','Sidon','Myra','Cnidus','FairHavens','Malta','Syracuse','Rhegium','Puteoli','Rome'],name:'Paul · to Rome',when:'c. 58–59 C.E.',scr:'Ac 27:1–28:16'}];
+ {k:'rome',c:'#4d4d4d',w:0.75,off:1.6,d:'1.6 1',pts:['Caesarea','Sidon','Myra','Cnidus','Salmone','FairHavens','Cauda','Malta','Syracuse','Rhegium','Puteoli','Rome'],name:'Paul · to Rome',when:'c. 58–59 C.E.',scr:'Ac 27:1–28:16'}];
 ROUTES.forEach(r=>r.km=Math.round(d3.geoLength({type:'LineString',coordinates:r.pts.map(k=>P[k])})*6371/10)*10);
 const EXO=['Rameses','Succoth','RedSea','Marah','Sin','Rephidim','Sinai','Kadesh','Hor','Nebo'];
 const ERA=y=>y<100?'b':y<1870?'c':'m',ERAC={b:'#a4532a',c:'#6a3d9a',m:'#1f6f8b'},ERAN={b:'Bible era',c:'Bible & church history',m:'Jehovah’s Witnesses'};
@@ -53,11 +53,12 @@ function placeLabel(s,pl,px,py,L,pref,optional){const {w,h}=lines2box(L);let bes
   const base=[[2.4,-h/2],[-2.4-w,-h/2],[-w/2,-h-2.2],[-w/2,2.2],[2.2,-h+0.8],[-2.2-w,-h+0.8],[2.2,-0.8],[-2.2-w,-0.8]];
   if(pref==='left')base.unshift(base.splice(1,1)[0]);
   outer:for(const dist of [0,5,10,16,23,31,40])for(const [dx,dy] of base){const sx=dx>0?dist:dx<-w/2?-dist:0,sy=Math.abs(dx+w/2)<1?(dy<0?-dist:dist):0,x=px+dx+sx,y=py+dy+sy;
-    if(!pl.inb(x,y,w,h))continue;const o=pl.ov(x,y,w,h);if(o===0){best={x,y,o,dist};break outer}if(!best||o<best.o)best={x,y,o,dist}}
+    if(!pl.inb(x,y,w,h))continue;let o=pl.ov(x,y,w,h);if(dist>0&&o===0){const lf=x+w<=px+0.5,tx=lf?x+w:x,ty=Math.min(Math.max(py,y+1),y+h-1);for(let t=0.2;t<0.95;t+=0.1){const qx=px+(tx-px)*t,qy=py+(ty-py)*t;if(pl.boxes.some(q=>qx>q.x&&qx<q.x+q.w&&qy>q.y&&qy<q.y+q.h)){o=0.5;break}}}
+    if(o===0){best={x,y,o,dist};break outer}if(!best||o<best.o)best={x,y,o,dist}}
   if(!best)best={x:px+2.4,y:py-h/2,o:1,dist:0};
   if(optional&&best.o>0)return -1;
   pl.add(best.x,best.y,w,h);const left=best.x+w<=px+0.5;
-  if(best.dist>0){const tx=left?best.x+w:best.x,ty=Math.min(Math.max(py,best.y+1),best.y+h-1);s.line(px,py,tx,ty,'#8d8a83',0.25,{},'lab')}
+  if(best.dist>0){const tx=left?best.x+w:best.x,ty=Math.min(Math.max(py,best.y+1),best.y+h-1);s.line(px,py,tx,ty,'#8d8a83',0.25,{},'st')}
   let y=best.y;L.forEach(l=>{y+=l.fs*1.22;const anc=left?'end':'start';let x=left?best.x+w-0.3:best.x+0.3;
     if(l.stamp){const sw=A0.tw(l.stamp,l.fs,1)+1.6;const bx=left?x-A0.tw(l.t,l.fs,l.b)-sw-0.8:x;s.rect(bx,y-l.fs*0.95,sw,l.fs*1.15,l.sc||'#fff',{stroke:l.sb||C.g2,stroke_width:0.25,rx:0.5},'lab');s.text(bx+0.8,y-0.15,l.stamp,l.fs,{fill:l.stc||C.ink,font_weight:800},'lab');if(!left)x+=sw+0.8}
     s.text(x,y-0.15,l.t,l.fs,Object.assign({text_anchor:anc,fill:l.c||C.ink,font_weight:l.b?800:400,font_style:l.i?'italic':null},HALO),'lab')});
@@ -80,8 +81,8 @@ function routes(s,proj,clip,num,scale){scale=scale||1;ROUTES.forEach(r=>{const p
     s.path(`M${A0.n(mx-ux*1.4-uy*1.1)} ${A0.n(my-uy*1.4+ux*1.1)}L${A0.n(mx)} ${A0.n(my)}L${A0.n(mx-ux*1.4+uy*1.1)} ${A0.n(my-uy*1.4-ux*1.1)}`,r.c,0.5,{clip_path:`url(#${clip})`},'lines')}});
   if(num)EXO.forEach((k,i)=>{const [x,y]=proj(P[k]);s.circ(x,y,1.5,'#fff',{stroke:C.exo,stroke_width:0.45,clip_path:`url(#${clip})`},'st');s.text(x,y+0.75,String(i+1),1.9,{text_anchor:'middle',fill:C.exo,font_weight:800,clip_path:`url(#${clip})`},'st')})}
 function frame(s,rect,title,sub){const [x,y,w,h]=rect;s.rect(x,y,w,h,'none',{stroke:C.g2,stroke_width:0.4},'top');if(title){const tw=A0.tw(title,2.9,1)+3;s.rect(x,y,tw,4.6,'#fbfaf5',{},'top');s.text(x+1.5,y+3.4,title,2.9,{fill:C.ink,font_weight:800},'top')}}
-function scaleBar(s,proj,x,y,lat){const k=1000/(111.32*Math.cos(lat*Math.PI/180)),a=proj([30,lat]),b=proj([30+k,lat]),w=b[0]-a[0];
-  s.rect(x,y,w/2,1.2,C.ink,{},'top');s.rect(x+w/2,y,w/2,1.2,'#fff',{stroke:C.ink,stroke_width:0.25},'top');s.text(x,y+4,'0',2.2,{fill:C.g1},'top');s.text(x+w,y+4,'1,000 km',2.2,{fill:C.g1,text_anchor:'middle'},'top')}
+function scaleBar(s,proj,x,y,lat,km,right){km=km||1000;const k=km/(111.32*Math.cos(lat*Math.PI/180)),a=proj([30,lat]),b=proj([30+k,lat]),w=b[0]-a[0];if(right)x-=w;
+  s.rect(x,y,w/2,1.2,C.ink,{},'top');s.rect(x+w/2,y,w/2,1.2,'#fff',{stroke:C.ink,stroke_width:0.25},'top');s.text(x,y+4,'0',2.2,{fill:C.g1},'top');s.text(x+w,y+4,km.toLocaleString('en-US')+' km',2.2,{fill:C.g1,text_anchor:right?'end':'middle'},'top')}
 function north(s,x,y){s.path(`M${x} ${y-4}L${x+1.6} ${y+1.5}L${x} ${y}L${x-1.6} ${y+1.5}Z`,C.ink,0.3,{fill:C.ink},'top');s.text(x,y-5,'N',2.4,{text_anchor:'middle',fill:C.ink,font_weight:800},'top')}
 // edge callout for places outside a panel
 function edge(s,pl,proj,rect,list,mk){const [x0,y0,w,h]=rect,cx=x0+w/2,cy=y0+h/2,groups={};
@@ -149,7 +150,7 @@ STY.b={name:'Story map',desc:'Every event gets a number in time order. On the ma
     s.text(x+5,y+1.2,e[2],2.3,{fill:C.ink,font_weight:800},'top');s.text(x+5,y+4.4,`${e[3]} · ${nm(e[0])}`.slice(0,Math.floor((cw-6)/1.18)),2.3,{fill:C.g1},'top')});
   for(let c=1;c<cols;c++)s.line(c*cw,sy+2,c*cw,H-2,C.g5,0.3,{},'top');
   return st1.ov+st2.ov}};
-STY.c={name:'Era-coloured names',desc:'Pins and place names are coloured by era. Each label leads with the people who lived the events there; dates sit in one compact line. The Land is shown in a round lens over the desert.',
+STY.c={name:'Era-colored names',desc:'Pins and place names are colored by era. Each label leads with the people who lived the events there; dates sit in one compact line. The Land is shown in a round lens over the desert.',
  draw(s,W,H){const st={sea:'#e6ecee',land:'#f3f0e8',coast:'#b3ad9f'};const R1=[0,6,W,H-6];
   const p1=d3.geoMercator().fitExtent([[R1[0],R1[1]],[R1[0]+R1[2],R1[1]+R1[3]]],{type:'MultiPoint',coordinates:[[-6,22],[60,54.5]]});
   const c1=land(s,p1,'50',R1,st);routes(s,p1,c1,false);const pl=new A0.__P({x:R1[0],y:R1[1],w:R1[2],h:R1[3]});
@@ -179,11 +180,11 @@ STY.d={name:'World + magnified Bible lands',desc:'A small world map shows how fa
   ['USA','EUROPE','INDIA','CHINA'].forEach(g=>{if(!groups[g])return;y+=3.4;s.text(0,y,g,2.3,{fill:'#7a2e1f',font_weight:800},'top');
     groups[g].sort((a,b)=>PLACES[a].evs[0][1]-PLACES[b].evs[0][1]).forEach(k=>{y+=2.95;const t=PLACES[k].evs.map(e=>e[2].replace(/ C\.E\./,'')+' '+e[3]).join('; '),nw=A0.tw(nm(k),2.2,1);s.text(2,y,nm(k),2.2,{fill:C.ink,font_weight:800},'top');s.text(3.2+nw,y,t.slice(0,Math.floor((110-nw)/1.13)),2.2,{fill:C.g1},'top')})});
   let jy=RW[1]+RW[3]+5;const jx=120;s.text(jx,jy,'JOURNEYS',2.8,{fill:C.ink,font_weight:800},'top');
-  ROUTES.forEach(r=>{jy+=5.6;s.line(jx,jy-0.9,jx+5,jy-0.9,r.c,1.1,{stroke_dasharray:r.d},'top');s.text(jx+6.5,jy-0.2,r.name,2.3,{fill:C.ink,font_weight:800},'top');s.text(jx+6.5,jy+2.4,[r.when,r.scr,r.km&&!r.note?'≈ '+r.km.toLocaleString('en-IN')+' km':'',r.note].filter(Boolean).join(' · ').slice(0,92),2.1,{fill:C.g1},'top')});
+  ROUTES.forEach(r=>{jy+=5.6;s.line(jx,jy-0.9,jx+5,jy-0.9,r.c,1.1,{stroke_dasharray:r.d},'top');s.text(jx+6.5,jy-0.2,r.name,2.3,{fill:C.ink,font_weight:800},'top');s.text(jx+6.5,jy+2.4,[r.when,r.scr,r.km&&!r.note?'≈ '+r.km.toLocaleString('en-IN')+' km':'',r.note].filter(Boolean).join(' · ').slice(0,92),2.2,{fill:C.g1},'top')});
   const cb=land(s,pb,'50',RB,st);
-  [['EGYPT',[30.2,27.4]],['CANAAN',[36.4,31.1]],['MESOPOTAMIA',[42.6,34.3]],['ASIA MINOR',[32.5,38.9]],['MACEDONIA',[22.3,41.4]],['ACHAIA',[21.6,37.4]],['ITALY',[15.6,40.6]],['ARABIA',[42,28.4]],['PERSIA',[48.6,33.6]],['ASSYRIA',[44.2,36.9]],['CRETE',[24.9,35.25]]].forEach(([t,c])=>{const p=pb(c);if(inRect(p,RB))s.text(p[0],p[1],t,3.2,{text_anchor:'middle',fill:'#a3977c',font_weight:700,letter_spacing:0.9},'bg')});
-  [['THE GREAT SEA',[19.5,34.2]],['RED SEA',[36.3,27.3]],['PERSIAN GULF',[49.3,28.3]],['BLACK SEA',[34.5,42.4]]].forEach(([t,c])=>{const p=pb(c);if(inRect(p,RB))s.text(p[0],p[1],t,3,{text_anchor:'middle',fill:'#5f8ea3',font_style:'italic',letter_spacing:0.8},'bg')});
-  routes(s,pb,cb,false);const plb=new A0.__P({x:RB[0],y:RB[1]+5,w:RB[2],h:RB[3]-5});
+  const RGN=[];[['EGYPT',[30.2,27.4]],['MESOPOTAMIA',[42.6,34.3]],['ASIA MINOR',[32.5,38.9]],['MACEDONIA',[22.3,41.4]],['ACHAIA',[21.6,37.4]],['ITALY',[15.6,40.6]],['ARABIA',[42,28.4]],['PERSIA',[48.6,33.6]],['ASSYRIA',[44.2,36.9]],['CRETE',[24.9,35.25]]].forEach(([t,c])=>{const p=pb(c);if(inRect(p,RB)){s.text(p[0],p[1],t,3.2,{text_anchor:'middle',fill:'#a3977c',font_weight:700,letter_spacing:0.9},'bg');const w=A0.tw(t,3.2,1)+t.length*0.9;RGN.push([p[0]-w/2,p[1]-2.8,w,3.4])}});
+  [['THE GREAT SEA',[19.5,34.2]],['RED SEA',[36.3,27.3]],['PERSIAN GULF',[49.3,28.3]],['BLACK SEA',[34.5,42.4]]].forEach(([t,c])=>{const p=pb(c);if(inRect(p,RB)){s.text(p[0],p[1],t,3,{text_anchor:'middle',fill:'#5f8ea3',font_style:'italic',letter_spacing:0.8},'bg');const w=A0.tw(t,3,0)+t.length*0.8;RGN.push([p[0]-w/2,p[1]-2.6,w,3.2])}});
+  routes(s,pb,cb,false);const plb=new A0.__P({x:RB[0],y:RB[1]+5,w:RB[2],h:RB[3]-5});RGN.forEach(b=>plb.add(...b));plb.add(RB[0]+RB[2]-40,RB[1]+RB[3]-10,40,10);plb.add(RB[0]+RB[2]-14,RB[1]+5,14,12);
   const LX=[[34.0,30.15],[36.3,33.4]],inL=k=>P[k][0]>=LX[0][0]&&P[k][0]<=LX[1][0]&&P[k][1]>=LX[0][1]&&P[k][1]<=LX[1][1];
   const RI=[RB[0]+3,RB[1]+RB[3]-108,128,105];plb.add(RI[0]-1,RI[1]-1,RI[2]+2,RI[3]+2);
   const lb0=pb([LX[0][0],LX[1][1]]),lb1=pb([LX[1][0],LX[0][1]]);s.rect(lb0[0],lb0[1],lb1[0]-lb0[0],lb1[1]-lb0[1],'none',{stroke:C.ink,stroke_width:0.4},'top');plb.add(lb0[0],lb0[1],lb1[0]-lb0[0],lb1[1]-lb0[1]);
@@ -191,9 +192,9 @@ STY.d={name:'World + magnified Bible lands',desc:'A small world map shows how fa
   const stb=drawPanelPlaces(s,plb,pb,RB,KEYS.filter(k=>inB(k)&&!inL(k)),mkPlain,'dot');
   ['Tarsus','Lystra','Derbe','Iconium','PAntioch','Troas','Thessalonica','Berea','Miletus','Puteoli','Syracuse','Perga','Salamis','Paphos','Rhodes','Sidon','Myra','Riblah','Carchemish','Hamath','Mari'].forEach(k=>{const p=pb(P[k]);if(!inRect(p,RB)||inL(k))return;s.circ(p[0],p[1],0.7,C.g1,{},'st');placeLabel(s,plb,p[0],p[1],[{t:nm(k),fs:2.3,i:1,c:C.g1}],null,true)});
   s.rect(RI[0]-1,RI[1]-1,RI[2]+2,RI[3]+2,'#fff',{},'top');const s2=new A0.SVG();
-  const p2=d3.geoMercator().fitExtent([[RI[0],RI[1]+5],[RI[0]+RI[2],RI[1]+RI[3]]],{type:'MultiPoint',coordinates:LX});const c2=land(s2,p2,'50',RI,st);routes(s2,p2,c2,true,0.4);
+  const p2=d3.geoMercator().fitExtent([[RI[0],RI[1]+5],[RI[0]+RI[2],RI[1]+RI[3]]],{type:'MultiPoint',coordinates:LX});const c2=land(s2,p2,'50',RI,st);routes(s2,p2,c2,false,0.4);
   const pl2=new A0.__P({x:RI[0],y:RI[1]+5,w:RI[2],h:RI[3]-5});const st2=drawPanelPlaces(s2,pl2,p2,RI,KEYS.filter(inL),mkPlain,'dot');frame(s2,RI,'THE LAND');s.raw(s2.out(),'top');
-  frame(s,RW,'THE GOOD NEWS REACHES THE EARTH');frame(s,RB,'THE BIBLE LANDS · magnified');scaleBar(s,pb,RB[0]+RB[2]-60,RB[1]+RB[3]-8,35);north(s,RB[0]+RB[2]-8,RB[1]+12);
+  frame(s,RW,'THE GOOD NEWS REACHES THE EARTH');frame(s,RB,'THE BIBLE LANDS · magnified');scaleBar(s,pb,RB[0]+RB[2]-6,RB[1]+RB[3]-8,35,500,true);north(s,RB[0]+RB[2]-8,RB[1]+12);
   return stb.ov+st2.ov}};
 A0.__P=Placer;
 A0.MAPSTY=STY;
